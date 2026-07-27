@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T09:30:36.063Z",
+  "updatedAt": "2026-07-27T10:12:57.972Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -25,10 +25,15 @@
           "t": "2026-07-27T09:30:36.063Z",
           "gmp": 203,
           "gmpPercent": 41.86
+        },
+        {
+          "t": "2026-07-27T10:12:57.972Z",
+          "gmp": 198,
+          "gmpPercent": 40.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.86,
+      "lastGmpPercent": 40.82,
       "status": "Closing Today"
     },
     "1714": {
@@ -79,10 +84,15 @@
           "t": "2026-07-27T09:30:36.063Z",
           "gmp": 13,
           "gmpPercent": 3.06
+        },
+        {
+          "t": "2026-07-27T10:12:57.972Z",
+          "gmp": 3,
+          "gmpPercent": 0.71
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.06,
+      "lastGmpPercent": 0.71,
       "status": "Closing Today"
     },
     "1916": {
@@ -108,10 +118,15 @@
           "t": "2026-07-27T09:30:36.063Z",
           "gmp": 7,
           "gmpPercent": 5.51
+        },
+        {
+          "t": "2026-07-27T10:12:57.972Z",
+          "gmp": 9,
+          "gmpPercent": 7.09
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.51,
+      "lastGmpPercent": 7.09,
       "status": "Closing Today"
     },
     "1967": {
@@ -251,7 +266,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.23,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2346": {
