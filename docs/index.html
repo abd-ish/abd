@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b1020" />
+    <title>IPO GMP Tracker</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>📈 IPO GMP Tracker</h1>
+      <p class="meta" id="meta">Loading…</p>
+    </header>
+
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-filter="all">All</button>
+      <button class="tab" data-filter="open">Open</button>
+      <button class="tab" data-filter="hot">GMP &gt; 10%</button>
+      <button class="tab" data-filter="mainboard">Mainboard</button>
+      <button class="tab" data-filter="sme">SME</button>
+      <button class="tab" data-filter="upcoming">Upcoming</button>
+      <button class="tab" data-filter="closed">Closed</button>
+    </nav>
+
+    <main id="list" class="list"></main>
+
+    <footer>
+      <p>
+        Data from investorgain.com (unofficial, indicative only). GMP is an
+        unregulated grey-market estimate and is <strong>not</strong> investment
+        advice.
+      </p>
+    </footer>
+
+    <div class="modal" id="modal" hidden>
+      <div class="modal-card">
+        <button class="close" id="modalClose" aria-label="Close">×</button>
+        <h2 id="modalTitle"></h2>
+        <p class="meta" id="modalMeta"></p>
+        <div id="chart"></div>
+        <div id="historyList" class="history-list"></div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

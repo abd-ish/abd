@@ -1,0 +1,15 @@
+# Dependencies (none required, but ignore if you add any)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Local env file for testing notifications (NEVER commit secrets)
+.env
+.env.local
+
+# Temp
+tmp/
+*.tmp

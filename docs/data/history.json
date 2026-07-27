@@ -1,0 +1,273 @@
+{
+  "updatedAt": "2026-07-27T09:30:36.063Z",
+  "ipos": {
+    "1594": {
+      "name": "Indo-MIM",
+      "category": "Mainboard",
+      "close": "2026-07-27",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 190,
+          "gmpPercent": 39.18
+        },
+        {
+          "t": "2026-07-27T07:16:07.665Z",
+          "gmp": 198,
+          "gmpPercent": 40.82
+        },
+        {
+          "t": "2026-07-27T07:27:57.061Z",
+          "gmp": 196,
+          "gmpPercent": 40.41
+        },
+        {
+          "t": "2026-07-27T09:30:36.063Z",
+          "gmp": 203,
+          "gmpPercent": 41.86
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 41.86,
+      "status": "Closing Today"
+    },
+    "1714": {
+      "name": "Advance Technoforge",
+      "category": "SME",
+      "close": "2026-07-29",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 9,
+          "gmpPercent": 9.47
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 9.47,
+      "status": "Open"
+    },
+    "1809": {
+      "name": "Juniper Green Energy",
+      "category": "Mainboard",
+      "close": "2026-08-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1862": {
+      "name": "Lohia Corp",
+      "category": "Mainboard",
+      "close": "2026-07-27",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 7,
+          "gmpPercent": 1.65
+        },
+        {
+          "t": "2026-07-27T07:16:07.665Z",
+          "gmp": 3,
+          "gmpPercent": 0.71
+        },
+        {
+          "t": "2026-07-27T07:27:57.061Z",
+          "gmp": 7,
+          "gmpPercent": 1.65
+        },
+        {
+          "t": "2026-07-27T09:30:36.063Z",
+          "gmp": 13,
+          "gmpPercent": 3.06
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 3.06,
+      "status": "Closing Today"
+    },
+    "1916": {
+      "name": "Oneindig Technologies",
+      "category": "SME",
+      "close": "2026-08-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1951": {
+      "name": "Xtranet Technologies",
+      "category": "Mainboard",
+      "close": "2026-07-27",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 9,
+          "gmpPercent": 7.09
+        },
+        {
+          "t": "2026-07-27T09:30:36.063Z",
+          "gmp": 7,
+          "gmpPercent": 5.51
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 5.51,
+      "status": "Closing Today"
+    },
+    "1967": {
+      "name": "Shree Balaji Mala",
+      "category": "SME",
+      "close": "2026-07-24",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 13,
+          "gmpPercent": 18.57
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 18.57,
+      "status": "Closed"
+    },
+    "1972": {
+      "name": "H.R. Hygiene Products",
+      "category": "SME",
+      "close": "2026-07-31",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 2.27,
+      "status": "Upcoming"
+    },
+    "1990": {
+      "name": "Propshop Events & Exhibitions",
+      "category": "SME",
+      "close": "2026-07-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Open"
+    },
+    "2054": {
+      "name": "MV Electrosystems",
+      "category": "Mainboard",
+      "close": "2026-08-03",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 75,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-07-27T07:16:07.665Z",
+          "gmp": 75,
+          "gmpPercent": 17.65
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 17.65,
+      "status": "Upcoming"
+    },
+    "2078": {
+      "name": "Silverstorm Parks & Resorts",
+      "category": "SME",
+      "close": "2026-07-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Open"
+    },
+    "2087": {
+      "name": "Dhaval Packaging",
+      "category": "SME",
+      "close": "2026-08-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2123": {
+      "name": "Ardee Industries",
+      "category": "Mainboard",
+      "close": "",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2130": {
+      "name": "Fusion Klassroom Edutech",
+      "category": "SME",
+      "close": "2026-08-04",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2215": {
+      "name": "Poojaa Precision Engg.",
+      "category": "SME",
+      "close": "2026-07-30",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 245,
+          "gmpPercent": 81.4
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 81.4,
+      "status": "Upcoming"
+    },
+    "2217": {
+      "name": "Manipal Health Enterprises",
+      "category": "Mainboard",
+      "close": "2026-07-31",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 25,
+          "gmpPercent": 4.24
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 4.24,
+      "status": "Upcoming"
+    },
+    "2246": {
+      "name": "G.V. Electricals",
+      "category": "SME",
+      "close": "2026-08-04",
+      "series": [
+        {
+          "t": "2026-07-27T09:30:36.063Z",
+          "gmp": 12,
+          "gmpPercent": 9.23
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 9.23,
+      "status": "Upcoming"
+    },
+    "2346": {
+      "name": "Cube Highways Trust InvIT",
+      "category": "Mainboard",
+      "close": "2026-07-24",
+      "series": [
+        {
+          "t": "2026-07-27T06:59:05.878Z",
+          "gmp": 1,
+          "gmpPercent": 1.15
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 1.15,
+      "status": "Closed"
+    }
+  }
+}

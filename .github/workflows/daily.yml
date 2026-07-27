@@ -1,0 +1,76 @@
+name: IPO GMP tracker
+
+on:
+  schedule:
+    # Times are UTC. India is UTC+5:30.
+    - cron: "30 0 * * *" # 06:00 IST — morning digest
+    - cron: "0 3,6,9 * * *" # 08:30 / 11:30 / 14:30 IST — intraday crossing alerts
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: false
+        default: digest
+        type: choice
+        options:
+          - digest
+          - watch
+
+# Prevent overlapping runs from racing on the data commit.
+concurrency:
+  group: gmp-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Determine run mode
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "30 0 * * *" ]; then
+            echo "mode=digest" >> "$GITHUB_OUTPUT"
+          elif [ -n "${{ github.event.schedule }}" ]; then
+            echo "mode=watch" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=${{ github.event.inputs.mode || 'digest' }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch GMP, update data and notify
+        env:
+          RUN_MODE: ${{ steps.mode.outputs.mode }}
+          GMP_THRESHOLD: ${{ vars.GMP_THRESHOLD || '10' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WHATSAPP_TOKEN: ${{ secrets.WHATSAPP_TOKEN }}
+          WHATSAPP_PHONE_NUMBER_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WHATSAPP_TO: ${{ secrets.WHATSAPP_TO }}
+          WHATSAPP_TEMPLATE: ${{ secrets.WHATSAPP_TEMPLATE }}
+          WHATSAPP_TEMPLATE_LANG: ${{ vars.WHATSAPP_TEMPLATE_LANG || 'en_US' }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          GREENAPI_ID_INSTANCE: ${{ secrets.GREENAPI_ID_INSTANCE }}
+          GREENAPI_TOKEN: ${{ secrets.GREENAPI_TOKEN }}
+          GREENAPI_TO: ${{ secrets.GREENAPI_TO }}
+        run: node scripts/run.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ipos.json docs/data/history.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: update IPO GMP data [skip ci]"
+            git push
+          fi
