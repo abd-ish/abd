@@ -130,10 +130,11 @@ header h1 {
   color: var(--green);
   border-color: rgba(41, 208, 127, 0.4);
 }
-.badge.status-Closing.Today,
-.badge.status-closingtoday {
-  color: var(--red);
-  border-color: rgba(255, 92, 108, 0.4);
+.badge.status-ClosingToday {
+  color: #fff;
+  background: var(--red);
+  border-color: var(--red);
+  font-weight: 700;
 }
 .badge.status-Upcoming {
   color: var(--amber);
