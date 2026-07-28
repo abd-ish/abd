@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:46:09.596Z",
+  "updatedAt": "2026-07-28T08:33:06.992Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -35,10 +35,15 @@
           "t": "2026-07-28T03:47:25.035Z",
           "gmp": 190,
           "gmpPercent": 39.18
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 192,
+          "gmpPercent": 39.59
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.18,
+      "lastGmpPercent": 39.59,
       "status": "Closed"
     },
     "1714": {
@@ -65,9 +70,15 @@
       "name": "Juniper Green Energy",
       "category": "Mainboard",
       "close": "2026-08-03",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 24,
+          "gmpPercent": 10.67
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 10.67,
       "status": "Upcoming"
     },
     "1862": {
@@ -109,10 +120,15 @@
           "t": "2026-07-28T05:46:09.596Z",
           "gmp": 15,
           "gmpPercent": 3.65
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 19,
+          "gmpPercent": 4.59
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.65,
+      "lastGmpPercent": 4.59,
       "status": "Closed"
     },
     "1916": {
@@ -153,10 +169,15 @@
           "t": "2026-07-28T05:46:09.596Z",
           "gmp": 7,
           "gmpPercent": 5.91
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 8,
+          "gmpPercent": 6.3
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.91,
+      "lastGmpPercent": 6.3,
       "status": "Closed"
     },
     "1972": {
@@ -212,10 +233,15 @@
           "t": "2026-07-28T05:46:09.596Z",
           "gmp": 104,
           "gmpPercent": 24.47
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 106,
+          "gmpPercent": 24.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.47,
+      "lastGmpPercent": 24.94,
       "status": "Upcoming"
     },
     "2078": {
@@ -231,9 +257,15 @@
       "name": "Dhaval Packaging",
       "category": "SME",
       "close": "2026-08-03",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 5,
+          "gmpPercent": 5.15
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5.15,
       "status": "Upcoming"
     },
     "2123": {
@@ -268,10 +300,15 @@
           "t": "2026-07-28T03:47:25.035Z",
           "gmp": 260,
           "gmpPercent": 86.38
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 285,
+          "gmpPercent": 94.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 86.38,
+      "lastGmpPercent": 94.68,
       "status": "Open"
     },
     "2217": {
@@ -288,10 +325,15 @@
           "t": "2026-07-28T03:47:25.035Z",
           "gmp": 13,
           "gmpPercent": 2.2
+        },
+        {
+          "t": "2026-07-28T08:33:06.992Z",
+          "gmp": 9,
+          "gmpPercent": 1.53
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.2,
+      "lastGmpPercent": 1.53,
       "status": "Upcoming"
     },
     "2246": {
