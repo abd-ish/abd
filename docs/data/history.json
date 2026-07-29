@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T05:52:07.406Z",
+  "updatedAt": "2026-07-29T08:39:52.382Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -50,10 +50,15 @@
           "t": "2026-07-29T05:52:07.406Z",
           "gmp": 175,
           "gmpPercent": 36.08
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 169,
+          "gmpPercent": 34.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.08,
+      "lastGmpPercent": 34.85,
       "status": "Closed"
     },
     "1714": {
@@ -75,10 +80,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 8,
           "gmpPercent": 8.42
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 1,
+          "gmpPercent": 1.05
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.42,
+      "lastGmpPercent": 1.05,
       "status": "Closing Today"
     },
     "1809": {
@@ -100,10 +110,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 17,
           "gmpPercent": 7.56
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 15,
+          "gmpPercent": 6.89
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.56,
+      "lastGmpPercent": 6.89,
       "status": "Upcoming"
     },
     "1862": {
@@ -165,10 +180,15 @@
           "t": "2026-07-29T05:52:07.406Z",
           "gmp": 21,
           "gmpPercent": 5.06
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 19,
+          "gmpPercent": 4.47
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.06,
+      "lastGmpPercent": 4.47,
       "status": "Closed"
     },
     "1895": {
@@ -180,10 +200,15 @@
           "t": "2026-07-29T05:52:07.406Z",
           "gmp": 30,
           "gmpPercent": 11.11
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 40,
+          "gmpPercent": 14.81
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.11,
+      "lastGmpPercent": 14.81,
       "status": "Upcoming"
     },
     "1916": {
@@ -244,10 +269,15 @@
           "t": "2026-07-29T05:52:07.406Z",
           "gmp": 11,
           "gmpPercent": 9.06
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 10,
+          "gmpPercent": 8.27
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.06,
+      "lastGmpPercent": 8.27,
       "status": "Closed"
     },
     "1972": {
@@ -376,9 +406,15 @@
       "name": "Ardee Industries",
       "category": "Mainboard",
       "close": "2026-08-07",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 6,
+          "gmpPercent": 11.32
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 11.32,
       "status": "Upcoming"
     },
     "2130": {
@@ -419,10 +455,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 300,
           "gmpPercent": 99.67
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 275,
+          "gmpPercent": 91.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 99.67,
+      "lastGmpPercent": 91.36,
       "status": "Open"
     },
     "2217": {
@@ -454,10 +495,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 10,
           "gmpPercent": 1.69
+        },
+        {
+          "t": "2026-07-29T08:39:52.382Z",
+          "gmp": 9,
+          "gmpPercent": 1.53
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.69,
+      "lastGmpPercent": 1.53,
       "status": "Open"
     },
     "2246": {
