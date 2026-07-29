@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T11:16:57.785Z",
+  "updatedAt": "2026-07-29T03:50:29.354Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -40,10 +40,15 @@
           "t": "2026-07-28T08:33:06.992Z",
           "gmp": 192,
           "gmpPercent": 39.59
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 180,
+          "gmpPercent": 37.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.59,
+      "lastGmpPercent": 37.11,
       "status": "Closed"
     },
     "1714": {
@@ -60,11 +65,16 @@
           "t": "2026-07-28T03:47:25.035Z",
           "gmp": 9,
           "gmpPercent": 9.47
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 8,
+          "gmpPercent": 8.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.47,
-      "status": "Open"
+      "lastGmpPercent": 8.42,
+      "status": "Closing Today"
     },
     "1809": {
       "name": "Juniper Green Energy",
@@ -80,10 +90,15 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 21,
           "gmpPercent": 9.33
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 17,
+          "gmpPercent": 7.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.33,
+      "lastGmpPercent": 7.56,
       "status": "Upcoming"
     },
     "1862": {
@@ -135,10 +150,15 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 19,
           "gmpPercent": 4.47
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 17,
+          "gmpPercent": 4.12
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.47,
+      "lastGmpPercent": 4.12,
       "status": "Closed"
     },
     "1916": {
@@ -189,10 +209,15 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 9,
           "gmpPercent": 7.48
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 12,
+          "gmpPercent": 9.84
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.48,
+      "lastGmpPercent": 9.84,
       "status": "Closed"
     },
     "1972": {
@@ -209,11 +234,16 @@
           "t": "2026-07-28T03:47:25.035Z",
           "gmp": 2,
           "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.27,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1990": {
       "name": "Propshop Events & Exhibitions",
@@ -222,7 +252,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2054": {
       "name": "MV Electrosystems",
@@ -258,10 +288,15 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 110,
           "gmpPercent": 25.88
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 106,
+          "gmpPercent": 24.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.88,
+      "lastGmpPercent": 24.94,
       "status": "Upcoming"
     },
     "2078": {
@@ -271,7 +306,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -287,16 +322,30 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 7,
           "gmpPercent": 7.22
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 8,
+          "gmpPercent": 8.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.22,
+      "lastGmpPercent": 8.25,
+      "status": "Upcoming"
+    },
+    "2089": {
+      "name": "Aegeus Technologies",
+      "category": "SME",
+      "close": "2026-08-06",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2123": {
       "name": "Ardee Industries",
       "category": "Mainboard",
-      "close": "",
+      "close": "2026-08-07",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -335,6 +384,11 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 300,
           "gmpPercent": 99.67
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 300,
+          "gmpPercent": 99.67
         }
       ],
       "alertedAbove": true,
@@ -365,11 +419,16 @@
           "t": "2026-07-28T11:16:57.785Z",
           "gmp": 10,
           "gmpPercent": 1.69
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 10,
+          "gmpPercent": 1.69
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.69,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2246": {
       "name": "G.V. Electricals",
@@ -388,6 +447,11 @@
         },
         {
           "t": "2026-07-28T11:16:57.785Z",
+          "gmp": 22,
+          "gmpPercent": 16.92
+        },
+        {
+          "t": "2026-07-29T03:50:29.354Z",
           "gmp": 22,
           "gmpPercent": 16.92
         }
