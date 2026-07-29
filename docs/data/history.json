@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T03:50:29.354Z",
+  "updatedAt": "2026-07-29T05:52:07.406Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -45,10 +45,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 180,
           "gmpPercent": 37.11
+        },
+        {
+          "t": "2026-07-29T05:52:07.406Z",
+          "gmp": 175,
+          "gmpPercent": 36.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.11,
+      "lastGmpPercent": 36.08,
       "status": "Closed"
     },
     "1714": {
@@ -155,11 +160,31 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 17,
           "gmpPercent": 4.12
+        },
+        {
+          "t": "2026-07-29T05:52:07.406Z",
+          "gmp": 21,
+          "gmpPercent": 5.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.12,
+      "lastGmpPercent": 5.06,
       "status": "Closed"
+    },
+    "1895": {
+      "name": "Anawil Wire & Engineering",
+      "category": "SME",
+      "close": "2026-08-05",
+      "series": [
+        {
+          "t": "2026-07-29T05:52:07.406Z",
+          "gmp": 30,
+          "gmpPercent": 11.11
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 11.11,
+      "status": "Upcoming"
     },
     "1916": {
       "name": "Oneindig Technologies",
@@ -214,10 +239,15 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 12,
           "gmpPercent": 9.84
+        },
+        {
+          "t": "2026-07-29T05:52:07.406Z",
+          "gmp": 11,
+          "gmpPercent": 9.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.84,
+      "lastGmpPercent": 9.06,
       "status": "Closed"
     },
     "1972": {
