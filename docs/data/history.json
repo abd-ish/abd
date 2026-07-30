@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T05:41:04.963Z",
+  "updatedAt": "2026-07-30T08:25:42.828Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -520,10 +520,15 @@
           "t": "2026-07-30T05:41:04.963Z",
           "gmp": 190,
           "gmpPercent": 63.12
+        },
+        {
+          "t": "2026-07-30T08:25:42.828Z",
+          "gmp": 120,
+          "gmpPercent": 39.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 63.12,
+      "lastGmpPercent": 39.87,
       "status": "Closing Today"
     },
     "2217": {
@@ -565,10 +570,15 @@
           "t": "2026-07-30T03:41:56.906Z",
           "gmp": 9,
           "gmpPercent": 1.53
+        },
+        {
+          "t": "2026-07-30T08:25:42.828Z",
+          "gmp": 7,
+          "gmpPercent": 1.19
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.53,
+      "lastGmpPercent": 1.19,
       "status": "Open"
     },
     "2246": {
