@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:25:50.758Z",
+  "updatedAt": "2026-07-30T03:41:56.906Z",
   "ipos": {
     "1594": {
       "name": "Indo-MIM",
@@ -55,11 +55,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 169,
           "gmpPercent": 34.85
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 184,
+          "gmpPercent": 37.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.85,
-      "status": "Closed"
+      "lastGmpPercent": 37.94,
+      "status": "Listed"
     },
     "1714": {
       "name": "Advance Technoforge",
@@ -85,11 +90,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 1,
           "gmpPercent": 1.05
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 8,
+          "gmpPercent": 8.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.05,
-      "status": "Closing Today"
+      "lastGmpPercent": 8.42,
+      "status": "Closed"
     },
     "1809": {
       "name": "Juniper Green Energy",
@@ -115,11 +125,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 15,
           "gmpPercent": 6.89
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 17,
+          "gmpPercent": 7.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.89,
-      "status": "Upcoming"
+      "lastGmpPercent": 7.56,
+      "status": "Open"
     },
     "1862": {
       "name": "Lohia Corp",
@@ -185,11 +200,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 19,
           "gmpPercent": 4.47
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 17,
+          "gmpPercent": 4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.47,
-      "status": "Closed"
+      "lastGmpPercent": 4,
+      "status": "Listed"
     },
     "1895": {
       "name": "Anawil Wire & Engineering",
@@ -205,10 +225,15 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 40,
           "gmpPercent": 14.81
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 60,
+          "gmpPercent": 22.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.81,
+      "lastGmpPercent": 22.22,
       "status": "Upcoming"
     },
     "1916": {
@@ -218,7 +243,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1951": {
       "name": "Xtranet Technologies",
@@ -274,11 +299,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 10,
           "gmpPercent": 8.27
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 14,
+          "gmpPercent": 11.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.27,
-      "status": "Closed"
+      "lastGmpPercent": 11.42,
+      "status": "Listed"
     },
     "1972": {
       "name": "H.R. Hygiene Products",
@@ -299,6 +329,11 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 2,
           "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
         }
       ],
       "alertedAbove": false,
@@ -312,7 +347,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2054": {
       "name": "MV Electrosystems",
@@ -353,11 +388,16 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 106,
           "gmpPercent": 24.94
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 100,
+          "gmpPercent": 23.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.94,
-      "status": "Upcoming"
+      "lastGmpPercent": 23.53,
+      "status": "Open"
     },
     "2078": {
       "name": "Silverstorm Parks & Resorts",
@@ -387,11 +427,16 @@
           "t": "2026-07-29T03:50:29.354Z",
           "gmp": 8,
           "gmpPercent": 8.25
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 12,
+          "gmpPercent": 12.37
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.25,
-      "status": "Upcoming"
+      "alertedAbove": true,
+      "lastGmpPercent": 12.37,
+      "status": "Open"
     },
     "2089": {
       "name": "Aegeus Technologies",
@@ -411,10 +456,15 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 6,
           "gmpPercent": 11.32
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 13,
+          "gmpPercent": 24.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.32,
+      "lastGmpPercent": 24.53,
       "status": "Upcoming"
     },
     "2130": {
@@ -460,11 +510,16 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 275,
           "gmpPercent": 91.36
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 225,
+          "gmpPercent": 74.75
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 91.36,
-      "status": "Open"
+      "lastGmpPercent": 74.75,
+      "status": "Closing Today"
     },
     "2217": {
       "name": "Manipal Health Enterprises",
@@ -500,6 +555,11 @@
           "t": "2026-07-29T08:39:52.382Z",
           "gmp": 9,
           "gmpPercent": 1.53
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
+          "gmp": 9,
+          "gmpPercent": 1.53
         }
       ],
       "alertedAbove": false,
@@ -528,6 +588,11 @@
         },
         {
           "t": "2026-07-29T03:50:29.354Z",
+          "gmp": 22,
+          "gmpPercent": 16.92
+        },
+        {
+          "t": "2026-07-30T03:41:56.906Z",
           "gmp": 22,
           "gmpPercent": 16.92
         }
