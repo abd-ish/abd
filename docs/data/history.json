@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:01:21.257Z",
+  "updatedAt": "2026-07-31T06:13:33.954Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -94,10 +94,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 8,
           "gmpPercent": 3.56
+        },
+        {
+          "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 7,
+          "gmpPercent": 3.11
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.56,
+      "lastGmpPercent": 3.11,
       "status": "Open"
     },
     "1895": {
@@ -129,10 +134,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 70,
           "gmpPercent": 25.93
+        },
+        {
+          "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 65,
+          "gmpPercent": 24.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.93,
+      "lastGmpPercent": 24.07,
       "status": "Upcoming"
     },
     "1916": {
@@ -242,10 +252,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 125,
           "gmpPercent": 29.41
+        },
+        {
+          "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 135,
+          "gmpPercent": 31.76
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.41,
+      "lastGmpPercent": 31.76,
       "status": "Open"
     },
     "2078": {
@@ -297,10 +312,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 15,
           "gmpPercent": 15.46
+        },
+        {
+          "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 12,
+          "gmpPercent": 12.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.46,
+      "lastGmpPercent": 12.37,
       "status": "Open"
     },
     "2089": {
@@ -476,10 +496,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 6,
           "gmpPercent": 1.02
+        },
+        {
+          "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 4,
+          "gmpPercent": 0.68
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.02,
+      "lastGmpPercent": 0.68,
       "status": "Closing Today"
     },
     "2246": {
