@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-07-31T06:13:33.954Z",
+  "updatedAt": "2026-07-31T11:29:01.527Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
       "category": "SME",
       "close": "2026-08-10",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 7,
+          "gmpPercent": 7.45
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.45,
       "status": "Upcoming"
     },
     "1714": {
@@ -99,11 +105,25 @@
           "t": "2026-07-31T06:13:33.954Z",
           "gmp": 7,
           "gmpPercent": 3.11
+        },
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 5,
+          "gmpPercent": 2.44
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.11,
+      "lastGmpPercent": 2.44,
       "status": "Open"
+    },
+    "1854": {
+      "name": "Technocraft Ventures",
+      "category": "Mainboard",
+      "close": "2026-08-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1895": {
       "name": "Anawil Wire & Engineering",
@@ -198,6 +218,15 @@
       "lastGmpPercent": null,
       "status": "Closed"
     },
+    "2012": {
+      "name": "Optimystix Entertainment",
+      "category": "SME",
+      "close": "2026-08-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2054": {
       "name": "MV Electrosystems",
       "category": "Mainboard",
@@ -257,10 +286,15 @@
           "t": "2026-07-31T06:13:33.954Z",
           "gmp": 135,
           "gmpPercent": 31.76
+        },
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 133,
+          "gmpPercent": 31.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.76,
+      "lastGmpPercent": 31.29,
       "status": "Open"
     },
     "2078": {
@@ -356,10 +390,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 13,
           "gmpPercent": 24.53
+        },
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 10,
+          "gmpPercent": 18.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.53,
+      "lastGmpPercent": 18.87,
       "status": "Upcoming"
     },
     "2130": {
@@ -371,10 +410,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 9,
           "gmpPercent": 5.66
+        },
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 7,
+          "gmpPercent": 4.4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.66,
+      "lastGmpPercent": 4.4,
       "status": "Open"
     },
     "2215": {
@@ -501,10 +545,15 @@
           "t": "2026-07-31T06:13:33.954Z",
           "gmp": 4,
           "gmpPercent": 0.68
+        },
+        {
+          "t": "2026-07-31T11:29:01.527Z",
+          "gmp": 3,
+          "gmpPercent": 0.51
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.68,
+      "lastGmpPercent": 0.51,
       "status": "Closing Today"
     },
     "2246": {
