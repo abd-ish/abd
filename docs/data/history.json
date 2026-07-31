@@ -1,70 +1,14 @@
 {
-  "updatedAt": "2026-07-30T11:07:45.591Z",
+  "updatedAt": "2026-07-31T04:01:21.257Z",
   "ipos": {
-    "1594": {
-      "name": "Indo-MIM",
-      "category": "Mainboard",
-      "close": "2026-07-27",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 190,
-          "gmpPercent": 39.18
-        },
-        {
-          "t": "2026-07-27T07:16:07.665Z",
-          "gmp": 198,
-          "gmpPercent": 40.82
-        },
-        {
-          "t": "2026-07-27T07:27:57.061Z",
-          "gmp": 196,
-          "gmpPercent": 40.41
-        },
-        {
-          "t": "2026-07-27T09:30:36.063Z",
-          "gmp": 203,
-          "gmpPercent": 41.86
-        },
-        {
-          "t": "2026-07-27T10:12:57.972Z",
-          "gmp": 198,
-          "gmpPercent": 40.82
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 190,
-          "gmpPercent": 39.18
-        },
-        {
-          "t": "2026-07-28T08:33:06.992Z",
-          "gmp": 192,
-          "gmpPercent": 39.59
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 180,
-          "gmpPercent": 37.11
-        },
-        {
-          "t": "2026-07-29T05:52:07.406Z",
-          "gmp": 175,
-          "gmpPercent": 36.08
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 169,
-          "gmpPercent": 34.85
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 184,
-          "gmpPercent": 37.94
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 37.94,
-      "status": "Listed"
+    "1713": {
+      "name": "LAPL Automotive",
+      "category": "SME",
+      "close": "2026-08-10",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1714": {
       "name": "Advance Technoforge",
@@ -100,10 +44,15 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 14,
           "gmpPercent": 14.74
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 5,
+          "gmpPercent": 5.26
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 14.74,
+      "lastGmpPercent": 5.26,
       "status": "Closed"
     },
     "1809": {
@@ -140,86 +89,16 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 9,
           "gmpPercent": 4
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 8,
+          "gmpPercent": 3.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4,
+      "lastGmpPercent": 3.56,
       "status": "Open"
-    },
-    "1862": {
-      "name": "Lohia Corp",
-      "category": "Mainboard",
-      "close": "2026-07-27",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 7,
-          "gmpPercent": 1.65
-        },
-        {
-          "t": "2026-07-27T07:16:07.665Z",
-          "gmp": 3,
-          "gmpPercent": 0.71
-        },
-        {
-          "t": "2026-07-27T07:27:57.061Z",
-          "gmp": 7,
-          "gmpPercent": 1.65
-        },
-        {
-          "t": "2026-07-27T09:30:36.063Z",
-          "gmp": 13,
-          "gmpPercent": 3.06
-        },
-        {
-          "t": "2026-07-27T10:12:57.972Z",
-          "gmp": 3,
-          "gmpPercent": 0.71
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 11,
-          "gmpPercent": 2.71
-        },
-        {
-          "t": "2026-07-28T05:46:09.596Z",
-          "gmp": 15,
-          "gmpPercent": 3.65
-        },
-        {
-          "t": "2026-07-28T08:33:06.992Z",
-          "gmp": 19,
-          "gmpPercent": 4.59
-        },
-        {
-          "t": "2026-07-28T11:16:57.785Z",
-          "gmp": 19,
-          "gmpPercent": 4.47
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 17,
-          "gmpPercent": 4.12
-        },
-        {
-          "t": "2026-07-29T05:52:07.406Z",
-          "gmp": 21,
-          "gmpPercent": 5.06
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 19,
-          "gmpPercent": 4.47
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 17,
-          "gmpPercent": 4
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4,
-      "status": "Listed"
     },
     "1895": {
       "name": "Anawil Wire & Engineering",
@@ -245,6 +124,11 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 70,
           "gmpPercent": 25.93
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 70,
+          "gmpPercent": 25.93
         }
       ],
       "alertedAbove": true,
@@ -259,71 +143,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Open"
-    },
-    "1951": {
-      "name": "Xtranet Technologies",
-      "category": "Mainboard",
-      "close": "2026-07-27",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 9,
-          "gmpPercent": 7.09
-        },
-        {
-          "t": "2026-07-27T09:30:36.063Z",
-          "gmp": 7,
-          "gmpPercent": 5.51
-        },
-        {
-          "t": "2026-07-27T10:12:57.972Z",
-          "gmp": 9,
-          "gmpPercent": 7.09
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 7,
-          "gmpPercent": 6.06
-        },
-        {
-          "t": "2026-07-28T05:46:09.596Z",
-          "gmp": 7,
-          "gmpPercent": 5.91
-        },
-        {
-          "t": "2026-07-28T08:33:06.992Z",
-          "gmp": 8,
-          "gmpPercent": 6.3
-        },
-        {
-          "t": "2026-07-28T11:16:57.785Z",
-          "gmp": 9,
-          "gmpPercent": 7.48
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 12,
-          "gmpPercent": 9.84
-        },
-        {
-          "t": "2026-07-29T05:52:07.406Z",
-          "gmp": 11,
-          "gmpPercent": 9.06
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 10,
-          "gmpPercent": 8.27
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 14,
-          "gmpPercent": 11.42
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 11.42,
-      "status": "Listed"
     },
     "1972": {
       "name": "H.R. Hygiene Products",
@@ -349,11 +168,16 @@
           "t": "2026-07-30T03:41:56.906Z",
           "gmp": 2,
           "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.27,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1990": {
       "name": "Propshop Events & Exhibitions",
@@ -413,20 +237,31 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 116,
           "gmpPercent": 27.29
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 125,
+          "gmpPercent": 29.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.29,
+      "lastGmpPercent": 29.41,
       "status": "Open"
     },
     "2078": {
       "name": "Silverstorm Parks & Resorts",
       "category": "SME",
       "close": "2026-07-28",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 5,
+          "gmpPercent": 3.76
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
+      "lastGmpPercent": 3.76,
+      "status": "Listed"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -457,10 +292,15 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 13,
           "gmpPercent": 13.4
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 15,
+          "gmpPercent": 15.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.4,
+      "lastGmpPercent": 15.46,
       "status": "Open"
     },
     "2089": {
@@ -491,20 +331,31 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 10,
           "gmpPercent": 18.87
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 13,
+          "gmpPercent": 24.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.87,
+      "lastGmpPercent": 24.53,
       "status": "Upcoming"
     },
     "2130": {
       "name": "Fusion Klassroom Edutech",
       "category": "SME",
       "close": "2026-08-04",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 9,
+          "gmpPercent": 5.66
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Upcoming"
+      "lastGmpPercent": 5.66,
+      "status": "Open"
     },
     "2215": {
       "name": "Poojaa Precision Engg.",
@@ -560,11 +411,16 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 200,
           "gmpPercent": 66.45
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 225,
+          "gmpPercent": 74.75
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 66.45,
-      "status": "Closing Today"
+      "lastGmpPercent": 74.75,
+      "status": "Closed"
     },
     "2217": {
       "name": "Manipal Health Enterprises",
@@ -615,11 +471,16 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 5,
           "gmpPercent": 0.85
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 6,
+          "gmpPercent": 1.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.85,
-      "status": "Open"
+      "lastGmpPercent": 1.02,
+      "status": "Closing Today"
     },
     "2246": {
       "name": "G.V. Electricals",
@@ -655,11 +516,16 @@
           "t": "2026-07-30T11:07:45.591Z",
           "gmp": 25,
           "gmpPercent": 19.23
+        },
+        {
+          "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 25,
+          "gmpPercent": 19.23
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 19.23,
-      "status": "Upcoming"
+      "status": "Open"
     }
   }
 }
