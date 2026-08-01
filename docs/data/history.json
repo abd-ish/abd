@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T11:29:01.527Z",
+  "updatedAt": "2026-08-01T04:01:58.762Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -10,10 +10,15 @@
           "t": "2026-07-31T11:29:01.527Z",
           "gmp": 7,
           "gmpPercent": 7.45
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 22,
+          "gmpPercent": 23.4
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.45,
+      "alertedAbove": true,
+      "lastGmpPercent": 23.4,
       "status": "Upcoming"
     },
     "1714": {
@@ -55,10 +60,15 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 5,
           "gmpPercent": 5.26
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 3,
+          "gmpPercent": 3.16
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.26,
+      "lastGmpPercent": 3.16,
       "status": "Closed"
     },
     "1809": {
@@ -110,10 +120,15 @@
           "t": "2026-07-31T11:29:01.527Z",
           "gmp": 5,
           "gmpPercent": 2.44
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 3,
+          "gmpPercent": 1.33
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.44,
+      "lastGmpPercent": 1.33,
       "status": "Open"
     },
     "1854": {
@@ -159,10 +174,15 @@
           "t": "2026-07-31T06:13:33.954Z",
           "gmp": 65,
           "gmpPercent": 24.07
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 80,
+          "gmpPercent": 29.63
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.07,
+      "lastGmpPercent": 29.63,
       "status": "Upcoming"
     },
     "1916": {
@@ -203,11 +223,16 @@
           "t": "2026-07-31T04:01:21.257Z",
           "gmp": 2,
           "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.27,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1990": {
       "name": "Propshop Events & Exhibitions",
@@ -291,26 +316,16 @@
           "t": "2026-07-31T11:29:01.527Z",
           "gmp": 133,
           "gmpPercent": 31.29
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 133,
+          "gmpPercent": 31.29
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 31.29,
       "status": "Open"
-    },
-    "2078": {
-      "name": "Silverstorm Parks & Resorts",
-      "category": "SME",
-      "close": "2026-07-28",
-      "series": [
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 5,
-          "gmpPercent": 3.76
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.76,
-      "status": "Listed"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -349,6 +364,11 @@
         },
         {
           "t": "2026-07-31T06:13:33.954Z",
+          "gmp": 12,
+          "gmpPercent": 12.37
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
           "gmp": 12,
           "gmpPercent": 12.37
         }
@@ -395,10 +415,15 @@
           "t": "2026-07-31T11:29:01.527Z",
           "gmp": 10,
           "gmpPercent": 18.87
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 6,
+          "gmpPercent": 12.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.87,
+      "lastGmpPercent": 12.26,
       "status": "Upcoming"
     },
     "2130": {
@@ -415,10 +440,15 @@
           "t": "2026-07-31T11:29:01.527Z",
           "gmp": 7,
           "gmpPercent": 4.4
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 4,
+          "gmpPercent": 2.52
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.4,
+      "lastGmpPercent": 2.52,
       "status": "Open"
     },
     "2215": {
@@ -478,6 +508,11 @@
         },
         {
           "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 225,
+          "gmpPercent": 74.75
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
           "gmp": 225,
           "gmpPercent": 74.75
         }
@@ -553,8 +588,8 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.51,
-      "status": "Closing Today"
+      "lastGmpPercent": null,
+      "status": "Closed"
     },
     "2246": {
       "name": "G.V. Electricals",
@@ -593,6 +628,11 @@
         },
         {
           "t": "2026-07-31T04:01:21.257Z",
+          "gmp": 25,
+          "gmpPercent": 19.23
+        },
+        {
+          "t": "2026-08-01T04:01:58.762Z",
           "gmp": 25,
           "gmpPercent": 19.23
         }
