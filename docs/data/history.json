@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T05:54:34.610Z",
+  "updatedAt": "2026-08-01T08:20:02.221Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -15,10 +15,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 22,
           "gmpPercent": 23.4
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 25,
+          "gmpPercent": 26.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.4,
+      "lastGmpPercent": 26.6,
       "status": "Upcoming"
     },
     "1714": {
@@ -130,10 +135,15 @@
           "t": "2026-08-01T05:54:34.610Z",
           "gmp": 2,
           "gmpPercent": 1.11
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 2,
+          "gmpPercent": 0.89
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.11,
+      "lastGmpPercent": 0.89,
       "status": "Open"
     },
     "1854": {
@@ -184,10 +194,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 80,
           "gmpPercent": 29.63
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 90,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.63,
+      "lastGmpPercent": 33.33,
       "status": "Upcoming"
     },
     "1916": {
@@ -326,10 +341,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 133,
           "gmpPercent": 31.29
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 118,
+          "gmpPercent": 27.76
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.29,
+      "lastGmpPercent": 27.76,
       "status": "Open"
     },
     "2087": {
@@ -425,10 +445,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 6,
           "gmpPercent": 12.26
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 7,
+          "gmpPercent": 14.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.26,
+      "lastGmpPercent": 14.15,
       "status": "Upcoming"
     },
     "2130": {
@@ -520,10 +545,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 225,
           "gmpPercent": 74.75
+        },
+        {
+          "t": "2026-08-01T08:20:02.221Z",
+          "gmp": 215,
+          "gmpPercent": 71.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 74.75,
+      "lastGmpPercent": 71.43,
       "status": "Closed"
     },
     "2217": {
