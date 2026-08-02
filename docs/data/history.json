@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T10:39:49.798Z",
+  "updatedAt": "2026-08-02T04:04:26.861Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -20,61 +20,16 @@
           "t": "2026-08-01T08:20:02.221Z",
           "gmp": 25,
           "gmpPercent": 26.6
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 25,
+          "gmpPercent": 26.6
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 26.6,
       "status": "Upcoming"
-    },
-    "1714": {
-      "name": "Advance Technoforge",
-      "category": "SME",
-      "close": "2026-07-29",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 9,
-          "gmpPercent": 9.47
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 9,
-          "gmpPercent": 9.47
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 8,
-          "gmpPercent": 8.42
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 1,
-          "gmpPercent": 1.05
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 8,
-          "gmpPercent": 8.42
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 14,
-          "gmpPercent": 14.74
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 5,
-          "gmpPercent": 5.26
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 3,
-          "gmpPercent": 3.16
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.16,
-      "status": "Closed"
     },
     "1809": {
       "name": "Juniper Green Energy",
@@ -140,10 +95,15 @@
           "t": "2026-08-01T08:20:02.221Z",
           "gmp": 2,
           "gmpPercent": 0.89
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 1,
+          "gmpPercent": 0.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.89,
+      "lastGmpPercent": 0.67,
       "status": "Open"
     },
     "1854": {
@@ -199,6 +159,11 @@
           "t": "2026-08-01T08:20:02.221Z",
           "gmp": 90,
           "gmpPercent": 33.33
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 90,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
@@ -248,19 +213,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 2,
           "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.27,
-      "status": "Closed"
-    },
-    "1990": {
-      "name": "Propshop Events & Exhibitions",
-      "category": "SME",
-      "close": "2026-07-29",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
       "status": "Closed"
     },
     "2012": {
@@ -351,10 +312,15 @@
           "t": "2026-08-01T10:39:49.798Z",
           "gmp": 115,
           "gmpPercent": 27.06
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 110,
+          "gmpPercent": 25.88
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.06,
+      "lastGmpPercent": 25.88,
       "status": "Open"
     },
     "2087": {
@@ -401,10 +367,15 @@
           "t": "2026-08-01T04:01:58.762Z",
           "gmp": 12,
           "gmpPercent": 12.37
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 11,
+          "gmpPercent": 11.34
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.37,
+      "lastGmpPercent": 11.34,
       "status": "Open"
     },
     "2089": {
@@ -460,10 +431,15 @@
           "t": "2026-08-01T10:39:49.798Z",
           "gmp": 6,
           "gmpPercent": 11.32
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 7,
+          "gmpPercent": 13.21
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.32,
+      "lastGmpPercent": 13.21,
       "status": "Upcoming"
     },
     "2130": {
@@ -483,6 +459,11 @@
         },
         {
           "t": "2026-08-01T04:01:58.762Z",
+          "gmp": 4,
+          "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
           "gmp": 4,
           "gmpPercent": 2.52
         }
@@ -560,10 +541,15 @@
           "t": "2026-08-01T08:20:02.221Z",
           "gmp": 215,
           "gmpPercent": 71.43
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 220,
+          "gmpPercent": 73.09
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 71.43,
+      "lastGmpPercent": 73.09,
       "status": "Closed"
     },
     "2217": {
@@ -683,6 +669,11 @@
         },
         {
           "t": "2026-08-01T05:54:34.610Z",
+          "gmp": 26,
+          "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-02T04:04:26.861Z",
           "gmp": 26,
           "gmpPercent": 20
         }
