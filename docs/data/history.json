@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T10:40:36.435Z",
+  "updatedAt": "2026-08-03T04:06:56.185Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -23,6 +23,11 @@
         },
         {
           "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 25,
+          "gmpPercent": 26.6
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
           "gmp": 25,
           "gmpPercent": 26.6
         }
@@ -100,11 +105,16 @@
           "t": "2026-08-02T04:04:26.861Z",
           "gmp": 1,
           "gmpPercent": 0.67
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 1,
+          "gmpPercent": 0.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.67,
-      "status": "Open"
+      "lastGmpPercent": 0.78,
+      "status": "Closing Today"
     },
     "1854": {
       "name": "Technocraft Ventures",
@@ -113,6 +123,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1868": {
+      "name": "LEAP India",
+      "category": "Mainboard",
+      "close": "2026-08-11",
+      "series": [
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 8,
+          "gmpPercent": 5.03
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 5.03,
       "status": "Upcoming"
     },
     "1895": {
@@ -164,11 +189,16 @@
           "t": "2026-08-02T04:04:26.861Z",
           "gmp": 90,
           "gmpPercent": 33.33
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 90,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 33.33,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1916": {
       "name": "Oneindig Technologies",
@@ -177,7 +207,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1972": {
       "name": "H.R. Hygiene Products",
@@ -216,6 +246,11 @@
         },
         {
           "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 2,
+          "gmpPercent": 2.27
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
           "gmp": 2,
           "gmpPercent": 2.27
         }
@@ -322,11 +357,16 @@
           "t": "2026-08-02T10:40:36.435Z",
           "gmp": 113,
           "gmpPercent": 26.59
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 115,
+          "gmpPercent": 27.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.59,
-      "status": "Open"
+      "lastGmpPercent": 27.06,
+      "status": "Closing Today"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -377,11 +417,16 @@
           "t": "2026-08-02T04:04:26.861Z",
           "gmp": 11,
           "gmpPercent": 11.34
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 8,
+          "gmpPercent": 8.25
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.34,
-      "status": "Open"
+      "alertedAbove": false,
+      "lastGmpPercent": 8.25,
+      "status": "Closing Today"
     },
     "2089": {
       "name": "Aegeus Technologies",
@@ -446,6 +491,11 @@
           "t": "2026-08-02T10:40:36.435Z",
           "gmp": 6,
           "gmpPercent": 12.74
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 6,
+          "gmpPercent": 12.74
         }
       ],
       "alertedAbove": true,
@@ -476,96 +526,16 @@
           "t": "2026-08-02T04:04:26.861Z",
           "gmp": 4,
           "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
+          "gmp": 4,
+          "gmpPercent": 2.52
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.52,
       "status": "Open"
-    },
-    "2215": {
-      "name": "Poojaa Precision Engg.",
-      "category": "SME",
-      "close": "2026-07-30",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 245,
-          "gmpPercent": 81.4
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 260,
-          "gmpPercent": 86.38
-        },
-        {
-          "t": "2026-07-28T08:33:06.992Z",
-          "gmp": 285,
-          "gmpPercent": 94.68
-        },
-        {
-          "t": "2026-07-28T11:16:57.785Z",
-          "gmp": 300,
-          "gmpPercent": 99.67
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 300,
-          "gmpPercent": 99.67
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 275,
-          "gmpPercent": 91.36
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 225,
-          "gmpPercent": 74.75
-        },
-        {
-          "t": "2026-07-30T05:41:04.963Z",
-          "gmp": 190,
-          "gmpPercent": 63.12
-        },
-        {
-          "t": "2026-07-30T08:25:42.828Z",
-          "gmp": 120,
-          "gmpPercent": 39.87
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 200,
-          "gmpPercent": 66.45
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 225,
-          "gmpPercent": 74.75
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 225,
-          "gmpPercent": 74.75
-        },
-        {
-          "t": "2026-08-01T08:20:02.221Z",
-          "gmp": 215,
-          "gmpPercent": 71.43
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 220,
-          "gmpPercent": 73.09
-        },
-        {
-          "t": "2026-08-02T10:40:36.435Z",
-          "gmp": 225,
-          "gmpPercent": 74.75
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 74.75,
-      "status": "Closed"
     },
     "2217": {
       "name": "Manipal Health Enterprises",
@@ -689,6 +659,11 @@
         },
         {
           "t": "2026-08-02T04:04:26.861Z",
+          "gmp": 26,
+          "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-03T04:06:56.185Z",
           "gmp": 26,
           "gmpPercent": 20
         }
