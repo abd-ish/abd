@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T08:35:21.645Z",
+  "updatedAt": "2026-08-04T11:22:36.878Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -135,10 +135,15 @@
           "t": "2026-08-04T08:35:21.645Z",
           "gmp": 13,
           "gmpPercent": 5.78
+        },
+        {
+          "t": "2026-08-04T11:22:36.878Z",
+          "gmp": 13,
+          "gmpPercent": 6
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.78,
+      "lastGmpPercent": 6,
       "status": "Closed"
     },
     "1854": {
@@ -199,10 +204,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 4,
           "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-08-04T11:22:36.878Z",
+          "gmp": 3,
+          "gmpPercent": 1.89
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.52,
+      "lastGmpPercent": 1.89,
       "status": "Upcoming"
     },
     "1895": {
@@ -511,10 +521,15 @@
           "t": "2026-08-04T08:35:21.645Z",
           "gmp": 236,
           "gmpPercent": 27.1
+        },
+        {
+          "t": "2026-08-04T11:22:36.878Z",
+          "gmp": 246,
+          "gmpPercent": 28.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.1,
+      "lastGmpPercent": 28.24,
       "status": "Upcoming"
     },
     "2123": {
