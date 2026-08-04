@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T12:22:31.069Z",
+  "updatedAt": "2026-08-04T03:49:14.361Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -30,10 +30,15 @@
           "t": "2026-08-03T04:06:56.185Z",
           "gmp": 25,
           "gmpPercent": 26.6
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 27,
+          "gmpPercent": 28.72
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.6,
+      "lastGmpPercent": 28.72,
       "status": "Upcoming"
     },
     "1809": {
@@ -120,11 +125,16 @@
           "t": "2026-08-03T12:22:31.069Z",
           "gmp": 3,
           "gmpPercent": 1.67
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 9,
+          "gmpPercent": 4.22
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.67,
-      "status": "Closing Today"
+      "lastGmpPercent": 4.22,
+      "status": "Closed"
     },
     "1854": {
       "name": "Technocraft Ventures",
@@ -140,10 +150,15 @@
           "t": "2026-08-03T12:22:31.069Z",
           "gmp": 16,
           "gmpPercent": 7.55
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 10,
+          "gmpPercent": 4.72
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.55,
+      "lastGmpPercent": 4.72,
       "status": "Upcoming"
     },
     "1868": {
@@ -163,6 +178,11 @@
         },
         {
           "t": "2026-08-03T12:22:31.069Z",
+          "gmp": 4,
+          "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
           "gmp": 4,
           "gmpPercent": 2.52
         }
@@ -230,6 +250,11 @@
           "t": "2026-08-03T06:23:00.658Z",
           "gmp": 80,
           "gmpPercent": 29.63
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 80,
+          "gmpPercent": 29.63
         }
       ],
       "alertedAbove": true,
@@ -243,56 +268,6 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
-    },
-    "1972": {
-      "name": "H.R. Hygiene Products",
-      "category": "SME",
-      "close": "2026-07-31",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        },
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 2,
-          "gmpPercent": 2.27
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.27,
       "status": "Closed"
     },
     "2012": {
@@ -403,11 +378,16 @@
           "t": "2026-08-03T12:22:31.069Z",
           "gmp": 100,
           "gmpPercent": 23.53
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 100,
+          "gmpPercent": 23.53
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 23.53,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -473,11 +453,16 @@
           "t": "2026-08-03T12:22:31.069Z",
           "gmp": 5,
           "gmpPercent": 5.15
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 8,
+          "gmpPercent": 8.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.15,
-      "status": "Closing Today"
+      "lastGmpPercent": 8.25,
+      "status": "Closed"
     },
     "2089": {
       "name": "Aegeus Technologies",
@@ -486,15 +471,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2122": {
       "name": "Dhoot Transmission",
       "category": "Mainboard",
-      "close": "",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "close": "2026-08-12",
+      "series": [
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 160,
+          "gmpPercent": 18.37
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 18.37,
       "status": "Upcoming"
     },
     "2123": {
@@ -556,10 +547,15 @@
           "t": "2026-08-03T04:06:56.185Z",
           "gmp": 6,
           "gmpPercent": 12.74
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 7,
+          "gmpPercent": 14.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.74,
+      "lastGmpPercent": 14.15,
       "status": "Upcoming"
     },
     "2130": {
@@ -595,77 +591,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
-    },
-    "2217": {
-      "name": "Manipal Health Enterprises",
-      "category": "Mainboard",
-      "close": "2026-07-31",
-      "series": [
-        {
-          "t": "2026-07-27T06:59:05.878Z",
-          "gmp": 25,
-          "gmpPercent": 4.24
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 13,
-          "gmpPercent": 2.2
-        },
-        {
-          "t": "2026-07-28T08:33:06.992Z",
-          "gmp": 9,
-          "gmpPercent": 1.53
-        },
-        {
-          "t": "2026-07-28T11:16:57.785Z",
-          "gmp": 10,
-          "gmpPercent": 1.69
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 10,
-          "gmpPercent": 1.69
-        },
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 9,
-          "gmpPercent": 1.53
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 9,
-          "gmpPercent": 1.53
-        },
-        {
-          "t": "2026-07-30T08:25:42.828Z",
-          "gmp": 7,
-          "gmpPercent": 1.19
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 5,
-          "gmpPercent": 0.85
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 6,
-          "gmpPercent": 1.02
-        },
-        {
-          "t": "2026-07-31T06:13:33.954Z",
-          "gmp": 4,
-          "gmpPercent": 0.68
-        },
-        {
-          "t": "2026-07-31T11:29:01.527Z",
-          "gmp": 3,
-          "gmpPercent": 0.51
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "2246": {
       "name": "G.V. Electricals",
@@ -726,11 +652,16 @@
           "t": "2026-08-03T04:06:56.185Z",
           "gmp": 26,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 26,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 20,
-      "status": "Open"
+      "status": "Closing Today"
     }
   }
 }
