@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T03:49:14.361Z",
+  "updatedAt": "2026-08-04T05:46:16.750Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -482,10 +482,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 160,
           "gmpPercent": 18.37
+        },
+        {
+          "t": "2026-08-04T05:46:16.750Z",
+          "gmp": 168,
+          "gmpPercent": 19.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.37,
+      "lastGmpPercent": 19.29,
       "status": "Upcoming"
     },
     "2123": {
