@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T05:46:16.750Z",
+  "updatedAt": "2026-08-04T08:35:21.645Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -130,10 +130,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 9,
           "gmpPercent": 4.22
+        },
+        {
+          "t": "2026-08-04T08:35:21.645Z",
+          "gmp": 13,
+          "gmpPercent": 5.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.22,
+      "lastGmpPercent": 5.78,
       "status": "Closed"
     },
     "1854": {
@@ -159,6 +164,15 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 4.72,
+      "status": "Upcoming"
+    },
+    "1865": {
+      "name": "Molbio Diagnostics",
+      "category": "Mainboard",
+      "close": "2026-08-12",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1868": {
@@ -383,10 +397,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 100,
           "gmpPercent": 23.53
+        },
+        {
+          "t": "2026-08-04T08:35:21.645Z",
+          "gmp": 98,
+          "gmpPercent": 23.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.53,
+      "lastGmpPercent": 23.06,
       "status": "Closed"
     },
     "2087": {
@@ -487,10 +506,15 @@
           "t": "2026-08-04T05:46:16.750Z",
           "gmp": 168,
           "gmpPercent": 19.29
+        },
+        {
+          "t": "2026-08-04T08:35:21.645Z",
+          "gmp": 236,
+          "gmpPercent": 27.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.29,
+      "lastGmpPercent": 27.1,
       "status": "Upcoming"
     },
     "2123": {
@@ -662,10 +686,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 26,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-04T08:35:21.645Z",
+          "gmp": 24,
+          "gmpPercent": 18.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20,
+      "lastGmpPercent": 18.46,
       "status": "Closing Today"
     }
   }

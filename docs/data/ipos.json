@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T05:46:16.750Z",
+  "generatedAt": "2026-08-04T08:35:21.645Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closing Today",
-      "gmp": 26,
-      "gmpPercent": 20,
+      "gmp": 24,
+      "gmpPercent": 18.46,
       "price": 130,
       "lot": 1000,
       "ipoSize": "₹42.25 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-08-04",
       "listing": "2026-08-07",
       "openDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
-      "closeDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 26</b></small>",
+      "closeDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 24</b></small>",
       "url": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
-      "updatedOn": "4-Aug 9:31"
+      "updatedOn": "4-Aug 13:29"
     },
     {
       "id": "2130",
@@ -39,7 +39,7 @@
       "openDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4</b></small>",
       "closeDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/fusion-klassroom-edutech-ipo/2130/",
-      "updatedOn": "4-Aug 9:36"
+      "updatedOn": "4-Aug 13:31"
     },
     {
       "id": "1895",
@@ -58,7 +58,7 @@
       "openDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "closeDisplay": "5-Aug",
       "url": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/",
-      "updatedOn": "4-Aug 9:31"
+      "updatedOn": "4-Aug 13:36"
     },
     {
       "id": "2089",
@@ -77,7 +77,7 @@
       "openDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "6-Aug",
       "url": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/",
-      "updatedOn": "4-Aug 9:34"
+      "updatedOn": "4-Aug 13:36"
     },
     {
       "id": "1713",
@@ -96,7 +96,7 @@
       "openDisplay": "6-Aug",
       "closeDisplay": "10-Aug",
       "url": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/",
-      "updatedOn": "4-Aug 9:29"
+      "updatedOn": "4-Aug 13:35"
     },
     {
       "id": "2122",
@@ -104,8 +104,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 168,
-      "gmpPercent": 19.29,
+      "gmp": 236,
+      "gmpPercent": 27.1,
       "price": 871,
       "lot": 17,
       "ipoSize": "₹3066.89 Cr",
@@ -115,7 +115,7 @@
       "openDisplay": "10-Aug",
       "closeDisplay": "12-Aug",
       "url": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
-      "updatedOn": "4-Aug 9:37"
+      "updatedOn": "4-Aug 13:28"
     },
     {
       "id": "2123",
@@ -134,7 +134,7 @@
       "openDisplay": "5-Aug",
       "closeDisplay": "7-Aug",
       "url": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/",
-      "updatedOn": "4-Aug 9:33"
+      "updatedOn": "4-Aug 13:32"
     },
     {
       "id": "1854",
@@ -153,7 +153,7 @@
       "openDisplay": "7-Aug",
       "closeDisplay": "11-Aug",
       "url": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-      "updatedOn": "4-Aug 9:30"
+      "updatedOn": "4-Aug 13:35"
     },
     {
       "id": "1868",
@@ -172,7 +172,26 @@
       "openDisplay": "7-Aug",
       "closeDisplay": "11-Aug",
       "url": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
-      "updatedOn": "4-Aug 9:33"
+      "updatedOn": "4-Aug 13:34"
+    },
+    {
+      "id": "1865",
+      "name": "Molbio Diagnostics",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": null,
+      "lot": null,
+      "ipoSize": "",
+      "open": "2026-08-10",
+      "close": "2026-08-12",
+      "listing": "2026-08-17",
+      "openDisplay": "10-Aug",
+      "closeDisplay": "12-Aug",
+      "url": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/",
+      "updatedOn": "4-Aug 12:00"
     },
     {
       "id": "2012",
@@ -191,26 +210,7 @@
       "openDisplay": "7-Aug",
       "closeDisplay": "11-Aug",
       "url": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/",
-      "updatedOn": "4-Aug 9:30"
-    },
-    {
-      "id": "2129",
-      "name": "Millworks Technologies",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 395,
-      "gmpPercent": 119.34,
-      "price": 331,
-      "lot": 400,
-      "ipoSize": "₹160.34 Cr",
-      "open": "2026-07-14",
-      "close": "2026-07-16",
-      "listing": "2026-07-21",
-      "openDisplay": "14-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 300</b></small>",
-      "closeDisplay": "16-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 380</b></small>",
-      "url": "https://www.investorgain.com/gmp/millworks-technologies-ipo/2129/",
-      "updatedOn": "21-Jul 9:32"
+      "updatedOn": "4-Aug 13:37"
     },
     {
       "id": "1967",
@@ -446,8 +446,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 100,
-      "gmpPercent": 23.53,
+      "gmp": 98,
+      "gmpPercent": 23.06,
       "price": 425,
       "lot": 34,
       "ipoSize": "₹290.00 Cr",
@@ -457,7 +457,7 @@
       "openDisplay": "30-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 125</b></small>",
       "closeDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 100</b></small>",
       "url": "https://www.investorgain.com/gmp/mv-electrosystems-ipo/2054/",
-      "updatedOn": "4-Aug 9:31"
+      "updatedOn": "4-Aug 13:31"
     },
     {
       "id": "2087",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
       "closeDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
-      "updatedOn": "4-Aug 9:29"
+      "updatedOn": "4-Aug 13:35"
     },
     {
       "id": "1809",
@@ -484,8 +484,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 9,
-      "gmpPercent": 4.22,
+      "gmp": 13,
+      "gmpPercent": 5.78,
       "price": 225,
       "lot": 66,
       "ipoSize": "₹1800.00 Cr",
@@ -495,7 +495,7 @@
       "openDisplay": "30-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "closeDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9.5</b></small>",
       "url": "https://www.investorgain.com/gmp/juniper-green-energy-ipo/1809/",
-      "updatedOn": "4-Aug 9:29"
+      "updatedOn": "4-Aug 13:28"
     },
     {
       "id": "1972",
@@ -514,7 +514,7 @@
       "openDisplay": "29-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "closeDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "url": "https://www.investorgain.com/gmp/hr-hygiene-products-ipo/1972/",
-      "updatedOn": "4-Aug 9:37"
+      "updatedOn": "4-Aug 13:30"
     },
     {
       "id": "2346",
@@ -536,6 +536,25 @@
       "updatedOn": "4-Aug 5:55"
     },
     {
+      "id": "2217",
+      "name": "Manipal Health Enterprises",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 1,
+      "gmpPercent": 0.25,
+      "price": 590,
+      "lot": 25,
+      "ipoSize": "₹9275.22 Cr",
+      "open": "2026-07-29",
+      "close": "2026-07-31",
+      "listing": "2026-08-05",
+      "openDisplay": "29-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
+      "closeDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: -15</b></small>",
+      "url": "https://www.investorgain.com/gmp/manipal-health-enterprises-ipo/2217/",
+      "updatedOn": "4-Aug 13:32"
+    },
+    {
       "id": "1916",
       "name": "Oneindig Technologies",
       "category": "SME",
@@ -552,26 +571,7 @@
       "openDisplay": "30-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
-      "updatedOn": "4-Aug 9:35"
-    },
-    {
-      "id": "2217",
-      "name": "Manipal Health Enterprises",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 590,
-      "lot": 25,
-      "ipoSize": "₹9275.22 Cr",
-      "open": "2026-07-29",
-      "close": "2026-07-31",
-      "listing": "2026-08-05",
-      "openDisplay": "29-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
-      "closeDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: -15</b></small>",
-      "url": "https://www.investorgain.com/gmp/manipal-health-enterprises-ipo/2217/",
-      "updatedOn": "4-Aug 9:29"
+      "updatedOn": "4-Aug 13:31"
     }
   ]
 }
