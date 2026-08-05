@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T08:34:52.799Z",
+  "updatedAt": "2026-08-05T11:20:43.307Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -40,10 +40,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 27,
           "gmpPercent": 28.72
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 26,
+          "gmpPercent": 27.66
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.72,
+      "lastGmpPercent": 27.66,
       "status": "Upcoming"
     },
     "1809": {
@@ -155,10 +160,15 @@
           "t": "2026-08-05T05:45:35.773Z",
           "gmp": 17,
           "gmpPercent": 7.56
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 17,
+          "gmpPercent": 7.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.56,
+      "lastGmpPercent": 7.78,
       "status": "Closed"
     },
     "1838": {
@@ -194,10 +204,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 10,
           "gmpPercent": 4.72
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 12,
+          "gmpPercent": 5.66
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.72,
+      "lastGmpPercent": 5.66,
       "status": "Upcoming"
     },
     "1865": {
@@ -462,10 +477,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 102,
           "gmpPercent": 24
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 103,
+          "gmpPercent": 24.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24,
+      "lastGmpPercent": 24.24,
       "status": "Closed"
     },
     "2087": {
@@ -586,10 +606,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 253,
           "gmpPercent": 29.05
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 255,
+          "gmpPercent": 29.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.05,
+      "lastGmpPercent": 29.28,
       "status": "Upcoming"
     },
     "2123": {
@@ -661,10 +686,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 8,
           "gmpPercent": 15.09
+        },
+        {
+          "t": "2026-08-05T11:20:43.307Z",
+          "gmp": 14,
+          "gmpPercent": 26.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.09,
+      "lastGmpPercent": 26.42,
       "status": "Open"
     },
     "2130": {
@@ -705,7 +735,7 @@
     "2246": {
       "name": "G.V. Electricals",
       "category": "SME",
-      "close": "2026-08-04",
+      "close": "2026-08-07",
       "series": [
         {
           "t": "2026-07-27T09:30:36.063Z",
@@ -780,7 +810,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 18.46,
-      "status": "Closed"
+      "status": "Open"
     },
     "2275": {
       "name": "Pramodini Medicare",
