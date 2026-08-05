@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:22:36.878Z",
+  "updatedAt": "2026-08-05T03:44:35.917Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -33,6 +33,11 @@
         },
         {
           "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 27,
+          "gmpPercent": 28.72
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
           "gmp": 27,
           "gmpPercent": 28.72
         }
@@ -140,10 +145,15 @@
           "t": "2026-08-04T11:22:36.878Z",
           "gmp": 13,
           "gmpPercent": 6
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 13,
+          "gmpPercent": 5.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6,
+      "lastGmpPercent": 5.78,
       "status": "Closed"
     },
     "1854": {
@@ -163,6 +173,11 @@
         },
         {
           "t": "2026-08-04T03:49:14.361Z",
+          "gmp": 10,
+          "gmpPercent": 4.72
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
           "gmp": 10,
           "gmpPercent": 4.72
         }
@@ -207,6 +222,11 @@
         },
         {
           "t": "2026-08-04T11:22:36.878Z",
+          "gmp": 3,
+          "gmpPercent": 1.89
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
           "gmp": 3,
           "gmpPercent": 1.89
         }
@@ -279,19 +299,30 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 80,
           "gmpPercent": 29.63
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 80,
+          "gmpPercent": 29.63
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 29.63,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1916": {
       "name": "Oneindig Technologies",
       "category": "SME",
       "close": "2026-08-03",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 7,
+          "gmpPercent": 7.29
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.29,
       "status": "Closed"
     },
     "2012": {
@@ -412,10 +443,15 @@
           "t": "2026-08-04T08:35:21.645Z",
           "gmp": 98,
           "gmpPercent": 23.06
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 102,
+          "gmpPercent": 24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.06,
+      "lastGmpPercent": 24,
       "status": "Closed"
     },
     "2087": {
@@ -487,10 +523,15 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 8,
           "gmpPercent": 8.25
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 10,
+          "gmpPercent": 10.31
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.25,
+      "lastGmpPercent": 10.31,
       "status": "Closed"
     },
     "2089": {
@@ -526,10 +567,15 @@
           "t": "2026-08-04T11:22:36.878Z",
           "gmp": 246,
           "gmpPercent": 28.24
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 253,
+          "gmpPercent": 29.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.24,
+      "lastGmpPercent": 29.05,
       "status": "Upcoming"
     },
     "2123": {
@@ -596,11 +642,16 @@
           "t": "2026-08-04T03:49:14.361Z",
           "gmp": 7,
           "gmpPercent": 14.15
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 8,
+          "gmpPercent": 15.09
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.15,
-      "status": "Upcoming"
+      "lastGmpPercent": 15.09,
+      "status": "Open"
     },
     "2130": {
       "name": "Fusion Klassroom Edutech",
@@ -635,7 +686,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2246": {
       "name": "G.V. Electricals",
@@ -706,11 +757,25 @@
           "t": "2026-08-04T08:35:21.645Z",
           "gmp": 24,
           "gmpPercent": 18.46
+        },
+        {
+          "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 24,
+          "gmpPercent": 18.46
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 18.46,
-      "status": "Closing Today"
+      "status": "Closed"
+    },
+    "2275": {
+      "name": "Pramodini Medicare",
+      "category": "SME",
+      "close": "2026-08-14",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     }
   }
 }
