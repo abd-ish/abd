@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T05:48:16.366Z",
+  "generatedAt": "2026-08-06T08:34:48.622Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "6-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/",
-      "updatedOn": "6-Aug 10:56"
+      "updatedOn": "6-Aug 13:29"
     },
     {
       "id": "1713",
@@ -39,7 +39,7 @@
       "openDisplay": "6-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "10-Aug",
       "url": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/",
-      "updatedOn": "6-Aug 10:56"
+      "updatedOn": "6-Aug 13:31"
     },
     {
       "id": "2123",
@@ -58,7 +58,7 @@
       "openDisplay": "5-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15.25</b></small>",
       "closeDisplay": "7-Aug",
       "url": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/",
-      "updatedOn": "6-Aug 10:54"
+      "updatedOn": "6-Aug 13:32"
     },
     {
       "id": "2246",
@@ -77,7 +77,7 @@
       "openDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "7-Aug",
       "url": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
-      "updatedOn": "6-Aug 11:02"
+      "updatedOn": "6-Aug 13:34"
     },
     {
       "id": "2122",
@@ -85,8 +85,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 250,
-      "gmpPercent": 28.7,
+      "gmp": 258,
+      "gmpPercent": 29.62,
       "price": 871,
       "lot": 17,
       "ipoSize": "₹3066.89 Cr",
@@ -96,7 +96,7 @@
       "openDisplay": "10-Aug",
       "closeDisplay": "12-Aug",
       "url": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
-      "updatedOn": "6-Aug 11:01"
+      "updatedOn": "6-Aug 13:37"
     },
     {
       "id": "1865",
@@ -104,8 +104,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 185,
-      "gmpPercent": 22.92,
+      "gmp": 200,
+      "gmpPercent": 24.78,
       "price": 807,
       "lot": 18,
       "ipoSize": "₹939.70 Cr",
@@ -115,7 +115,7 @@
       "openDisplay": "10-Aug",
       "closeDisplay": "12-Aug",
       "url": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/",
-      "updatedOn": "6-Aug 10:59"
+      "updatedOn": "6-Aug 13:31"
     },
     {
       "id": "1854",
@@ -134,7 +134,7 @@
       "openDisplay": "7-Aug",
       "closeDisplay": "11-Aug",
       "url": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-      "updatedOn": "6-Aug 11:01"
+      "updatedOn": "6-Aug 13:32"
     },
     {
       "id": "1868",
@@ -142,8 +142,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 3,
-      "gmpPercent": 1.89,
+      "gmp": 7,
+      "gmpPercent": 4.72,
       "price": 159,
       "lot": 94,
       "ipoSize": "₹2480.00 Cr",
@@ -153,7 +153,26 @@
       "openDisplay": "7-Aug",
       "closeDisplay": "11-Aug",
       "url": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
-      "updatedOn": "6-Aug 10:59"
+      "updatedOn": "6-Aug 13:31"
+    },
+    {
+      "id": "2012",
+      "name": "Optimystix Entertainment",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": 5,
+      "gmpPercent": 2.86,
+      "price": 175,
+      "lot": 800,
+      "ipoSize": "₹108.50 Cr",
+      "open": "2026-08-07",
+      "close": "2026-08-11",
+      "listing": "2026-08-14",
+      "openDisplay": "7-Aug",
+      "closeDisplay": "11-Aug",
+      "url": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/",
+      "updatedOn": "6-Aug 13:34"
     },
     {
       "id": "2275",
@@ -172,7 +191,7 @@
       "openDisplay": "12-Aug",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
-      "updatedOn": "6-Aug 11:02"
+      "updatedOn": "6-Aug 13:34"
     },
     {
       "id": "1790",
@@ -191,7 +210,7 @@
       "openDisplay": "12-Aug",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-      "updatedOn": "6-Aug 10:53"
+      "updatedOn": "6-Aug 13:34"
     },
     {
       "id": "1992",
@@ -210,7 +229,7 @@
       "openDisplay": "11-Aug",
       "closeDisplay": "13-Aug",
       "url": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
-      "updatedOn": "6-Aug 9:10"
+      "updatedOn": "6-Aug 13:31"
     },
     {
       "id": "1838",
@@ -229,26 +248,7 @@
       "openDisplay": "11-Aug",
       "closeDisplay": "13-Aug",
       "url": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
-      "updatedOn": "6-Aug 10:54"
-    },
-    {
-      "id": "2012",
-      "name": "Optimystix Entertainment",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 175,
-      "lot": 800,
-      "ipoSize": "₹108.50 Cr",
-      "open": "2026-08-07",
-      "close": "2026-08-11",
-      "listing": "2026-08-14",
-      "openDisplay": "7-Aug",
-      "closeDisplay": "11-Aug",
-      "url": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/",
-      "updatedOn": "6-Aug 10:56"
+      "updatedOn": "6-Aug 13:30"
     },
     {
       "id": "1967",
@@ -533,7 +533,7 @@
       "openDisplay": "3-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "closeDisplay": "5-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 78</b></small>",
       "url": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/",
-      "updatedOn": "6-Aug 10:57"
+      "updatedOn": "6-Aug 13:34"
     },
     {
       "id": "2346",
@@ -571,7 +571,7 @@
       "openDisplay": "31-Jul<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4</b></small>",
       "closeDisplay": "4-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/fusion-klassroom-edutech-ipo/2130/",
-      "updatedOn": "6-Aug 10:56"
+      "updatedOn": "6-Aug 13:29"
     }
   ]
 }
