@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:34:48.622Z",
+  "updatedAt": "2026-08-06T11:23:15.941Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -233,10 +233,15 @@
           "t": "2026-08-06T03:50:33.432Z",
           "gmp": 13,
           "gmpPercent": 6.13
+        },
+        {
+          "t": "2026-08-06T11:23:15.941Z",
+          "gmp": 15,
+          "gmpPercent": 7.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.13,
+      "lastGmpPercent": 7.08,
       "status": "Upcoming"
     },
     "1865": {
@@ -258,10 +263,15 @@
           "t": "2026-08-06T08:34:48.622Z",
           "gmp": 200,
           "gmpPercent": 24.78
+        },
+        {
+          "t": "2026-08-06T11:23:15.941Z",
+          "gmp": 210,
+          "gmpPercent": 26.02
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.78,
+      "lastGmpPercent": 26.02,
       "status": "Upcoming"
     },
     "1868": {
@@ -308,10 +318,15 @@
           "t": "2026-08-06T08:34:48.622Z",
           "gmp": 7,
           "gmpPercent": 4.72
+        },
+        {
+          "t": "2026-08-06T11:23:15.941Z",
+          "gmp": 11,
+          "gmpPercent": 6.92
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.72,
+      "lastGmpPercent": 6.92,
       "status": "Upcoming"
     },
     "1895": {
@@ -662,9 +677,15 @@
       "name": "Aegeus Technologies",
       "category": "SME",
       "close": "2026-08-06",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-06T11:23:15.941Z",
+          "gmp": 12,
+          "gmpPercent": 11.43
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 11.43,
       "status": "Closing Today"
     },
     "2122": {
@@ -806,10 +827,15 @@
           "t": "2026-08-06T05:48:16.366Z",
           "gmp": 14,
           "gmpPercent": 26.42
+        },
+        {
+          "t": "2026-08-06T11:23:15.941Z",
+          "gmp": 15,
+          "gmpPercent": 29.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.42,
+      "lastGmpPercent": 29.25,
       "status": "Open"
     },
     "2130": {
