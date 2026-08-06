@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T11:20:43.307Z",
+  "updatedAt": "2026-08-06T03:50:33.432Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -45,10 +45,24 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 26,
           "gmpPercent": 27.66
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 30,
+          "gmpPercent": 31.91
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.66,
+      "lastGmpPercent": 31.91,
+      "status": "Open"
+    },
+    "1790": {
+      "name": "Shiprocket",
+      "category": "Mainboard",
+      "close": "2026-08-14",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1809": {
@@ -165,11 +179,16 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 17,
           "gmpPercent": 7.78
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 23,
+          "gmpPercent": 10.22
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.78,
-      "status": "Closed"
+      "lastGmpPercent": 10.22,
+      "status": "Listed"
     },
     "1838": {
       "name": "Milky Mist Dairy Food",
@@ -209,19 +228,30 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 12,
           "gmpPercent": 5.66
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 13,
+          "gmpPercent": 6.13
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.66,
+      "lastGmpPercent": 6.13,
       "status": "Upcoming"
     },
     "1865": {
       "name": "Molbio Diagnostics",
       "category": "Mainboard",
       "close": "2026-08-12",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 170,
+          "gmpPercent": 21.07
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 21.07,
       "status": "Upcoming"
     },
     "1868": {
@@ -256,6 +286,11 @@
         },
         {
           "t": "2026-08-05T03:44:35.917Z",
+          "gmp": 3,
+          "gmpPercent": 1.89
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
           "gmp": 3,
           "gmpPercent": 1.89
         }
@@ -333,11 +368,16 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 80,
           "gmpPercent": 29.63
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 78,
+          "gmpPercent": 28.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.63,
-      "status": "Closing Today"
+      "lastGmpPercent": 28.89,
+      "status": "Closed"
     },
     "1916": {
       "name": "Oneindig Technologies",
@@ -348,11 +388,16 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 7,
           "gmpPercent": 7.29
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 3,
+          "gmpPercent": 3.12
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.29,
-      "status": "Closed"
+      "lastGmpPercent": 3.12,
+      "status": "Listed"
     },
     "2012": {
       "name": "Optimystix Entertainment",
@@ -482,11 +527,16 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 103,
           "gmpPercent": 24.24
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 109,
+          "gmpPercent": 25.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.24,
-      "status": "Closed"
+      "lastGmpPercent": 25.65,
+      "status": "Listed"
     },
     "2087": {
       "name": "Dhaval Packaging",
@@ -562,11 +612,16 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 10,
           "gmpPercent": 10.31
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 12,
+          "gmpPercent": 12.37
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10.31,
-      "status": "Closed"
+      "lastGmpPercent": 12.37,
+      "status": "Listed"
     },
     "2089": {
       "name": "Aegeus Technologies",
@@ -575,7 +630,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2122": {
       "name": "Dhoot Transmission",
@@ -611,10 +666,15 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 255,
           "gmpPercent": 29.28
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 253,
+          "gmpPercent": 29.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.28,
+      "lastGmpPercent": 29.05,
       "status": "Upcoming"
     },
     "2123": {
@@ -691,10 +751,15 @@
           "t": "2026-08-05T11:20:43.307Z",
           "gmp": 14,
           "gmpPercent": 26.42
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 15,
+          "gmpPercent": 28.77
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.42,
+      "lastGmpPercent": 28.77,
       "status": "Open"
     },
     "2130": {
@@ -806,10 +871,15 @@
           "t": "2026-08-05T03:44:35.917Z",
           "gmp": 24,
           "gmpPercent": 18.46
+        },
+        {
+          "t": "2026-08-06T03:50:33.432Z",
+          "gmp": 26,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.46,
+      "lastGmpPercent": 20,
       "status": "Open"
     },
     "2275": {
