@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T03:50:33.432Z",
+  "updatedAt": "2026-08-06T05:48:16.366Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -248,10 +248,15 @@
           "t": "2026-08-06T03:50:33.432Z",
           "gmp": 170,
           "gmpPercent": 21.07
+        },
+        {
+          "t": "2026-08-06T05:48:16.366Z",
+          "gmp": 185,
+          "gmpPercent": 22.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.07,
+      "lastGmpPercent": 22.92,
       "status": "Upcoming"
     },
     "1868": {
@@ -393,11 +398,25 @@
           "t": "2026-08-06T03:50:33.432Z",
           "gmp": 3,
           "gmpPercent": 3.12
+        },
+        {
+          "t": "2026-08-06T05:48:16.366Z",
+          "gmp": 7,
+          "gmpPercent": 7.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.12,
+      "lastGmpPercent": 7.29,
       "status": "Listed"
+    },
+    "1992": {
+      "name": "Fascinate Textiles",
+      "category": "SME",
+      "close": "2026-08-13",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2012": {
       "name": "Optimystix Entertainment",
@@ -671,10 +690,15 @@
           "t": "2026-08-06T03:50:33.432Z",
           "gmp": 253,
           "gmpPercent": 29.05
+        },
+        {
+          "t": "2026-08-06T05:48:16.366Z",
+          "gmp": 250,
+          "gmpPercent": 28.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.05,
+      "lastGmpPercent": 28.7,
       "status": "Upcoming"
     },
     "2123": {
@@ -756,10 +780,15 @@
           "t": "2026-08-06T03:50:33.432Z",
           "gmp": 15,
           "gmpPercent": 28.77
+        },
+        {
+          "t": "2026-08-06T05:48:16.366Z",
+          "gmp": 14,
+          "gmpPercent": 26.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.77,
+      "lastGmpPercent": 26.42,
       "status": "Open"
     },
     "2130": {
