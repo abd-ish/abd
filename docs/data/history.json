@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:14:24.952Z",
+  "updatedAt": "2026-08-07T10:01:02.078Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -70,10 +70,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 16,
           "gmpPercent": 16.49
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 15,
+          "gmpPercent": 15.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.49,
+      "lastGmpPercent": 15.46,
       "status": "Upcoming"
     },
     "1838": {
@@ -85,10 +90,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 25,
           "gmpPercent": 17.86
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 23,
+          "gmpPercent": 16.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.86,
+      "lastGmpPercent": 16.43,
       "status": "Upcoming"
     },
     "1854": {
@@ -145,10 +155,15 @@
           "t": "2026-08-07T07:14:24.952Z",
           "gmp": 16,
           "gmpPercent": 7.55
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 17,
+          "gmpPercent": 8.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.55,
+      "lastGmpPercent": 8.02,
       "status": "Open"
     },
     "1865": {
@@ -180,10 +195,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 205,
           "gmpPercent": 25.4
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 125,
+          "gmpPercent": 15.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.4,
+      "lastGmpPercent": 15.49,
       "status": "Upcoming"
     },
     "1868": {
@@ -250,10 +270,15 @@
           "t": "2026-08-07T07:14:24.952Z",
           "gmp": 19,
           "gmpPercent": 12.26
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 14,
+          "gmpPercent": 9.12
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 12.26,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.12,
       "status": "Open"
     },
     "1895": {
@@ -345,19 +370,30 @@
           "t": "2026-08-07T07:14:24.952Z",
           "gmp": 66,
           "gmpPercent": 24.44
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 64,
+          "gmpPercent": 23.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.44,
+      "lastGmpPercent": 23.7,
       "status": "Closed"
     },
     "1928": {
       "name": "Behari Lal Engineering",
       "category": "Mainboard",
       "close": "2026-08-14",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 25,
+          "gmpPercent": 8.77
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 8.77,
       "status": "Upcoming"
     },
     "1992": {
@@ -463,10 +499,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 255,
           "gmpPercent": 29.28
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 250,
+          "gmpPercent": 28.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.28,
+      "lastGmpPercent": 28.7,
       "status": "Upcoming"
     },
     "2123": {
@@ -573,10 +614,15 @@
           "t": "2026-08-07T07:14:24.952Z",
           "gmp": 14,
           "gmpPercent": 26.42
+        },
+        {
+          "t": "2026-08-07T10:01:02.078Z",
+          "gmp": 13,
+          "gmpPercent": 24.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.42,
+      "lastGmpPercent": 24.53,
       "status": "Closing Today"
     },
     "2130": {
