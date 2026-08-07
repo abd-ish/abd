@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:30:17.679Z",
+  "updatedAt": "2026-08-07T04:59:15.207Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -135,10 +135,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 16,
           "gmpPercent": 7.55
+        },
+        {
+          "t": "2026-08-07T04:59:15.207Z",
+          "gmp": 17,
+          "gmpPercent": 8.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.55,
+      "lastGmpPercent": 8.02,
       "status": "Open"
     },
     "1865": {
@@ -230,10 +235,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 19,
           "gmpPercent": 12.26
+        },
+        {
+          "t": "2026-08-07T04:59:15.207Z",
+          "gmp": 19,
+          "gmpPercent": 11.95
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.26,
+      "lastGmpPercent": 11.95,
       "status": "Open"
     },
     "1895": {
@@ -315,10 +325,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 66,
           "gmpPercent": 24.44
+        },
+        {
+          "t": "2026-08-07T04:59:15.207Z",
+          "gmp": 67,
+          "gmpPercent": 24.81
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.44,
+      "lastGmpPercent": 24.81,
       "status": "Closed"
     },
     "1928": {
@@ -533,10 +548,15 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 14,
           "gmpPercent": 26.42
+        },
+        {
+          "t": "2026-08-07T04:59:15.207Z",
+          "gmp": 13,
+          "gmpPercent": 24.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.42,
+      "lastGmpPercent": 24.53,
       "status": "Closing Today"
     },
     "2130": {
