@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T10:01:02.078Z",
+  "updatedAt": "2026-08-08T02:28:33.598Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -55,6 +55,11 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 32,
           "gmpPercent": 34.04
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 32,
+          "gmpPercent": 34.04
         }
       ],
       "alertedAbove": true,
@@ -75,10 +80,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 15,
           "gmpPercent": 15.46
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 14,
+          "gmpPercent": 14.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.46,
+      "lastGmpPercent": 14.43,
       "status": "Upcoming"
     },
     "1838": {
@@ -95,10 +105,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 23,
           "gmpPercent": 16.43
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 24,
+          "gmpPercent": 17.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.43,
+      "lastGmpPercent": 17.14,
       "status": "Upcoming"
     },
     "1854": {
@@ -160,10 +175,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 17,
           "gmpPercent": 8.02
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 15,
+          "gmpPercent": 7.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.02,
+      "lastGmpPercent": 7.08,
       "status": "Open"
     },
     "1865": {
@@ -200,10 +220,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 125,
           "gmpPercent": 15.49
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 180,
+          "gmpPercent": 22.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.49,
+      "lastGmpPercent": 22.3,
       "status": "Upcoming"
     },
     "1868": {
@@ -275,10 +300,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 14,
           "gmpPercent": 9.12
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 15,
+          "gmpPercent": 9.43
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.12,
+      "lastGmpPercent": 9.43,
       "status": "Open"
     },
     "1895": {
@@ -375,6 +405,11 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 64,
           "gmpPercent": 23.7
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 64,
+          "gmpPercent": 23.7
         }
       ],
       "alertedAbove": true,
@@ -390,10 +425,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 25,
           "gmpPercent": 8.77
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 30,
+          "gmpPercent": 10.53
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.77,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.53,
       "status": "Upcoming"
     },
     "1992": {
@@ -422,7 +462,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.86,
+      "lastGmpPercent": null,
       "status": "Open"
     },
     "2089": {
@@ -437,6 +477,11 @@
         },
         {
           "t": "2026-08-07T03:30:17.679Z",
+          "gmp": 12,
+          "gmpPercent": 11.43
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
           "gmp": 12,
           "gmpPercent": 11.43
         }
@@ -504,10 +549,15 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 250,
           "gmpPercent": 28.7
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 247,
+          "gmpPercent": 28.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.7,
+      "lastGmpPercent": 28.36,
       "status": "Upcoming"
     },
     "2123": {
@@ -619,46 +669,16 @@
           "t": "2026-08-07T10:01:02.078Z",
           "gmp": 13,
           "gmpPercent": 24.53
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 15,
+          "gmpPercent": 28.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.53,
-      "status": "Closing Today"
-    },
-    "2130": {
-      "name": "Fusion Klassroom Edutech",
-      "category": "SME",
-      "close": "2026-08-04",
-      "series": [
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 9,
-          "gmpPercent": 5.66
-        },
-        {
-          "t": "2026-07-31T11:29:01.527Z",
-          "gmp": 7,
-          "gmpPercent": 4.4
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 4,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 4,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 4,
-          "gmpPercent": 2.52
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
+      "lastGmpPercent": 28.3,
+      "status": "Closed"
     },
     "2131": {
       "name": "Sham Foam",
@@ -753,11 +773,16 @@
           "t": "2026-08-07T03:30:17.679Z",
           "gmp": 26,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 26,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 20,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2275": {
       "name": "Pramodini Medicare",
