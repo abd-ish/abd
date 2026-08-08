@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T04:10:31.023Z",
+  "updatedAt": "2026-08-08T06:51:32.901Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -60,10 +60,15 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 32,
           "gmpPercent": 34.04
+        },
+        {
+          "t": "2026-08-08T06:51:32.901Z",
+          "gmp": 35,
+          "gmpPercent": 37.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.04,
+      "lastGmpPercent": 37.23,
       "status": "Open"
     },
     "1790": {
@@ -225,10 +230,15 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 180,
           "gmpPercent": 22.3
+        },
+        {
+          "t": "2026-08-08T06:51:32.901Z",
+          "gmp": 130,
+          "gmpPercent": 16.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.3,
+      "lastGmpPercent": 16.11,
       "status": "Upcoming"
     },
     "1868": {
@@ -791,6 +801,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2299": {
+      "name": "Q&T Foods",
+      "category": "SME",
+      "close": "2026-08-14",
+      "series": [
+        {
+          "t": "2026-08-08T06:51:32.901Z",
+          "gmp": 6,
+          "gmpPercent": 5.22
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 5.22,
       "status": "Upcoming"
     }
   }
