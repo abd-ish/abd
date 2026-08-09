@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:36:51.849Z",
+  "updatedAt": "2026-08-09T02:35:55.981Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -65,6 +65,11 @@
           "t": "2026-08-08T06:51:32.901Z",
           "gmp": 35,
           "gmpPercent": 37.23
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 35,
+          "gmpPercent": 37.23
         }
       ],
       "alertedAbove": true,
@@ -90,10 +95,15 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 14,
           "gmpPercent": 14.43
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 16,
+          "gmpPercent": 16.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.43,
+      "lastGmpPercent": 16.49,
       "status": "Upcoming"
     },
     "1838": {
@@ -120,10 +130,15 @@
           "t": "2026-08-08T09:36:51.849Z",
           "gmp": 23,
           "gmpPercent": 16.43
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 27,
+          "gmpPercent": 19.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.43,
+      "lastGmpPercent": 19.29,
       "status": "Upcoming"
     },
     "1854": {
@@ -195,10 +210,15 @@
           "t": "2026-08-08T09:36:51.849Z",
           "gmp": 19,
           "gmpPercent": 8.96
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 20,
+          "gmpPercent": 9.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.96,
+      "lastGmpPercent": 9.67,
       "status": "Open"
     },
     "1865": {
@@ -243,6 +263,11 @@
         },
         {
           "t": "2026-08-08T06:51:32.901Z",
+          "gmp": 130,
+          "gmpPercent": 16.11
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
           "gmp": 130,
           "gmpPercent": 16.11
         }
@@ -325,116 +350,16 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 15,
           "gmpPercent": 9.43
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.43,
-      "status": "Open"
-    },
-    "1895": {
-      "name": "Anawil Wire & Engineering",
-      "category": "SME",
-      "close": "2026-08-05",
-      "series": [
-        {
-          "t": "2026-07-29T05:52:07.406Z",
-          "gmp": 30,
-          "gmpPercent": 11.11
         },
         {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 40,
-          "gmpPercent": 14.81
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 60,
-          "gmpPercent": 22.22
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 70,
-          "gmpPercent": 25.93
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 70,
-          "gmpPercent": 25.93
-        },
-        {
-          "t": "2026-07-31T06:13:33.954Z",
-          "gmp": 65,
-          "gmpPercent": 24.07
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 80,
-          "gmpPercent": 29.63
-        },
-        {
-          "t": "2026-08-01T08:20:02.221Z",
-          "gmp": 90,
-          "gmpPercent": 33.33
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 90,
-          "gmpPercent": 33.33
-        },
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 90,
-          "gmpPercent": 33.33
-        },
-        {
-          "t": "2026-08-03T06:23:00.658Z",
-          "gmp": 80,
-          "gmpPercent": 29.63
-        },
-        {
-          "t": "2026-08-04T03:49:14.361Z",
-          "gmp": 80,
-          "gmpPercent": 29.63
-        },
-        {
-          "t": "2026-08-05T03:44:35.917Z",
-          "gmp": 80,
-          "gmpPercent": 29.63
-        },
-        {
-          "t": "2026-08-06T03:50:33.432Z",
-          "gmp": 78,
-          "gmpPercent": 28.89
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 66,
-          "gmpPercent": 24.44
-        },
-        {
-          "t": "2026-08-07T04:59:15.207Z",
-          "gmp": 67,
-          "gmpPercent": 24.81
-        },
-        {
-          "t": "2026-08-07T07:14:24.952Z",
-          "gmp": 66,
-          "gmpPercent": 24.44
-        },
-        {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 64,
-          "gmpPercent": 23.7
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 64,
-          "gmpPercent": 23.7
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 16,
+          "gmpPercent": 10.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.7,
-      "status": "Closed"
+      "lastGmpPercent": 10.06,
+      "status": "Open"
     },
     "1928": {
       "name": "Behari Lal Engineering",
@@ -450,10 +375,15 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 30,
           "gmpPercent": 10.53
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 25,
+          "gmpPercent": 8.77
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.53,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.77,
       "status": "Upcoming"
     },
     "1992": {
@@ -484,6 +414,11 @@
           "t": "2026-08-08T09:36:51.849Z",
           "gmp": 5,
           "gmpPercent": 2.86
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 5,
+          "gmpPercent": 2.86
         }
       ],
       "alertedAbove": false,
@@ -507,6 +442,11 @@
         },
         {
           "t": "2026-08-08T02:28:33.598Z",
+          "gmp": 12,
+          "gmpPercent": 11.43
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
           "gmp": 12,
           "gmpPercent": 11.43
         }
@@ -584,10 +524,15 @@
           "t": "2026-08-08T09:36:51.849Z",
           "gmp": 250,
           "gmpPercent": 28.7
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 259,
+          "gmpPercent": 29.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.7,
+      "lastGmpPercent": 29.74,
       "status": "Upcoming"
     },
     "2123": {
@@ -704,10 +649,15 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 15,
           "gmpPercent": 28.3
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 16,
+          "gmpPercent": 30.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.3,
+      "lastGmpPercent": 30.19,
       "status": "Closed"
     },
     "2131": {
@@ -808,6 +758,11 @@
           "t": "2026-08-08T02:28:33.598Z",
           "gmp": 26,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 26,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
@@ -830,6 +785,11 @@
       "series": [
         {
           "t": "2026-08-08T06:51:32.901Z",
+          "gmp": 6,
+          "gmpPercent": 5.22
+        },
+        {
+          "t": "2026-08-09T02:35:55.981Z",
           "gmp": 6,
           "gmpPercent": 5.22
         }
