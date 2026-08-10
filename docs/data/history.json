@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:37:15.614Z",
+  "updatedAt": "2026-08-10T07:39:49.024Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -115,10 +115,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 22,
           "gmpPercent": 22.68
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 23,
+          "gmpPercent": 24.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.68,
+      "lastGmpPercent": 24.23,
       "status": "Upcoming"
     },
     "1838": {
@@ -155,10 +160,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 26,
           "gmpPercent": 18.57
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 26,
+          "gmpPercent": 18.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.57,
+      "lastGmpPercent": 18.93,
       "status": "Upcoming"
     },
     "1854": {
@@ -245,10 +255,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 23,
           "gmpPercent": 10.85
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 24,
+          "gmpPercent": 11.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.85,
+      "lastGmpPercent": 11.32,
       "status": "Open"
     },
     "1865": {
@@ -305,10 +320,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 132,
           "gmpPercent": 16.36
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 120,
+          "gmpPercent": 14.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.36,
+      "lastGmpPercent": 14.87,
       "status": "Open"
     },
     "1868": {
@@ -395,10 +415,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 16,
           "gmpPercent": 10.06
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 15,
+          "gmpPercent": 9.75
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.06,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.75,
       "status": "Open"
     },
     "1928": {
@@ -554,10 +579,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 259,
           "gmpPercent": 29.74
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 257,
+          "gmpPercent": 29.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.74,
+      "lastGmpPercent": 29.51,
       "status": "Open"
     },
     "2123": {
@@ -684,10 +714,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 16,
           "gmpPercent": 30.19
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 15,
+          "gmpPercent": 29.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.19,
+      "lastGmpPercent": 29.25,
       "status": "Closed"
     },
     "2131": {
@@ -804,6 +839,15 @@
       "lastGmpPercent": 20,
       "status": "Closed"
     },
+    "2252": {
+      "name": "Credent Connect",
+      "category": "SME",
+      "close": "2026-08-17",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2275": {
       "name": "Pramodini Medicare",
       "category": "SME",
@@ -832,10 +876,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 6,
           "gmpPercent": 5.22
+        },
+        {
+          "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 15,
+          "gmpPercent": 13.04
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 5.22,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.04,
       "status": "Upcoming"
     }
   }
