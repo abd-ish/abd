@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:38:14.853Z",
+  "updatedAt": "2026-08-10T02:41:42.016Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -70,11 +70,16 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 35,
           "gmpPercent": 37.23
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 37,
+          "gmpPercent": 39.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.23,
-      "status": "Open"
+      "lastGmpPercent": 39.36,
+      "status": "Closing Today"
     },
     "1790": {
       "name": "Shiprocket",
@@ -105,10 +110,15 @@
           "t": "2026-08-09T09:38:14.853Z",
           "gmp": 20,
           "gmpPercent": 20.62
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 22,
+          "gmpPercent": 22.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.62,
+      "lastGmpPercent": 22.68,
       "status": "Upcoming"
     },
     "1838": {
@@ -140,10 +150,15 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 27,
           "gmpPercent": 19.29
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 26,
+          "gmpPercent": 18.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.29,
+      "lastGmpPercent": 18.57,
       "status": "Upcoming"
     },
     "1854": {
@@ -225,10 +240,15 @@
           "t": "2026-08-09T04:17:16.851Z",
           "gmp": 21,
           "gmpPercent": 10.14
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 23,
+          "gmpPercent": 10.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.14,
+      "lastGmpPercent": 10.85,
       "status": "Open"
     },
     "1865": {
@@ -280,11 +300,16 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 130,
           "gmpPercent": 16.11
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 132,
+          "gmpPercent": 16.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.11,
-      "status": "Upcoming"
+      "lastGmpPercent": 16.36,
+      "status": "Open"
     },
     "1868": {
       "name": "LEAP India",
@@ -365,6 +390,11 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 16,
           "gmpPercent": 10.06
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 16,
+          "gmpPercent": 10.06
         }
       ],
       "alertedAbove": true,
@@ -388,6 +418,11 @@
         },
         {
           "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 25,
+          "gmpPercent": 8.77
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
           "gmp": 25,
           "gmpPercent": 8.77
         }
@@ -429,41 +464,16 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 5,
           "gmpPercent": 2.86
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 5,
+          "gmpPercent": 2.86
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.86,
       "status": "Open"
-    },
-    "2089": {
-      "name": "Aegeus Technologies",
-      "category": "SME",
-      "close": "2026-08-06",
-      "series": [
-        {
-          "t": "2026-08-06T11:23:15.941Z",
-          "gmp": 12,
-          "gmpPercent": 11.43
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 12,
-          "gmpPercent": 11.43
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 12,
-          "gmpPercent": 11.43
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 12,
-          "gmpPercent": 11.43
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.43,
-      "status": "Closed"
     },
     "2122": {
       "name": "Dhoot Transmission",
@@ -539,11 +549,16 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 259,
           "gmpPercent": 29.74
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 259,
+          "gmpPercent": 29.74
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 29.74,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2123": {
       "name": "Ardee Industries",
@@ -664,6 +679,11 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 16,
           "gmpPercent": 30.19
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 16,
+          "gmpPercent": 30.19
         }
       ],
       "alertedAbove": true,
@@ -773,6 +793,11 @@
           "t": "2026-08-09T02:35:55.981Z",
           "gmp": 26,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
+          "gmp": 26,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
@@ -800,6 +825,11 @@
         },
         {
           "t": "2026-08-09T02:35:55.981Z",
+          "gmp": 6,
+          "gmpPercent": 5.22
+        },
+        {
+          "t": "2026-08-10T02:41:42.016Z",
           "gmp": 6,
           "gmpPercent": 5.22
         }
