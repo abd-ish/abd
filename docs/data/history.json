@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T07:39:49.024Z",
+  "updatedAt": "2026-08-10T10:16:01.094Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -75,10 +75,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 37,
           "gmpPercent": 39.36
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 39,
+          "gmpPercent": 41.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.36,
+      "lastGmpPercent": 41.49,
       "status": "Closing Today"
     },
     "1790": {
@@ -120,10 +125,24 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 23,
           "gmpPercent": 24.23
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 26,
+          "gmpPercent": 27.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.23,
+      "lastGmpPercent": 27.32,
+      "status": "Upcoming"
+    },
+    "1799": {
+      "name": "Lalithaa Jewellery Mart",
+      "category": "Mainboard",
+      "close": "2026-08-19",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1838": {
@@ -165,10 +184,15 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 26,
           "gmpPercent": 18.93
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 25,
+          "gmpPercent": 17.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.93,
+      "lastGmpPercent": 17.86,
       "status": "Upcoming"
     },
     "1854": {
@@ -260,10 +284,15 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 24,
           "gmpPercent": 11.32
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 27,
+          "gmpPercent": 12.97
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.32,
+      "lastGmpPercent": 12.97,
       "status": "Open"
     },
     "1865": {
@@ -325,10 +354,15 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 120,
           "gmpPercent": 14.87
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 125,
+          "gmpPercent": 15.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.87,
+      "lastGmpPercent": 15.49,
       "status": "Open"
     },
     "1868": {
@@ -420,10 +454,15 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 15,
           "gmpPercent": 9.75
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 13,
+          "gmpPercent": 8.18
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.75,
+      "lastGmpPercent": 8.18,
       "status": "Open"
     },
     "1928": {
@@ -450,10 +489,15 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 25,
           "gmpPercent": 8.77
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 53,
+          "gmpPercent": 18.6
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.77,
+      "alertedAbove": true,
+      "lastGmpPercent": 18.6,
       "status": "Upcoming"
     },
     "1992": {
@@ -584,10 +628,15 @@
           "t": "2026-08-10T07:39:49.024Z",
           "gmp": 257,
           "gmpPercent": 29.51
+        },
+        {
+          "t": "2026-08-10T10:16:01.094Z",
+          "gmp": 270,
+          "gmpPercent": 31
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.51,
+      "lastGmpPercent": 31,
       "status": "Open"
     },
     "2123": {
