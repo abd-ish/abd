@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T10:16:01.094Z",
+  "updatedAt": "2026-08-11T02:35:34.185Z",
   "ipos": {
     "1713": {
       "name": "LAPL Automotive",
@@ -80,11 +80,16 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 39,
           "gmpPercent": 41.49
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 39,
+          "gmpPercent": 41.49
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 41.49,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1790": {
       "name": "Shiprocket",
@@ -130,10 +135,15 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 26,
           "gmpPercent": 27.32
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 27,
+          "gmpPercent": 27.84
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.32,
+      "lastGmpPercent": 27.84,
       "status": "Upcoming"
     },
     "1799": {
@@ -189,11 +199,16 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 25,
           "gmpPercent": 17.86
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 20,
+          "gmpPercent": 14.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.86,
-      "status": "Upcoming"
+      "lastGmpPercent": 14.64,
+      "status": "Open"
     },
     "1854": {
       "name": "Technocraft Ventures",
@@ -289,11 +304,16 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 27,
           "gmpPercent": 12.97
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 30,
+          "gmpPercent": 14.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.97,
-      "status": "Open"
+      "lastGmpPercent": 14.15,
+      "status": "Closing Today"
     },
     "1865": {
       "name": "Molbio Diagnostics",
@@ -359,10 +379,15 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 125,
           "gmpPercent": 15.49
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 127,
+          "gmpPercent": 15.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.49,
+      "lastGmpPercent": 15.74,
       "status": "Open"
     },
     "1868": {
@@ -459,11 +484,16 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 13,
           "gmpPercent": 8.18
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 13,
+          "gmpPercent": 8.18
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 8.18,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1928": {
       "name": "Behari Lal Engineering",
@@ -494,16 +524,39 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 53,
           "gmpPercent": 18.6
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 53,
+          "gmpPercent": 18.6
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 18.6,
       "status": "Upcoming"
     },
+    "1932": {
+      "name": "Shankesh Jewellers",
+      "category": "Mainboard",
+      "close": "2026-08-20",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1992": {
       "name": "Fascinate Textiles",
       "category": "SME",
       "close": "2026-08-13",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Open"
+    },
+    "1997": {
+      "name": "Skytech Infinite Platform",
+      "category": "SME",
+      "close": "2026-08-18",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -538,11 +591,16 @@
           "t": "2026-08-10T02:41:42.016Z",
           "gmp": 5,
           "gmpPercent": 2.86
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 5,
+          "gmpPercent": 2.86
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.86,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2122": {
       "name": "Dhoot Transmission",
@@ -633,146 +691,16 @@
           "t": "2026-08-10T10:16:01.094Z",
           "gmp": 270,
           "gmpPercent": 31
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
+          "gmp": 250,
+          "gmpPercent": 28.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31,
+      "lastGmpPercent": 28.7,
       "status": "Open"
-    },
-    "2123": {
-      "name": "Ardee Industries",
-      "category": "Mainboard",
-      "close": "2026-08-07",
-      "series": [
-        {
-          "t": "2026-07-29T08:39:52.382Z",
-          "gmp": 6,
-          "gmpPercent": 11.32
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 13,
-          "gmpPercent": 24.53
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 10,
-          "gmpPercent": 18.87
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 13,
-          "gmpPercent": 24.53
-        },
-        {
-          "t": "2026-07-31T11:29:01.527Z",
-          "gmp": 10,
-          "gmpPercent": 18.87
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 6,
-          "gmpPercent": 12.26
-        },
-        {
-          "t": "2026-08-01T08:20:02.221Z",
-          "gmp": 7,
-          "gmpPercent": 14.15
-        },
-        {
-          "t": "2026-08-01T10:39:49.798Z",
-          "gmp": 6,
-          "gmpPercent": 11.32
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 7,
-          "gmpPercent": 13.21
-        },
-        {
-          "t": "2026-08-02T10:40:36.435Z",
-          "gmp": 6,
-          "gmpPercent": 12.74
-        },
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 6,
-          "gmpPercent": 12.74
-        },
-        {
-          "t": "2026-08-04T03:49:14.361Z",
-          "gmp": 7,
-          "gmpPercent": 14.15
-        },
-        {
-          "t": "2026-08-05T03:44:35.917Z",
-          "gmp": 8,
-          "gmpPercent": 15.09
-        },
-        {
-          "t": "2026-08-05T11:20:43.307Z",
-          "gmp": 14,
-          "gmpPercent": 26.42
-        },
-        {
-          "t": "2026-08-06T03:50:33.432Z",
-          "gmp": 15,
-          "gmpPercent": 28.77
-        },
-        {
-          "t": "2026-08-06T05:48:16.366Z",
-          "gmp": 14,
-          "gmpPercent": 26.42
-        },
-        {
-          "t": "2026-08-06T11:23:15.941Z",
-          "gmp": 15,
-          "gmpPercent": 29.25
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 14,
-          "gmpPercent": 26.42
-        },
-        {
-          "t": "2026-08-07T04:59:15.207Z",
-          "gmp": 13,
-          "gmpPercent": 24.53
-        },
-        {
-          "t": "2026-08-07T07:14:24.952Z",
-          "gmp": 14,
-          "gmpPercent": 26.42
-        },
-        {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 13,
-          "gmpPercent": 24.53
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 15,
-          "gmpPercent": 28.3
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 16,
-          "gmpPercent": 30.19
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 16,
-          "gmpPercent": 30.19
-        },
-        {
-          "t": "2026-08-10T07:39:49.024Z",
-          "gmp": 15,
-          "gmpPercent": 29.25
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 29.25,
-      "status": "Closed"
     },
     "2131": {
       "name": "Sham Foam",
@@ -781,112 +709,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
-    },
-    "2246": {
-      "name": "G.V. Electricals",
-      "category": "SME",
-      "close": "2026-08-07",
-      "series": [
-        {
-          "t": "2026-07-27T09:30:36.063Z",
-          "gmp": 12,
-          "gmpPercent": 9.23
-        },
-        {
-          "t": "2026-07-28T03:47:25.035Z",
-          "gmp": 18,
-          "gmpPercent": 13.85
-        },
-        {
-          "t": "2026-07-28T11:16:57.785Z",
-          "gmp": 22,
-          "gmpPercent": 16.92
-        },
-        {
-          "t": "2026-07-29T03:50:29.354Z",
-          "gmp": 22,
-          "gmpPercent": 16.92
-        },
-        {
-          "t": "2026-07-30T03:41:56.906Z",
-          "gmp": 22,
-          "gmpPercent": 16.92
-        },
-        {
-          "t": "2026-07-30T11:07:45.591Z",
-          "gmp": 25,
-          "gmpPercent": 19.23
-        },
-        {
-          "t": "2026-07-31T04:01:21.257Z",
-          "gmp": 25,
-          "gmpPercent": 19.23
-        },
-        {
-          "t": "2026-08-01T04:01:58.762Z",
-          "gmp": 25,
-          "gmpPercent": 19.23
-        },
-        {
-          "t": "2026-08-01T05:54:34.610Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-02T04:04:26.861Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-04T03:49:14.361Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-04T08:35:21.645Z",
-          "gmp": 24,
-          "gmpPercent": 18.46
-        },
-        {
-          "t": "2026-08-05T03:44:35.917Z",
-          "gmp": 24,
-          "gmpPercent": 18.46
-        },
-        {
-          "t": "2026-08-06T03:50:33.432Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 26,
-          "gmpPercent": 20
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 20,
-      "status": "Closed"
+      "status": "Open"
     },
     "2252": {
       "name": "Credent Connect",
@@ -928,6 +751,11 @@
         },
         {
           "t": "2026-08-10T07:39:49.024Z",
+          "gmp": 15,
+          "gmpPercent": 13.04
+        },
+        {
+          "t": "2026-08-11T02:35:34.185Z",
           "gmp": 15,
           "gmpPercent": 13.04
         }
