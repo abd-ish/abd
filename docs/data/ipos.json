@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:23:31.224Z",
+  "generatedAt": "2026-08-12T10:03:54.131Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closing Today",
-      "gmp": 252,
-      "gmpPercent": 28.93,
+      "gmp": 238,
+      "gmpPercent": 27.32,
       "price": 871,
       "lot": 17,
       "ipoSize": "₹3066.89 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-08-12",
       "listing": "2026-08-17",
       "openDisplay": "10-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 250</b></small>",
-      "closeDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 252</b></small>",
+      "closeDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 238</b></small>",
       "url": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
-      "updatedOn": "12-Aug 12:29"
+      "updatedOn": "12-Aug 14:53"
     },
     {
       "id": "1865",
@@ -28,8 +28,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closing Today",
-      "gmp": 149,
-      "gmpPercent": 18.46,
+      "gmp": 136,
+      "gmpPercent": 16.85,
       "price": 807,
       "lot": 18,
       "ipoSize": "₹939.70 Cr",
@@ -37,9 +37,9 @@
       "close": "2026-08-12",
       "listing": "2026-08-17",
       "openDisplay": "10-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 127</b></small>",
-      "closeDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 149</b></small>",
+      "closeDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 136</b></small>",
       "url": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/",
-      "updatedOn": "12-Aug 12:32"
+      "updatedOn": "12-Aug 14:59"
     },
     {
       "id": "1790",
@@ -58,7 +58,7 @@
       "openDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 32</b></small>",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-      "updatedOn": "12-Aug 12:31"
+      "updatedOn": "12-Aug 14:53"
     },
     {
       "id": "1928",
@@ -66,18 +66,18 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 66,
-      "gmpPercent": 23.16,
+      "gmp": 70,
+      "gmpPercent": 24.56,
       "price": 285,
       "lot": 52,
       "ipoSize": "₹301.62 Cr",
       "open": "2026-08-12",
       "close": "2026-08-14",
       "listing": "2026-08-19",
-      "openDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 66</b></small>",
+      "openDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 70</b></small>",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
-      "updatedOn": "12-Aug 12:33"
+      "updatedOn": "12-Aug 15:01"
     },
     {
       "id": "2299",
@@ -96,7 +96,7 @@
       "openDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 21</b></small>",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
-      "updatedOn": "12-Aug 12:30"
+      "updatedOn": "12-Aug 14:55"
     },
     {
       "id": "1838",
@@ -104,8 +104,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 19,
-      "gmpPercent": 13.57,
+      "gmp": 18,
+      "gmpPercent": 12.86,
       "price": 140,
       "lot": 107,
       "ipoSize": "₹1553.00 Cr",
@@ -115,7 +115,7 @@
       "openDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 22.5</b></small>",
       "closeDisplay": "13-Aug",
       "url": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
-      "updatedOn": "12-Aug 12:28"
+      "updatedOn": "12-Aug 15:00"
     },
     {
       "id": "2131",
@@ -123,8 +123,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Open",
-      "gmp": 7,
-      "gmpPercent": 5.38,
+      "gmp": 9,
+      "gmpPercent": 6.92,
       "price": 130,
       "lot": 1000,
       "ipoSize": "₹40.48 Cr",
@@ -134,7 +134,7 @@
       "openDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "13-Aug",
       "url": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
-      "updatedOn": "12-Aug 12:35"
+      "updatedOn": "12-Aug 15:00"
     },
     {
       "id": "2275",
@@ -153,7 +153,7 @@
       "openDisplay": "12-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "14-Aug",
       "url": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
-      "updatedOn": "12-Aug 12:33"
+      "updatedOn": "12-Aug 14:56"
     },
     {
       "id": "1992",
@@ -172,7 +172,7 @@
       "openDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "13-Aug",
       "url": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
-      "updatedOn": "12-Aug 12:37"
+      "updatedOn": "12-Aug 14:57"
     },
     {
       "id": "2252",
@@ -180,8 +180,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Upcoming",
-      "gmp": 35,
-      "gmpPercent": 18.52,
+      "gmp": 50,
+      "gmpPercent": 26.46,
       "price": 189,
       "lot": 600,
       "ipoSize": "₹93.90 Cr",
@@ -191,7 +191,7 @@
       "openDisplay": "13-Aug",
       "closeDisplay": "17-Aug",
       "url": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/",
-      "updatedOn": "12-Aug 12:29"
+      "updatedOn": "12-Aug 14:57"
     },
     {
       "id": "1799",
@@ -199,8 +199,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 21,
-      "gmpPercent": 10.45,
+      "gmp": 30,
+      "gmpPercent": 14.93,
       "price": 201,
       "lot": 74,
       "ipoSize": "₹1700.00 Cr",
@@ -210,7 +210,7 @@
       "openDisplay": "17-Aug",
       "closeDisplay": "19-Aug",
       "url": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-      "updatedOn": "12-Aug 12:28"
+      "updatedOn": "12-Aug 14:58"
     },
     {
       "id": "1932",
@@ -229,7 +229,7 @@
       "openDisplay": "18-Aug",
       "closeDisplay": "20-Aug",
       "url": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
-      "updatedOn": "12-Aug 12:33"
+      "updatedOn": "12-Aug 14:58"
     },
     {
       "id": "1612",
@@ -248,7 +248,7 @@
       "openDisplay": "18-Aug",
       "closeDisplay": "20-Aug",
       "url": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-      "updatedOn": "12-Aug 12:32"
+      "updatedOn": "12-Aug 14:59"
     },
     {
       "id": "2080",
@@ -267,7 +267,7 @@
       "openDisplay": "17-Aug",
       "closeDisplay": "19-Aug",
       "url": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
-      "updatedOn": "12-Aug 12:35"
+      "updatedOn": "12-Aug 14:57"
     },
     {
       "id": "2046",
@@ -286,7 +286,7 @@
       "openDisplay": "14-Aug",
       "closeDisplay": "18-Aug",
       "url": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
-      "updatedOn": "12-Aug 12:36"
+      "updatedOn": "12-Aug 14:55"
     },
     {
       "id": "1997",
@@ -305,7 +305,7 @@
       "openDisplay": "14-Aug",
       "closeDisplay": "18-Aug",
       "url": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
-      "updatedOn": "12-Aug 12:29"
+      "updatedOn": "12-Aug 14:55"
     },
     {
       "id": "2092",
@@ -324,7 +324,7 @@
       "openDisplay": "14-Aug",
       "closeDisplay": "18-Aug",
       "url": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
-      "updatedOn": "12-Aug 12:28"
+      "updatedOn": "12-Aug 14:57"
     },
     {
       "id": "2123",
@@ -514,7 +514,7 @@
       "openDisplay": "6-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 32</b></small>",
       "closeDisplay": "10-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 39</b></small>",
       "url": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/",
-      "updatedOn": "12-Aug 12:33"
+      "updatedOn": "12-Aug 14:55"
     },
     {
       "id": "1854",
@@ -522,8 +522,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 31,
-      "gmpPercent": 14.62,
+      "gmp": 35,
+      "gmpPercent": 16.51,
       "price": 212,
       "lot": 70,
       "ipoSize": "₹251.88 Cr",
@@ -533,7 +533,7 @@
       "openDisplay": "7-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
       "closeDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 29</b></small>",
       "url": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-      "updatedOn": "12-Aug 12:31"
+      "updatedOn": "12-Aug 14:54"
     },
     {
       "id": "1868",
@@ -541,8 +541,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 13,
-      "gmpPercent": 8.18,
+      "gmp": 12,
+      "gmpPercent": 7.55,
       "price": 159,
       "lot": 94,
       "ipoSize": "₹2480.00 Cr",
@@ -552,7 +552,7 @@
       "openDisplay": "7-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
       "closeDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 13</b></small>",
       "url": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
-      "updatedOn": "12-Aug 12:31"
+      "updatedOn": "12-Aug 14:58"
     },
     {
       "id": "2012",
@@ -571,7 +571,7 @@
       "openDisplay": "7-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/",
-      "updatedOn": "12-Aug 12:36"
+      "updatedOn": "12-Aug 14:55"
     }
   ]
 }

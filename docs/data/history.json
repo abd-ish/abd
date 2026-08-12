@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T07:23:31.224Z",
+  "updatedAt": "2026-08-12T10:03:54.131Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -184,10 +184,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 21,
           "gmpPercent": 10.45
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 30,
+          "gmpPercent": 14.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.45,
+      "lastGmpPercent": 14.93,
       "status": "Upcoming"
     },
     "1838": {
@@ -249,10 +254,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 19,
           "gmpPercent": 13.57
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 18,
+          "gmpPercent": 12.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.57,
+      "lastGmpPercent": 12.86,
       "status": "Open"
     },
     "1854": {
@@ -364,10 +374,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 31,
           "gmpPercent": 14.62
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 35,
+          "gmpPercent": 16.51
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 14.62,
+      "lastGmpPercent": 16.51,
       "status": "Closed"
     },
     "1865": {
@@ -454,10 +469,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 149,
           "gmpPercent": 18.46
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 136,
+          "gmpPercent": 16.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.46,
+      "lastGmpPercent": 16.85,
       "status": "Closing Today"
     },
     "1868": {
@@ -569,10 +589,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 13,
           "gmpPercent": 8.18
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 12,
+          "gmpPercent": 7.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.18,
+      "lastGmpPercent": 7.55,
       "status": "Closed"
     },
     "1928": {
@@ -624,10 +649,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 66,
           "gmpPercent": 23.16
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 70,
+          "gmpPercent": 24.56
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.16,
+      "lastGmpPercent": 24.56,
       "status": "Open"
     },
     "1932": {
@@ -839,10 +869,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 252,
           "gmpPercent": 28.93
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 238,
+          "gmpPercent": 27.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.93,
+      "lastGmpPercent": 27.32,
       "status": "Closing Today"
     },
     "2131": {
@@ -854,10 +889,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 7,
           "gmpPercent": 5.38
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 9,
+          "gmpPercent": 6.92
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.38,
+      "lastGmpPercent": 6.92,
       "status": "Open"
     },
     "2252": {
@@ -869,10 +909,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 35,
           "gmpPercent": 18.52
+        },
+        {
+          "t": "2026-08-12T10:03:54.131Z",
+          "gmp": 50,
+          "gmpPercent": 26.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.52,
+      "lastGmpPercent": 26.46,
       "status": "Upcoming"
     },
     "2275": {
