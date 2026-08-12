@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T09:59:58.654Z",
+  "updatedAt": "2026-08-12T03:05:27.404Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -94,10 +94,15 @@
           "t": "2026-08-11T02:35:34.185Z",
           "gmp": 39,
           "gmpPercent": 41.49
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 47,
+          "gmpPercent": 50
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.49,
+      "lastGmpPercent": 50,
       "status": "Closed"
     },
     "1790": {
@@ -149,19 +154,30 @@
           "t": "2026-08-11T02:35:34.185Z",
           "gmp": 27,
           "gmpPercent": 27.84
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 30,
+          "gmpPercent": 30.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.84,
-      "status": "Upcoming"
+      "lastGmpPercent": 30.93,
+      "status": "Open"
     },
     "1799": {
       "name": "Lalithaa Jewellery Mart",
       "category": "Mainboard",
       "close": "2026-08-19",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 17,
+          "gmpPercent": 8.46
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 8.46,
       "status": "Upcoming"
     },
     "1838": {
@@ -213,10 +229,15 @@
           "t": "2026-08-11T02:35:34.185Z",
           "gmp": 20,
           "gmpPercent": 14.64
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 22,
+          "gmpPercent": 16.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.64,
+      "lastGmpPercent": 16.07,
       "status": "Open"
     },
     "1854": {
@@ -325,9 +346,9 @@
           "gmpPercent": 11.32
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.32,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Closed"
     },
     "1865": {
       "name": "Molbio Diagnostics",
@@ -403,11 +424,16 @@
           "t": "2026-08-11T09:59:58.654Z",
           "gmp": 122,
           "gmpPercent": 15.12
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 138,
+          "gmpPercent": 17.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.12,
-      "status": "Open"
+      "lastGmpPercent": 17.1,
+      "status": "Closing Today"
     },
     "1868": {
       "name": "LEAP India",
@@ -513,11 +539,16 @@
           "t": "2026-08-11T09:59:58.654Z",
           "gmp": 10,
           "gmpPercent": 6.6
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 13,
+          "gmpPercent": 8.18
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.6,
-      "status": "Closing Today"
+      "lastGmpPercent": 8.18,
+      "status": "Closed"
     },
     "1928": {
       "name": "Behari Lal Engineering",
@@ -558,11 +589,16 @@
           "t": "2026-08-11T09:59:58.654Z",
           "gmp": 45,
           "gmpPercent": 15.79
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 67,
+          "gmpPercent": 23.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.79,
-      "status": "Upcoming"
+      "lastGmpPercent": 23.51,
+      "status": "Open"
     },
     "1932": {
       "name": "Shankesh Jewellers",
@@ -629,12 +665,21 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2046": {
       "name": "ENS Enterprises",
       "category": "SME",
       "close": "2026-08-18",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2080": {
+      "name": "Horizon Industrial Parks",
+      "category": "Mainboard",
+      "close": "2026-08-19",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -656,8 +701,8 @@
           "gmpPercent": 18.18
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 18.18,
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2122": {
@@ -754,11 +799,16 @@
           "t": "2026-08-11T02:35:34.185Z",
           "gmp": 250,
           "gmpPercent": 28.7
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 255,
+          "gmpPercent": 29.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.7,
-      "status": "Open"
+      "lastGmpPercent": 29.28,
+      "status": "Closing Today"
     },
     "2131": {
       "name": "Sham Foam",
@@ -773,9 +823,15 @@
       "name": "Credent Connect",
       "category": "SME",
       "close": "2026-08-17",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 35,
+          "gmpPercent": 18.52
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 18.52,
       "status": "Upcoming"
     },
     "2275": {
@@ -785,7 +841,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2299": {
       "name": "Q&T Foods",
@@ -816,11 +872,16 @@
           "t": "2026-08-11T02:35:34.185Z",
           "gmp": 15,
           "gmpPercent": 13.04
+        },
+        {
+          "t": "2026-08-12T03:05:27.404Z",
+          "gmp": 21,
+          "gmpPercent": 18.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.04,
-      "status": "Upcoming"
+      "lastGmpPercent": 18.26,
+      "status": "Open"
     }
   }
 }
