@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:46:22.750Z",
+  "updatedAt": "2026-08-12T07:23:31.224Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -159,10 +159,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 30,
           "gmpPercent": 30.93
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 32,
+          "gmpPercent": 32.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.93,
+      "lastGmpPercent": 32.99,
       "status": "Open"
     },
     "1799": {
@@ -174,10 +179,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 17,
           "gmpPercent": 8.46
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 21,
+          "gmpPercent": 10.45
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.46,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.45,
       "status": "Upcoming"
     },
     "1838": {
@@ -234,10 +244,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 22,
           "gmpPercent": 16.07
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 19,
+          "gmpPercent": 13.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.07,
+      "lastGmpPercent": 13.57,
       "status": "Open"
     },
     "1854": {
@@ -344,10 +359,15 @@
           "t": "2026-08-11T09:59:58.654Z",
           "gmp": 24,
           "gmpPercent": 11.32
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 31,
+          "gmpPercent": 14.62
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 14.62,
       "status": "Closed"
     },
     "1865": {
@@ -429,10 +449,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 138,
           "gmpPercent": 17.1
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 149,
+          "gmpPercent": 18.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.1,
+      "lastGmpPercent": 18.46,
       "status": "Closing Today"
     },
     "1868": {
@@ -594,10 +619,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 67,
           "gmpPercent": 23.51
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 66,
+          "gmpPercent": 23.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.51,
+      "lastGmpPercent": 23.16,
       "status": "Open"
     },
     "1932": {
@@ -804,19 +834,30 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 255,
           "gmpPercent": 29.28
+        },
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 252,
+          "gmpPercent": 28.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.28,
+      "lastGmpPercent": 28.93,
       "status": "Closing Today"
     },
     "2131": {
       "name": "Sham Foam",
       "category": "SME",
       "close": "2026-08-13",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-12T07:23:31.224Z",
+          "gmp": 7,
+          "gmpPercent": 5.38
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5.38,
       "status": "Open"
     },
     "2252": {
