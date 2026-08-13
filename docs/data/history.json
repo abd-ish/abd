@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:08:28.736Z",
+  "updatedAt": "2026-08-13T04:50:18.049Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -10,10 +10,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 17,
           "gmpPercent": 4.72
+        },
+        {
+          "t": "2026-08-13T04:50:18.049Z",
+          "gmp": 19,
+          "gmpPercent": 5.28
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.72,
+      "lastGmpPercent": 5.28,
       "status": "Upcoming"
     },
     "1713": {
@@ -216,6 +221,15 @@
       "lastGmpPercent": 20.4,
       "status": "Upcoming"
     },
+    "1828": {
+      "name": "Gaja Alternative Asset Management",
+      "category": "Mainboard",
+      "close": "2026-08-21",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1838": {
       "name": "Milky Mist Dairy Food",
       "category": "Mainboard",
@@ -285,10 +299,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 21,
           "gmpPercent": 15.36
+        },
+        {
+          "t": "2026-08-13T04:50:18.049Z",
+          "gmp": 23,
+          "gmpPercent": 16.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.36,
+      "lastGmpPercent": 16.43,
       "status": "Closing Today"
     },
     "1854": {
@@ -635,10 +654,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 12,
           "gmpPercent": 7.7
+        },
+        {
+          "t": "2026-08-13T04:50:18.049Z",
+          "gmp": 12,
+          "gmpPercent": 7.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.7,
+      "lastGmpPercent": 7.55,
       "status": "Closed"
     },
     "1928": {
