@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-08-12T10:03:54.131Z",
+  "updatedAt": "2026-08-13T03:08:28.736Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
       "category": "Mainboard",
       "close": "2026-08-20",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 17,
+          "gmpPercent": 4.72
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.72,
       "status": "Upcoming"
     },
     "1713": {
@@ -99,11 +105,16 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 47,
           "gmpPercent": 50
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 50,
+          "gmpPercent": 53.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 50,
-      "status": "Closed"
+      "lastGmpPercent": 53.19,
+      "status": "Listed"
     },
     "1790": {
       "name": "Shiprocket",
@@ -164,10 +175,15 @@
           "t": "2026-08-12T07:23:31.224Z",
           "gmp": 32,
           "gmpPercent": 32.99
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 34,
+          "gmpPercent": 35.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.99,
+      "lastGmpPercent": 35.05,
       "status": "Open"
     },
     "1799": {
@@ -189,10 +205,15 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 30,
           "gmpPercent": 14.93
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 41,
+          "gmpPercent": 20.4
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.93,
+      "lastGmpPercent": 20.4,
       "status": "Upcoming"
     },
     "1838": {
@@ -259,11 +280,16 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 18,
           "gmpPercent": 12.86
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 21,
+          "gmpPercent": 15.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.86,
-      "status": "Open"
+      "lastGmpPercent": 15.36,
+      "status": "Closing Today"
     },
     "1854": {
       "name": "Technocraft Ventures",
@@ -379,10 +405,15 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 35,
           "gmpPercent": 16.51
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 37,
+          "gmpPercent": 17.45
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 16.51,
+      "lastGmpPercent": 17.45,
       "status": "Closed"
     },
     "1865": {
@@ -474,11 +505,16 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 136,
           "gmpPercent": 16.85
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 154,
+          "gmpPercent": 19.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.85,
-      "status": "Closing Today"
+      "lastGmpPercent": 19.08,
+      "status": "Closed"
     },
     "1868": {
       "name": "LEAP India",
@@ -594,10 +630,15 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 12,
           "gmpPercent": 7.55
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 12,
+          "gmpPercent": 7.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.55,
+      "lastGmpPercent": 7.7,
       "status": "Closed"
     },
     "1928": {
@@ -654,19 +695,30 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 70,
           "gmpPercent": 24.56
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 74,
+          "gmpPercent": 25.96
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.56,
+      "lastGmpPercent": 25.96,
       "status": "Open"
     },
     "1932": {
       "name": "Shankesh Jewellers",
       "category": "Mainboard",
       "close": "2026-08-20",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 7,
+          "gmpPercent": 7.53
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.53,
       "status": "Upcoming"
     },
     "1992": {
@@ -676,7 +728,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1997": {
       "name": "Skytech Infinite Platform",
@@ -759,10 +811,15 @@
           "t": "2026-08-11T09:59:58.654Z",
           "gmp": 24,
           "gmpPercent": 18.18
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 18,
+          "gmpPercent": 13.64
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.64,
       "status": "Upcoming"
     },
     "2122": {
@@ -874,11 +931,16 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 238,
           "gmpPercent": 27.32
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 276,
+          "gmpPercent": 31.69
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.32,
-      "status": "Closing Today"
+      "lastGmpPercent": 31.69,
+      "status": "Closed"
     },
     "2131": {
       "name": "Sham Foam",
@@ -894,11 +956,16 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 9,
           "gmpPercent": 6.92
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 9,
+          "gmpPercent": 6.92
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.92,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2252": {
       "name": "Credent Connect",
@@ -914,11 +981,16 @@
           "t": "2026-08-12T10:03:54.131Z",
           "gmp": 50,
           "gmpPercent": 26.46
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 50,
+          "gmpPercent": 26.46
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 26.46,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2275": {
       "name": "Pramodini Medicare",
@@ -963,10 +1035,15 @@
           "t": "2026-08-12T03:05:27.404Z",
           "gmp": 21,
           "gmpPercent": 18.26
+        },
+        {
+          "t": "2026-08-13T03:08:28.736Z",
+          "gmp": 10,
+          "gmpPercent": 8.7
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 18.26,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.7,
       "status": "Open"
     }
   }
