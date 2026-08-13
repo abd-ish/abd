@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T04:50:18.049Z",
+  "updatedAt": "2026-08-13T07:25:27.137Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -15,10 +15,15 @@
           "t": "2026-08-13T04:50:18.049Z",
           "gmp": 19,
           "gmpPercent": 5.28
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 21,
+          "gmpPercent": 5.83
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.28,
+      "lastGmpPercent": 5.83,
       "status": "Upcoming"
     },
     "1713": {
@@ -215,10 +220,30 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 41,
           "gmpPercent": 20.4
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 30,
+          "gmpPercent": 14.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.4,
+      "lastGmpPercent": 14.93,
+      "status": "Upcoming"
+    },
+    "1820": {
+      "name": "Skyways Air",
+      "category": "Mainboard",
+      "close": "2026-08-27",
+      "series": [
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 19,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "1828": {
@@ -304,10 +329,15 @@
           "t": "2026-08-13T04:50:18.049Z",
           "gmp": 23,
           "gmpPercent": 16.43
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 27,
+          "gmpPercent": 19.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.43,
+      "lastGmpPercent": 19.29,
       "status": "Closing Today"
     },
     "1854": {
@@ -429,10 +459,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 37,
           "gmpPercent": 17.45
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 35,
+          "gmpPercent": 16.51
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 17.45,
+      "lastGmpPercent": 16.51,
       "status": "Closed"
     },
     "1865": {
@@ -529,10 +564,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 154,
           "gmpPercent": 19.08
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 156,
+          "gmpPercent": 19.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.08,
+      "lastGmpPercent": 19.33,
       "status": "Closed"
     },
     "1868": {
@@ -659,10 +699,15 @@
           "t": "2026-08-13T04:50:18.049Z",
           "gmp": 12,
           "gmpPercent": 7.55
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 12,
+          "gmpPercent": 8.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.55,
+      "lastGmpPercent": 8.02,
       "status": "Closed"
     },
     "1928": {
@@ -985,10 +1030,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 9,
           "gmpPercent": 6.92
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 12,
+          "gmpPercent": 9.23
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.92,
+      "lastGmpPercent": 9.23,
       "status": "Closing Today"
     },
     "2252": {
@@ -1010,10 +1060,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 50,
           "gmpPercent": 26.46
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 72,
+          "gmpPercent": 38.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.46,
+      "lastGmpPercent": 38.1,
       "status": "Open"
     },
     "2275": {
@@ -1064,10 +1119,15 @@
           "t": "2026-08-13T03:08:28.736Z",
           "gmp": 10,
           "gmpPercent": 8.7
+        },
+        {
+          "t": "2026-08-13T07:25:27.137Z",
+          "gmp": 6,
+          "gmpPercent": 5.22
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.7,
+      "lastGmpPercent": 5.22,
       "status": "Open"
     }
   }
