@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T04:47:21.461Z",
+  "updatedAt": "2026-08-14T07:23:40.816Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -25,10 +25,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 33,
           "gmpPercent": 9.17
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 36,
+          "gmpPercent": 10
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.17,
+      "lastGmpPercent": 10,
       "status": "Upcoming"
     },
     "1790": {
@@ -100,10 +105,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 36,
           "gmpPercent": 37.63
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 35,
+          "gmpPercent": 36.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.63,
+      "lastGmpPercent": 36.08,
       "status": "Closing Today"
     },
     "1799": {
@@ -160,10 +170,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 19,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 19,
+          "gmpPercent": 13.77
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.77,
       "status": "Upcoming"
     },
     "1828": {
@@ -259,10 +274,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 26,
           "gmpPercent": 18.57
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 25,
+          "gmpPercent": 17.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.57,
+      "lastGmpPercent": 17.86,
       "status": "Closed"
     },
     "1854": {
@@ -504,10 +524,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 156,
           "gmpPercent": 19.33
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 135,
+          "gmpPercent": 16.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.33,
+      "lastGmpPercent": 16.73,
       "status": "Closed"
     },
     "1868": {
@@ -804,6 +829,21 @@
       "lastGmpPercent": null,
       "status": "Listed"
     },
+    "2024": {
+      "name": "Mopshop Distribution",
+      "category": "SME",
+      "close": "2026-08-21",
+      "series": [
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 10,
+          "gmpPercent": 7.25
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 7.25,
+      "status": "Upcoming"
+    },
     "2046": {
       "name": "ENS Enterprises",
       "category": "SME",
@@ -852,11 +892,25 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 22,
           "gmpPercent": 16.67
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 24,
+          "gmpPercent": 18.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.67,
+      "lastGmpPercent": 18.18,
       "status": "Open"
+    },
+    "2098": {
+      "name": "Dhanwel Hybrid Seeds",
+      "category": "SME",
+      "close": "2026-08-21",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2122": {
       "name": "Dhoot Transmission",
@@ -977,10 +1031,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 275,
           "gmpPercent": 31.57
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 267,
+          "gmpPercent": 30.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.57,
+      "lastGmpPercent": 30.65,
       "status": "Closed"
     },
     "2131": {
@@ -1111,10 +1170,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 3,
           "gmpPercent": 2.61
+        },
+        {
+          "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 1,
+          "gmpPercent": 0.87
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.61,
+      "lastGmpPercent": 0.87,
       "status": "Closing Today"
     }
   }
