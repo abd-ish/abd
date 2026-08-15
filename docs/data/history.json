@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:00:26.027Z",
+  "updatedAt": "2026-08-15T01:57:17.099Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -30,10 +30,15 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 36,
           "gmpPercent": 10
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 50,
+          "gmpPercent": 13.89
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 10,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.89,
       "status": "Upcoming"
     },
     "1790": {
@@ -110,11 +115,16 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 35,
           "gmpPercent": 36.08
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 34,
+          "gmpPercent": 35.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.08,
-      "status": "Closing Today"
+      "lastGmpPercent": 35.05,
+      "status": "Closed"
     },
     "1799": {
       "name": "Lalithaa Jewellery Mart",
@@ -150,10 +160,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 38,
           "gmpPercent": 18.91
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 24,
+          "gmpPercent": 11.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.91,
+      "lastGmpPercent": 11.94,
       "status": "Upcoming"
     },
     "1820": {
@@ -175,10 +190,15 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 19,
           "gmpPercent": 13.77
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 28,
+          "gmpPercent": 20.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.77,
+      "lastGmpPercent": 20.29,
       "status": "Upcoming"
     },
     "1828": {
@@ -279,146 +299,16 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 25,
           "gmpPercent": 17.86
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 20,
+          "gmpPercent": 14.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.86,
+      "lastGmpPercent": 14.64,
       "status": "Closed"
-    },
-    "1854": {
-      "name": "Technocraft Ventures",
-      "category": "Mainboard",
-      "close": "2026-08-11",
-      "series": [
-        {
-          "t": "2026-08-03T06:23:00.658Z",
-          "gmp": 16,
-          "gmpPercent": 7.78
-        },
-        {
-          "t": "2026-08-03T12:22:31.069Z",
-          "gmp": 16,
-          "gmpPercent": 7.55
-        },
-        {
-          "t": "2026-08-04T03:49:14.361Z",
-          "gmp": 10,
-          "gmpPercent": 4.72
-        },
-        {
-          "t": "2026-08-05T03:44:35.917Z",
-          "gmp": 10,
-          "gmpPercent": 4.72
-        },
-        {
-          "t": "2026-08-05T11:20:43.307Z",
-          "gmp": 12,
-          "gmpPercent": 5.66
-        },
-        {
-          "t": "2026-08-06T03:50:33.432Z",
-          "gmp": 13,
-          "gmpPercent": 6.13
-        },
-        {
-          "t": "2026-08-06T11:23:15.941Z",
-          "gmp": 15,
-          "gmpPercent": 7.08
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 16,
-          "gmpPercent": 7.55
-        },
-        {
-          "t": "2026-08-07T04:59:15.207Z",
-          "gmp": 17,
-          "gmpPercent": 8.02
-        },
-        {
-          "t": "2026-08-07T07:14:24.952Z",
-          "gmp": 16,
-          "gmpPercent": 7.55
-        },
-        {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 17,
-          "gmpPercent": 8.02
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 15,
-          "gmpPercent": 7.08
-        },
-        {
-          "t": "2026-08-08T09:36:51.849Z",
-          "gmp": 19,
-          "gmpPercent": 8.96
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 20,
-          "gmpPercent": 9.67
-        },
-        {
-          "t": "2026-08-09T04:17:16.851Z",
-          "gmp": 21,
-          "gmpPercent": 10.14
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 23,
-          "gmpPercent": 10.85
-        },
-        {
-          "t": "2026-08-10T07:39:49.024Z",
-          "gmp": 24,
-          "gmpPercent": 11.32
-        },
-        {
-          "t": "2026-08-10T10:16:01.094Z",
-          "gmp": 27,
-          "gmpPercent": 12.97
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 30,
-          "gmpPercent": 14.15
-        },
-        {
-          "t": "2026-08-11T09:59:58.654Z",
-          "gmp": 24,
-          "gmpPercent": 11.32
-        },
-        {
-          "t": "2026-08-12T07:23:31.224Z",
-          "gmp": 31,
-          "gmpPercent": 14.62
-        },
-        {
-          "t": "2026-08-12T10:03:54.131Z",
-          "gmp": 35,
-          "gmpPercent": 16.51
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 37,
-          "gmpPercent": 17.45
-        },
-        {
-          "t": "2026-08-13T07:25:27.137Z",
-          "gmp": 35,
-          "gmpPercent": 16.51
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 42,
-          "gmpPercent": 19.81
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 19.81,
-      "status": "Listed"
     },
     "1865": {
       "name": "Molbio Diagnostics",
@@ -529,151 +419,16 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 135,
           "gmpPercent": 16.73
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 115,
+          "gmpPercent": 14.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.73,
+      "lastGmpPercent": 14.25,
       "status": "Closed"
-    },
-    "1868": {
-      "name": "LEAP India",
-      "category": "Mainboard",
-      "close": "2026-08-11",
-      "series": [
-        {
-          "t": "2026-08-03T04:06:56.185Z",
-          "gmp": 8,
-          "gmpPercent": 5.03
-        },
-        {
-          "t": "2026-08-03T06:23:00.658Z",
-          "gmp": 7,
-          "gmpPercent": 4.4
-        },
-        {
-          "t": "2026-08-03T12:22:31.069Z",
-          "gmp": 4,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-08-04T03:49:14.361Z",
-          "gmp": 4,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-08-04T11:22:36.878Z",
-          "gmp": 3,
-          "gmpPercent": 1.89
-        },
-        {
-          "t": "2026-08-05T03:44:35.917Z",
-          "gmp": 3,
-          "gmpPercent": 1.89
-        },
-        {
-          "t": "2026-08-06T03:50:33.432Z",
-          "gmp": 3,
-          "gmpPercent": 1.89
-        },
-        {
-          "t": "2026-08-06T08:34:48.622Z",
-          "gmp": 7,
-          "gmpPercent": 4.72
-        },
-        {
-          "t": "2026-08-06T11:23:15.941Z",
-          "gmp": 11,
-          "gmpPercent": 6.92
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 19,
-          "gmpPercent": 12.26
-        },
-        {
-          "t": "2026-08-07T04:59:15.207Z",
-          "gmp": 19,
-          "gmpPercent": 11.95
-        },
-        {
-          "t": "2026-08-07T07:14:24.952Z",
-          "gmp": 19,
-          "gmpPercent": 12.26
-        },
-        {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 14,
-          "gmpPercent": 9.12
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 15,
-          "gmpPercent": 9.43
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 16,
-          "gmpPercent": 10.06
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 16,
-          "gmpPercent": 10.06
-        },
-        {
-          "t": "2026-08-10T07:39:49.024Z",
-          "gmp": 15,
-          "gmpPercent": 9.75
-        },
-        {
-          "t": "2026-08-10T10:16:01.094Z",
-          "gmp": 13,
-          "gmpPercent": 8.18
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 13,
-          "gmpPercent": 8.18
-        },
-        {
-          "t": "2026-08-11T09:59:58.654Z",
-          "gmp": 10,
-          "gmpPercent": 6.6
-        },
-        {
-          "t": "2026-08-12T03:05:27.404Z",
-          "gmp": 13,
-          "gmpPercent": 8.18
-        },
-        {
-          "t": "2026-08-12T10:03:54.131Z",
-          "gmp": 12,
-          "gmpPercent": 7.55
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 12,
-          "gmpPercent": 7.7
-        },
-        {
-          "t": "2026-08-13T04:50:18.049Z",
-          "gmp": 12,
-          "gmpPercent": 7.55
-        },
-        {
-          "t": "2026-08-13T07:25:27.137Z",
-          "gmp": 12,
-          "gmpPercent": 8.02
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 13,
-          "gmpPercent": 8.18
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.18,
-      "status": "Listed"
     },
     "1928": {
       "name": "Behari Lal Engineering",
@@ -739,11 +494,16 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 80,
           "gmpPercent": 28.07
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 83,
+          "gmpPercent": 29.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.07,
-      "status": "Closing Today"
+      "lastGmpPercent": 29.12,
+      "status": "Closed"
     },
     "1932": {
       "name": "Shankesh Jewellers",
@@ -759,10 +519,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 8,
           "gmpPercent": 8.6
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 6,
+          "gmpPercent": 6.45
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.6,
+      "lastGmpPercent": 6.45,
       "status": "Upcoming"
     },
     "1992": {
@@ -783,51 +548,16 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 13,
           "gmpPercent": 16.88
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 10,
+          "gmpPercent": 12.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.88,
+      "lastGmpPercent": 12.99,
       "status": "Open"
-    },
-    "2012": {
-      "name": "Optimystix Entertainment",
-      "category": "SME",
-      "close": "2026-08-11",
-      "series": [
-        {
-          "t": "2026-08-06T08:34:48.622Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        },
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        },
-        {
-          "t": "2026-08-08T09:36:51.849Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 5,
-          "gmpPercent": 2.86
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
     },
     "2024": {
       "name": "Mopshop Distribution",
@@ -836,6 +566,11 @@
       "series": [
         {
           "t": "2026-08-14T07:23:40.816Z",
+          "gmp": 10,
+          "gmpPercent": 7.25
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
           "gmp": 10,
           "gmpPercent": 7.25
         }
@@ -862,10 +597,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 4,
           "gmpPercent": 7.5
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 4,
+          "gmpPercent": 6.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.5,
+      "lastGmpPercent": 6.67,
       "status": "Upcoming"
     },
     "2092": {
@@ -897,10 +637,15 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 24,
           "gmpPercent": 18.18
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 30,
+          "gmpPercent": 22.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.18,
+      "lastGmpPercent": 22.73,
       "status": "Open"
     },
     "2098": {
@@ -1036,10 +781,15 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 267,
           "gmpPercent": 30.65
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 262,
+          "gmpPercent": 30.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.65,
+      "lastGmpPercent": 30.08,
       "status": "Closed"
     },
     "2131": {
@@ -1069,6 +819,11 @@
         },
         {
           "t": "2026-08-14T04:47:21.461Z",
+          "gmp": 4,
+          "gmpPercent": 3.08
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
           "gmp": 4,
           "gmpPercent": 3.08
         }
@@ -1106,10 +861,15 @@
           "t": "2026-08-14T04:47:21.461Z",
           "gmp": 75,
           "gmpPercent": 39.68
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 65,
+          "gmpPercent": 34.39
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.68,
+      "lastGmpPercent": 34.39,
       "status": "Open"
     },
     "2275": {
@@ -1119,7 +879,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2299": {
       "name": "Q&T Foods",
@@ -1175,11 +935,16 @@
           "t": "2026-08-14T07:23:40.816Z",
           "gmp": 1,
           "gmpPercent": 0.87
+        },
+        {
+          "t": "2026-08-15T01:57:17.099Z",
+          "gmp": 1,
+          "gmpPercent": 0.87
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.87,
-      "status": "Closing Today"
+      "status": "Closed"
     }
   }
 }
