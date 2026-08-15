@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:36:13.412Z",
+  "updatedAt": "2026-08-15T09:25:02.926Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -120,10 +120,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 34,
           "gmpPercent": 35.05
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 31,
+          "gmpPercent": 31.96
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.05,
+      "lastGmpPercent": 31.96,
       "status": "Closed"
     },
     "1799": {
@@ -304,10 +309,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 20,
           "gmpPercent": 14.64
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 16,
+          "gmpPercent": 11.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.64,
+      "lastGmpPercent": 11.43,
       "status": "Closed"
     },
     "1865": {
@@ -657,10 +667,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 30,
           "gmpPercent": 22.73
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 32,
+          "gmpPercent": 24.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.73,
+      "lastGmpPercent": 24.24,
       "status": "Open"
     },
     "2098": {
@@ -801,10 +816,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 262,
           "gmpPercent": 30.08
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 260,
+          "gmpPercent": 29.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.08,
+      "lastGmpPercent": 29.85,
       "status": "Closed"
     },
     "2131": {
@@ -841,10 +861,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 4,
           "gmpPercent": 3.08
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 6,
+          "gmpPercent": 5
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.08,
+      "lastGmpPercent": 5,
       "status": "Closed"
     },
     "2252": {
@@ -881,10 +906,15 @@
           "t": "2026-08-15T01:57:17.099Z",
           "gmp": 65,
           "gmpPercent": 34.39
+        },
+        {
+          "t": "2026-08-15T09:25:02.926Z",
+          "gmp": 55,
+          "gmpPercent": 29.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.39,
+      "lastGmpPercent": 29.1,
       "status": "Open"
     },
     "2275": {
