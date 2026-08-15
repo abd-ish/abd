@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:57:17.099Z",
+  "updatedAt": "2026-08-15T03:37:39.967Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -528,6 +528,21 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.45,
+      "status": "Upcoming"
+    },
+    "1934": {
+      "name": "Tempsens Instruments (India)",
+      "category": "Mainboard",
+      "close": "2026-08-24",
+      "series": [
+        {
+          "t": "2026-08-15T03:37:39.967Z",
+          "gmp": 40,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "1992": {
