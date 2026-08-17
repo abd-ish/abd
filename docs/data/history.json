@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:49:36.714Z",
+  "updatedAt": "2026-08-17T06:53:22.063Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -45,10 +45,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 54,
           "gmpPercent": 15
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 62,
+          "gmpPercent": 17.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15,
+      "lastGmpPercent": 17.22,
       "status": "Upcoming"
     },
     "1790": {
@@ -145,10 +150,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 32,
           "gmpPercent": 32.99
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 34,
+          "gmpPercent": 35.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.99,
+      "lastGmpPercent": 35.57,
       "status": "Closed"
     },
     "1799": {
@@ -200,10 +210,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 29,
           "gmpPercent": 14.68
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 34,
+          "gmpPercent": 16.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.68,
+      "lastGmpPercent": 16.92,
       "status": "Open"
     },
     "1820": {
@@ -244,6 +259,15 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 20.29,
+      "status": "Upcoming"
+    },
+    "1824": {
+      "name": "ABH Healthcare",
+      "category": "SME",
+      "close": "2026-08-26",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1828": {
@@ -334,10 +358,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 84,
           "gmpPercent": 29.47
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 85,
+          "gmpPercent": 29.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.47,
+      "lastGmpPercent": 29.82,
       "status": "Closed"
     },
     "1932": {
@@ -374,10 +403,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 5,
           "gmpPercent": 5.38
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 3,
+          "gmpPercent": 3.23
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.38,
+      "lastGmpPercent": 3.23,
       "status": "Upcoming"
     },
     "1934": {
@@ -399,10 +433,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 65,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 110,
+          "gmpPercent": 36.67
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "alertedAbove": true,
+      "lastGmpPercent": 36.67,
       "status": "Upcoming"
     },
     "1992": {
@@ -438,10 +477,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 7,
           "gmpPercent": 9.09
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 5,
+          "gmpPercent": 6.49
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.09,
+      "lastGmpPercent": 6.49,
       "status": "Open"
     },
     "2024": {
@@ -468,10 +512,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 10,
           "gmpPercent": 7.25
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 12,
+          "gmpPercent": 8.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.25,
+      "lastGmpPercent": 8.7,
       "status": "Upcoming"
     },
     "2046": {
@@ -507,10 +556,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 3,
           "gmpPercent": 5.83
+        },
+        {
+          "t": "2026-08-17T06:53:22.063Z",
+          "gmp": 2,
+          "gmpPercent": 4.17
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.83,
+      "lastGmpPercent": 4.17,
       "status": "Open"
     },
     "2092": {
