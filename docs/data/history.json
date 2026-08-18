@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T06:53:22.063Z",
+  "updatedAt": "2026-08-18T01:58:45.716Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -50,116 +50,16 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 62,
           "gmpPercent": 17.22
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 73,
+          "gmpPercent": 20.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.22,
-      "status": "Upcoming"
-    },
-    "1790": {
-      "name": "Shiprocket",
-      "category": "Mainboard",
-      "close": "2026-08-14",
-      "series": [
-        {
-          "t": "2026-08-07T03:30:17.679Z",
-          "gmp": 16,
-          "gmpPercent": 16.49
-        },
-        {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 15,
-          "gmpPercent": 15.46
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 14,
-          "gmpPercent": 14.43
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 16,
-          "gmpPercent": 16.49
-        },
-        {
-          "t": "2026-08-09T09:38:14.853Z",
-          "gmp": 20,
-          "gmpPercent": 20.62
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 22,
-          "gmpPercent": 22.68
-        },
-        {
-          "t": "2026-08-10T07:39:49.024Z",
-          "gmp": 23,
-          "gmpPercent": 24.23
-        },
-        {
-          "t": "2026-08-10T10:16:01.094Z",
-          "gmp": 26,
-          "gmpPercent": 27.32
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 27,
-          "gmpPercent": 27.84
-        },
-        {
-          "t": "2026-08-12T03:05:27.404Z",
-          "gmp": 30,
-          "gmpPercent": 30.93
-        },
-        {
-          "t": "2026-08-12T07:23:31.224Z",
-          "gmp": 32,
-          "gmpPercent": 32.99
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 34,
-          "gmpPercent": 35.05
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 36,
-          "gmpPercent": 37.63
-        },
-        {
-          "t": "2026-08-14T07:23:40.816Z",
-          "gmp": 35,
-          "gmpPercent": 36.08
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 34,
-          "gmpPercent": 35.05
-        },
-        {
-          "t": "2026-08-15T09:25:02.926Z",
-          "gmp": 31,
-          "gmpPercent": 31.96
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 32,
-          "gmpPercent": 32.99
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 32,
-          "gmpPercent": 32.99
-        },
-        {
-          "t": "2026-08-17T06:53:22.063Z",
-          "gmp": 34,
-          "gmpPercent": 35.57
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 35.57,
-      "status": "Closed"
+      "lastGmpPercent": 20.28,
+      "status": "Open"
     },
     "1799": {
       "name": "Lalithaa Jewellery Mart",
@@ -215,10 +115,15 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 34,
           "gmpPercent": 16.92
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 30,
+          "gmpPercent": 14.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.92,
+      "lastGmpPercent": 14.93,
       "status": "Open"
     },
     "1820": {
@@ -255,10 +160,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 28,
           "gmpPercent": 20.29
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 31,
+          "gmpPercent": 22.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.29,
+      "lastGmpPercent": 22.46,
       "status": "Upcoming"
     },
     "1824": {
@@ -274,100 +184,16 @@
       "name": "Gaja Alternative Asset Management",
       "category": "Mainboard",
       "close": "2026-08-21",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Upcoming"
-    },
-    "1928": {
-      "name": "Behari Lal Engineering",
-      "category": "Mainboard",
-      "close": "2026-08-14",
       "series": [
         {
-          "t": "2026-08-07T10:01:02.078Z",
-          "gmp": 25,
-          "gmpPercent": 8.77
-        },
-        {
-          "t": "2026-08-08T02:28:33.598Z",
-          "gmp": 30,
-          "gmpPercent": 10.53
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 25,
-          "gmpPercent": 8.77
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 25,
-          "gmpPercent": 8.77
-        },
-        {
-          "t": "2026-08-10T10:16:01.094Z",
-          "gmp": 53,
-          "gmpPercent": 18.6
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 53,
-          "gmpPercent": 18.6
-        },
-        {
-          "t": "2026-08-11T09:59:58.654Z",
-          "gmp": 45,
-          "gmpPercent": 15.79
-        },
-        {
-          "t": "2026-08-12T03:05:27.404Z",
-          "gmp": 67,
-          "gmpPercent": 23.51
-        },
-        {
-          "t": "2026-08-12T07:23:31.224Z",
-          "gmp": 66,
-          "gmpPercent": 23.16
-        },
-        {
-          "t": "2026-08-12T10:03:54.131Z",
-          "gmp": 70,
-          "gmpPercent": 24.56
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 74,
-          "gmpPercent": 25.96
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 80,
-          "gmpPercent": 28.07
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 83,
-          "gmpPercent": 29.12
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 83,
-          "gmpPercent": 29.12
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 84,
-          "gmpPercent": 29.47
-        },
-        {
-          "t": "2026-08-17T06:53:22.063Z",
-          "gmp": 85,
-          "gmpPercent": 29.82
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 7,
+          "gmpPercent": 4.38
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 29.82,
-      "status": "Closed"
+      "alertedAbove": false,
+      "lastGmpPercent": 4.38,
+      "status": "Upcoming"
     },
     "1932": {
       "name": "Shankesh Jewellers",
@@ -408,11 +234,16 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 3,
           "gmpPercent": 3.23
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 2,
+          "gmpPercent": 2.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.23,
-      "status": "Upcoming"
+      "lastGmpPercent": 2.15,
+      "status": "Open"
     },
     "1934": {
       "name": "Tempsens Instruments (India)",
@@ -438,10 +269,24 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 110,
           "gmpPercent": 36.67
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 154,
+          "gmpPercent": 51.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.67,
+      "lastGmpPercent": 51.33,
+      "status": "Upcoming"
+    },
+    "1938": {
+      "name": "Augmont Enterprises",
+      "category": "Mainboard",
+      "close": "2026-08-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1992": {
@@ -482,11 +327,16 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 5,
           "gmpPercent": 6.49
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 1,
+          "gmpPercent": 1.3
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.49,
-      "status": "Open"
+      "lastGmpPercent": 1.3,
+      "status": "Closing Today"
     },
     "2024": {
       "name": "Mopshop Distribution",
@@ -517,10 +367,15 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 12,
           "gmpPercent": 8.7
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 18,
+          "gmpPercent": 13.04
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.7,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.04,
       "status": "Upcoming"
     },
     "2046": {
@@ -530,7 +385,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2080": {
       "name": "Horizon Industrial Parks",
@@ -561,10 +416,15 @@
           "t": "2026-08-17T06:53:22.063Z",
           "gmp": 2,
           "gmpPercent": 4.17
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 1,
+          "gmpPercent": 2.83
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.17,
+      "lastGmpPercent": 2.83,
       "status": "Open"
     },
     "2092": {
@@ -616,11 +476,16 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 32,
           "gmpPercent": 24.24
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 30,
+          "gmpPercent": 22.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.24,
-      "status": "Open"
+      "lastGmpPercent": 22.73,
+      "status": "Closing Today"
     },
     "2098": {
       "name": "Dhanwel Hybrid Seeds",
@@ -680,94 +545,15 @@
           "t": "2026-08-17T02:04:28.655Z",
           "gmp": 55,
           "gmpPercent": 29.1
+        },
+        {
+          "t": "2026-08-18T01:58:45.716Z",
+          "gmp": 45,
+          "gmpPercent": 23.81
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.1,
-      "status": "Closing Today"
-    },
-    "2275": {
-      "name": "Pramodini Medicare",
-      "category": "SME",
-      "close": "2026-08-14",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
-    },
-    "2299": {
-      "name": "Q&T Foods",
-      "category": "SME",
-      "close": "2026-08-14",
-      "series": [
-        {
-          "t": "2026-08-08T06:51:32.901Z",
-          "gmp": 6,
-          "gmpPercent": 5.22
-        },
-        {
-          "t": "2026-08-09T02:35:55.981Z",
-          "gmp": 6,
-          "gmpPercent": 5.22
-        },
-        {
-          "t": "2026-08-10T02:41:42.016Z",
-          "gmp": 6,
-          "gmpPercent": 5.22
-        },
-        {
-          "t": "2026-08-10T07:39:49.024Z",
-          "gmp": 15,
-          "gmpPercent": 13.04
-        },
-        {
-          "t": "2026-08-11T02:35:34.185Z",
-          "gmp": 15,
-          "gmpPercent": 13.04
-        },
-        {
-          "t": "2026-08-12T03:05:27.404Z",
-          "gmp": 21,
-          "gmpPercent": 18.26
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 10,
-          "gmpPercent": 8.7
-        },
-        {
-          "t": "2026-08-13T07:25:27.137Z",
-          "gmp": 6,
-          "gmpPercent": 5.22
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 3,
-          "gmpPercent": 2.61
-        },
-        {
-          "t": "2026-08-14T07:23:40.816Z",
-          "gmp": 1,
-          "gmpPercent": 0.87
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 1,
-          "gmpPercent": 0.87
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 1,
-          "gmpPercent": 0.87
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 1,
-          "gmpPercent": 0.87
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0.87,
+      "lastGmpPercent": 23.81,
       "status": "Closed"
     }
   }
