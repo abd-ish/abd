@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:41:11.577Z",
+  "updatedAt": "2026-08-18T09:32:16.611Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -130,10 +130,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 32,
           "gmpPercent": 15.92
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 33,
+          "gmpPercent": 16.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.92,
+      "lastGmpPercent": 16.42,
       "status": "Open"
     },
     "1820": {
@@ -199,10 +204,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 7,
           "gmpPercent": 4.38
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 5,
+          "gmpPercent": 3.12
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.38,
+      "lastGmpPercent": 3.12,
       "status": "Upcoming"
     },
     "1932": {
@@ -249,10 +259,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 2,
           "gmpPercent": 2.15
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 4,
+          "gmpPercent": 4.3
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.15,
+      "lastGmpPercent": 4.3,
       "status": "Open"
     },
     "1934": {
@@ -284,10 +299,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 154,
           "gmpPercent": 51.33
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 158,
+          "gmpPercent": 52.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 51.33,
+      "lastGmpPercent": 52.67,
       "status": "Upcoming"
     },
     "1938": {
@@ -299,10 +319,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 160,
           "gmpPercent": 20.3
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 165,
+          "gmpPercent": 20.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.3,
+      "lastGmpPercent": 20.94,
       "status": "Upcoming"
     },
     "1992": {
@@ -353,6 +378,15 @@
       "alertedAbove": false,
       "lastGmpPercent": 1.3,
       "status": "Closing Today"
+    },
+    "2013": {
+      "name": "Kwick Forensic Solutions",
+      "category": "SME",
+      "close": "2026-08-31",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2024": {
       "name": "Mopshop Distribution",
@@ -516,10 +550,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 37,
           "gmpPercent": 28.03
+        },
+        {
+          "t": "2026-08-18T09:32:16.611Z",
+          "gmp": 43,
+          "gmpPercent": 32.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.03,
+      "lastGmpPercent": 32.58,
       "status": "Closing Today"
     },
     "2098": {
