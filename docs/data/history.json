@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:42:59.040Z",
+  "updatedAt": "2026-08-18T06:41:11.577Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -55,10 +55,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 73,
           "gmpPercent": 20.28
+        },
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 75,
+          "gmpPercent": 20.83
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.28,
+      "lastGmpPercent": 20.83,
       "status": "Open"
     },
     "1799": {
@@ -120,10 +125,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 30,
           "gmpPercent": 14.93
+        },
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 32,
+          "gmpPercent": 15.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.93,
+      "lastGmpPercent": 15.92,
       "status": "Open"
     },
     "1820": {
@@ -284,9 +294,15 @@
       "name": "Augmont Enterprises",
       "category": "Mainboard",
       "close": "2026-08-25",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 160,
+          "gmpPercent": 20.3
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 20.3,
       "status": "Upcoming"
     },
     "1992": {
@@ -378,6 +394,15 @@
       "lastGmpPercent": 13.04,
       "status": "Upcoming"
     },
+    "2037": {
+      "name": "Madhur Knit",
+      "category": "SME",
+      "close": "2026-08-27",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2046": {
       "name": "ENS Enterprises",
       "category": "SME",
@@ -421,10 +446,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 1,
           "gmpPercent": 2.83
+        },
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 1,
+          "gmpPercent": 2.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.83,
+      "lastGmpPercent": 2.08,
       "status": "Open"
     },
     "2092": {
@@ -481,10 +511,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 30,
           "gmpPercent": 22.73
+        },
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 37,
+          "gmpPercent": 28.03
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.73,
+      "lastGmpPercent": 28.03,
       "status": "Closing Today"
     },
     "2098": {
@@ -494,6 +529,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2238": {
+      "name": "Sumax Engineering",
+      "category": "SME",
+      "close": "2026-08-28",
+      "series": [
+        {
+          "t": "2026-08-18T06:41:11.577Z",
+          "gmp": 10,
+          "gmpPercent": 9.9
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 9.9,
       "status": "Upcoming"
     },
     "2252": {
