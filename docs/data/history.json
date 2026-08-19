@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:32:16.611Z",
+  "updatedAt": "2026-08-19T02:02:48.311Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -60,10 +60,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 75,
           "gmpPercent": 20.83
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 77,
+          "gmpPercent": 21.39
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.83,
+      "lastGmpPercent": 21.39,
       "status": "Open"
     },
     "1799": {
@@ -135,10 +140,15 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 33,
           "gmpPercent": 16.42
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 40,
+          "gmpPercent": 19.9
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.42,
+      "lastGmpPercent": 19.9,
       "status": "Open"
     },
     "1820": {
@@ -180,10 +190,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 31,
           "gmpPercent": 22.46
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 40,
+          "gmpPercent": 28.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.46,
+      "lastGmpPercent": 28.99,
       "status": "Upcoming"
     },
     "1824": {
@@ -209,10 +224,15 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 5,
           "gmpPercent": 3.12
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 30,
+          "gmpPercent": 18.75
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.12,
+      "alertedAbove": true,
+      "lastGmpPercent": 18.75,
       "status": "Upcoming"
     },
     "1932": {
@@ -264,10 +284,15 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 4,
           "gmpPercent": 4.3
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 5,
+          "gmpPercent": 5.38
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.3,
+      "lastGmpPercent": 5.38,
       "status": "Open"
     },
     "1934": {
@@ -304,10 +329,15 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 158,
           "gmpPercent": 52.67
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 172,
+          "gmpPercent": 57.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 52.67,
+      "lastGmpPercent": 57.33,
       "status": "Upcoming"
     },
     "1938": {
@@ -324,10 +354,15 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 165,
           "gmpPercent": 20.94
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 190,
+          "gmpPercent": 24.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.94,
+      "lastGmpPercent": 24.11,
       "status": "Upcoming"
     },
     "1992": {
@@ -373,11 +408,16 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 1,
           "gmpPercent": 1.3
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 1,
+          "gmpPercent": 1.3
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.3,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
@@ -422,10 +462,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 18,
           "gmpPercent": 13.04
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 22,
+          "gmpPercent": 15.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.04,
+      "lastGmpPercent": 15.94,
       "status": "Upcoming"
     },
     "2037": {
@@ -441,10 +486,16 @@
       "name": "ENS Enterprises",
       "category": "SME",
       "close": "2026-08-18",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 4,
+          "gmpPercent": 4.35
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 4.35,
+      "status": "Closed"
     },
     "2080": {
       "name": "Horizon Industrial Parks",
@@ -485,10 +536,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 1,
           "gmpPercent": 2.08
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 1,
+          "gmpPercent": 1.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.08,
+      "lastGmpPercent": 1.67,
       "status": "Open"
     },
     "2092": {
@@ -555,11 +611,16 @@
           "t": "2026-08-18T09:32:16.611Z",
           "gmp": 43,
           "gmpPercent": 32.58
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 43,
+          "gmpPercent": 32.58
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 32.58,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2098": {
       "name": "Dhanwel Hybrid Seeds",
@@ -579,10 +640,15 @@
           "t": "2026-08-18T06:41:11.577Z",
           "gmp": 10,
           "gmpPercent": 9.9
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 20,
+          "gmpPercent": 19.8
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.9,
+      "alertedAbove": true,
+      "lastGmpPercent": 19.8,
       "status": "Upcoming"
     },
     "2252": {
@@ -639,10 +705,15 @@
           "t": "2026-08-18T01:58:45.716Z",
           "gmp": 45,
           "gmpPercent": 23.81
+        },
+        {
+          "t": "2026-08-19T02:02:48.311Z",
+          "gmp": 63,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.81,
+      "lastGmpPercent": 33.33,
       "status": "Closed"
     }
   }
