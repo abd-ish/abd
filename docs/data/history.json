@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:02:48.311Z",
+  "updatedAt": "2026-08-19T03:45:04.392Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -149,7 +149,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 19.9,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1820": {
       "name": "Skyways Air",
@@ -233,7 +233,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 18.75,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1932": {
       "name": "Shankesh Jewellers",
@@ -372,7 +372,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1997": {
       "name": "Skytech Infinite Platform",
@@ -471,7 +471,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 15.94,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2037": {
       "name": "Madhur Knit",
@@ -545,7 +545,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.67,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2092": {
       "name": "Technocrats Plasma Systems",
@@ -629,7 +629,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2238": {
       "name": "Sumax Engineering",
