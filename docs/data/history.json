@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T06:41:24.123Z",
+  "updatedAt": "2026-08-19T09:32:53.120Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -145,10 +145,15 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 40,
           "gmpPercent": 19.9
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 42,
+          "gmpPercent": 21.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.9,
+      "lastGmpPercent": 21.14,
       "status": "Closing Today"
     },
     "1820": {
@@ -229,11 +234,25 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 30,
           "gmpPercent": 18.75
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 21,
+          "gmpPercent": 13.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.75,
+      "lastGmpPercent": 13.44,
       "status": "Open"
+    },
+    "1876": {
+      "name": "Hy-Tech Engineers",
+      "category": "Mainboard",
+      "close": "2026-08-27",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1932": {
       "name": "Shankesh Jewellers",
@@ -289,10 +308,15 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 5,
           "gmpPercent": 5.38
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 3,
+          "gmpPercent": 3.76
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.38,
+      "lastGmpPercent": 3.76,
       "status": "Open"
     },
     "1934": {
@@ -334,10 +358,15 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 172,
           "gmpPercent": 57.33
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 185,
+          "gmpPercent": 61.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 57.33,
+      "lastGmpPercent": 61.67,
       "status": "Upcoming"
     },
     "1938": {
@@ -497,6 +526,21 @@
       "lastGmpPercent": 4.35,
       "status": "Closed"
     },
+    "2069": {
+      "name": "Symbiotec Pharmalab",
+      "category": "Mainboard",
+      "close": "2026-08-27",
+      "series": [
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 150,
+          "gmpPercent": 15.18
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 15.18,
+      "status": "Upcoming"
+    },
     "2080": {
       "name": "Horizon Industrial Parks",
       "category": "Mainboard",
@@ -541,10 +585,15 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 1,
           "gmpPercent": 1.67
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 0,
+          "gmpPercent": 0.83
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.67,
+      "lastGmpPercent": 0.83,
       "status": "Closing Today"
     },
     "2092": {
@@ -710,10 +759,15 @@
           "t": "2026-08-19T02:02:48.311Z",
           "gmp": 63,
           "gmpPercent": 33.33
+        },
+        {
+          "t": "2026-08-19T09:32:53.120Z",
+          "gmp": 78,
+          "gmpPercent": 41.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.33,
+      "lastGmpPercent": 41.27,
       "status": "Closed"
     }
   }
