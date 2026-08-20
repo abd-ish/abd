@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:45:50.069Z",
+  "updatedAt": "2026-08-20T06:43:27.573Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -70,10 +70,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 77,
           "gmpPercent": 21.39
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 78,
+          "gmpPercent": 21.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.39,
+      "lastGmpPercent": 21.67,
       "status": "Closing Today"
     },
     "1799": {
@@ -160,11 +165,25 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 54,
           "gmpPercent": 26.87
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 57,
+          "gmpPercent": 28.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.87,
+      "lastGmpPercent": 28.36,
       "status": "Closed"
+    },
+    "1815": {
+      "name": "Annu Projects",
+      "category": "Mainboard",
+      "close": "2026-08-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1820": {
       "name": "Skyways Air",
@@ -259,10 +278,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 23,
           "gmpPercent": 14.37
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 24,
+          "gmpPercent": 15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.37,
+      "lastGmpPercent": 15,
       "status": "Open"
     },
     "1876": {
@@ -274,10 +298,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 5,
           "gmpPercent": 9.43
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 2,
+          "gmpPercent": 3.77
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.43,
+      "lastGmpPercent": 3.77,
       "status": "Upcoming"
     },
     "1932": {
@@ -344,10 +373,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 2,
           "gmpPercent": 2.69
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 2,
+          "gmpPercent": 2.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.69,
+      "lastGmpPercent": 2.15,
       "status": "Closing Today"
     },
     "1934": {
@@ -399,10 +433,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 220,
           "gmpPercent": 73.33
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 232,
+          "gmpPercent": 77.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.33,
+      "lastGmpPercent": 77.33,
       "status": "Open"
     },
     "1938": {
@@ -498,9 +537,15 @@
       "name": "Kwick Forensic Solutions",
       "category": "SME",
       "close": "2026-08-31",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 15,
+          "gmpPercent": 0
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "2024": {
@@ -547,10 +592,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 5,
           "gmpPercent": 3.62
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 3,
+          "gmpPercent": 2.17
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.62,
+      "lastGmpPercent": 2.17,
       "status": "Open"
     },
     "2037": {
@@ -576,10 +626,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 4,
           "gmpPercent": 4.35
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 6,
+          "gmpPercent": 6.52
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.35,
+      "lastGmpPercent": 6.52,
       "status": "Closed"
     },
     "2069": {
@@ -656,10 +711,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 1,
           "gmpPercent": 2.17
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 1,
+          "gmpPercent": 2.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.17,
+      "lastGmpPercent": 2.67,
       "status": "Closed"
     },
     "2092": {
@@ -736,10 +796,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 41,
           "gmpPercent": 31.06
+        },
+        {
+          "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 56,
+          "gmpPercent": 42.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.06,
+      "lastGmpPercent": 42.42,
       "status": "Closed"
     },
     "2098": {
