@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:43:27.573Z",
+  "updatedAt": "2026-08-20T09:33:44.249Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -75,10 +75,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 78,
           "gmpPercent": 21.67
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 79,
+          "gmpPercent": 21.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.67,
+      "lastGmpPercent": 21.94,
       "status": "Closing Today"
     },
     "1799": {
@@ -170,10 +175,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 57,
           "gmpPercent": 28.36
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 60,
+          "gmpPercent": 29.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.36,
+      "lastGmpPercent": 29.85,
       "status": "Closed"
     },
     "1815": {
@@ -283,10 +293,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 24,
           "gmpPercent": 15
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 14,
+          "gmpPercent": 8.75
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 15,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.75,
       "status": "Open"
     },
     "1876": {
@@ -378,10 +393,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 2,
           "gmpPercent": 2.15
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 1,
+          "gmpPercent": 1.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.15,
+      "lastGmpPercent": 1.08,
       "status": "Closing Today"
     },
     "1934": {
@@ -468,10 +488,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 280,
           "gmpPercent": 35.53
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 285,
+          "gmpPercent": 36.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.53,
+      "lastGmpPercent": 36.17,
       "status": "Upcoming"
     },
     "1992": {
@@ -597,16 +622,30 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 3,
           "gmpPercent": 2.17
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 1,
+          "gmpPercent": 0.72
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.17,
+      "lastGmpPercent": 0.72,
       "status": "Open"
     },
     "2037": {
       "name": "Madhur Knit",
       "category": "SME",
       "close": "2026-08-27",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2041": {
+      "name": "Rays of Belief",
+      "category": "Mainboard",
+      "close": "2026-09-03",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -651,10 +690,15 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 220,
           "gmpPercent": 22.27
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 240,
+          "gmpPercent": 24.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.27,
+      "lastGmpPercent": 24.29,
       "status": "Upcoming"
     },
     "2080": {
@@ -716,10 +760,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 1,
           "gmpPercent": 2.67
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 1,
+          "gmpPercent": 3.17
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.67,
+      "lastGmpPercent": 3.17,
       "status": "Closed"
     },
     "2092": {
@@ -801,10 +850,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 56,
           "gmpPercent": 42.42
+        },
+        {
+          "t": "2026-08-20T09:33:44.249Z",
+          "gmp": 59,
+          "gmpPercent": 44.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 42.42,
+      "lastGmpPercent": 44.7,
       "status": "Closed"
     },
     "2098": {
