@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:49:57.141Z",
+  "updatedAt": "2026-08-21T06:43:54.862Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -85,11 +85,31 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 80,
           "gmpPercent": 22.22
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 75,
+          "gmpPercent": 20.83
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.22,
+      "lastGmpPercent": 20.83,
       "status": "Closed"
+    },
+    "1619": {
+      "name": "Lumino Industries",
+      "category": "Mainboard",
+      "close": "2026-08-31",
+      "series": [
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 18,
+          "gmpPercent": 22.56
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 22.56,
+      "status": "Upcoming"
     },
     "1799": {
       "name": "Lalithaa Jewellery Mart",
@@ -190,10 +210,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 61,
           "gmpPercent": 30.35
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 58,
+          "gmpPercent": 28.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.35,
+      "lastGmpPercent": 28.86,
       "status": "Closed"
     },
     "1815": {
@@ -318,10 +343,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 18,
           "gmpPercent": 11.25
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 13,
+          "gmpPercent": 8.12
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.25,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.12,
       "status": "Closing Today"
     },
     "1876": {
@@ -493,10 +523,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 270,
           "gmpPercent": 90
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 274,
+          "gmpPercent": 91.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 90,
+      "lastGmpPercent": 91.33,
       "status": "Open"
     },
     "1938": {
@@ -835,10 +870,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 3,
           "gmpPercent": 5.67
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 3,
+          "gmpPercent": 6
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.67,
+      "lastGmpPercent": 6,
       "status": "Closed"
     },
     "2092": {
@@ -950,10 +990,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 5,
           "gmpPercent": 5.05
+        },
+        {
+          "t": "2026-08-21T06:43:54.862Z",
+          "gmp": 1,
+          "gmpPercent": 1.01
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.05,
+      "lastGmpPercent": 1.01,
       "status": "Closing Today"
     },
     "2238": {
