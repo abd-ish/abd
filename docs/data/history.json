@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:33:44.249Z",
+  "updatedAt": "2026-08-21T02:08:36.274Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -80,11 +80,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 79,
           "gmpPercent": 21.94
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 80,
+          "gmpPercent": 22.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.94,
-      "status": "Closing Today"
+      "lastGmpPercent": 22.22,
+      "status": "Closed"
     },
     "1799": {
       "name": "Lalithaa Jewellery Mart",
@@ -180,10 +185,15 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 60,
           "gmpPercent": 29.85
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 61,
+          "gmpPercent": 30.35
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.85,
+      "lastGmpPercent": 30.35,
       "status": "Closed"
     },
     "1815": {
@@ -244,6 +254,11 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 42,
           "gmpPercent": 30.43
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 42,
+          "gmpPercent": 30.43
         }
       ],
       "alertedAbove": true,
@@ -298,11 +313,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 14,
           "gmpPercent": 8.75
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 18,
+          "gmpPercent": 11.25
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.75,
-      "status": "Open"
+      "alertedAbove": true,
+      "lastGmpPercent": 11.25,
+      "status": "Closing Today"
     },
     "1876": {
       "name": "Hy-Tech Engineers",
@@ -318,10 +338,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 2,
           "gmpPercent": 3.77
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 22,
+          "gmpPercent": 41.51
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.77,
+      "alertedAbove": true,
+      "lastGmpPercent": 41.51,
       "status": "Upcoming"
     },
     "1932": {
@@ -398,11 +423,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 1,
           "gmpPercent": 1.08
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 5,
+          "gmpPercent": 5.38
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.08,
-      "status": "Closing Today"
+      "lastGmpPercent": 5.38,
+      "status": "Closed"
     },
     "1934": {
       "name": "Tempsens Instruments (India)",
@@ -458,10 +488,15 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 232,
           "gmpPercent": 77.33
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 270,
+          "gmpPercent": 90
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 77.33,
+      "lastGmpPercent": 90,
       "status": "Open"
     },
     "1938": {
@@ -493,11 +528,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 285,
           "gmpPercent": 36.17
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 300,
+          "gmpPercent": 38.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.17,
-      "status": "Upcoming"
+      "lastGmpPercent": 38.07,
+      "status": "Open"
     },
     "1992": {
       "name": "Fascinate Textiles",
@@ -552,11 +592,16 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 1,
           "gmpPercent": 1.3
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 1,
+          "gmpPercent": 1.3
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.3,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
@@ -565,6 +610,11 @@
       "series": [
         {
           "t": "2026-08-20T06:43:27.573Z",
+          "gmp": 15,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
           "gmp": 15,
           "gmpPercent": 0
         }
@@ -627,11 +677,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 1,
           "gmpPercent": 0.72
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 1,
+          "gmpPercent": 0.72
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.72,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2037": {
       "name": "Madhur Knit",
@@ -670,11 +725,16 @@
           "t": "2026-08-20T06:43:27.573Z",
           "gmp": 6,
           "gmpPercent": 6.52
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 5,
+          "gmpPercent": 5.43
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.52,
-      "status": "Closed"
+      "lastGmpPercent": 5.43,
+      "status": "Listed"
     },
     "2069": {
       "name": "Symbiotec Pharmalab",
@@ -695,10 +755,15 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 240,
           "gmpPercent": 24.29
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 320,
+          "gmpPercent": 32.39
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.29,
+      "lastGmpPercent": 32.39,
       "status": "Upcoming"
     },
     "2080": {
@@ -765,10 +830,15 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 1,
           "gmpPercent": 3.17
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 3,
+          "gmpPercent": 5.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.17,
+      "lastGmpPercent": 5.67,
       "status": "Closed"
     },
     "2092": {
@@ -855,11 +925,16 @@
           "t": "2026-08-20T09:33:44.249Z",
           "gmp": 59,
           "gmpPercent": 44.7
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 70,
+          "gmpPercent": 53.03
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 44.7,
-      "status": "Closed"
+      "lastGmpPercent": 53.03,
+      "status": "Listed"
     },
     "2098": {
       "name": "Dhanwel Hybrid Seeds",
@@ -870,11 +945,16 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 12,
           "gmpPercent": 12.12
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 5,
+          "gmpPercent": 5.05
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 12.12,
-      "status": "Open"
+      "alertedAbove": false,
+      "lastGmpPercent": 5.05,
+      "status": "Closing Today"
     },
     "2238": {
       "name": "Sumax Engineering",
@@ -895,86 +975,16 @@
           "t": "2026-08-20T02:00:50.000Z",
           "gmp": 30,
           "gmpPercent": 29.7
+        },
+        {
+          "t": "2026-08-21T02:08:36.274Z",
+          "gmp": 32,
+          "gmpPercent": 31.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.7,
+      "lastGmpPercent": 31.68,
       "status": "Upcoming"
-    },
-    "2252": {
-      "name": "Credent Connect",
-      "category": "SME",
-      "close": "2026-08-17",
-      "series": [
-        {
-          "t": "2026-08-12T03:05:27.404Z",
-          "gmp": 35,
-          "gmpPercent": 18.52
-        },
-        {
-          "t": "2026-08-12T10:03:54.131Z",
-          "gmp": 50,
-          "gmpPercent": 26.46
-        },
-        {
-          "t": "2026-08-13T03:08:28.736Z",
-          "gmp": 50,
-          "gmpPercent": 26.46
-        },
-        {
-          "t": "2026-08-13T07:25:27.137Z",
-          "gmp": 72,
-          "gmpPercent": 38.1
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 75,
-          "gmpPercent": 39.68
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 65,
-          "gmpPercent": 34.39
-        },
-        {
-          "t": "2026-08-15T09:25:02.926Z",
-          "gmp": 55,
-          "gmpPercent": 29.1
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 55,
-          "gmpPercent": 29.1
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 55,
-          "gmpPercent": 29.1
-        },
-        {
-          "t": "2026-08-18T01:58:45.716Z",
-          "gmp": 45,
-          "gmpPercent": 23.81
-        },
-        {
-          "t": "2026-08-19T02:02:48.311Z",
-          "gmp": 63,
-          "gmpPercent": 33.33
-        },
-        {
-          "t": "2026-08-19T09:32:53.120Z",
-          "gmp": 78,
-          "gmpPercent": 41.27
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 92,
-          "gmpPercent": 48.68
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 48.68,
-      "status": "Listed"
     }
   }
 }
