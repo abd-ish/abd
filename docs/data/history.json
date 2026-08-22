@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:40:53.365Z",
+  "updatedAt": "2026-08-22T06:38:00.481Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -245,10 +245,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 66,
           "gmpPercent": 32.84
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 65,
+          "gmpPercent": 32.34
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.84,
+      "lastGmpPercent": 32.34,
       "status": "Closed"
     },
     "1815": {
@@ -335,10 +340,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 45,
           "gmpPercent": 32.61
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 43,
+          "gmpPercent": 31.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.61,
+      "lastGmpPercent": 31.16,
       "status": "Upcoming"
     },
     "1824": {
@@ -524,10 +534,15 @@
           "t": "2026-08-21T02:08:36.274Z",
           "gmp": 5,
           "gmpPercent": 5.38
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 2,
+          "gmpPercent": 2.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 2.15,
       "status": "Closed"
     },
     "1934": {
@@ -604,10 +619,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 290,
           "gmpPercent": 96.67
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 305,
+          "gmpPercent": 101.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 96.67,
+      "lastGmpPercent": 101.67,
       "status": "Open"
     },
     "1938": {
@@ -649,10 +669,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 310,
           "gmpPercent": 39.34
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 340,
+          "gmpPercent": 43.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.34,
+      "lastGmpPercent": 43.15,
       "status": "Open"
     },
     "1992": {
@@ -811,10 +836,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 345,
           "gmpPercent": 34.92
+        },
+        {
+          "t": "2026-08-22T06:38:00.481Z",
+          "gmp": 350,
+          "gmpPercent": 35.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.92,
+      "lastGmpPercent": 35.43,
       "status": "Upcoming"
     },
     "2080": {
