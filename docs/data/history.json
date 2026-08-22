@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:58:25.746Z",
+  "updatedAt": "2026-08-22T03:40:53.365Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -683,10 +683,15 @@
           "t": "2026-08-22T01:58:25.746Z",
           "gmp": 43,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-08-22T03:40:53.365Z",
+          "gmp": 43,
+          "gmpPercent": 47.78
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "alertedAbove": true,
+      "lastGmpPercent": 47.78,
       "status": "Upcoming"
     },
     "2024": {
