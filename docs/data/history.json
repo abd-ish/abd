@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:49:55.499Z",
+  "updatedAt": "2026-08-23T06:39:28.490Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -319,10 +319,15 @@
           "t": "2026-08-23T02:09:39.538Z",
           "gmp": 17,
           "gmpPercent": 10.62
+        },
+        {
+          "t": "2026-08-23T06:39:28.490Z",
+          "gmp": 17,
+          "gmpPercent": 10.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10.62,
+      "lastGmpPercent": 10.78,
       "status": "Closed"
     },
     "1876": {
@@ -449,10 +454,15 @@
           "t": "2026-08-23T02:09:39.538Z",
           "gmp": 2,
           "gmpPercent": 2.15
+        },
+        {
+          "t": "2026-08-23T06:39:28.490Z",
+          "gmp": 1,
+          "gmpPercent": 1.61
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.15,
+      "lastGmpPercent": 1.61,
       "status": "Closed"
     },
     "1934": {
@@ -629,10 +639,15 @@
           "t": "2026-08-23T02:09:39.538Z",
           "gmp": 51,
           "gmpPercent": 56.67
+        },
+        {
+          "t": "2026-08-23T06:39:28.490Z",
+          "gmp": 61,
+          "gmpPercent": 67.78
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 56.67,
+      "lastGmpPercent": 67.78,
       "status": "Upcoming"
     },
     "2024": {
@@ -767,10 +782,15 @@
           "t": "2026-08-23T02:09:39.538Z",
           "gmp": 410,
           "gmpPercent": 41.5
+        },
+        {
+          "t": "2026-08-23T06:39:28.490Z",
+          "gmp": 405,
+          "gmpPercent": 40.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.5,
+      "lastGmpPercent": 40.99,
       "status": "Upcoming"
     },
     "2098": {
