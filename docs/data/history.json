@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:39:28.490Z",
+  "updatedAt": "2026-08-23T09:26:26.899Z",
   "ipos": {
     "1612": {
       "name": "Sunshine Pictures",
@@ -139,6 +139,15 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 63.41,
+      "status": "Upcoming"
+    },
+    "1783": {
+      "name": "Priority Jewels",
+      "category": "Mainboard",
+      "close": "",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1815": {
@@ -459,10 +468,15 @@
           "t": "2026-08-23T06:39:28.490Z",
           "gmp": 1,
           "gmpPercent": 1.61
+        },
+        {
+          "t": "2026-08-23T09:26:26.899Z",
+          "gmp": 2,
+          "gmpPercent": 2.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.61,
+      "lastGmpPercent": 2.15,
       "status": "Closed"
     },
     "1934": {
@@ -604,10 +618,15 @@
           "t": "2026-08-23T02:09:39.538Z",
           "gmp": 395,
           "gmpPercent": 50.13
+        },
+        {
+          "t": "2026-08-23T09:26:26.899Z",
+          "gmp": 380,
+          "gmpPercent": 48.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 50.13,
+      "lastGmpPercent": 48.22,
       "status": "Open"
     },
     "2013": {
@@ -787,10 +806,15 @@
           "t": "2026-08-23T06:39:28.490Z",
           "gmp": 405,
           "gmpPercent": 40.99
+        },
+        {
+          "t": "2026-08-23T09:26:26.899Z",
+          "gmp": 409,
+          "gmpPercent": 41.4
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.99,
+      "lastGmpPercent": 41.4,
       "status": "Upcoming"
     },
     "2098": {
