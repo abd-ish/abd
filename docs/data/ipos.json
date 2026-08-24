@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:26:26.899Z",
+  "generatedAt": "2026-08-24T02:08:07.177Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
@@ -8,9 +8,9 @@
       "name": "Tempsens Instruments (India)",
       "category": "Mainboard",
       "exchange": "IPO",
-      "status": "Open",
-      "gmp": 321,
-      "gmpPercent": 107,
+      "status": "Closing Today",
+      "gmp": 313,
+      "gmpPercent": 104.33,
       "price": 300,
       "lot": 50,
       "ipoSize": "₹650.00 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-08-24",
       "listing": "2026-08-28",
       "openDisplay": "20-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 270</b></small>",
-      "closeDisplay": "24-Aug",
+      "closeDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 313</b></small>",
       "url": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
-      "updatedOn": "23-Aug 14:29"
+      "updatedOn": "24-Aug 6:54"
     },
     {
       "id": "1938",
@@ -39,7 +39,102 @@
       "openDisplay": "21-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 310</b></small>",
       "closeDisplay": "25-Aug",
       "url": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
-      "updatedOn": "23-Aug 14:35"
+      "updatedOn": "24-Aug 6:59"
+    },
+    {
+      "id": "1876",
+      "name": "Hy-Tech Engineers",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 25,
+      "gmpPercent": 47.17,
+      "price": 53,
+      "lot": 283,
+      "ipoSize": "₹135.73 Cr",
+      "open": "2026-08-24",
+      "close": "2026-08-27",
+      "listing": "2026-09-01",
+      "openDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
+      "closeDisplay": "27-Aug",
+      "url": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
+      "updatedOn": "24-Aug 7:01"
+    },
+    {
+      "id": "2069",
+      "name": "Symbiotec Pharmalab",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 409,
+      "gmpPercent": 41.4,
+      "price": 988,
+      "lot": 15,
+      "ipoSize": "₹1757.00 Cr",
+      "open": "2026-08-24",
+      "close": "2026-08-27",
+      "listing": "2026-09-01",
+      "openDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 409</b></small>",
+      "closeDisplay": "27-Aug",
+      "url": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
+      "updatedOn": "24-Aug 7:00"
+    },
+    {
+      "id": "1820",
+      "name": "Skyways Air",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 32,
+      "gmpPercent": 23.19,
+      "price": 138,
+      "lot": 100,
+      "ipoSize": "₹582.80 Cr",
+      "open": "2026-08-24",
+      "close": "2026-08-27",
+      "listing": "2026-09-01",
+      "openDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 32</b></small>",
+      "closeDisplay": "27-Aug",
+      "url": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+      "updatedOn": "24-Aug 6:59"
+    },
+    {
+      "id": "2037",
+      "name": "Madhur Knit",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Open",
+      "gmp": 9,
+      "gmpPercent": 9,
+      "price": 100,
+      "lot": 1200,
+      "ipoSize": "₹53.27 Cr",
+      "open": "2026-08-24",
+      "close": "2026-08-27",
+      "listing": "2026-09-01",
+      "openDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
+      "closeDisplay": "27-Aug",
+      "url": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
+      "updatedOn": "24-Aug 6:57"
+    },
+    {
+      "id": "1824",
+      "name": "ABH Healthcare",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Open",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 102,
+      "lot": 1200,
+      "ipoSize": "₹34.98 Cr",
+      "open": "2026-08-24",
+      "close": "2026-08-27",
+      "listing": "2026-09-01",
+      "openDisplay": "24-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "closeDisplay": "27-Aug",
+      "url": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
+      "updatedOn": "24-Aug 6:57"
     },
     {
       "id": "2013",
@@ -58,7 +153,7 @@
       "openDisplay": "27-Aug",
       "closeDisplay": "31-Aug",
       "url": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/",
-      "updatedOn": "23-Aug 14:37"
+      "updatedOn": "24-Aug 6:54"
     },
     {
       "id": "1619",
@@ -66,8 +161,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 52,
-      "gmpPercent": 63.41,
+      "gmp": 49,
+      "gmpPercent": 59.76,
       "price": 82,
       "lot": 182,
       "ipoSize": "₹700.00 Cr",
@@ -77,45 +172,7 @@
       "openDisplay": "27-Aug",
       "closeDisplay": "31-Aug",
       "url": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/",
-      "updatedOn": "23-Aug 14:35"
-    },
-    {
-      "id": "1876",
-      "name": "Hy-Tech Engineers",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 27,
-      "gmpPercent": 50.94,
-      "price": 53,
-      "lot": 283,
-      "ipoSize": "₹135.73 Cr",
-      "open": "2026-08-24",
-      "close": "2026-08-27",
-      "listing": "2026-09-01",
-      "openDisplay": "24-Aug",
-      "closeDisplay": "27-Aug",
-      "url": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
-      "updatedOn": "23-Aug 14:33"
-    },
-    {
-      "id": "2069",
-      "name": "Symbiotec Pharmalab",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 409,
-      "gmpPercent": 41.4,
-      "price": 988,
-      "lot": 15,
-      "ipoSize": "₹1757.00 Cr",
-      "open": "2026-08-24",
-      "close": "2026-08-27",
-      "listing": "2026-09-01",
-      "openDisplay": "24-Aug",
-      "closeDisplay": "27-Aug",
-      "url": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
-      "updatedOn": "23-Aug 14:33"
+      "updatedOn": "24-Aug 6:56"
     },
     {
       "id": "2238",
@@ -134,26 +191,7 @@
       "openDisplay": "25-Aug",
       "closeDisplay": "28-Aug",
       "url": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
-      "updatedOn": "23-Aug 14:36"
-    },
-    {
-      "id": "1820",
-      "name": "Skyways Air",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 37,
-      "gmpPercent": 26.81,
-      "price": 138,
-      "lot": 100,
-      "ipoSize": "₹582.80 Cr",
-      "open": "2026-08-24",
-      "close": "2026-08-27",
-      "listing": "2026-09-01",
-      "openDisplay": "24-Aug",
-      "closeDisplay": "27-Aug",
-      "url": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-      "updatedOn": "23-Aug 14:37"
+      "updatedOn": "24-Aug 6:55"
     },
     {
       "id": "1815",
@@ -172,26 +210,7 @@
       "openDisplay": "25-Aug",
       "closeDisplay": "28-Aug",
       "url": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
-      "updatedOn": "23-Aug 14:30"
-    },
-    {
-      "id": "1783",
-      "name": "Priority Jewels",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": null,
-      "lot": null,
-      "ipoSize": "-",
-      "open": "",
-      "close": "",
-      "listing": "",
-      "openDisplay": "",
-      "closeDisplay": "",
-      "url": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
-      "updatedOn": "23-Aug 13:40"
+      "updatedOn": "24-Aug 6:56"
     },
     {
       "id": "2041",
@@ -210,7 +229,7 @@
       "openDisplay": "1-Sep",
       "closeDisplay": "3-Sep",
       "url": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
-      "updatedOn": "23-Aug 5:55"
+      "updatedOn": "24-Aug 5:55"
     },
     {
       "id": "2339",
@@ -229,45 +248,26 @@
       "openDisplay": "28-Aug",
       "closeDisplay": "1-Sep",
       "url": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
-      "updatedOn": "23-Aug 5:55"
+      "updatedOn": "24-Aug 5:55"
     },
     {
-      "id": "1824",
-      "name": "ABH Healthcare",
-      "category": "SME",
-      "exchange": "NSE SME",
+      "id": "1783",
+      "name": "Priority Jewels",
+      "category": "Mainboard",
+      "exchange": "IPO",
       "status": "Upcoming",
       "gmp": null,
       "gmpPercent": null,
-      "price": 102,
-      "lot": 1200,
-      "ipoSize": "₹34.98 Cr",
-      "open": "2026-08-24",
-      "close": "2026-08-27",
-      "listing": "2026-09-01",
-      "openDisplay": "24-Aug",
-      "closeDisplay": "27-Aug",
-      "url": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
-      "updatedOn": "23-Aug 14:29"
-    },
-    {
-      "id": "2037",
-      "name": "Madhur Knit",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 100,
-      "lot": 1200,
-      "ipoSize": "₹53.27 Cr",
-      "open": "2026-08-24",
-      "close": "2026-08-27",
-      "listing": "2026-09-01",
-      "openDisplay": "24-Aug",
-      "closeDisplay": "27-Aug",
-      "url": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
-      "updatedOn": "23-Aug 14:28"
+      "price": null,
+      "lot": null,
+      "ipoSize": "-",
+      "open": "2026-08-28",
+      "close": "2026-09-01",
+      "listing": "2026-09-04",
+      "openDisplay": "28-Aug",
+      "closeDisplay": "1-Sep",
+      "url": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
+      "updatedOn": "24-Aug 5:55"
     },
     {
       "id": "2092",
@@ -327,6 +327,25 @@
       "updatedOn": "19-Aug 9:32"
     },
     {
+      "id": "1799",
+      "name": "Lalithaa Jewellery Mart",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": 75,
+      "gmpPercent": 37.31,
+      "price": 201,
+      "lot": 74,
+      "ipoSize": "₹1700.00 Cr",
+      "open": "2026-08-17",
+      "close": "2026-08-19",
+      "listing": "2026-08-24",
+      "openDisplay": "17-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
+      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 54</b></small>",
+      "url": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
+      "updatedOn": "24-Aug 6:55"
+    },
+    {
       "id": "1790",
       "name": "Shiprocket",
       "category": "Mainboard",
@@ -363,6 +382,25 @@
       "closeDisplay": "18-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4</b></small>",
       "url": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
       "updatedOn": "21-Aug 9:30"
+    },
+    {
+      "id": "2080",
+      "name": "Horizon Industrial Parks",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": 1,
+      "gmpPercent": 2.5,
+      "price": 60,
+      "lot": 250,
+      "ipoSize": "₹2600.04 Cr",
+      "open": "2026-08-17",
+      "close": "2026-08-19",
+      "listing": "2026-08-24",
+      "openDisplay": "17-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.7</b></small>",
+      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.3</b></small>",
+      "url": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+      "updatedOn": "24-Aug 6:56"
     },
     {
       "id": "1997",
@@ -403,6 +441,25 @@
       "updatedOn": "19-Aug 9:31"
     },
     {
+      "id": "1992",
+      "name": "Fascinate Textiles",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 151,
+      "lot": 800,
+      "ipoSize": "₹64.83 Cr",
+      "open": "2026-08-11",
+      "close": "2026-08-19",
+      "listing": "2026-08-24",
+      "openDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "url": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
+      "updatedOn": "24-Aug 7:01"
+    },
+    {
       "id": "2275",
       "name": "Pramodini Medicare",
       "category": "SME",
@@ -422,32 +479,13 @@
       "updatedOn": "19-Aug 9:29"
     },
     {
-      "id": "1799",
-      "name": "Lalithaa Jewellery Mart",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": 72,
-      "gmpPercent": 35.82,
-      "price": 201,
-      "lot": 74,
-      "ipoSize": "₹1700.00 Cr",
-      "open": "2026-08-17",
-      "close": "2026-08-19",
-      "listing": "2026-08-24",
-      "openDisplay": "17-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
-      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 54</b></small>",
-      "url": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-      "updatedOn": "23-Aug 14:28"
-    },
-    {
       "id": "1612",
       "name": "Sunshine Pictures",
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 68,
-      "gmpPercent": 18.89,
+      "gmp": 65,
+      "gmpPercent": 18.06,
       "price": 360,
       "lot": 41,
       "ipoSize": "₹282.14 Cr",
@@ -457,7 +495,7 @@
       "openDisplay": "18-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 77</b></small>",
       "closeDisplay": "20-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "url": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-      "updatedOn": "23-Aug 14:36"
+      "updatedOn": "24-Aug 7:01"
     },
     {
       "id": "1828",
@@ -466,7 +504,7 @@
       "exchange": "IPO",
       "status": "Closed",
       "gmp": 17,
-      "gmpPercent": 10.78,
+      "gmpPercent": 10.62,
       "price": 160,
       "lot": 93,
       "ipoSize": "₹550.00 Cr",
@@ -476,26 +514,7 @@
       "openDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 23</b></small>",
       "closeDisplay": "21-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 19</b></small>",
       "url": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-      "updatedOn": "23-Aug 14:35"
-    },
-    {
-      "id": "2080",
-      "name": "Horizon Industrial Parks",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": 1,
-      "gmpPercent": 2.5,
-      "price": 60,
-      "lot": 250,
-      "ipoSize": "₹2600.04 Cr",
-      "open": "2026-08-17",
-      "close": "2026-08-19",
-      "listing": "2026-08-24",
-      "openDisplay": "17-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.7</b></small>",
-      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.3</b></small>",
-      "url": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
-      "updatedOn": "23-Aug 14:36"
+      "updatedOn": "24-Aug 6:53"
     },
     {
       "id": "1932",
@@ -514,7 +533,7 @@
       "openDisplay": "18-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 5</b></small>",
       "closeDisplay": "20-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 5</b></small>",
       "url": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
-      "updatedOn": "23-Aug 14:31"
+      "updatedOn": "24-Aug 6:56"
     },
     {
       "id": "2098",
@@ -533,7 +552,7 @@
       "openDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12</b></small>",
       "closeDisplay": "21-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
-      "updatedOn": "23-Aug 14:32"
+      "updatedOn": "24-Aug 6:57"
     },
     {
       "id": "2024",
@@ -552,26 +571,7 @@
       "openDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 5</b></small>",
       "closeDisplay": "21-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
-      "updatedOn": "23-Aug 14:30"
-    },
-    {
-      "id": "1992",
-      "name": "Fascinate Textiles",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Closed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 151,
-      "lot": 800,
-      "ipoSize": "₹64.83 Cr",
-      "open": "2026-08-11",
-      "close": "2026-08-19",
-      "listing": "2026-08-24",
-      "openDisplay": "11-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
-      "closeDisplay": "19-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
-      "url": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
-      "updatedOn": "23-Aug 14:30"
+      "updatedOn": "24-Aug 6:54"
     }
   ]
 }
