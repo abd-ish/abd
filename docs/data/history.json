@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:08:07.177Z",
+  "updatedAt": "2026-08-24T03:53:53.210Z",
   "ipos": {
     "1619": {
       "name": "Lumino Industries",
@@ -448,6 +448,24 @@
       "alertedAbove": true,
       "lastGmpPercent": 48.22,
       "status": "Open"
+    },
+    "1963": {
+      "name": "Paluck Technologies",
+      "category": "SME",
+      "close": "2026-09-01",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1994": {
+      "name": "Shanti Inorganics",
+      "category": "SME",
+      "close": "2026-09-02",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
