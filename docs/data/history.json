@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:56:40.764Z",
+  "updatedAt": "2026-08-24T09:46:31.776Z",
   "ipos": {
     "1619": {
       "name": "Lumino Industries",
@@ -35,19 +35,30 @@
           "t": "2026-08-24T06:56:40.764Z",
           "gmp": 47,
           "gmpPercent": 57.32
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 46,
+          "gmpPercent": 56.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 57.32,
+      "lastGmpPercent": 56.1,
       "status": "Upcoming"
     },
     "1783": {
       "name": "Priority Jewels",
       "category": "Mainboard",
       "close": "2026-09-01",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 18,
+          "gmpPercent": 9
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9,
       "status": "Upcoming"
     },
     "1815": {
@@ -164,10 +175,15 @@
           "t": "2026-08-24T06:56:40.764Z",
           "gmp": 27,
           "gmpPercent": 19.57
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 33,
+          "gmpPercent": 23.91
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.57,
+      "lastGmpPercent": 23.91,
       "status": "Open"
     },
     "1824": {
@@ -298,10 +314,15 @@
           "t": "2026-08-24T02:08:07.177Z",
           "gmp": 25,
           "gmpPercent": 47.17
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 35,
+          "gmpPercent": 66.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 47.17,
+      "lastGmpPercent": 66.04,
       "status": "Open"
     },
     "1934": {
@@ -398,10 +419,15 @@
           "t": "2026-08-24T06:56:40.764Z",
           "gmp": 320,
           "gmpPercent": 106.67
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 330,
+          "gmpPercent": 110
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 106.67,
+      "lastGmpPercent": 110,
       "status": "Closing Today"
     },
     "1938": {
@@ -468,10 +494,15 @@
           "t": "2026-08-24T06:56:40.764Z",
           "gmp": 390,
           "gmpPercent": 49.49
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 379,
+          "gmpPercent": 48.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 49.49,
+      "lastGmpPercent": 48.1,
       "status": "Open"
     },
     "1963": {
@@ -705,10 +736,15 @@
           "t": "2026-08-24T06:56:40.764Z",
           "gmp": 403,
           "gmpPercent": 40.79
+        },
+        {
+          "t": "2026-08-24T09:46:31.776Z",
+          "gmp": 395,
+          "gmpPercent": 39.98
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.79,
+      "lastGmpPercent": 39.98,
       "status": "Open"
     },
     "2098": {
