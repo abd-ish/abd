@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-25T03:47:32.090Z",
+  "updatedAt": "2026-08-25T06:44:56.979Z",
   "ipos": {
+    "1607": {
+      "name": "ESDS Software Solution",
+      "category": "Mainboard",
+      "close": "2026-09-01",
+      "series": [
+        {
+          "t": "2026-08-25T06:44:56.979Z",
+          "gmp": 288,
+          "gmpPercent": 67.13
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 67.13,
+      "status": "Upcoming"
+    },
     "1619": {
       "name": "Lumino Industries",
       "category": "Mainboard",
@@ -195,10 +210,15 @@
           "t": "2026-08-25T02:03:46.996Z",
           "gmp": 32,
           "gmpPercent": 23.19
+        },
+        {
+          "t": "2026-08-25T06:44:56.979Z",
+          "gmp": 30,
+          "gmpPercent": 21.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.19,
+      "lastGmpPercent": 21.74,
       "status": "Open"
     },
     "1824": {
@@ -465,6 +485,15 @@
       "lastGmpPercent": 20.83,
       "status": "Upcoming"
     },
+    "1988": {
+      "name": "Phychem Technologies",
+      "category": "SME",
+      "close": "2026-09-02",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1994": {
       "name": "Shanti Inorganics",
       "category": "SME",
@@ -478,6 +507,15 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 30.12,
+      "status": "Upcoming"
+    },
+    "2009": {
+      "name": "Ashutosh Fibre",
+      "category": "SME",
+      "close": "2026-09-02",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2013": {
@@ -633,10 +671,15 @@
           "t": "2026-08-25T02:03:46.996Z",
           "gmp": 340,
           "gmpPercent": 34.41
+        },
+        {
+          "t": "2026-08-25T06:44:56.979Z",
+          "gmp": 355,
+          "gmpPercent": 35.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.41,
+      "lastGmpPercent": 35.93,
       "status": "Open"
     },
     "2238": {
@@ -683,10 +726,15 @@
           "t": "2026-08-25T02:03:46.996Z",
           "gmp": 32,
           "gmpPercent": 31.68
+        },
+        {
+          "t": "2026-08-25T06:44:56.979Z",
+          "gmp": 35,
+          "gmpPercent": 34.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.68,
+      "lastGmpPercent": 34.65,
       "status": "Open"
     },
     "2339": {
