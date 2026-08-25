@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:44:56.979Z",
+  "updatedAt": "2026-08-25T09:33:58.202Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -10,10 +10,15 @@
           "t": "2026-08-25T06:44:56.979Z",
           "gmp": 288,
           "gmpPercent": 67.13
+        },
+        {
+          "t": "2026-08-25T09:33:58.202Z",
+          "gmp": 275,
+          "gmpPercent": 64.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 67.13,
+      "lastGmpPercent": 64.1,
       "status": "Upcoming"
     },
     "1619": {
@@ -215,10 +220,15 @@
           "t": "2026-08-25T06:44:56.979Z",
           "gmp": 30,
           "gmpPercent": 21.74
+        },
+        {
+          "t": "2026-08-25T09:33:58.202Z",
+          "gmp": 29,
+          "gmpPercent": 21.01
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.74,
+      "lastGmpPercent": 21.01,
       "status": "Open"
     },
     "1824": {
@@ -384,10 +394,15 @@
           "t": "2026-08-25T02:03:46.996Z",
           "gmp": 317,
           "gmpPercent": 105.67
+        },
+        {
+          "t": "2026-08-25T09:33:58.202Z",
+          "gmp": 300,
+          "gmpPercent": 100
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 105.67,
+      "lastGmpPercent": 100,
       "status": "Closed"
     },
     "1938": {
@@ -464,10 +479,15 @@
           "t": "2026-08-25T02:03:46.996Z",
           "gmp": 325,
           "gmpPercent": 41.24
+        },
+        {
+          "t": "2026-08-25T09:33:58.202Z",
+          "gmp": 330,
+          "gmpPercent": 41.88
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.24,
+      "lastGmpPercent": 41.88,
       "status": "Closing Today"
     },
     "1963": {
@@ -676,10 +696,15 @@
           "t": "2026-08-25T06:44:56.979Z",
           "gmp": 355,
           "gmpPercent": 35.93
+        },
+        {
+          "t": "2026-08-25T09:33:58.202Z",
+          "gmp": 350,
+          "gmpPercent": 35.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.93,
+      "lastGmpPercent": 35.43,
       "status": "Open"
     },
     "2238": {
