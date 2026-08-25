@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:46:31.776Z",
+  "updatedAt": "2026-08-25T02:03:46.996Z",
   "ipos": {
     "1619": {
       "name": "Lumino Industries",
@@ -40,10 +40,15 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 46,
           "gmpPercent": 56.1
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 47,
+          "gmpPercent": 57.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 56.1,
+      "lastGmpPercent": 57.32,
       "status": "Upcoming"
     },
     "1783": {
@@ -55,10 +60,15 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 18,
           "gmpPercent": 9
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 28,
+          "gmpPercent": 14
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9,
+      "alertedAbove": true,
+      "lastGmpPercent": 14,
       "status": "Upcoming"
     },
     "1815": {
@@ -88,8 +98,8 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.04,
-      "status": "Upcoming"
+      "lastGmpPercent": null,
+      "status": "Open"
     },
     "1820": {
       "name": "Skyways Air",
@@ -180,10 +190,15 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 33,
           "gmpPercent": 23.91
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 32,
+          "gmpPercent": 23.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.91,
+      "lastGmpPercent": 23.19,
       "status": "Open"
     },
     "1824": {
@@ -194,91 +209,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Open"
-    },
-    "1828": {
-      "name": "Gaja Alternative Asset Management",
-      "category": "Mainboard",
-      "close": "2026-08-21",
-      "series": [
-        {
-          "t": "2026-08-18T01:58:45.716Z",
-          "gmp": 7,
-          "gmpPercent": 4.38
-        },
-        {
-          "t": "2026-08-18T09:32:16.611Z",
-          "gmp": 5,
-          "gmpPercent": 3.12
-        },
-        {
-          "t": "2026-08-19T02:02:48.311Z",
-          "gmp": 30,
-          "gmpPercent": 18.75
-        },
-        {
-          "t": "2026-08-19T09:32:53.120Z",
-          "gmp": 21,
-          "gmpPercent": 13.44
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 23,
-          "gmpPercent": 14.37
-        },
-        {
-          "t": "2026-08-20T06:43:27.573Z",
-          "gmp": 24,
-          "gmpPercent": 15
-        },
-        {
-          "t": "2026-08-20T09:33:44.249Z",
-          "gmp": 14,
-          "gmpPercent": 8.75
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 18,
-          "gmpPercent": 11.25
-        },
-        {
-          "t": "2026-08-21T06:43:54.862Z",
-          "gmp": 13,
-          "gmpPercent": 8.12
-        },
-        {
-          "t": "2026-08-21T09:35:15.423Z",
-          "gmp": 12,
-          "gmpPercent": 7.5
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 19,
-          "gmpPercent": 11.88
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 17,
-          "gmpPercent": 10.62
-        },
-        {
-          "t": "2026-08-23T06:39:28.490Z",
-          "gmp": 17,
-          "gmpPercent": 10.78
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 17,
-          "gmpPercent": 10.62
-        },
-        {
-          "t": "2026-08-24T06:56:40.764Z",
-          "gmp": 16,
-          "gmpPercent": 10.16
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 10.16,
-      "status": "Closed"
     },
     "1876": {
       "name": "Hy-Tech Engineers",
@@ -319,10 +249,15 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 35,
           "gmpPercent": 66.04
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 30,
+          "gmpPercent": 56.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 66.04,
+      "lastGmpPercent": 56.6,
       "status": "Open"
     },
     "1934": {
@@ -424,11 +359,16 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 330,
           "gmpPercent": 110
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 317,
+          "gmpPercent": 105.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 110,
-      "status": "Closing Today"
+      "lastGmpPercent": 105.67,
+      "status": "Closed"
     },
     "1938": {
       "name": "Augmont Enterprises",
@@ -499,28 +439,45 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 379,
           "gmpPercent": 48.1
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 325,
+          "gmpPercent": 41.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 48.1,
-      "status": "Open"
+      "lastGmpPercent": 41.24,
+      "status": "Closing Today"
     },
     "1963": {
       "name": "Paluck Technologies",
       "category": "SME",
       "close": "2026-09-01",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 10,
+          "gmpPercent": 20.83
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 20.83,
       "status": "Upcoming"
     },
     "1994": {
       "name": "Shanti Inorganics",
       "category": "SME",
       "close": "2026-09-02",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 25,
+          "gmpPercent": 30.12
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 30.12,
       "status": "Upcoming"
     },
     "2013": {
@@ -562,91 +519,16 @@
           "t": "2026-08-24T02:08:07.177Z",
           "gmp": 61,
           "gmpPercent": 67.78
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 64,
+          "gmpPercent": 71.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 67.78,
+      "lastGmpPercent": 71.11,
       "status": "Upcoming"
-    },
-    "2024": {
-      "name": "Mopshop Distribution",
-      "category": "SME",
-      "close": "2026-08-21",
-      "series": [
-        {
-          "t": "2026-08-14T07:23:40.816Z",
-          "gmp": 10,
-          "gmpPercent": 7.25
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 10,
-          "gmpPercent": 7.25
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 10,
-          "gmpPercent": 7.25
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 10,
-          "gmpPercent": 7.25
-        },
-        {
-          "t": "2026-08-17T06:53:22.063Z",
-          "gmp": 12,
-          "gmpPercent": 8.7
-        },
-        {
-          "t": "2026-08-18T01:58:45.716Z",
-          "gmp": 18,
-          "gmpPercent": 13.04
-        },
-        {
-          "t": "2026-08-19T02:02:48.311Z",
-          "gmp": 22,
-          "gmpPercent": 15.94
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 5,
-          "gmpPercent": 3.62
-        },
-        {
-          "t": "2026-08-20T06:43:27.573Z",
-          "gmp": 3,
-          "gmpPercent": 2.17
-        },
-        {
-          "t": "2026-08-20T09:33:44.249Z",
-          "gmp": 1,
-          "gmpPercent": 0.72
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 1,
-          "gmpPercent": 0.72
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 1,
-          "gmpPercent": 0.72
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 1,
-          "gmpPercent": 0.72
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 1,
-          "gmpPercent": 0.72
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0.72,
-      "status": "Closed"
     },
     "2037": {
       "name": "Madhur Knit",
@@ -660,6 +542,11 @@
         },
         {
           "t": "2026-08-24T06:56:40.764Z",
+          "gmp": 16,
+          "gmpPercent": 16
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
           "gmp": 16,
           "gmpPercent": 16
         }
@@ -741,51 +628,16 @@
           "t": "2026-08-24T09:46:31.776Z",
           "gmp": 395,
           "gmpPercent": 39.98
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 340,
+          "gmpPercent": 34.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.98,
+      "lastGmpPercent": 34.41,
       "status": "Open"
-    },
-    "2098": {
-      "name": "Dhanwel Hybrid Seeds",
-      "category": "SME",
-      "close": "2026-08-21",
-      "series": [
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 12,
-          "gmpPercent": 12.12
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 5,
-          "gmpPercent": 5.05
-        },
-        {
-          "t": "2026-08-21T06:43:54.862Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.01,
-      "status": "Closed"
     },
     "2238": {
       "name": "Sumax Engineering",
@@ -826,11 +678,16 @@
           "t": "2026-08-24T02:08:07.177Z",
           "gmp": 32,
           "gmpPercent": 31.68
+        },
+        {
+          "t": "2026-08-25T02:03:46.996Z",
+          "gmp": 32,
+          "gmpPercent": 31.68
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 31.68,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2339": {
       "name": "Complete Sports and Management",
