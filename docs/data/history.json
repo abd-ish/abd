@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:47:39.129Z",
+  "updatedAt": "2026-08-26T09:39:54.301Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -20,10 +20,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 280,
           "gmpPercent": 65.27
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 330,
+          "gmpPercent": 76.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 65.27,
+      "lastGmpPercent": 76.92,
       "status": "Upcoming"
     },
     "1619": {
@@ -314,10 +319,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 30,
           "gmpPercent": 56.6
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 40,
+          "gmpPercent": 75.47
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 56.6,
+      "lastGmpPercent": 75.47,
       "status": "Open"
     },
     "1897": {
@@ -448,10 +458,15 @@
           "t": "2026-08-26T06:47:39.129Z",
           "gmp": 308,
           "gmpPercent": 102.67
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 300,
+          "gmpPercent": 100
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 102.67,
+      "lastGmpPercent": 100,
       "status": "Closed"
     },
     "1938": {
@@ -538,10 +553,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 315,
           "gmpPercent": 39.97
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 320,
+          "gmpPercent": 40.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.97,
+      "lastGmpPercent": 40.61,
       "status": "Closed"
     },
     "1963": {
@@ -558,10 +578,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 18,
           "gmpPercent": 37.5
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 25,
+          "gmpPercent": 52.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.5,
+      "lastGmpPercent": 52.08,
       "status": "Upcoming"
     },
     "1988": {
@@ -602,10 +627,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 13,
           "gmpPercent": 14.13
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 15,
+          "gmpPercent": 16.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.13,
+      "lastGmpPercent": 16.3,
       "status": "Upcoming"
     },
     "2013": {
@@ -791,11 +821,25 @@
           "t": "2026-08-26T06:47:39.129Z",
           "gmp": 350,
           "gmpPercent": 35.43
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 340,
+          "gmpPercent": 34.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.43,
+      "lastGmpPercent": 34.41,
       "status": "Open"
+    },
+    "2081": {
+      "name": "Deepa Jewellers",
+      "category": "Mainboard",
+      "close": "2026-09-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2238": {
       "name": "Sumax Engineering",
@@ -851,10 +895,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 35,
           "gmpPercent": 34.65
+        },
+        {
+          "t": "2026-08-26T09:39:54.301Z",
+          "gmp": 30,
+          "gmpPercent": 29.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.65,
+      "lastGmpPercent": 29.7,
       "status": "Open"
     },
     "2339": {
