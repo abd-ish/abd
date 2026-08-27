@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:39:54.301Z",
+  "updatedAt": "2026-08-27T10:09:20.290Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -25,10 +25,15 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 330,
           "gmpPercent": 76.92
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 340,
+          "gmpPercent": 79.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 76.92,
+      "lastGmpPercent": 79.25,
       "status": "Upcoming"
     },
     "1619": {
@@ -80,11 +85,16 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 46,
           "gmpPercent": 56.1
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 56,
+          "gmpPercent": 68.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 56.1,
-      "status": "Upcoming"
+      "lastGmpPercent": 68.29,
+      "status": "Open"
     },
     "1783": {
       "name": "Priority Jewels",
@@ -105,10 +115,15 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 30,
           "gmpPercent": 15
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 41,
+          "gmpPercent": 20.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15,
+      "lastGmpPercent": 20.5,
       "status": "Upcoming"
     },
     "1815": {
@@ -140,10 +155,15 @@
           "t": "2026-08-26T06:47:39.129Z",
           "gmp": 4,
           "gmpPercent": 4.04
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 6,
+          "gmpPercent": 6.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.04,
+      "lastGmpPercent": 6.06,
       "status": "Open"
     },
     "1820": {
@@ -255,11 +275,16 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 29,
           "gmpPercent": 21.01
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 46,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.01,
-      "status": "Open"
+      "lastGmpPercent": 33.33,
+      "status": "Closing Today"
     },
     "1824": {
       "name": "ABH Healthcare",
@@ -268,7 +293,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1876": {
       "name": "Hy-Tech Engineers",
@@ -324,16 +349,30 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 40,
           "gmpPercent": 75.47
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 45,
+          "gmpPercent": 84.91
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 75.47,
-      "status": "Open"
+      "lastGmpPercent": 84.91,
+      "status": "Closing Today"
     },
     "1897": {
-      "name": "Pernia's Pop-up Studio",
+      "name": "Purple Style Labs",
       "category": "Mainboard",
       "close": "2026-09-02",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1905": {
+      "name": "Farm Peace",
+      "category": "SME",
+      "close": "2026-09-03",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -463,10 +502,15 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 300,
           "gmpPercent": 100
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 307,
+          "gmpPercent": 102.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 100,
+      "lastGmpPercent": 102.33,
       "status": "Closed"
     },
     "1938": {
@@ -558,10 +602,15 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 320,
           "gmpPercent": 40.61
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 300,
+          "gmpPercent": 38.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.61,
+      "lastGmpPercent": 38.07,
       "status": "Closed"
     },
     "1963": {
@@ -583,6 +632,11 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 25,
           "gmpPercent": 52.08
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 25,
+          "gmpPercent": 52.08
         }
       ],
       "alertedAbove": true,
@@ -593,9 +647,15 @@
       "name": "Phychem Technologies",
       "category": "SME",
       "close": "2026-09-02",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 3,
+          "gmpPercent": 5.56
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5.56,
       "status": "Upcoming"
     },
     "1994": {
@@ -610,6 +670,11 @@
         },
         {
           "t": "2026-08-26T02:09:25.193Z",
+          "gmp": 31,
+          "gmpPercent": 37.35
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
           "gmp": 31,
           "gmpPercent": 37.35
         }
@@ -632,10 +697,15 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 15,
           "gmpPercent": 16.3
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 32,
+          "gmpPercent": 34.78
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.3,
+      "lastGmpPercent": 34.78,
       "status": "Upcoming"
     },
     "2013": {
@@ -687,11 +757,16 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 64,
           "gmpPercent": 71.11
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 64,
+          "gmpPercent": 71.11
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 71.11,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2037": {
       "name": "Madhur Knit",
@@ -717,19 +792,30 @@
           "t": "2026-08-26T02:09:25.193Z",
           "gmp": 16,
           "gmpPercent": 16
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 2,
+          "gmpPercent": 2
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 16,
-      "status": "Open"
+      "alertedAbove": false,
+      "lastGmpPercent": 2,
+      "status": "Closing Today"
     },
     "2041": {
       "name": "Rays of Belief",
       "category": "Mainboard",
       "close": "2026-09-03",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 10,
+          "gmpPercent": 4.18
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.18,
       "status": "Upcoming"
     },
     "2069": {
@@ -826,19 +912,30 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 340,
           "gmpPercent": 34.41
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 260,
+          "gmpPercent": 26.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.41,
-      "status": "Open"
+      "lastGmpPercent": 26.32,
+      "status": "Closing Today"
     },
     "2081": {
       "name": "Deepa Jewellers",
       "category": "Mainboard",
       "close": "2026-09-03",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 22,
+          "gmpPercent": 12.43
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 12.43,
       "status": "Upcoming"
     },
     "2238": {
@@ -900,10 +997,15 @@
           "t": "2026-08-26T09:39:54.301Z",
           "gmp": 30,
           "gmpPercent": 29.7
+        },
+        {
+          "t": "2026-08-27T10:09:20.290Z",
+          "gmp": 25,
+          "gmpPercent": 24.75
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.7,
+      "lastGmpPercent": 24.75,
       "status": "Open"
     },
     "2339": {
