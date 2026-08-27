@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T10:09:20.290Z",
+  "updatedAt": "2026-08-27T13:49:21.709Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -30,10 +30,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 340,
           "gmpPercent": 79.25
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 336,
+          "gmpPercent": 78.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 79.25,
+      "lastGmpPercent": 78.32,
       "status": "Upcoming"
     },
     "1619": {
@@ -120,10 +125,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 41,
           "gmpPercent": 20.5
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 37,
+          "gmpPercent": 18.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.5,
+      "lastGmpPercent": 18.5,
       "status": "Upcoming"
     },
     "1815": {
@@ -160,10 +170,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 6,
           "gmpPercent": 6.06
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 7,
+          "gmpPercent": 7.07
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.06,
+      "lastGmpPercent": 7.07,
       "status": "Open"
     },
     "1820": {
@@ -280,10 +295,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 46,
           "gmpPercent": 33.33
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 45,
+          "gmpPercent": 32.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.33,
+      "lastGmpPercent": 32.61,
       "status": "Closing Today"
     },
     "1824": {
@@ -702,10 +722,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 32,
           "gmpPercent": 34.78
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 37,
+          "gmpPercent": 40.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.78,
+      "lastGmpPercent": 40.22,
       "status": "Upcoming"
     },
     "2013": {
@@ -917,10 +942,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 260,
           "gmpPercent": 26.32
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 250,
+          "gmpPercent": 25.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.32,
+      "lastGmpPercent": 25.3,
       "status": "Closing Today"
     },
     "2081": {
@@ -932,10 +962,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 22,
           "gmpPercent": 12.43
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 42,
+          "gmpPercent": 23.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.43,
+      "lastGmpPercent": 23.73,
       "status": "Upcoming"
     },
     "2238": {
@@ -1002,10 +1037,15 @@
           "t": "2026-08-27T10:09:20.290Z",
           "gmp": 25,
           "gmpPercent": 24.75
+        },
+        {
+          "t": "2026-08-27T13:49:21.709Z",
+          "gmp": 30,
+          "gmpPercent": 29.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.75,
+      "lastGmpPercent": 29.7,
       "status": "Open"
     },
     "2339": {
