@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T11:40:35.087Z",
+  "updatedAt": "2026-08-28T14:55:27.630Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -40,10 +40,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 345,
           "gmpPercent": 80.42
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 370,
+          "gmpPercent": 86.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 80.42,
+      "lastGmpPercent": 86.25,
       "status": "Open"
     },
     "1619": {
@@ -145,10 +150,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 37,
           "gmpPercent": 18.5
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 45,
+          "gmpPercent": 22.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.5,
+      "lastGmpPercent": 22.5,
       "status": "Open"
     },
     "1815": {
@@ -199,7 +209,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.01,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1820": {
       "name": "Skyways Air",
@@ -325,10 +335,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 37,
           "gmpPercent": 26.81
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 39,
+          "gmpPercent": 28.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.81,
+      "lastGmpPercent": 28.26,
       "status": "Closed"
     },
     "1824": {
@@ -414,9 +429,15 @@
       "name": "Purple Style Labs",
       "category": "Mainboard",
       "close": "2026-09-02",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 20,
+          "gmpPercent": 3.48
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 3.48,
       "status": "Upcoming"
     },
     "1905": {
@@ -527,10 +548,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 293,
           "gmpPercent": 37.18
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 295,
+          "gmpPercent": 37.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.18,
+      "lastGmpPercent": 37.44,
       "status": "Closed"
     },
     "1963": {
@@ -772,10 +798,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 7,
           "gmpPercent": 2.93
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 29,
+          "gmpPercent": 12.13
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.93,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.13,
       "status": "Upcoming"
     },
     "2069": {
@@ -887,10 +918,15 @@
           "t": "2026-08-28T11:40:35.087Z",
           "gmp": 260,
           "gmpPercent": 26.32
+        },
+        {
+          "t": "2026-08-28T14:55:27.630Z",
+          "gmp": 265,
+          "gmpPercent": 26.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.32,
+      "lastGmpPercent": 26.82,
       "status": "Closed"
     },
     "2081": {
@@ -996,7 +1032,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 35.64,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2339": {
       "name": "Complete Sports and Management",
