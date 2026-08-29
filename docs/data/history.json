@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T07:17:15.448Z",
+  "updatedAt": "2026-08-29T09:44:58.113Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -50,10 +50,15 @@
           "t": "2026-08-29T07:17:15.448Z",
           "gmp": 375,
           "gmpPercent": 87.41
+        },
+        {
+          "t": "2026-08-29T09:44:58.113Z",
+          "gmp": 380,
+          "gmpPercent": 88.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 87.41,
+      "lastGmpPercent": 88.58,
       "status": "Open"
     },
     "1619": {
@@ -449,10 +454,15 @@
           "t": "2026-08-29T07:17:15.448Z",
           "gmp": 38,
           "gmpPercent": 71.7
+        },
+        {
+          "t": "2026-08-29T09:44:58.113Z",
+          "gmp": 43,
+          "gmpPercent": 81.13
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 71.7,
+      "lastGmpPercent": 81.13,
       "status": "Closed"
     },
     "1897": {
@@ -888,10 +898,15 @@
           "t": "2026-08-29T07:17:15.448Z",
           "gmp": 250,
           "gmpPercent": 25.3
+        },
+        {
+          "t": "2026-08-29T09:44:58.113Z",
+          "gmp": 240,
+          "gmpPercent": 24.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.3,
+      "lastGmpPercent": 24.29,
       "status": "Closed"
     },
     "2081": {
@@ -918,10 +933,15 @@
           "t": "2026-08-29T07:17:15.448Z",
           "gmp": 47,
           "gmpPercent": 26.55
+        },
+        {
+          "t": "2026-08-29T09:44:58.113Z",
+          "gmp": 50,
+          "gmpPercent": 28.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.55,
+      "lastGmpPercent": 28.25,
       "status": "Upcoming"
     },
     "2238": {
