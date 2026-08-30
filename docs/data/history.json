@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T08:56:35.039Z",
+  "updatedAt": "2026-08-30T14:19:43.257Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -60,10 +60,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 372,
           "gmpPercent": 86.71
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 355,
+          "gmpPercent": 82.75
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 86.71,
+      "lastGmpPercent": 82.75,
       "status": "Open"
     },
     "1619": {
@@ -135,10 +140,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 63,
           "gmpPercent": 76.83
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 60,
+          "gmpPercent": 73.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 76.83,
+      "lastGmpPercent": 73.17,
       "status": "Open"
     },
     "1783": {
@@ -514,10 +524,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 34,
           "gmpPercent": 5.91
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 28,
+          "gmpPercent": 4.87
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.91,
+      "lastGmpPercent": 4.87,
       "status": "Upcoming"
     },
     "1905": {
@@ -843,10 +858,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 33,
           "gmpPercent": 13.81
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 35,
+          "gmpPercent": 14.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.81,
+      "lastGmpPercent": 14.64,
       "status": "Upcoming"
     },
     "2069": {
@@ -978,10 +998,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 240,
           "gmpPercent": 24.29
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 243,
+          "gmpPercent": 24.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.29,
+      "lastGmpPercent": 24.6,
       "status": "Closed"
     },
     "2081": {
@@ -1018,10 +1043,15 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 53,
           "gmpPercent": 29.94
+        },
+        {
+          "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 45,
+          "gmpPercent": 25.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.94,
+      "lastGmpPercent": 25.42,
       "status": "Upcoming"
     },
     "2238": {
