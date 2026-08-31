@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:19:43.257Z",
+  "updatedAt": "2026-08-31T05:56:59.253Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -65,10 +65,15 @@
           "t": "2026-08-30T14:19:43.257Z",
           "gmp": 355,
           "gmpPercent": 82.75
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 323,
+          "gmpPercent": 75.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 82.75,
+      "lastGmpPercent": 75.29,
       "status": "Open"
     },
     "1619": {
@@ -145,11 +150,16 @@
           "t": "2026-08-30T14:19:43.257Z",
           "gmp": 60,
           "gmpPercent": 73.17
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 57,
+          "gmpPercent": 69.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.17,
-      "status": "Open"
+      "lastGmpPercent": 69.51,
+      "status": "Closing Today"
     },
     "1783": {
       "name": "Priority Jewels",
@@ -198,6 +208,11 @@
         },
         {
           "t": "2026-08-30T05:41:10.347Z",
+          "gmp": 45,
+          "gmpPercent": 22.5
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
           "gmp": 45,
           "gmpPercent": 22.5
         }
@@ -263,246 +278,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.01,
-      "status": "Closed"
-    },
-    "1820": {
-      "name": "Skyways Air",
-      "category": "Mainboard",
-      "close": "2026-08-27",
-      "series": [
-        {
-          "t": "2026-08-13T07:25:27.137Z",
-          "gmp": 19,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-08-14T04:47:21.461Z",
-          "gmp": 19,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-08-14T07:23:40.816Z",
-          "gmp": 19,
-          "gmpPercent": 13.77
-        },
-        {
-          "t": "2026-08-15T01:57:17.099Z",
-          "gmp": 28,
-          "gmpPercent": 20.29
-        },
-        {
-          "t": "2026-08-16T02:06:56.426Z",
-          "gmp": 28,
-          "gmpPercent": 20.29
-        },
-        {
-          "t": "2026-08-17T02:04:28.655Z",
-          "gmp": 28,
-          "gmpPercent": 20.29
-        },
-        {
-          "t": "2026-08-18T01:58:45.716Z",
-          "gmp": 31,
-          "gmpPercent": 22.46
-        },
-        {
-          "t": "2026-08-19T02:02:48.311Z",
-          "gmp": 40,
-          "gmpPercent": 28.99
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 42,
-          "gmpPercent": 30.43
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 42,
-          "gmpPercent": 30.43
-        },
-        {
-          "t": "2026-08-21T09:35:15.423Z",
-          "gmp": 45,
-          "gmpPercent": 32.61
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 45,
-          "gmpPercent": 32.61
-        },
-        {
-          "t": "2026-08-22T06:38:00.481Z",
-          "gmp": 43,
-          "gmpPercent": 31.16
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 37,
-          "gmpPercent": 26.81
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 32,
-          "gmpPercent": 23.19
-        },
-        {
-          "t": "2026-08-24T06:56:40.764Z",
-          "gmp": 27,
-          "gmpPercent": 19.57
-        },
-        {
-          "t": "2026-08-24T09:46:31.776Z",
-          "gmp": 33,
-          "gmpPercent": 23.91
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 32,
-          "gmpPercent": 23.19
-        },
-        {
-          "t": "2026-08-25T06:44:56.979Z",
-          "gmp": 30,
-          "gmpPercent": 21.74
-        },
-        {
-          "t": "2026-08-25T09:33:58.202Z",
-          "gmp": 29,
-          "gmpPercent": 21.01
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 29,
-          "gmpPercent": 21.01
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 46,
-          "gmpPercent": 33.33
-        },
-        {
-          "t": "2026-08-27T13:49:21.709Z",
-          "gmp": 45,
-          "gmpPercent": 32.61
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 37,
-          "gmpPercent": 26.81
-        },
-        {
-          "t": "2026-08-28T14:55:27.630Z",
-          "gmp": 39,
-          "gmpPercent": 28.26
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 40,
-          "gmpPercent": 28.99
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 39,
-          "gmpPercent": 28.62
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 28.62,
-      "status": "Closed"
-    },
-    "1824": {
-      "name": "ABH Healthcare",
-      "category": "SME",
-      "close": "2026-08-27",
-      "series": [],
-      "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
-    },
-    "1876": {
-      "name": "Hy-Tech Engineers",
-      "category": "Mainboard",
-      "close": "2026-08-27",
-      "series": [
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 5,
-          "gmpPercent": 9.43
-        },
-        {
-          "t": "2026-08-20T06:43:27.573Z",
-          "gmp": 2,
-          "gmpPercent": 3.77
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 22,
-          "gmpPercent": 41.51
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 22,
-          "gmpPercent": 41.51
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 27,
-          "gmpPercent": 50.94
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 25,
-          "gmpPercent": 47.17
-        },
-        {
-          "t": "2026-08-24T09:46:31.776Z",
-          "gmp": 35,
-          "gmpPercent": 66.04
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 30,
-          "gmpPercent": 56.6
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 30,
-          "gmpPercent": 56.6
-        },
-        {
-          "t": "2026-08-26T09:39:54.301Z",
-          "gmp": 40,
-          "gmpPercent": 75.47
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 45,
-          "gmpPercent": 84.91
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 45,
-          "gmpPercent": 84.91
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 38,
-          "gmpPercent": 71.7
-        },
-        {
-          "t": "2026-08-29T09:44:58.113Z",
-          "gmp": 43,
-          "gmpPercent": 81.13
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 43,
-          "gmpPercent": 81.13
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 81.13,
       "status": "Closed"
     },
     "1897": {
@@ -529,11 +305,16 @@
           "t": "2026-08-30T14:19:43.257Z",
           "gmp": 28,
           "gmpPercent": 4.87
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 28,
+          "gmpPercent": 4.87
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 4.87,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1905": {
       "name": "Farm Peace",
@@ -583,6 +364,11 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 25,
           "gmpPercent": 52.08
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 25,
+          "gmpPercent": 52.08
         }
       ],
       "alertedAbove": true,
@@ -613,11 +399,16 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 3,
           "gmpPercent": 5.56
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 3,
+          "gmpPercent": 5.56
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 5.56,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1994": {
       "name": "Shanti Inorganics",
@@ -653,11 +444,16 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 31,
           "gmpPercent": 37.35
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 31,
+          "gmpPercent": 37.35
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 37.35,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2009": {
       "name": "Ashutosh Fibre",
@@ -698,11 +494,16 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 37,
           "gmpPercent": 40.22
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 37,
+          "gmpPercent": 40.22
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 40.22,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
@@ -773,61 +574,16 @@
           "t": "2026-08-30T05:41:10.347Z",
           "gmp": 70,
           "gmpPercent": 77.78
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 70,
+          "gmpPercent": 77.78
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 77.78,
-      "status": "Open"
-    },
-    "2037": {
-      "name": "Madhur Knit",
-      "category": "SME",
-      "close": "2026-08-27",
-      "series": [
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 9,
-          "gmpPercent": 9
-        },
-        {
-          "t": "2026-08-24T06:56:40.764Z",
-          "gmp": 16,
-          "gmpPercent": 16
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 16,
-          "gmpPercent": 16
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 16,
-          "gmpPercent": 16
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 2,
-          "gmpPercent": 2
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 2,
-          "gmpPercent": 2
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 2,
-          "gmpPercent": 2
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 2,
-          "gmpPercent": 2
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "2041": {
       "name": "Rays of Belief",
@@ -863,151 +619,16 @@
           "t": "2026-08-30T14:19:43.257Z",
           "gmp": 35,
           "gmpPercent": 14.64
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
+          "gmp": 35,
+          "gmpPercent": 14.64
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 14.64,
       "status": "Upcoming"
-    },
-    "2069": {
-      "name": "Symbiotec Pharmalab",
-      "category": "Mainboard",
-      "close": "2026-08-27",
-      "series": [
-        {
-          "t": "2026-08-19T09:32:53.120Z",
-          "gmp": 150,
-          "gmpPercent": 15.18
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 220,
-          "gmpPercent": 22.27
-        },
-        {
-          "t": "2026-08-20T09:33:44.249Z",
-          "gmp": 240,
-          "gmpPercent": 24.29
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 320,
-          "gmpPercent": 32.39
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 345,
-          "gmpPercent": 34.92
-        },
-        {
-          "t": "2026-08-22T06:38:00.481Z",
-          "gmp": 350,
-          "gmpPercent": 35.43
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 410,
-          "gmpPercent": 41.5
-        },
-        {
-          "t": "2026-08-23T06:39:28.490Z",
-          "gmp": 405,
-          "gmpPercent": 40.99
-        },
-        {
-          "t": "2026-08-23T09:26:26.899Z",
-          "gmp": 409,
-          "gmpPercent": 41.4
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 409,
-          "gmpPercent": 41.4
-        },
-        {
-          "t": "2026-08-24T06:56:40.764Z",
-          "gmp": 403,
-          "gmpPercent": 40.79
-        },
-        {
-          "t": "2026-08-24T09:46:31.776Z",
-          "gmp": 395,
-          "gmpPercent": 39.98
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 340,
-          "gmpPercent": 34.41
-        },
-        {
-          "t": "2026-08-25T06:44:56.979Z",
-          "gmp": 355,
-          "gmpPercent": 35.93
-        },
-        {
-          "t": "2026-08-25T09:33:58.202Z",
-          "gmp": 350,
-          "gmpPercent": 35.43
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 352,
-          "gmpPercent": 35.63
-        },
-        {
-          "t": "2026-08-26T06:47:39.129Z",
-          "gmp": 350,
-          "gmpPercent": 35.43
-        },
-        {
-          "t": "2026-08-26T09:39:54.301Z",
-          "gmp": 340,
-          "gmpPercent": 34.41
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 260,
-          "gmpPercent": 26.32
-        },
-        {
-          "t": "2026-08-27T13:49:21.709Z",
-          "gmp": 250,
-          "gmpPercent": 25.3
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 260,
-          "gmpPercent": 26.32
-        },
-        {
-          "t": "2026-08-28T14:55:27.630Z",
-          "gmp": 265,
-          "gmpPercent": 26.82
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 250,
-          "gmpPercent": 25.3
-        },
-        {
-          "t": "2026-08-29T09:44:58.113Z",
-          "gmp": 240,
-          "gmpPercent": 24.29
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 240,
-          "gmpPercent": 24.29
-        },
-        {
-          "t": "2026-08-30T14:19:43.257Z",
-          "gmp": 243,
-          "gmpPercent": 24.6
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 24.6,
-      "status": "Closed"
     },
     "2081": {
       "name": "Deepa Jewellers",
@@ -1046,6 +667,11 @@
         },
         {
           "t": "2026-08-30T14:19:43.257Z",
+          "gmp": 45,
+          "gmpPercent": 25.42
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
           "gmp": 45,
           "gmpPercent": 25.42
         }
@@ -1136,6 +762,11 @@
         },
         {
           "t": "2026-08-30T05:41:10.347Z",
+          "gmp": 36,
+          "gmpPercent": 35.64
+        },
+        {
+          "t": "2026-08-31T05:56:59.253Z",
           "gmp": 36,
           "gmpPercent": 35.64
         }
