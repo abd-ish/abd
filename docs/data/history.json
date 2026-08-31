@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:56:59.253Z",
+  "updatedAt": "2026-08-31T09:22:11.746Z",
   "ipos": {
     "1607": {
       "name": "ESDS Software Solution",
@@ -70,10 +70,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 323,
           "gmpPercent": 75.29
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 324,
+          "gmpPercent": 75.52
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 75.29,
+      "lastGmpPercent": 75.52,
       "status": "Open"
     },
     "1619": {
@@ -155,10 +160,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 57,
           "gmpPercent": 69.51
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 54,
+          "gmpPercent": 65.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 69.51,
+      "lastGmpPercent": 65.85,
       "status": "Closing Today"
     },
     "1783": {
@@ -310,10 +320,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 28,
           "gmpPercent": 4.87
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 7,
+          "gmpPercent": 1.33
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.87,
+      "lastGmpPercent": 1.33,
       "status": "Open"
     },
     "1905": {
@@ -369,10 +384,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 25,
           "gmpPercent": 52.08
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 30,
+          "gmpPercent": 62.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 52.08,
+      "lastGmpPercent": 62.5,
       "status": "Open"
     },
     "1988": {
@@ -404,10 +424,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 3,
           "gmpPercent": 5.56
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 1,
+          "gmpPercent": 1.85
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.56,
+      "lastGmpPercent": 1.85,
       "status": "Open"
     },
     "1994": {
@@ -624,10 +649,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 35,
           "gmpPercent": 14.64
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 30,
+          "gmpPercent": 12.55
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.64,
+      "lastGmpPercent": 12.55,
       "status": "Upcoming"
     },
     "2081": {
@@ -674,10 +704,24 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 45,
           "gmpPercent": 25.42
+        },
+        {
+          "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 41,
+          "gmpPercent": 23.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.42,
+      "lastGmpPercent": 23.16,
+      "status": "Upcoming"
+    },
+    "2097": {
+      "name": "Fly-Hi Maritime",
+      "category": "SME",
+      "close": "2026-09-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2238": {
