@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:19:57.589Z",
+  "updatedAt": "2026-09-01T13:56:48.709Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -10,10 +10,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 14,
           "gmpPercent": 10
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 18,
+          "gmpPercent": 12.86
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.86,
       "status": "Upcoming"
     },
     "1607": {
@@ -100,11 +105,16 @@
           "t": "2026-09-01T08:19:57.589Z",
           "gmp": 316,
           "gmpPercent": 73.66
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 273,
+          "gmpPercent": 63.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.66,
-      "status": "Closing Today"
+      "lastGmpPercent": 63.64,
+      "status": "Closed"
     },
     "1619": {
       "name": "Lumino Industries",
@@ -200,11 +210,25 @@
           "t": "2026-09-01T08:19:57.589Z",
           "gmp": 48,
           "gmpPercent": 58.54
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 40,
+          "gmpPercent": 48.78
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 58.54,
+      "lastGmpPercent": 48.78,
       "status": "Closed"
+    },
+    "1662": {
+      "name": "Pranav Constructions",
+      "category": "Mainboard",
+      "close": "2026-09-09",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1783": {
       "name": "Priority Jewels",
@@ -265,11 +289,16 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 45,
           "gmpPercent": 22.5
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 23,
+          "gmpPercent": 11.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.5,
-      "status": "Closing Today"
+      "lastGmpPercent": 11.5,
+      "status": "Closed"
     },
     "1897": {
       "name": "Purple Style Labs",
@@ -310,10 +339,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 7,
           "gmpPercent": 1.22
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 5,
+          "gmpPercent": 0.87
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.22,
+      "lastGmpPercent": 0.87,
       "status": "Open"
     },
     "1905": {
@@ -379,11 +413,16 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 35,
           "gmpPercent": 72.92
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 20,
+          "gmpPercent": 41.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 72.92,
-      "status": "Closing Today"
+      "lastGmpPercent": 41.67,
+      "status": "Closed"
     },
     "1988": {
       "name": "Phychem Technologies",
@@ -474,10 +513,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 21,
           "gmpPercent": 25.3
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 10,
+          "gmpPercent": 12.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.3,
+      "lastGmpPercent": 12.05,
       "status": "Open"
     },
     "2009": {
@@ -529,10 +573,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 35,
           "gmpPercent": 38.04
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 20,
+          "gmpPercent": 21.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.04,
+      "lastGmpPercent": 21.74,
       "status": "Open"
     },
     "2013": {
@@ -669,10 +718,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 48,
           "gmpPercent": 20.08
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 38,
+          "gmpPercent": 15.9
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.08,
+      "lastGmpPercent": 15.9,
       "status": "Open"
     },
     "2081": {
@@ -729,10 +783,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 55,
           "gmpPercent": 31.07
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 44,
+          "gmpPercent": 24.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.07,
+      "lastGmpPercent": 24.86,
       "status": "Open"
     },
     "2097": {
@@ -749,10 +808,15 @@
           "t": "2026-09-01T08:19:57.589Z",
           "gmp": 5,
           "gmpPercent": 4.9
+        },
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 9,
+          "gmpPercent": 8.82
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.9,
+      "lastGmpPercent": 8.82,
       "status": "Open"
     },
     "2119": {
@@ -768,9 +832,15 @@
       "name": "Qualiance International",
       "category": "SME",
       "close": "2026-09-08",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 50,
+          "gmpPercent": 39.37
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 39.37,
       "status": "Upcoming"
     },
     "2339": {
@@ -780,7 +850,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     }
   }
 }
