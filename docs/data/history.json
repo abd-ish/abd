@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:30:11.535Z",
+  "updatedAt": "2026-09-01T08:19:57.589Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -13,7 +13,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1607": {
@@ -95,10 +95,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 273,
           "gmpPercent": 63.64
+        },
+        {
+          "t": "2026-09-01T08:19:57.589Z",
+          "gmp": 316,
+          "gmpPercent": 73.66
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 63.64,
+      "lastGmpPercent": 73.66,
       "status": "Closing Today"
     },
     "1619": {
@@ -190,10 +195,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 42,
           "gmpPercent": 51.22
+        },
+        {
+          "t": "2026-09-01T08:19:57.589Z",
+          "gmp": 48,
+          "gmpPercent": 58.54
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 51.22,
+      "lastGmpPercent": 58.54,
       "status": "Closed"
     },
     "1783": {
@@ -734,10 +744,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 9,
           "gmpPercent": 8.82
+        },
+        {
+          "t": "2026-09-01T08:19:57.589Z",
+          "gmp": 5,
+          "gmpPercent": 4.9
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.82,
+      "lastGmpPercent": 4.9,
       "status": "Open"
     },
     "2119": {
