@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-31T09:22:11.746Z",
+  "updatedAt": "2026-09-01T05:30:11.535Z",
   "ipos": {
+    "1601": {
+      "name": "Veegaland Developers",
+      "category": "Mainboard",
+      "close": "2026-09-15",
+      "series": [
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 14,
+          "gmpPercent": 10
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 10,
+      "status": "Upcoming"
+    },
     "1607": {
       "name": "ESDS Software Solution",
       "category": "Mainboard",
@@ -75,11 +90,16 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 324,
           "gmpPercent": 75.52
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 273,
+          "gmpPercent": 63.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 75.52,
-      "status": "Open"
+      "lastGmpPercent": 63.64,
+      "status": "Closing Today"
     },
     "1619": {
       "name": "Lumino Industries",
@@ -165,11 +185,16 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 54,
           "gmpPercent": 65.85
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 42,
+          "gmpPercent": 51.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 65.85,
-      "status": "Closing Today"
+      "lastGmpPercent": 51.22,
+      "status": "Closed"
     },
     "1783": {
       "name": "Priority Jewels",
@@ -225,71 +250,16 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 45,
           "gmpPercent": 22.5
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 45,
+          "gmpPercent": 22.5
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 22.5,
-      "status": "Open"
-    },
-    "1815": {
-      "name": "Annu Projects",
-      "category": "Mainboard",
-      "close": "2026-08-28",
-      "series": [
-        {
-          "t": "2026-08-21T09:35:15.423Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-08-26T06:47:39.129Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 6,
-          "gmpPercent": 6.06
-        },
-        {
-          "t": "2026-08-27T13:49:21.709Z",
-          "gmp": 7,
-          "gmpPercent": 7.07
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "1897": {
       "name": "Purple Style Labs",
@@ -325,10 +295,15 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 7,
           "gmpPercent": 1.33
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 7,
+          "gmpPercent": 1.22
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.33,
+      "lastGmpPercent": 1.22,
       "status": "Open"
     },
     "1905": {
@@ -338,7 +313,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1963": {
       "name": "Paluck Technologies",
@@ -389,11 +364,16 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 30,
           "gmpPercent": 62.5
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 35,
+          "gmpPercent": 72.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 62.5,
-      "status": "Open"
+      "lastGmpPercent": 72.92,
+      "status": "Closing Today"
     },
     "1988": {
       "name": "Phychem Technologies",
@@ -427,6 +407,11 @@
         },
         {
           "t": "2026-08-31T09:22:11.746Z",
+          "gmp": 1,
+          "gmpPercent": 1.85
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
           "gmp": 1,
           "gmpPercent": 1.85
         }
@@ -474,10 +459,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 31,
           "gmpPercent": 37.35
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 21,
+          "gmpPercent": 25.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.35,
+      "lastGmpPercent": 25.3,
       "status": "Open"
     },
     "2009": {
@@ -524,10 +514,15 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 37,
           "gmpPercent": 40.22
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 35,
+          "gmpPercent": 38.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.22,
+      "lastGmpPercent": 38.04,
       "status": "Open"
     },
     "2013": {
@@ -604,11 +599,16 @@
           "t": "2026-08-31T05:56:59.253Z",
           "gmp": 70,
           "gmpPercent": 77.78
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 85,
+          "gmpPercent": 94.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 77.78,
-      "status": "Closing Today"
+      "lastGmpPercent": 94.44,
+      "status": "Closed"
     },
     "2041": {
       "name": "Rays of Belief",
@@ -654,11 +654,16 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 30,
           "gmpPercent": 12.55
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 48,
+          "gmpPercent": 20.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.55,
-      "status": "Upcoming"
+      "lastGmpPercent": 20.08,
+      "status": "Open"
     },
     "2081": {
       "name": "Deepa Jewellers",
@@ -709,115 +714,49 @@
           "t": "2026-08-31T09:22:11.746Z",
           "gmp": 41,
           "gmpPercent": 23.16
+        },
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 55,
+          "gmpPercent": 31.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.16,
-      "status": "Upcoming"
+      "lastGmpPercent": 31.07,
+      "status": "Open"
     },
     "2097": {
       "name": "Fly-Hi Maritime",
       "category": "SME",
       "close": "2026-09-03",
+      "series": [
+        {
+          "t": "2026-09-01T05:30:11.535Z",
+          "gmp": 9,
+          "gmpPercent": 8.82
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 8.82,
+      "status": "Open"
+    },
+    "2119": {
+      "name": "Kanohar Electricals",
+      "category": "Mainboard",
+      "close": "",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
     },
-    "2238": {
-      "name": "Sumax Engineering",
+    "2240": {
+      "name": "Qualiance International",
       "category": "SME",
-      "close": "2026-08-28",
-      "series": [
-        {
-          "t": "2026-08-18T06:41:11.577Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-08-19T02:02:48.311Z",
-          "gmp": 20,
-          "gmpPercent": 19.8
-        },
-        {
-          "t": "2026-08-20T02:00:50.000Z",
-          "gmp": 30,
-          "gmpPercent": 29.7
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 32,
-          "gmpPercent": 31.68
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 32,
-          "gmpPercent": 31.68
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 32,
-          "gmpPercent": 31.68
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 32,
-          "gmpPercent": 31.68
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 32,
-          "gmpPercent": 31.68
-        },
-        {
-          "t": "2026-08-25T06:44:56.979Z",
-          "gmp": 35,
-          "gmpPercent": 34.65
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 35,
-          "gmpPercent": 34.65
-        },
-        {
-          "t": "2026-08-26T09:39:54.301Z",
-          "gmp": 30,
-          "gmpPercent": 29.7
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 25,
-          "gmpPercent": 24.75
-        },
-        {
-          "t": "2026-08-27T13:49:21.709Z",
-          "gmp": 30,
-          "gmpPercent": 29.7
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 36,
-          "gmpPercent": 35.64
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 36,
-          "gmpPercent": 35.64
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 36,
-          "gmpPercent": 35.64
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 36,
-          "gmpPercent": 35.64
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 35.64,
-      "status": "Closed"
+      "close": "2026-09-08",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2339": {
       "name": "Complete Sports and Management",
@@ -826,7 +765,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     }
   }
 }
