@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:56:48.709Z",
+  "updatedAt": "2026-09-02T04:56:07.214Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -13,6 +13,11 @@
         },
         {
           "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 18,
+          "gmpPercent": 12.86
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
           "gmp": 18,
           "gmpPercent": 12.86
         }
@@ -110,10 +115,15 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 273,
           "gmpPercent": 63.64
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 255,
+          "gmpPercent": 59.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 63.64,
+      "lastGmpPercent": 59.44,
       "status": "Closed"
     },
     "1619": {
@@ -215,16 +225,36 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 40,
           "gmpPercent": 48.78
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 30,
+          "gmpPercent": 36.59
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 48.78,
+      "lastGmpPercent": 36.59,
       "status": "Closed"
     },
     "1662": {
       "name": "Pranav Constructions",
       "category": "Mainboard",
       "close": "2026-09-09",
+      "series": [
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 23,
+          "gmpPercent": 18.55
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 18.55,
+      "status": "Upcoming"
+    },
+    "1685": {
+      "name": "Amtech Esters",
+      "category": "SME",
+      "close": "2026-09-11",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -294,10 +324,15 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 23,
           "gmpPercent": 11.5
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 31,
+          "gmpPercent": 15.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.5,
+      "lastGmpPercent": 15.5,
       "status": "Closed"
     },
     "1897": {
@@ -344,11 +379,16 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 5,
           "gmpPercent": 0.87
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 2,
+          "gmpPercent": 0.35
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.87,
-      "status": "Open"
+      "lastGmpPercent": 0.35,
+      "status": "Closing Today"
     },
     "1905": {
       "name": "Farm Peace",
@@ -418,6 +458,11 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 20,
           "gmpPercent": 41.67
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 20,
+          "gmpPercent": 41.67
         }
       ],
       "alertedAbove": true,
@@ -463,11 +508,16 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 1,
           "gmpPercent": 1.85
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 1,
+          "gmpPercent": 1.85
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.85,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1994": {
       "name": "Shanti Inorganics",
@@ -518,11 +568,16 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 10,
           "gmpPercent": 12.05
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 36,
+          "gmpPercent": 43.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.05,
-      "status": "Open"
+      "lastGmpPercent": 43.37,
+      "status": "Closing Today"
     },
     "2009": {
       "name": "Ashutosh Fibre",
@@ -578,11 +633,16 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 20,
           "gmpPercent": 21.74
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 10,
+          "gmpPercent": 10.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.74,
-      "status": "Open"
+      "lastGmpPercent": 10.87,
+      "status": "Closing Today"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
@@ -663,10 +723,15 @@
           "t": "2026-09-01T05:30:11.535Z",
           "gmp": 85,
           "gmpPercent": 94.44
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 75,
+          "gmpPercent": 83.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 94.44,
+      "lastGmpPercent": 83.33,
       "status": "Closed"
     },
     "2041": {
@@ -721,6 +786,11 @@
         },
         {
           "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 38,
+          "gmpPercent": 15.9
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
           "gmp": 38,
           "gmpPercent": 15.9
         }
@@ -788,6 +858,11 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 44,
           "gmpPercent": 24.86
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 44,
+          "gmpPercent": 24.86
         }
       ],
       "alertedAbove": true,
@@ -813,10 +888,15 @@
           "t": "2026-09-01T13:56:48.709Z",
           "gmp": 9,
           "gmpPercent": 8.82
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
+          "gmp": 12,
+          "gmpPercent": 12.25
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.82,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.25,
       "status": "Open"
     },
     "2119": {
@@ -835,6 +915,11 @@
       "series": [
         {
           "t": "2026-09-01T13:56:48.709Z",
+          "gmp": 50,
+          "gmpPercent": 39.37
+        },
+        {
+          "t": "2026-09-02T04:56:07.214Z",
           "gmp": 50,
           "gmpPercent": 39.37
         }
