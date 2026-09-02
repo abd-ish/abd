@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:56:07.214Z",
+  "updatedAt": "2026-09-02T07:39:53.102Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -230,10 +230,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 30,
           "gmpPercent": 36.59
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 33,
+          "gmpPercent": 40.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.59,
+      "lastGmpPercent": 40.24,
       "status": "Closed"
     },
     "1662": {
@@ -245,10 +250,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 23,
           "gmpPercent": 18.55
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 19,
+          "gmpPercent": 15.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.55,
+      "lastGmpPercent": 15.32,
       "status": "Upcoming"
     },
     "1685": {
@@ -335,6 +345,15 @@
       "lastGmpPercent": 15.5,
       "status": "Closed"
     },
+    "1848": {
+      "name": "Asset Reconstruction",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1897": {
       "name": "Purple Style Labs",
       "category": "Mainboard",
@@ -387,7 +406,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.35,
+      "lastGmpPercent": null,
       "status": "Closing Today"
     },
     "1905": {
@@ -573,10 +592,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 36,
           "gmpPercent": 43.37
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 25,
+          "gmpPercent": 30.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 43.37,
+      "lastGmpPercent": 30.12,
       "status": "Closing Today"
     },
     "2009": {
@@ -638,10 +662,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 10,
           "gmpPercent": 10.87
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 35,
+          "gmpPercent": 38.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.87,
+      "lastGmpPercent": 38.04,
       "status": "Closing Today"
     },
     "2013": {
@@ -863,10 +892,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 44,
           "gmpPercent": 24.86
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 35,
+          "gmpPercent": 19.77
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.86,
+      "lastGmpPercent": 19.77,
       "status": "Open"
     },
     "2097": {
@@ -893,10 +927,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 12,
           "gmpPercent": 12.25
+        },
+        {
+          "t": "2026-09-02T07:39:53.102Z",
+          "gmp": 15,
+          "gmpPercent": 14.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.25,
+      "lastGmpPercent": 14.71,
       "status": "Open"
     },
     "2119": {
