@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:39:53.102Z",
+  "updatedAt": "2026-09-02T13:16:10.937Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -120,10 +120,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 255,
           "gmpPercent": 59.44
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 245,
+          "gmpPercent": 57.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 59.44,
+      "lastGmpPercent": 57.11,
       "status": "Closed"
     },
     "1619": {
@@ -235,10 +240,15 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 33,
           "gmpPercent": 40.24
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 35,
+          "gmpPercent": 42.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.24,
+      "lastGmpPercent": 42.68,
       "status": "Closed"
     },
     "1662": {
@@ -255,10 +265,15 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 19,
           "gmpPercent": 15.32
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 25,
+          "gmpPercent": 20.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.32,
+      "lastGmpPercent": 20.16,
       "status": "Upcoming"
     },
     "1685": {
@@ -339,10 +354,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 31,
           "gmpPercent": 15.5
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 30,
+          "gmpPercent": 15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.5,
+      "lastGmpPercent": 15,
       "status": "Closed"
     },
     "1848": {
@@ -403,11 +423,16 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 2,
           "gmpPercent": 0.35
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 1,
+          "gmpPercent": 0.17
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 0.17,
+      "status": "Closed"
     },
     "1905": {
       "name": "Farm Peace",
@@ -482,10 +507,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 20,
           "gmpPercent": 41.67
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 10,
+          "gmpPercent": 20.83
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.67,
+      "lastGmpPercent": 20.83,
       "status": "Closed"
     },
     "1988": {
@@ -536,7 +566,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.85,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1994": {
       "name": "Shanti Inorganics",
@@ -597,11 +627,16 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 25,
           "gmpPercent": 30.12
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 13,
+          "gmpPercent": 15.66
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.12,
-      "status": "Closing Today"
+      "lastGmpPercent": 15.66,
+      "status": "Closed"
     },
     "2009": {
       "name": "Ashutosh Fibre",
@@ -667,11 +702,16 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 35,
           "gmpPercent": 38.04
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 33,
+          "gmpPercent": 35.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.04,
-      "status": "Closing Today"
+      "lastGmpPercent": 35.87,
+      "status": "Closed"
     },
     "2013": {
       "name": "Kwick Forensic Solutions",
@@ -757,10 +797,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 75,
           "gmpPercent": 83.33
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 78,
+          "gmpPercent": 86.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 83.33,
+      "lastGmpPercent": 86.67,
       "status": "Closed"
     },
     "2041": {
@@ -822,10 +867,15 @@
           "t": "2026-09-02T04:56:07.214Z",
           "gmp": 38,
           "gmpPercent": 15.9
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 32,
+          "gmpPercent": 13.39
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.9,
+      "lastGmpPercent": 13.39,
       "status": "Open"
     },
     "2081": {
@@ -897,10 +947,15 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 35,
           "gmpPercent": 19.77
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 28,
+          "gmpPercent": 15.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.77,
+      "lastGmpPercent": 15.82,
       "status": "Open"
     },
     "2097": {
@@ -932,10 +987,15 @@
           "t": "2026-09-02T07:39:53.102Z",
           "gmp": 15,
           "gmpPercent": 14.71
+        },
+        {
+          "t": "2026-09-02T13:16:10.937Z",
+          "gmp": 20,
+          "gmpPercent": 19.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.71,
+      "lastGmpPercent": 19.61,
       "status": "Open"
     },
     "2119": {
