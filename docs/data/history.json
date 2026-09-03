@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:53:18.217Z",
+  "updatedAt": "2026-09-03T07:49:03.420Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -135,10 +135,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 240,
           "gmpPercent": 55.94
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 225,
+          "gmpPercent": 52.45
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 55.94,
+      "lastGmpPercent": 52.45,
       "status": "Closed"
     },
     "1619": {
@@ -384,10 +389,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 27,
           "gmpPercent": 13.5
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 30,
+          "gmpPercent": 15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.5,
+      "lastGmpPercent": 15,
       "status": "Closed"
     },
     "1848": {
@@ -403,9 +413,15 @@
       "name": "Glass Wall Systems",
       "category": "Mainboard",
       "close": "2026-09-10",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 20,
+          "gmpPercent": 10.99
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 10.99,
       "status": "Upcoming"
     },
     "1897": {
@@ -467,10 +483,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 1,
           "gmpPercent": 0.26
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 2,
+          "gmpPercent": 0.35
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.26,
+      "lastGmpPercent": 0.35,
       "status": "Closed"
     },
     "1905": {
@@ -556,10 +577,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 10,
           "gmpPercent": 20.83
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 9,
+          "gmpPercent": 18.75
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.83,
+      "lastGmpPercent": 18.75,
       "status": "Closed"
     },
     "1988": {
@@ -872,13 +898,28 @@
       "lastGmpPercent": 86.67,
       "status": "Listed"
     },
+    "2018": {
+      "name": "Apana Logistics",
+      "category": "SME",
+      "close": "2026-09-09",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2030": {
       "name": "Prasol Chemicals",
       "category": "Mainboard",
       "close": "2026-09-10",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 14,
+          "gmpPercent": 2.07
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 2.07,
       "status": "Upcoming"
     },
     "2041": {
@@ -950,10 +991,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 47,
           "gmpPercent": 19.67
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 63,
+          "gmpPercent": 26.36
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.67,
+      "lastGmpPercent": 26.36,
       "status": "Closing Today"
     },
     "2081": {
@@ -1035,10 +1081,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 28,
           "gmpPercent": 15.82
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 24,
+          "gmpPercent": 13.56
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.82,
+      "lastGmpPercent": 13.56,
       "status": "Closing Today"
     },
     "2097": {
@@ -1080,10 +1131,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 20,
           "gmpPercent": 19.61
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 1,
+          "gmpPercent": 0.98
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 19.61,
+      "alertedAbove": false,
+      "lastGmpPercent": 0.98,
       "status": "Closing Today"
     },
     "2119": {
@@ -1095,10 +1151,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 31,
           "gmpPercent": 4.91
+        },
+        {
+          "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 150,
+          "gmpPercent": 23.73
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4.91,
+      "alertedAbove": true,
+      "lastGmpPercent": 23.73,
       "status": "Upcoming"
     },
     "2240": {
