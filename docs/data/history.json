@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:49:03.420Z",
+  "updatedAt": "2026-09-03T13:15:55.626Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -140,10 +140,15 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 225,
           "gmpPercent": 52.45
+        },
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 247,
+          "gmpPercent": 57.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 52.45,
+      "lastGmpPercent": 57.58,
       "status": "Closed"
     },
     "1619": {
@@ -295,10 +300,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 27,
           "gmpPercent": 21.77
+        },
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 30,
+          "gmpPercent": 24.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.77,
+      "lastGmpPercent": 24.19,
       "status": "Upcoming"
     },
     "1685": {
@@ -498,10 +508,16 @@
       "name": "Farm Peace",
       "category": "SME",
       "close": "2026-09-03",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 1,
+          "gmpPercent": 1.69
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.69,
+      "status": "Closed"
     },
     "1963": {
       "name": "Paluck Technologies",
@@ -996,11 +1012,16 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 63,
           "gmpPercent": 26.36
+        },
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 13,
+          "gmpPercent": 5.44
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 26.36,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": 5.44,
+      "status": "Closed"
     },
     "2081": {
       "name": "Deepa Jewellers",
@@ -1086,11 +1107,16 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 24,
           "gmpPercent": 13.56
+        },
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 18,
+          "gmpPercent": 10.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.56,
-      "status": "Closing Today"
+      "lastGmpPercent": 10.17,
+      "status": "Closed"
     },
     "2097": {
       "name": "Fly-Hi Maritime",
@@ -1140,7 +1166,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.98,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2119": {
       "name": "Kanohar Electricals",
@@ -1156,10 +1182,15 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 150,
           "gmpPercent": 23.73
+        },
+        {
+          "t": "2026-09-03T13:15:55.626Z",
+          "gmp": 160,
+          "gmpPercent": 25.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.73,
+      "lastGmpPercent": 25.32,
       "status": "Upcoming"
     },
     "2240": {

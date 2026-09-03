@@ -1,84 +1,8 @@
 {
-  "generatedAt": "2026-09-03T07:49:03.420Z",
+  "generatedAt": "2026-09-03T13:15:55.626Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
-    {
-      "id": "2041",
-      "name": "Rays of Belief",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 63,
-      "gmpPercent": 26.36,
-      "price": 239,
-      "lot": 62,
-      "ipoSize": "₹125.00 Cr",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "listing": "2026-09-08",
-      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
-      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 63</b></small>",
-      "url": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
-      "updatedOn": "3-Sep 13:01"
-    },
-    {
-      "id": "2081",
-      "name": "Deepa Jewellers",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 24,
-      "gmpPercent": 13.56,
-      "price": 177,
-      "lot": 84,
-      "ipoSize": "₹459.72 Cr",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "listing": "2026-09-08",
-      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 44</b></small>",
-      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 24</b></small>",
-      "url": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
-      "updatedOn": "3-Sep 12:57"
-    },
-    {
-      "id": "2097",
-      "name": "Fly-Hi Maritime",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Closing Today",
-      "gmp": 1,
-      "gmpPercent": 0.98,
-      "price": 102,
-      "lot": 1200,
-      "ipoSize": "₹52.63 Cr",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "listing": "2026-09-08",
-      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12.5</b></small>",
-      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
-      "url": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/",
-      "updatedOn": "3-Sep 12:56"
-    },
-    {
-      "id": "1905",
-      "name": "Farm Peace",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Closing Today",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 59,
-      "lot": 2000,
-      "ipoSize": "₹32.00 Cr",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "listing": "2026-09-08",
-      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
-      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: -0.5</b></small>",
-      "url": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
-      "updatedOn": "3-Sep 12:53"
-    },
     {
       "id": "2240",
       "name": "Qualiance International",
@@ -96,7 +20,7 @@
       "openDisplay": "4-Sep",
       "closeDisplay": "8-Sep",
       "url": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
-      "updatedOn": "3-Sep 12:53"
+      "updatedOn": "3-Sep 18:01"
     },
     {
       "id": "2119",
@@ -104,8 +28,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 150,
-      "gmpPercent": 23.73,
+      "gmp": 160,
+      "gmpPercent": 25.32,
       "price": 632,
       "lot": 23,
       "ipoSize": "₹1055.74 Cr",
@@ -115,7 +39,7 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
-      "updatedOn": "3-Sep 12:57"
+      "updatedOn": "3-Sep 17:53"
     },
     {
       "id": "1662",
@@ -123,8 +47,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 27,
-      "gmpPercent": 21.77,
+      "gmp": 30,
+      "gmpPercent": 24.19,
       "price": 124,
       "lot": 120,
       "ipoSize": "₹351.03 Cr",
@@ -134,7 +58,7 @@
       "openDisplay": "7-Sep",
       "closeDisplay": "9-Sep",
       "url": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-      "updatedOn": "3-Sep 13:00"
+      "updatedOn": "3-Sep 18:02"
     },
     {
       "id": "1601",
@@ -153,7 +77,7 @@
       "openDisplay": "10-Sep",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
-      "updatedOn": "3-Sep 12:59"
+      "updatedOn": "3-Sep 17:55"
     },
     {
       "id": "1879",
@@ -172,7 +96,7 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
-      "updatedOn": "3-Sep 12:59"
+      "updatedOn": "3-Sep 17:54"
     },
     {
       "id": "2030",
@@ -191,7 +115,7 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
-      "updatedOn": "3-Sep 12:56"
+      "updatedOn": "3-Sep 17:56"
     },
     {
       "id": "1685",
@@ -210,7 +134,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/",
-      "updatedOn": "3-Sep 13:01"
+      "updatedOn": "3-Sep 17:55"
     },
     {
       "id": "1848",
@@ -229,7 +153,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
-      "updatedOn": "3-Sep 12:56"
+      "updatedOn": "3-Sep 18:01"
     },
     {
       "id": "2018",
@@ -248,7 +172,7 @@
       "openDisplay": "7-Sep",
       "closeDisplay": "9-Sep",
       "url": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/",
-      "updatedOn": "3-Sep 13:02"
+      "updatedOn": "3-Sep 18:00"
     },
     {
       "id": "2013",
@@ -408,8 +332,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 225,
-      "gmpPercent": 52.45,
+      "gmp": 247,
+      "gmpPercent": 57.58,
       "price": 429,
       "lot": 34,
       "ipoSize": "₹720.00 Cr",
@@ -419,7 +343,7 @@
       "openDisplay": "28-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 360</b></small>",
       "closeDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 255</b></small>",
       "url": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
-      "updatedOn": "3-Sep 12:56"
+      "updatedOn": "3-Sep 17:58"
     },
     {
       "id": "2009",
@@ -438,7 +362,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 45</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 33</b></small>",
       "url": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
-      "updatedOn": "3-Sep 12:54"
+      "updatedOn": "3-Sep 17:55"
     },
     {
       "id": "1963",
@@ -457,7 +381,7 @@
       "openDisplay": "28-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 20</b></small>",
       "url": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
-      "updatedOn": "3-Sep 12:59"
+      "updatedOn": "3-Sep 17:56"
     },
     {
       "id": "1994",
@@ -476,7 +400,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 31</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 13</b></small>",
       "url": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
-      "updatedOn": "3-Sep 13:02"
+      "updatedOn": "3-Sep 18:00"
     },
     {
       "id": "1783",
@@ -495,7 +419,45 @@
       "openDisplay": "28-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 45</b></small>",
       "closeDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 31</b></small>",
       "url": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
-      "updatedOn": "3-Sep 13:02"
+      "updatedOn": "3-Sep 17:54"
+    },
+    {
+      "id": "2081",
+      "name": "Deepa Jewellers",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 18,
+      "gmpPercent": 10.17,
+      "price": 177,
+      "lot": 84,
+      "ipoSize": "₹459.72 Cr",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "listing": "2026-09-08",
+      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 44</b></small>",
+      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
+      "url": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
+      "updatedOn": "3-Sep 17:57"
+    },
+    {
+      "id": "2041",
+      "name": "Rays of Belief",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 13,
+      "gmpPercent": 5.44,
+      "price": 239,
+      "lot": 62,
+      "ipoSize": "₹125.00 Cr",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "listing": "2026-09-08",
+      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
+      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 13</b></small>",
+      "url": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
+      "updatedOn": "3-Sep 17:55"
     },
     {
       "id": "1988",
@@ -514,7 +476,45 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/",
-      "updatedOn": "3-Sep 12:54"
+      "updatedOn": "3-Sep 17:54"
+    },
+    {
+      "id": "1905",
+      "name": "Farm Peace",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Closed",
+      "gmp": 1,
+      "gmpPercent": 1.69,
+      "price": 59,
+      "lot": 2000,
+      "ipoSize": "₹32.00 Cr",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "listing": "2026-09-08",
+      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
+      "url": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
+      "updatedOn": "3-Sep 17:55"
+    },
+    {
+      "id": "2097",
+      "name": "Fly-Hi Maritime",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Closed",
+      "gmp": 1,
+      "gmpPercent": 0.98,
+      "price": 102,
+      "lot": 1200,
+      "ipoSize": "₹52.63 Cr",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "listing": "2026-09-08",
+      "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12.5</b></small>",
+      "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
+      "url": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/",
+      "updatedOn": "3-Sep 17:57"
     },
     {
       "id": "1897",
@@ -533,7 +533,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/purple-style-labs-ipo/1897/",
-      "updatedOn": "3-Sep 12:54"
+      "updatedOn": "3-Sep 18:02"
     },
     {
       "id": "2339",
@@ -552,7 +552,7 @@
       "openDisplay": "28-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
-      "updatedOn": "3-Sep 13:02"
+      "updatedOn": "3-Sep 18:02"
     },
     {
       "id": "1992",
