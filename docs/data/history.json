@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:57:45.946Z",
+  "updatedAt": "2026-09-04T07:44:43.519Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -30,10 +30,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 18,
           "gmpPercent": 12.86
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 22,
+          "gmpPercent": 15.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.86,
+      "lastGmpPercent": 15.71,
       "status": "Upcoming"
     },
     "1607": {
@@ -165,9 +170,15 @@
       "name": "Karamtara Engineering",
       "category": "Mainboard",
       "close": "2026-09-11",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 20,
+          "gmpPercent": 7.87
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.87,
       "status": "Upcoming"
     },
     "1648": {
@@ -213,10 +224,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 31,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 33,
+          "gmpPercent": 26.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25,
+      "lastGmpPercent": 26.61,
       "status": "Upcoming"
     },
     "1685": {
@@ -364,10 +380,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 20,
           "gmpPercent": 10.99
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 40,
+          "gmpPercent": 21.98
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.99,
+      "lastGmpPercent": 21.98,
       "status": "Upcoming"
     },
     "1897": {
@@ -698,10 +719,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 34,
           "gmpPercent": 40.96
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 37,
+          "gmpPercent": 44.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.96,
+      "lastGmpPercent": 44.58,
       "status": "Closed"
     },
     "2009": {
@@ -783,10 +809,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 36,
           "gmpPercent": 39.13
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 38,
+          "gmpPercent": 41.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.13,
+      "lastGmpPercent": 41.3,
       "status": "Closed"
     },
     "2018": {
@@ -818,10 +849,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 14,
           "gmpPercent": 2.07
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 100,
+          "gmpPercent": 14.79
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.07,
+      "alertedAbove": true,
+      "lastGmpPercent": 14.79,
       "status": "Upcoming"
     },
     "2041": {
@@ -908,10 +944,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 12,
           "gmpPercent": 5.02
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 17,
+          "gmpPercent": 7.11
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.02,
+      "lastGmpPercent": 7.11,
       "status": "Closed"
     },
     "2081": {
@@ -1008,10 +1049,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 19,
           "gmpPercent": 10.73
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 22,
+          "gmpPercent": 12.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.73,
+      "lastGmpPercent": 12.43,
       "status": "Closed"
     },
     "2097": {
@@ -1093,10 +1139,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 200,
           "gmpPercent": 31.65
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 205,
+          "gmpPercent": 32.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.65,
+      "lastGmpPercent": 32.44,
       "status": "Upcoming"
     },
     "2231": {
@@ -1108,10 +1159,15 @@
           "t": "2026-09-04T04:57:45.946Z",
           "gmp": 30,
           "gmpPercent": 7.43
+        },
+        {
+          "t": "2026-09-04T07:44:43.519Z",
+          "gmp": 40,
+          "gmpPercent": 9.9
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.43,
+      "lastGmpPercent": 9.9,
       "status": "Upcoming"
     },
     "2240": {
@@ -1143,6 +1199,15 @@
       "alertedAbove": true,
       "lastGmpPercent": 43.31,
       "status": "Open"
+    },
+    "2318": {
+      "name": "Infrax Renewable",
+      "category": "SME",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2339": {
       "name": "Complete Sports and Management",
