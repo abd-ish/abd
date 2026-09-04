@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T13:15:55.626Z",
+  "updatedAt": "2026-09-04T04:57:45.946Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -23,6 +23,11 @@
         },
         {
           "t": "2026-09-03T04:53:18.217Z",
+          "gmp": 18,
+          "gmpPercent": 12.86
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
           "gmp": 18,
           "gmpPercent": 12.86
         }
@@ -145,136 +150,34 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 247,
           "gmpPercent": 57.58
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 311,
+          "gmpPercent": 72.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 57.58,
-      "status": "Closed"
-    },
-    "1619": {
-      "name": "Lumino Industries",
-      "category": "Mainboard",
-      "close": "2026-08-31",
-      "series": [
-        {
-          "t": "2026-08-21T06:43:54.862Z",
-          "gmp": 18,
-          "gmpPercent": 22.56
-        },
-        {
-          "t": "2026-08-21T09:35:15.423Z",
-          "gmp": 45,
-          "gmpPercent": 54.88
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 46,
-          "gmpPercent": 56.1
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 52,
-          "gmpPercent": 63.41
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 49,
-          "gmpPercent": 59.76
-        },
-        {
-          "t": "2026-08-24T06:56:40.764Z",
-          "gmp": 47,
-          "gmpPercent": 57.32
-        },
-        {
-          "t": "2026-08-24T09:46:31.776Z",
-          "gmp": 46,
-          "gmpPercent": 56.1
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 47,
-          "gmpPercent": 57.32
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 46,
-          "gmpPercent": 56.1
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 56,
-          "gmpPercent": 68.29
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 59,
-          "gmpPercent": 71.95
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 60,
-          "gmpPercent": 73.17
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 63,
-          "gmpPercent": 76.83
-        },
-        {
-          "t": "2026-08-30T14:19:43.257Z",
-          "gmp": 60,
-          "gmpPercent": 73.17
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 57,
-          "gmpPercent": 69.51
-        },
-        {
-          "t": "2026-08-31T09:22:11.746Z",
-          "gmp": 54,
-          "gmpPercent": 65.85
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 42,
-          "gmpPercent": 51.22
-        },
-        {
-          "t": "2026-09-01T08:19:57.589Z",
-          "gmp": 48,
-          "gmpPercent": 58.54
-        },
-        {
-          "t": "2026-09-01T13:56:48.709Z",
-          "gmp": 40,
-          "gmpPercent": 48.78
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 30,
-          "gmpPercent": 36.59
-        },
-        {
-          "t": "2026-09-02T07:39:53.102Z",
-          "gmp": 33,
-          "gmpPercent": 40.24
-        },
-        {
-          "t": "2026-09-02T13:16:10.937Z",
-          "gmp": 35,
-          "gmpPercent": 42.68
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 38,
-          "gmpPercent": 46.34
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 46.34,
+      "lastGmpPercent": 72.49,
       "status": "Listed"
+    },
+    "1622": {
+      "name": "Karamtara Engineering",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1648": {
+      "name": "LCC Projects",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1662": {
       "name": "Pranav Constructions",
@@ -305,10 +208,15 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 30,
           "gmpPercent": 24.19
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 31,
+          "gmpPercent": 25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.19,
+      "lastGmpPercent": 25,
       "status": "Upcoming"
     },
     "1685": {
@@ -404,11 +312,34 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 30,
           "gmpPercent": 15
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 28,
+          "gmpPercent": 14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15,
-      "status": "Closed"
+      "lastGmpPercent": 14,
+      "status": "Listed"
+    },
+    "1823": {
+      "name": "Steamhouse",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1827": {
+      "name": "Manipal Payment and Identity Solutions",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1848": {
       "name": "Asset Reconstruction",
@@ -426,6 +357,11 @@
       "series": [
         {
           "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 20,
+          "gmpPercent": 10.99
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
           "gmp": 20,
           "gmpPercent": 10.99
         }
@@ -498,6 +434,11 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 2,
           "gmpPercent": 0.35
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 2,
+          "gmpPercent": 0.35
         }
       ],
       "alertedAbove": false,
@@ -513,10 +454,15 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 1,
           "gmpPercent": 1.69
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 5,
+          "gmpPercent": 8.47
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.69,
+      "lastGmpPercent": 8.47,
       "status": "Closed"
     },
     "1963": {
@@ -598,11 +544,25 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 9,
           "gmpPercent": 18.75
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 9,
+          "gmpPercent": 18.75
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 18.75,
-      "status": "Closed"
+      "status": "Listed"
+    },
+    "1977": {
+      "name": "Vinod Texworld",
+      "category": "SME",
+      "close": "2026-09-11",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1988": {
       "name": "Phychem Technologies",
@@ -651,6 +611,11 @@
         },
         {
           "t": "2026-09-03T04:53:18.217Z",
+          "gmp": 1,
+          "gmpPercent": 1.85
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
           "gmp": 1,
           "gmpPercent": 1.85
         }
@@ -728,10 +693,15 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 13,
           "gmpPercent": 15.66
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 34,
+          "gmpPercent": 40.96
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.66,
+      "lastGmpPercent": 40.96,
       "status": "Closed"
     },
     "2009": {
@@ -808,119 +778,30 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 33,
           "gmpPercent": 35.87
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 36,
+          "gmpPercent": 39.13
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.87,
+      "lastGmpPercent": 39.13,
       "status": "Closed"
-    },
-    "2013": {
-      "name": "Kwick Forensic Solutions",
-      "category": "SME",
-      "close": "2026-08-31",
-      "series": [
-        {
-          "t": "2026-08-20T06:43:27.573Z",
-          "gmp": 15,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-08-21T02:08:36.274Z",
-          "gmp": 15,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-08-22T01:58:25.746Z",
-          "gmp": 43,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-08-22T03:40:53.365Z",
-          "gmp": 43,
-          "gmpPercent": 47.78
-        },
-        {
-          "t": "2026-08-23T02:09:39.538Z",
-          "gmp": 51,
-          "gmpPercent": 56.67
-        },
-        {
-          "t": "2026-08-23T06:39:28.490Z",
-          "gmp": 61,
-          "gmpPercent": 67.78
-        },
-        {
-          "t": "2026-08-24T02:08:07.177Z",
-          "gmp": 61,
-          "gmpPercent": 67.78
-        },
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 64,
-          "gmpPercent": 71.11
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 64,
-          "gmpPercent": 71.11
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 64,
-          "gmpPercent": 71.11
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 64,
-          "gmpPercent": 71.11
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 70,
-          "gmpPercent": 77.78
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 70,
-          "gmpPercent": 77.78
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 70,
-          "gmpPercent": 77.78
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 85,
-          "gmpPercent": 94.44
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 75,
-          "gmpPercent": 83.33
-        },
-        {
-          "t": "2026-09-02T13:16:10.937Z",
-          "gmp": 78,
-          "gmpPercent": 86.67
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 78,
-          "gmpPercent": 86.67
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 86.67,
-      "status": "Listed"
     },
     "2018": {
       "name": "Apana Logistics",
       "category": "SME",
       "close": "2026-09-09",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 3,
+          "gmpPercent": 5
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5,
       "status": "Upcoming"
     },
     "2030": {
@@ -930,6 +811,11 @@
       "series": [
         {
           "t": "2026-09-03T07:49:03.420Z",
+          "gmp": 14,
+          "gmpPercent": 2.07
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
           "gmp": 14,
           "gmpPercent": 2.07
         }
@@ -1017,10 +903,15 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 13,
           "gmpPercent": 5.44
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 12,
+          "gmpPercent": 5.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.44,
+      "lastGmpPercent": 5.02,
       "status": "Closed"
     },
     "2081": {
@@ -1112,10 +1003,15 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 18,
           "gmpPercent": 10.17
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 19,
+          "gmpPercent": 10.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.17,
+      "lastGmpPercent": 10.73,
       "status": "Closed"
     },
     "2097": {
@@ -1162,6 +1058,11 @@
           "t": "2026-09-03T07:49:03.420Z",
           "gmp": 1,
           "gmpPercent": 0.98
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 1,
+          "gmpPercent": 0.98
         }
       ],
       "alertedAbove": false,
@@ -1187,10 +1088,30 @@
           "t": "2026-09-03T13:15:55.626Z",
           "gmp": 160,
           "gmpPercent": 25.32
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 200,
+          "gmpPercent": 31.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.32,
+      "lastGmpPercent": 31.65,
+      "status": "Upcoming"
+    },
+    "2231": {
+      "name": "Rentomojo",
+      "category": "Mainboard",
+      "close": "2026-09-11",
+      "series": [
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 30,
+          "gmpPercent": 7.43
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 7.43,
       "status": "Upcoming"
     },
     "2240": {
@@ -1212,11 +1133,16 @@
           "t": "2026-09-03T04:53:18.217Z",
           "gmp": 55,
           "gmpPercent": 43.31
+        },
+        {
+          "t": "2026-09-04T04:57:45.946Z",
+          "gmp": 55,
+          "gmpPercent": 43.31
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 43.31,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2339": {
       "name": "Complete Sports and Management",
@@ -1225,7 +1151,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     }
   }
 }
