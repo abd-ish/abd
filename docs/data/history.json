@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:26:24.223Z",
+  "updatedAt": "2026-09-05T12:24:20.881Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -60,10 +60,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 40,
           "gmpPercent": 15.75
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 41,
+          "gmpPercent": 16.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.75,
+      "lastGmpPercent": 16.14,
       "status": "Upcoming"
     },
     "1648": {
@@ -135,10 +140,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 37,
           "gmpPercent": 29.84
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 41,
+          "gmpPercent": 33.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.84,
+      "lastGmpPercent": 33.06,
       "status": "Upcoming"
     },
     "1685": {
@@ -223,10 +233,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 67,
           "gmpPercent": 36.81
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 70,
+          "gmpPercent": 38.46
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.81,
+      "lastGmpPercent": 38.46,
       "status": "Upcoming"
     },
     "1897": {
@@ -323,19 +338,30 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 45,
           "gmpPercent": 76.27
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 48,
+          "gmpPercent": 81.36
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 76.27,
+      "lastGmpPercent": 81.36,
       "status": "Closed"
     },
     "1977": {
       "name": "Vinod Texworld",
       "category": "SME",
       "close": "2026-09-11",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 4,
+          "gmpPercent": 4.26
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.26,
       "status": "Upcoming"
     },
     "1988": {
@@ -757,10 +783,15 @@
           "t": "2026-09-05T07:26:24.223Z",
           "gmp": 9,
           "gmpPercent": 3.77
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 7,
+          "gmpPercent": 2.93
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.77,
+      "lastGmpPercent": 2.93,
       "status": "Closed"
     },
     "2081": {
@@ -867,10 +898,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 19,
           "gmpPercent": 10.73
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 19,
+          "gmpPercent": 11.02
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.73,
+      "lastGmpPercent": 11.02,
       "status": "Closed"
     },
     "2097": {
@@ -967,10 +1003,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 205,
           "gmpPercent": 32.44
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 185,
+          "gmpPercent": 29.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.44,
+      "lastGmpPercent": 29.27,
       "status": "Upcoming"
     },
     "2231": {
@@ -1002,10 +1043,15 @@
           "t": "2026-09-05T07:26:24.223Z",
           "gmp": 170,
           "gmpPercent": 42.08
+        },
+        {
+          "t": "2026-09-05T12:24:20.881Z",
+          "gmp": 142,
+          "gmpPercent": 35.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 42.08,
+      "lastGmpPercent": 35.15,
       "status": "Upcoming"
     },
     "2240": {
