@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:51:04.075Z",
+  "updatedAt": "2026-09-05T07:26:24.223Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -75,10 +75,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 17,
           "gmpPercent": 11.64
+        },
+        {
+          "t": "2026-09-05T07:26:24.223Z",
+          "gmp": 25,
+          "gmpPercent": 17.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.64,
+      "lastGmpPercent": 17.12,
       "status": "Upcoming"
     },
     "1662": {
@@ -587,10 +592,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 45,
           "gmpPercent": 48.91
+        },
+        {
+          "t": "2026-09-05T07:26:24.223Z",
+          "gmp": 47,
+          "gmpPercent": 51.09
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 48.91,
+      "lastGmpPercent": 51.09,
       "status": "Closed"
     },
     "2018": {
@@ -742,10 +752,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 11,
           "gmpPercent": 4.6
+        },
+        {
+          "t": "2026-09-05T07:26:24.223Z",
+          "gmp": 9,
+          "gmpPercent": 3.77
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.6,
+      "lastGmpPercent": 3.77,
       "status": "Closed"
     },
     "2081": {
@@ -982,10 +997,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 109,
           "gmpPercent": 26.98
+        },
+        {
+          "t": "2026-09-05T07:26:24.223Z",
+          "gmp": 170,
+          "gmpPercent": 42.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.98,
+      "lastGmpPercent": 42.08,
       "status": "Upcoming"
     },
     "2240": {

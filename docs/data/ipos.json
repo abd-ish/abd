@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:51:04.075Z",
+  "generatedAt": "2026-09-05T07:26:24.223Z",
   "count": 40,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,26 @@
       "openDisplay": "4-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 55</b></small>",
       "closeDisplay": "8-Sep",
       "url": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
-      "updatedOn": "5-Sep 9:57"
+      "updatedOn": "5-Sep 12:33"
+    },
+    {
+      "id": "2231",
+      "name": "Rentomojo",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 170,
+      "gmpPercent": 42.08,
+      "price": 404,
+      "lot": 37,
+      "ipoSize": "₹1255.57 Cr",
+      "open": "2026-09-09",
+      "close": "2026-09-11",
+      "listing": "2026-09-17",
+      "openDisplay": "9-Sep",
+      "closeDisplay": "11-Sep",
+      "url": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
+      "updatedOn": "5-Sep 12:28"
     },
     {
       "id": "1879",
@@ -39,7 +58,7 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
-      "updatedOn": "5-Sep 9:53"
+      "updatedOn": "5-Sep 12:28"
     },
     {
       "id": "2119",
@@ -58,7 +77,7 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "1662",
@@ -77,26 +96,7 @@
       "openDisplay": "7-Sep",
       "closeDisplay": "9-Sep",
       "url": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-      "updatedOn": "5-Sep 9:57"
-    },
-    {
-      "id": "2231",
-      "name": "Rentomojo",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 109,
-      "gmpPercent": 26.98,
-      "price": 404,
-      "lot": 37,
-      "ipoSize": "₹1255.57 Cr",
-      "open": "2026-09-09",
-      "close": "2026-09-11",
-      "listing": "2026-09-17",
-      "openDisplay": "9-Sep",
-      "closeDisplay": "11-Sep",
-      "url": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
-      "updatedOn": "5-Sep 10:02"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "2030",
@@ -115,7 +115,26 @@
       "openDisplay": "8-Sep",
       "closeDisplay": "10-Sep",
       "url": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:29"
+    },
+    {
+      "id": "1648",
+      "name": "LCC Projects",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 25,
+      "gmpPercent": 17.12,
+      "price": 146,
+      "lot": 102,
+      "ipoSize": "₹427.14 Cr",
+      "open": "2026-09-09",
+      "close": "2026-09-11",
+      "listing": "2026-09-17",
+      "openDisplay": "9-Sep",
+      "closeDisplay": "11-Sep",
+      "url": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
+      "updatedOn": "5-Sep 12:31"
     },
     {
       "id": "1622",
@@ -134,7 +153,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
-      "updatedOn": "5-Sep 9:53"
+      "updatedOn": "5-Sep 12:33"
     },
     {
       "id": "1601",
@@ -153,26 +172,7 @@
       "openDisplay": "10-Sep",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
-      "updatedOn": "5-Sep 10:02"
-    },
-    {
-      "id": "1648",
-      "name": "LCC Projects",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 17,
-      "gmpPercent": 11.64,
-      "price": 146,
-      "lot": 102,
-      "ipoSize": "₹427.14 Cr",
-      "open": "2026-09-09",
-      "close": "2026-09-11",
-      "listing": "2026-09-17",
-      "openDisplay": "9-Sep",
-      "closeDisplay": "11-Sep",
-      "url": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
-      "updatedOn": "5-Sep 9:56"
+      "updatedOn": "5-Sep 12:30"
     },
     {
       "id": "1827",
@@ -191,7 +191,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "1685",
@@ -210,7 +210,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/",
-      "updatedOn": "5-Sep 9:55"
+      "updatedOn": "5-Sep 12:30"
     },
     {
       "id": "2018",
@@ -229,7 +229,7 @@
       "openDisplay": "7-Sep",
       "closeDisplay": "9-Sep",
       "url": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/",
-      "updatedOn": "5-Sep 10:02"
+      "updatedOn": "5-Sep 12:33"
     },
     {
       "id": "2305",
@@ -237,7 +237,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 285,
+      "gmp": 300,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -248,7 +248,7 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/nse-ipo/2305/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:35"
     },
     {
       "id": "1848",
@@ -267,7 +267,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
-      "updatedOn": "5-Sep 9:55"
+      "updatedOn": "5-Sep 12:33"
     },
     {
       "id": "1977",
@@ -286,7 +286,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
-      "updatedOn": "5-Sep 9:58"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "2318",
@@ -305,7 +305,7 @@
       "openDisplay": "9-Sep",
       "closeDisplay": "11-Sep",
       "url": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
-      "updatedOn": "5-Sep 9:53"
+      "updatedOn": "5-Sep 12:30"
     },
     {
       "id": "1823",
@@ -609,7 +609,7 @@
       "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12</b></small>",
       "url": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
-      "updatedOn": "5-Sep 9:59"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "1994",
@@ -628,7 +628,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 31</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 13</b></small>",
       "url": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
-      "updatedOn": "5-Sep 10:02"
+      "updatedOn": "5-Sep 12:37"
     },
     {
       "id": "2009",
@@ -636,8 +636,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 45,
-      "gmpPercent": 48.91,
+      "gmp": 47,
+      "gmpPercent": 51.09,
       "price": 92,
       "lot": 1200,
       "ipoSize": "₹56.35 Cr",
@@ -647,7 +647,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 45</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 33</b></small>",
       "url": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:32"
     },
     {
       "id": "2081",
@@ -666,7 +666,7 @@
       "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 44</b></small>",
       "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
       "url": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
-      "updatedOn": "5-Sep 9:56"
+      "updatedOn": "5-Sep 12:35"
     },
     {
       "id": "2041",
@@ -674,8 +674,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 11,
-      "gmpPercent": 4.6,
+      "gmp": 9,
+      "gmpPercent": 3.77,
       "price": 239,
       "lot": 62,
       "ipoSize": "₹125.00 Cr",
@@ -685,7 +685,7 @@
       "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
       "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12</b></small>",
       "url": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
-      "updatedOn": "5-Sep 10:00"
+      "updatedOn": "5-Sep 12:32"
     },
     {
       "id": "1988",
@@ -704,7 +704,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/",
-      "updatedOn": "5-Sep 10:02"
+      "updatedOn": "5-Sep 12:34"
     },
     {
       "id": "2097",
@@ -723,7 +723,7 @@
       "openDisplay": "1-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12.5</b></small>",
       "closeDisplay": "3-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/",
-      "updatedOn": "5-Sep 9:58"
+      "updatedOn": "5-Sep 12:32"
     },
     {
       "id": "1897",
@@ -742,7 +742,7 @@
       "openDisplay": "31-Aug<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "2-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/purple-style-labs-ipo/1897/",
-      "updatedOn": "5-Sep 9:58"
+      "updatedOn": "5-Sep 12:36"
     },
     {
       "id": "1992",
