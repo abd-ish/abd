@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:58:16.919Z",
+  "updatedAt": "2026-09-06T07:40:15.248Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -45,10 +45,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 22,
           "gmpPercent": 15.71
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 30,
+          "gmpPercent": 21.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.71,
+      "lastGmpPercent": 21.43,
       "status": "Upcoming"
     },
     "1622": {
@@ -75,10 +80,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 50,
           "gmpPercent": 19.69
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 55,
+          "gmpPercent": 21.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.69,
+      "lastGmpPercent": 21.65,
       "status": "Upcoming"
     },
     "1648": {
@@ -165,10 +175,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 41,
           "gmpPercent": 33.06
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 43,
+          "gmpPercent": 35.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.06,
+      "lastGmpPercent": 35.08,
       "status": "Upcoming"
     },
     "1685": {
@@ -194,6 +209,15 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.67,
+      "status": "Upcoming"
+    },
+    "1806": {
+      "name": "Manika Plastech",
+      "category": "Mainboard",
+      "close": "2026-09-16",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1823": {
@@ -308,10 +332,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 47,
           "gmpPercent": 79.66
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 50,
+          "gmpPercent": 84.75
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 79.66,
+      "lastGmpPercent": 84.75,
       "status": "Closed"
     },
     "1977": {
@@ -393,10 +422,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 125,
           "gmpPercent": 18.49
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 135,
+          "gmpPercent": 19.97
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.49,
+      "lastGmpPercent": 19.97,
       "status": "Upcoming"
     },
     "2041": {
@@ -508,10 +542,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 11,
           "gmpPercent": 4.6
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 14,
+          "gmpPercent": 5.86
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.6,
+      "lastGmpPercent": 5.86,
       "status": "Closed"
     },
     "2081": {
@@ -743,10 +782,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 190,
           "gmpPercent": 30.06
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 205,
+          "gmpPercent": 32.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.06,
+      "lastGmpPercent": 32.44,
       "status": "Upcoming"
     },
     "2231": {
@@ -788,10 +832,15 @@
           "t": "2026-09-06T04:58:16.919Z",
           "gmp": 155,
           "gmpPercent": 38.37
+        },
+        {
+          "t": "2026-09-06T07:40:15.248Z",
+          "gmp": 160,
+          "gmpPercent": 39.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.37,
+      "lastGmpPercent": 39.6,
       "status": "Upcoming"
     },
     "2240": {
