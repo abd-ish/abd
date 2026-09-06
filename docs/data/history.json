@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:24:20.881Z",
+  "updatedAt": "2026-09-06T04:58:16.919Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -40,6 +40,11 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 22,
           "gmpPercent": 15.71
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 22,
+          "gmpPercent": 15.71
         }
       ],
       "alertedAbove": true,
@@ -65,10 +70,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 41,
           "gmpPercent": 16.14
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 50,
+          "gmpPercent": 19.69
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.14,
+      "lastGmpPercent": 19.69,
       "status": "Upcoming"
     },
     "1648": {
@@ -83,6 +93,11 @@
         },
         {
           "t": "2026-09-05T07:26:24.223Z",
+          "gmp": 25,
+          "gmpPercent": 17.12
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
           "gmp": 25,
           "gmpPercent": 17.12
         }
@@ -145,6 +160,11 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 41,
           "gmpPercent": 33.06
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 41,
+          "gmpPercent": 33.06
         }
       ],
       "alertedAbove": true,
@@ -163,6 +183,11 @@
         },
         {
           "t": "2026-09-05T04:51:04.075Z",
+          "gmp": 5,
+          "gmpPercent": 6.67
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
           "gmp": 5,
           "gmpPercent": 6.67
         }
@@ -189,10 +214,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 29,
           "gmpPercent": 8.55
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 30,
+          "gmpPercent": 8.85
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.55,
+      "lastGmpPercent": 8.85,
       "status": "Upcoming"
     },
     "1848": {
@@ -238,86 +268,16 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 70,
           "gmpPercent": 38.46
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 50,
+          "gmpPercent": 27.47
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.46,
+      "lastGmpPercent": 27.47,
       "status": "Upcoming"
-    },
-    "1897": {
-      "name": "Purple Style Labs",
-      "category": "Mainboard",
-      "close": "2026-09-02",
-      "series": [
-        {
-          "t": "2026-08-28T14:55:27.630Z",
-          "gmp": 20,
-          "gmpPercent": 3.48
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 30,
-          "gmpPercent": 5.22
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 34,
-          "gmpPercent": 5.91
-        },
-        {
-          "t": "2026-08-30T14:19:43.257Z",
-          "gmp": 28,
-          "gmpPercent": 4.87
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 28,
-          "gmpPercent": 4.87
-        },
-        {
-          "t": "2026-08-31T09:22:11.746Z",
-          "gmp": 7,
-          "gmpPercent": 1.33
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 7,
-          "gmpPercent": 1.22
-        },
-        {
-          "t": "2026-09-01T13:56:48.709Z",
-          "gmp": 5,
-          "gmpPercent": 0.87
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 2,
-          "gmpPercent": 0.35
-        },
-        {
-          "t": "2026-09-02T13:16:10.937Z",
-          "gmp": 1,
-          "gmpPercent": 0.17
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 1,
-          "gmpPercent": 0.26
-        },
-        {
-          "t": "2026-09-03T07:49:03.420Z",
-          "gmp": 2,
-          "gmpPercent": 0.35
-        },
-        {
-          "t": "2026-09-04T04:57:45.946Z",
-          "gmp": 2,
-          "gmpPercent": 0.35
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
     },
     "1905": {
       "name": "Farm Peace",
@@ -343,10 +303,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 48,
           "gmpPercent": 81.36
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 47,
+          "gmpPercent": 79.66
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 81.36,
+      "lastGmpPercent": 79.66,
       "status": "Closed"
     },
     "1977": {
@@ -358,276 +323,16 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 4,
           "gmpPercent": 4.26
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 4,
+          "gmpPercent": 4.26
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 4.26,
       "status": "Upcoming"
-    },
-    "1988": {
-      "name": "Phychem Technologies",
-      "category": "SME",
-      "close": "2026-09-02",
-      "series": [
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-08-31T09:22:11.746Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        },
-        {
-          "t": "2026-09-04T04:57:45.946Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        },
-        {
-          "t": "2026-09-05T04:51:04.075Z",
-          "gmp": 1,
-          "gmpPercent": 1.85
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.85,
-      "status": "Closed"
-    },
-    "1994": {
-      "name": "Shanti Inorganics",
-      "category": "SME",
-      "close": "2026-09-02",
-      "series": [
-        {
-          "t": "2026-08-25T02:03:46.996Z",
-          "gmp": 25,
-          "gmpPercent": 30.12
-        },
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 31,
-          "gmpPercent": 37.35
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 21,
-          "gmpPercent": 25.3
-        },
-        {
-          "t": "2026-09-01T13:56:48.709Z",
-          "gmp": 10,
-          "gmpPercent": 12.05
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 36,
-          "gmpPercent": 43.37
-        },
-        {
-          "t": "2026-09-02T07:39:53.102Z",
-          "gmp": 25,
-          "gmpPercent": 30.12
-        },
-        {
-          "t": "2026-09-02T13:16:10.937Z",
-          "gmp": 13,
-          "gmpPercent": 15.66
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 13,
-          "gmpPercent": 15.66
-        },
-        {
-          "t": "2026-09-04T04:57:45.946Z",
-          "gmp": 34,
-          "gmpPercent": 40.96
-        },
-        {
-          "t": "2026-09-04T07:44:43.519Z",
-          "gmp": 37,
-          "gmpPercent": 44.58
-        },
-        {
-          "t": "2026-09-04T13:10:32.247Z",
-          "gmp": 41,
-          "gmpPercent": 49.4
-        },
-        {
-          "t": "2026-09-05T04:51:04.075Z",
-          "gmp": 47,
-          "gmpPercent": 56.63
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 56.63,
-      "status": "Closed"
-    },
-    "2009": {
-      "name": "Ashutosh Fibre",
-      "category": "SME",
-      "close": "2026-09-02",
-      "series": [
-        {
-          "t": "2026-08-26T02:09:25.193Z",
-          "gmp": 13,
-          "gmpPercent": 14.13
-        },
-        {
-          "t": "2026-08-26T09:39:54.301Z",
-          "gmp": 15,
-          "gmpPercent": 16.3
-        },
-        {
-          "t": "2026-08-27T10:09:20.290Z",
-          "gmp": 32,
-          "gmpPercent": 34.78
-        },
-        {
-          "t": "2026-08-27T13:49:21.709Z",
-          "gmp": 37,
-          "gmpPercent": 40.22
-        },
-        {
-          "t": "2026-08-28T11:40:35.087Z",
-          "gmp": 37,
-          "gmpPercent": 40.22
-        },
-        {
-          "t": "2026-08-29T07:17:15.448Z",
-          "gmp": 37,
-          "gmpPercent": 40.22
-        },
-        {
-          "t": "2026-08-30T05:41:10.347Z",
-          "gmp": 37,
-          "gmpPercent": 40.22
-        },
-        {
-          "t": "2026-08-31T05:56:59.253Z",
-          "gmp": 37,
-          "gmpPercent": 40.22
-        },
-        {
-          "t": "2026-09-01T05:30:11.535Z",
-          "gmp": 35,
-          "gmpPercent": 38.04
-        },
-        {
-          "t": "2026-09-01T13:56:48.709Z",
-          "gmp": 20,
-          "gmpPercent": 21.74
-        },
-        {
-          "t": "2026-09-02T04:56:07.214Z",
-          "gmp": 10,
-          "gmpPercent": 10.87
-        },
-        {
-          "t": "2026-09-02T07:39:53.102Z",
-          "gmp": 35,
-          "gmpPercent": 38.04
-        },
-        {
-          "t": "2026-09-02T13:16:10.937Z",
-          "gmp": 33,
-          "gmpPercent": 35.87
-        },
-        {
-          "t": "2026-09-03T04:53:18.217Z",
-          "gmp": 33,
-          "gmpPercent": 35.87
-        },
-        {
-          "t": "2026-09-04T04:57:45.946Z",
-          "gmp": 36,
-          "gmpPercent": 39.13
-        },
-        {
-          "t": "2026-09-04T07:44:43.519Z",
-          "gmp": 38,
-          "gmpPercent": 41.3
-        },
-        {
-          "t": "2026-09-04T13:10:32.247Z",
-          "gmp": 44,
-          "gmpPercent": 47.83
-        },
-        {
-          "t": "2026-09-05T04:51:04.075Z",
-          "gmp": 45,
-          "gmpPercent": 48.91
-        },
-        {
-          "t": "2026-09-05T07:26:24.223Z",
-          "gmp": 47,
-          "gmpPercent": 51.09
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 51.09,
-      "status": "Closed"
     },
     "2018": {
       "name": "Apana Logistics",
@@ -641,6 +346,11 @@
         },
         {
           "t": "2026-09-05T04:51:04.075Z",
+          "gmp": 3,
+          "gmpPercent": 5
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
           "gmp": 3,
           "gmpPercent": 5
         }
@@ -678,10 +388,15 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 165,
           "gmpPercent": 24.41
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 125,
+          "gmpPercent": 18.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.41,
+      "lastGmpPercent": 18.49,
       "status": "Upcoming"
     },
     "2041": {
@@ -788,10 +503,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 7,
           "gmpPercent": 2.93
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 11,
+          "gmpPercent": 4.6
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.93,
+      "lastGmpPercent": 4.6,
       "status": "Closed"
     },
     "2081": {
@@ -903,10 +623,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 19,
           "gmpPercent": 11.02
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 19,
+          "gmpPercent": 10.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.02,
+      "lastGmpPercent": 10.73,
       "status": "Closed"
     },
     "2097": {
@@ -963,6 +688,11 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 1,
           "gmpPercent": 0.98
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 1,
+          "gmpPercent": 0.98
         }
       ],
       "alertedAbove": false,
@@ -1008,10 +738,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 185,
           "gmpPercent": 29.27
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 190,
+          "gmpPercent": 30.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.27,
+      "lastGmpPercent": 30.06,
       "status": "Upcoming"
     },
     "2231": {
@@ -1048,10 +783,15 @@
           "t": "2026-09-05T12:24:20.881Z",
           "gmp": 142,
           "gmpPercent": 35.15
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 155,
+          "gmpPercent": 38.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.15,
+      "lastGmpPercent": 38.37,
       "status": "Upcoming"
     },
     "2240": {
@@ -1083,6 +823,11 @@
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 55,
           "gmpPercent": 43.31
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 55,
+          "gmpPercent": 43.31
         }
       ],
       "alertedAbove": true,
@@ -1102,6 +847,11 @@
         {
           "t": "2026-09-05T04:51:04.075Z",
           "gmp": 285,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-09-06T04:58:16.919Z",
+          "gmp": 310,
           "gmpPercent": 0
         }
       ],
