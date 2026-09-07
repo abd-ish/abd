@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:57:53.061Z",
+  "updatedAt": "2026-09-07T14:49:23.612Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -100,10 +100,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 56,
           "gmpPercent": 22.05
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 58,
+          "gmpPercent": 22.83
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.05,
+      "lastGmpPercent": 22.83,
       "status": "Upcoming"
     },
     "1648": {
@@ -130,10 +135,15 @@
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 25,
           "gmpPercent": 17.12
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 25,
+          "gmpPercent": 17.47
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.12,
+      "lastGmpPercent": 17.47,
       "status": "Upcoming"
     },
     "1662": {
@@ -215,10 +225,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 43,
           "gmpPercent": 34.68
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 42,
+          "gmpPercent": 34.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.68,
+      "lastGmpPercent": 34.27,
       "status": "Open"
     },
     "1685": {
@@ -245,10 +260,15 @@
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 5,
           "gmpPercent": 6.67
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 7,
+          "gmpPercent": 9.33
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.67,
+      "lastGmpPercent": 9.33,
       "status": "Upcoming"
     },
     "1749": {
@@ -269,10 +289,15 @@
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 7,
           "gmpPercent": 16.28
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 20,
+          "gmpPercent": 46.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.28,
+      "lastGmpPercent": 46.51,
       "status": "Upcoming"
     },
     "1823": {
@@ -313,19 +338,30 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 32,
           "gmpPercent": 9.44
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 35,
+          "gmpPercent": 10.32
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.44,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.32,
       "status": "Upcoming"
     },
     "1848": {
       "name": "Asset Reconstruction",
       "category": "Mainboard",
       "close": "2026-09-11",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 27,
+          "gmpPercent": 19.42
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 19.42,
       "status": "Upcoming"
     },
     "1879": {
@@ -382,10 +418,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 38,
           "gmpPercent": 20.88
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 44,
+          "gmpPercent": 24.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.88,
+      "lastGmpPercent": 24.18,
       "status": "Upcoming"
     },
     "1887": {
@@ -525,10 +566,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 90,
           "gmpPercent": 13.31
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 55,
+          "gmpPercent": 8.14
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 13.31,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.14,
       "status": "Upcoming"
     },
     "2119": {
@@ -590,10 +636,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 200,
           "gmpPercent": 31.65
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 196,
+          "gmpPercent": 31.01
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.65,
+      "lastGmpPercent": 31.01,
       "status": "Upcoming"
     },
     "2231": {
@@ -655,10 +706,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 142,
           "gmpPercent": 35.15
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 125,
+          "gmpPercent": 30.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.15,
+      "lastGmpPercent": 30.94,
       "status": "Upcoming"
     },
     "2240": {
@@ -700,10 +756,15 @@
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 55,
           "gmpPercent": 43.31
+        },
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 60,
+          "gmpPercent": 47.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 43.31,
+      "lastGmpPercent": 47.24,
       "status": "Open"
     },
     "2249": {
@@ -719,9 +780,15 @@
       "name": "Maharaja & Speedex India",
       "category": "SME",
       "close": "2026-09-15",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 12,
+          "gmpPercent": 6.45
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 6.45,
       "status": "Upcoming"
     },
     "2305": {
