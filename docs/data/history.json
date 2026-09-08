@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:02:21.029Z",
+  "updatedAt": "2026-09-08T07:51:06.600Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -115,10 +115,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 58,
           "gmpPercent": 22.83
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 60,
+          "gmpPercent": 23.62
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.83,
+      "lastGmpPercent": 23.62,
       "status": "Upcoming"
     },
     "1648": {
@@ -155,10 +160,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 25,
           "gmpPercent": 17.47
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 26,
+          "gmpPercent": 17.81
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.47,
+      "lastGmpPercent": 17.81,
       "status": "Upcoming"
     },
     "1662": {
@@ -250,10 +260,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 42,
           "gmpPercent": 34.27
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 41,
+          "gmpPercent": 33.06
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.27,
+      "lastGmpPercent": 33.06,
       "status": "Open"
     },
     "1685": {
@@ -324,10 +339,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 20,
           "gmpPercent": 46.51
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 17,
+          "gmpPercent": 39.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 46.51,
+      "lastGmpPercent": 39.53,
       "status": "Upcoming"
     },
     "1823": {
@@ -378,10 +398,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 38,
           "gmpPercent": 11.21
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 30,
+          "gmpPercent": 8.85
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.21,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.85,
       "status": "Upcoming"
     },
     "1848": {
@@ -468,10 +493,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 51,
           "gmpPercent": 28.02
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 53,
+          "gmpPercent": 29.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.02,
+      "lastGmpPercent": 29.12,
       "status": "Open"
     },
     "1887": {
@@ -640,10 +670,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 55,
           "gmpPercent": 8.14
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 45,
+          "gmpPercent": 6.66
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.14,
+      "lastGmpPercent": 6.66,
       "status": "Open"
     },
     "2119": {
@@ -715,10 +750,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 196,
           "gmpPercent": 31.01
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 205,
+          "gmpPercent": 32.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.01,
+      "lastGmpPercent": 32.44,
       "status": "Open"
     },
     "2231": {
@@ -790,10 +830,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 125,
           "gmpPercent": 30.94
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 127,
+          "gmpPercent": 31.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.94,
+      "lastGmpPercent": 31.44,
       "status": "Upcoming"
     },
     "2240": {
@@ -845,10 +890,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 60,
           "gmpPercent": 47.24
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 65,
+          "gmpPercent": 51.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 47.24,
+      "lastGmpPercent": 51.18,
       "status": "Closing Today"
     },
     "2249": {
@@ -874,10 +924,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 15,
           "gmpPercent": 8.06
+        },
+        {
+          "t": "2026-09-08T07:51:06.600Z",
+          "gmp": 30,
+          "gmpPercent": 16.13
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.06,
+      "alertedAbove": true,
+      "lastGmpPercent": 16.13,
       "status": "Upcoming"
     },
     "2305": {
