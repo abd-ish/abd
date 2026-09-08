@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:51:06.600Z",
+  "updatedAt": "2026-09-08T13:20:47.783Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -120,10 +120,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 60,
           "gmpPercent": 23.62
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 68,
+          "gmpPercent": 26.77
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.62,
+      "lastGmpPercent": 26.77,
       "status": "Upcoming"
     },
     "1648": {
@@ -165,10 +170,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 26,
           "gmpPercent": 17.81
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 29,
+          "gmpPercent": 19.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.81,
+      "lastGmpPercent": 19.86,
       "status": "Upcoming"
     },
     "1662": {
@@ -354,9 +364,15 @@
       "name": "Steamhouse",
       "category": "Mainboard",
       "close": "2026-09-11",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 18,
+          "gmpPercent": 22.22
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 22.22,
       "status": "Upcoming"
     },
     "1827": {
@@ -403,10 +419,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 30,
           "gmpPercent": 8.85
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 37,
+          "gmpPercent": 10.91
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.85,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.91,
       "status": "Upcoming"
     },
     "1848": {
@@ -423,10 +444,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 27,
           "gmpPercent": 19.42
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 30,
+          "gmpPercent": 21.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.42,
+      "lastGmpPercent": 21.58,
       "status": "Upcoming"
     },
     "1879": {
@@ -498,10 +524,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 53,
           "gmpPercent": 29.12
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 56,
+          "gmpPercent": 30.77
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.12,
+      "lastGmpPercent": 30.77,
       "status": "Open"
     },
     "1887": {
@@ -551,10 +582,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 8,
           "gmpPercent": 8.51
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 12,
+          "gmpPercent": 12.77
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.51,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.77,
       "status": "Upcoming"
     },
     "2018": {
@@ -591,10 +627,15 @@
           "t": "2026-09-08T05:02:21.029Z",
           "gmp": 10,
           "gmpPercent": 16.67
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 7,
+          "gmpPercent": 12.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.67,
+      "lastGmpPercent": 12.5,
       "status": "Open"
     },
     "2022": {
@@ -675,11 +716,25 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 45,
           "gmpPercent": 6.66
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 50,
+          "gmpPercent": 7.4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.66,
+      "lastGmpPercent": 7.4,
       "status": "Open"
+    },
+    "2057": {
+      "name": "Jindal Supreme",
+      "category": "Mainboard",
+      "close": "2026-09-18",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2119": {
       "name": "Kanohar Electricals",
@@ -755,10 +810,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 205,
           "gmpPercent": 32.44
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 218,
+          "gmpPercent": 34.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.44,
+      "lastGmpPercent": 34.49,
       "status": "Open"
     },
     "2231": {
@@ -835,10 +895,15 @@
           "t": "2026-09-08T07:51:06.600Z",
           "gmp": 127,
           "gmpPercent": 31.44
+        },
+        {
+          "t": "2026-09-08T13:20:47.783Z",
+          "gmp": 130,
+          "gmpPercent": 32.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.44,
+      "lastGmpPercent": 32.18,
       "status": "Upcoming"
     },
     "2240": {
@@ -899,7 +964,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 51.18,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2249": {
       "name": "Om Galaxy",
