@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:49:23.612Z",
+  "updatedAt": "2026-09-08T05:02:21.029Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -55,6 +55,11 @@
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 30,
           "gmpPercent": 21.43
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 30,
+          "gmpPercent": 21.43
         }
       ],
       "alertedAbove": true,
@@ -105,6 +110,11 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 58,
           "gmpPercent": 22.83
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 58,
+          "gmpPercent": 22.83
         }
       ],
       "alertedAbove": true,
@@ -138,6 +148,11 @@
         },
         {
           "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 25,
+          "gmpPercent": 17.47
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
           "gmp": 25,
           "gmpPercent": 17.47
         }
@@ -230,6 +245,11 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 42,
           "gmpPercent": 34.27
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 42,
+          "gmpPercent": 34.27
         }
       ],
       "alertedAbove": true,
@@ -265,6 +285,11 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 7,
           "gmpPercent": 9.33
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 7,
+          "gmpPercent": 9.33
         }
       ],
       "alertedAbove": false,
@@ -292,6 +317,11 @@
         },
         {
           "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 20,
+          "gmpPercent": 46.51
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
           "gmp": 20,
           "gmpPercent": 46.51
         }
@@ -343,10 +373,15 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 35,
           "gmpPercent": 10.32
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 38,
+          "gmpPercent": 11.21
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.32,
+      "lastGmpPercent": 11.21,
       "status": "Upcoming"
     },
     "1848": {
@@ -356,6 +391,11 @@
       "series": [
         {
           "t": "2026-09-07T14:49:23.612Z",
+          "gmp": 27,
+          "gmpPercent": 19.42
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
           "gmp": 27,
           "gmpPercent": 19.42
         }
@@ -423,14 +463,28 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 44,
           "gmpPercent": 24.18
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 51,
+          "gmpPercent": 28.02
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.18,
-      "status": "Upcoming"
+      "lastGmpPercent": 28.02,
+      "status": "Open"
     },
     "1887": {
       "name": "Century Business Media",
+      "category": "SME",
+      "close": "2026-09-16",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1899": {
+      "name": "Injecto Polymers",
       "category": "SME",
       "close": "2026-09-16",
       "series": [],
@@ -460,6 +514,11 @@
         },
         {
           "t": "2026-09-07T07:57:53.061Z",
+          "gmp": 8,
+          "gmpPercent": 8.51
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
           "gmp": 8,
           "gmpPercent": 8.51
         }
@@ -497,10 +556,15 @@
           "t": "2026-09-07T07:57:53.061Z",
           "gmp": 11,
           "gmpPercent": 18.33
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 10,
+          "gmpPercent": 16.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.33,
+      "lastGmpPercent": 16.67,
       "status": "Open"
     },
     "2022": {
@@ -571,11 +635,16 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 55,
           "gmpPercent": 8.14
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 55,
+          "gmpPercent": 8.14
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 8.14,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2119": {
       "name": "Kanohar Electricals",
@@ -641,11 +710,16 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 196,
           "gmpPercent": 31.01
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 196,
+          "gmpPercent": 31.01
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 31.01,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2231": {
       "name": "Rentomojo",
@@ -711,6 +785,11 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 125,
           "gmpPercent": 30.94
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 125,
+          "gmpPercent": 30.94
         }
       ],
       "alertedAbove": true,
@@ -761,11 +840,16 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 60,
           "gmpPercent": 47.24
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 60,
+          "gmpPercent": 47.24
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 47.24,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2249": {
       "name": "Om Galaxy",
@@ -785,10 +869,15 @@
           "t": "2026-09-07T14:49:23.612Z",
           "gmp": 12,
           "gmpPercent": 6.45
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 15,
+          "gmpPercent": 8.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.45,
+      "lastGmpPercent": 8.06,
       "status": "Upcoming"
     },
     "2305": {
@@ -814,6 +903,11 @@
         {
           "t": "2026-09-07T05:05:26.163Z",
           "gmp": 275,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-09-08T05:02:21.029Z",
+          "gmp": 228,
           "gmpPercent": 0
         }
       ],
