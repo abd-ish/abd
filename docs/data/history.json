@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:54:04.179Z",
+  "updatedAt": "2026-09-09T13:26:32.370Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -65,10 +65,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 33,
           "gmpPercent": 23.57
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 10,
+          "gmpPercent": 7.14
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 23.57,
+      "alertedAbove": false,
+      "lastGmpPercent": 7.14,
       "status": "Upcoming"
     },
     "1622": {
@@ -135,10 +140,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 68,
           "gmpPercent": 26.77
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 72,
+          "gmpPercent": 28.35
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.77,
+      "lastGmpPercent": 28.35,
       "status": "Open"
     },
     "1648": {
@@ -295,11 +305,16 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 45,
           "gmpPercent": 36.29
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 40,
+          "gmpPercent": 32.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.29,
-      "status": "Closing Today"
+      "lastGmpPercent": 32.26,
+      "status": "Closed"
     },
     "1682": {
       "name": "Axiom Gas Engineering",
@@ -349,10 +364,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 7,
           "gmpPercent": 9.33
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 11,
+          "gmpPercent": 14.67
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.33,
+      "alertedAbove": true,
+      "lastGmpPercent": 14.67,
       "status": "Open"
     },
     "1749": {
@@ -431,10 +451,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 18,
           "gmpPercent": 22.22
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 20,
+          "gmpPercent": 24.69
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.22,
+      "lastGmpPercent": 24.69,
       "status": "Open"
     },
     "1827": {
@@ -491,10 +516,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 37,
           "gmpPercent": 10.91
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 13,
+          "gmpPercent": 3.83
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.91,
+      "alertedAbove": false,
+      "lastGmpPercent": 3.83,
       "status": "Open"
     },
     "1848": {
@@ -521,10 +551,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 30,
           "gmpPercent": 21.58
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 24,
+          "gmpPercent": 17.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.58,
+      "lastGmpPercent": 17.27,
       "status": "Open"
     },
     "1879": {
@@ -606,10 +641,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 56,
           "gmpPercent": 30.77
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 62,
+          "gmpPercent": 34.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.77,
+      "lastGmpPercent": 34.07,
       "status": "Open"
     },
     "1887": {
@@ -719,11 +759,16 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 5,
           "gmpPercent": 8.33
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 1,
+          "gmpPercent": 1.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.33,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.67,
+      "status": "Closed"
     },
     "2022": {
       "name": "Raksan Transformers",
@@ -822,7 +867,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.44,
+      "lastGmpPercent": null,
       "status": "Open"
     },
     "2057": {
@@ -838,6 +883,24 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 11.83,
+      "status": "Upcoming"
+    },
+    "2059": {
+      "name": "Sonaselection India",
+      "category": "Mainboard",
+      "close": "2026-09-21",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2076": {
+      "name": "SS Retail",
+      "category": "Mainboard",
+      "close": "2026-09-18",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2119": {
@@ -924,10 +987,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 222,
           "gmpPercent": 35.13
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 223,
+          "gmpPercent": 35.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.13,
+      "lastGmpPercent": 35.28,
       "status": "Open"
     },
     "2231": {
@@ -1014,10 +1082,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 134,
           "gmpPercent": 33.17
+        },
+        {
+          "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 143,
+          "gmpPercent": 35.4
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.17,
+      "lastGmpPercent": 35.4,
       "status": "Open"
     },
     "2240": {
