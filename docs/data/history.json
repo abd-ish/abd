@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:26:32.370Z",
+  "updatedAt": "2026-09-10T05:04:55.853Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -70,11 +70,16 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 10,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 24,
+          "gmpPercent": 17.14
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.14,
-      "status": "Upcoming"
+      "alertedAbove": true,
+      "lastGmpPercent": 17.14,
+      "status": "Open"
     },
     "1622": {
       "name": "Karamtara Engineering",
@@ -145,10 +150,15 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 72,
           "gmpPercent": 28.35
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 75,
+          "gmpPercent": 29.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.35,
+      "lastGmpPercent": 29.53,
       "status": "Open"
     },
     "1648": {
@@ -200,10 +210,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 40,
           "gmpPercent": 27.4
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 49,
+          "gmpPercent": 33.56
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.4,
+      "lastGmpPercent": 33.56,
       "status": "Open"
     },
     "1662": {
@@ -310,6 +325,11 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 40,
           "gmpPercent": 32.26
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 40,
+          "gmpPercent": 32.26
         }
       ],
       "alertedAbove": true,
@@ -369,11 +389,25 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 11,
           "gmpPercent": 14.67
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 11,
+          "gmpPercent": 14.67
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 14.67,
       "status": "Open"
+    },
+    "1688": {
+      "name": "Hero Motors",
+      "category": "Mainboard",
+      "close": "2026-09-18",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1749": {
       "name": "Panchatv Bharat",
@@ -382,7 +416,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1760": {
       "name": "Quanto Agroworld",
@@ -431,10 +465,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 17,
           "gmpPercent": 39.53
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 13,
+          "gmpPercent": 30.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.53,
+      "lastGmpPercent": 30.23,
       "status": "Upcoming"
     },
     "1823": {
@@ -454,6 +493,11 @@
         },
         {
           "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 20,
+          "gmpPercent": 24.69
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
           "gmp": 20,
           "gmpPercent": 24.69
         }
@@ -521,10 +565,15 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 13,
           "gmpPercent": 3.83
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 8,
+          "gmpPercent": 2.36
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.83,
+      "lastGmpPercent": 2.36,
       "status": "Open"
     },
     "1848": {
@@ -554,6 +603,11 @@
         },
         {
           "t": "2026-09-09T13:26:32.370Z",
+          "gmp": 24,
+          "gmpPercent": 17.27
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
           "gmp": 24,
           "gmpPercent": 17.27
         }
@@ -646,11 +700,16 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 62,
           "gmpPercent": 34.07
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 65,
+          "gmpPercent": 35.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.07,
-      "status": "Open"
+      "lastGmpPercent": 35.71,
+      "status": "Closing Today"
     },
     "1887": {
       "name": "Century Business Media",
@@ -665,6 +724,15 @@
       "name": "Injecto Polymers",
       "category": "SME",
       "close": "2026-09-16",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1969": {
+      "name": "Vama Wovenfab",
+      "category": "SME",
+      "close": "2026-09-17",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -709,11 +777,25 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 15,
           "gmpPercent": 15.96
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 20,
+          "gmpPercent": 21.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.96,
+      "lastGmpPercent": 21.28,
       "status": "Open"
+    },
+    "2016": {
+      "name": "Kheria Autocomp",
+      "category": "SME",
+      "close": "2026-09-21",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2018": {
       "name": "Apana Logistics",
@@ -764,6 +846,11 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 1,
           "gmpPercent": 1.67
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 1,
+          "gmpPercent": 1.67
         }
       ],
       "alertedAbove": false,
@@ -779,11 +866,16 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 25,
           "gmpPercent": 9.16
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 13,
+          "gmpPercent": 4.76
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.16,
-      "status": "Upcoming"
+      "lastGmpPercent": 4.76,
+      "status": "Open"
     },
     "2030": {
       "name": "Prasol Chemicals",
@@ -864,11 +956,16 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 30,
           "gmpPercent": 4.44
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 3,
+          "gmpPercent": 0.44
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Open"
+      "lastGmpPercent": 0.44,
+      "status": "Closing Today"
     },
     "2057": {
       "name": "Jindal Supreme",
@@ -877,6 +974,11 @@
       "series": [
         {
           "t": "2026-09-09T05:02:10.374Z",
+          "gmp": 11,
+          "gmpPercent": 11.83
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
           "gmp": 11,
           "gmpPercent": 11.83
         }
@@ -992,11 +1094,16 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 223,
           "gmpPercent": 35.28
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 223,
+          "gmpPercent": 35.28
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 35.28,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2231": {
       "name": "Rentomojo",
@@ -1087,6 +1194,11 @@
           "t": "2026-09-09T13:26:32.370Z",
           "gmp": 143,
           "gmpPercent": 35.4
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 143,
+          "gmpPercent": 35.4
         }
       ],
       "alertedAbove": true,
@@ -1152,10 +1264,15 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 65,
           "gmpPercent": 51.18
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 80,
+          "gmpPercent": 62.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 51.18,
+      "lastGmpPercent": 62.99,
       "status": "Closed"
     },
     "2249": {
@@ -1165,7 +1282,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2277": {
       "name": "Maharaja & Speedex India",
@@ -1191,16 +1308,21 @@
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 30,
           "gmpPercent": 16.13
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 30,
+          "gmpPercent": 16.13
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 16.13,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2305": {
       "name": "NSE",
       "category": "Mainboard",
-      "close": "",
+      "close": "2026-09-18",
       "series": [
         {
           "t": "2026-09-04T13:10:32.247Z",
@@ -1230,6 +1352,11 @@
         {
           "t": "2026-09-09T05:02:10.374Z",
           "gmp": 244,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-09-10T05:04:55.853Z",
+          "gmp": 224,
           "gmpPercent": 0
         }
       ],
