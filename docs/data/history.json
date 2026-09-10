@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:53:37.155Z",
+  "updatedAt": "2026-09-10T13:20:03.573Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -75,10 +75,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 24,
           "gmpPercent": 17.14
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 25,
+          "gmpPercent": 17.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.14,
+      "lastGmpPercent": 17.86,
       "status": "Open"
     },
     "1622": {
@@ -155,10 +160,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 75,
           "gmpPercent": 29.53
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 69,
+          "gmpPercent": 27.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.53,
+      "lastGmpPercent": 27.17,
       "status": "Open"
     },
     "1648": {
@@ -215,10 +225,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 49,
           "gmpPercent": 33.56
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 49,
+          "gmpPercent": 34.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.56,
+      "lastGmpPercent": 34.04,
       "status": "Open"
     },
     "1662": {
@@ -330,10 +345,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 40,
           "gmpPercent": 32.26
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 43,
+          "gmpPercent": 34.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.26,
+      "lastGmpPercent": 34.68,
       "status": "Closed"
     },
     "1682": {
@@ -500,10 +520,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 20,
           "gmpPercent": 24.69
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 22,
+          "gmpPercent": 27.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.69,
+      "lastGmpPercent": 27.16,
       "status": "Open"
     },
     "1827": {
@@ -570,10 +595,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 8,
           "gmpPercent": 2.36
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 5,
+          "gmpPercent": 1.47
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.36,
+      "lastGmpPercent": 1.47,
       "status": "Open"
     },
     "1848": {
@@ -610,10 +640,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 24,
           "gmpPercent": 17.27
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 13,
+          "gmpPercent": 9.35
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 17.27,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.35,
       "status": "Open"
     },
     "1879": {
@@ -705,11 +740,16 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 65,
           "gmpPercent": 35.71
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 45,
+          "gmpPercent": 24.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.71,
-      "status": "Closing Today"
+      "lastGmpPercent": 24.73,
+      "status": "Closed"
     },
     "1887": {
       "name": "Century Business Media",
@@ -871,10 +911,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 13,
           "gmpPercent": 4.76
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 28,
+          "gmpPercent": 10.26
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4.76,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.26,
       "status": "Open"
     },
     "2030": {
@@ -961,11 +1006,16 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 3,
           "gmpPercent": 0.44
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 4,
+          "gmpPercent": 0.59
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.44,
-      "status": "Closing Today"
+      "lastGmpPercent": 0.59,
+      "status": "Closed"
     },
     "2057": {
       "name": "Jindal Supreme",
@@ -981,10 +1031,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 11,
           "gmpPercent": 11.83
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 13,
+          "gmpPercent": 13.98
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.83,
+      "lastGmpPercent": 13.98,
       "status": "Upcoming"
     },
     "2059": {
@@ -1099,11 +1154,16 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 223,
           "gmpPercent": 35.28
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 233,
+          "gmpPercent": 36.87
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.28,
-      "status": "Closing Today"
+      "lastGmpPercent": 36.87,
+      "status": "Closed"
     },
     "2231": {
       "name": "Rentomojo",
@@ -1199,10 +1259,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 143,
           "gmpPercent": 35.4
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 141,
+          "gmpPercent": 34.9
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 35.4,
+      "lastGmpPercent": 34.9,
       "status": "Open"
     },
     "2240": {
@@ -1269,10 +1334,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 80,
           "gmpPercent": 62.99
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 84,
+          "gmpPercent": 66.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 62.99,
+      "lastGmpPercent": 66.14,
       "status": "Closed"
     },
     "2249": {
@@ -1322,7 +1392,7 @@
     "2305": {
       "name": "NSE",
       "category": "Mainboard",
-      "close": "2026-09-18",
+      "close": "2026-09-21",
       "series": [
         {
           "t": "2026-09-04T13:10:32.247Z",
@@ -1358,10 +1428,15 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 224,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 214,
+          "gmpPercent": 11.99
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "alertedAbove": true,
+      "lastGmpPercent": 11.99,
       "status": "Upcoming"
     },
     "2318": {
