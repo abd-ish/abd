@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:49:43.693Z",
+  "updatedAt": "2026-09-11T13:16:38.481Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -90,10 +90,15 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 10,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 20,
+          "gmpPercent": 14.29
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.14,
+      "alertedAbove": true,
+      "lastGmpPercent": 14.29,
       "status": "Open"
     },
     "1622": {
@@ -189,7 +194,7 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 25.59,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1648": {
       "name": "LCC Projects",
@@ -260,11 +265,16 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 55,
           "gmpPercent": 37.67
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 60,
+          "gmpPercent": 41.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.67,
-      "status": "Closing Today"
+      "lastGmpPercent": 41.1,
+      "status": "Closed"
     },
     "1662": {
       "name": "Pranav Constructions",
@@ -468,7 +478,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 9.33,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1688": {
       "name": "Hero Motors",
@@ -607,11 +617,16 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 22,
           "gmpPercent": 28.09
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 21,
+          "gmpPercent": 25.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.09,
-      "status": "Closing Today"
+      "lastGmpPercent": 25.93,
+      "status": "Closed"
     },
     "1827": {
       "name": "Manipal Payment and Identity Solutions",
@@ -691,7 +706,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1848": {
       "name": "Asset Reconstruction",
@@ -742,11 +757,16 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 8,
           "gmpPercent": 5.76
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 14,
+          "gmpPercent": 10.07
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.76,
-      "status": "Closing Today"
+      "lastGmpPercent": 10.07,
+      "status": "Closed"
     },
     "1879": {
       "name": "Glass Wall Systems",
@@ -939,11 +959,16 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 1,
           "gmpPercent": 1.6
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 1,
+          "gmpPercent": 1.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.6,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.06,
+      "status": "Closed"
     },
     "2016": {
       "name": "Kheria Autocomp",
@@ -1192,10 +1217,15 @@
           "t": "2026-09-11T05:01:54.161Z",
           "gmp": 30,
           "gmpPercent": 7.08
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 36,
+          "gmpPercent": 8.49
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.08,
+      "lastGmpPercent": 8.49,
       "status": "Upcoming"
     },
     "2119": {
@@ -1426,11 +1456,16 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 138,
           "gmpPercent": 34.16
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 141,
+          "gmpPercent": 34.9
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.16,
-      "status": "Closing Today"
+      "lastGmpPercent": 34.9,
+      "status": "Closed"
     },
     "2240": {
       "name": "Qualiance International",
@@ -1610,10 +1645,15 @@
           "t": "2026-09-11T07:49:43.693Z",
           "gmp": 185,
           "gmpPercent": 10.36
+        },
+        {
+          "t": "2026-09-11T13:16:38.481Z",
+          "gmp": 220,
+          "gmpPercent": 12.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.36,
+      "lastGmpPercent": 12.32,
       "status": "Upcoming"
     },
     "2318": {
@@ -1623,7 +1663,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     }
   }
 }
