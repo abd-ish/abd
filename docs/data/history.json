@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T13:20:03.573Z",
+  "updatedAt": "2026-09-11T05:01:54.161Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -78,6 +78,11 @@
         },
         {
           "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 25,
+          "gmpPercent": 17.86
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
           "gmp": 25,
           "gmpPercent": 17.86
         }
@@ -165,11 +170,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 69,
           "gmpPercent": 27.17
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 69,
+          "gmpPercent": 27.17
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 27.17,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1648": {
       "name": "LCC Projects",
@@ -230,11 +240,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 49,
           "gmpPercent": 34.04
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 51,
+          "gmpPercent": 34.93
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.04,
-      "status": "Open"
+      "lastGmpPercent": 34.93,
+      "status": "Closing Today"
     },
     "1662": {
       "name": "Pranav Constructions",
@@ -350,10 +365,15 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 43,
           "gmpPercent": 34.68
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 47,
+          "gmpPercent": 37.9
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.68,
+      "lastGmpPercent": 37.9,
       "status": "Closed"
     },
     "1682": {
@@ -414,28 +434,45 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 11,
           "gmpPercent": 14.67
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 11,
+          "gmpPercent": 14.67
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 14.67,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1688": {
       "name": "Hero Motors",
       "category": "Mainboard",
       "close": "2026-09-18",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 8,
+          "gmpPercent": 9.52
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9.52,
       "status": "Upcoming"
     },
     "1749": {
       "name": "Panchatv Bharat",
       "category": "SME",
       "close": "2026-09-15",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 7,
+          "gmpPercent": 5
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5,
       "status": "Open"
     },
     "1760": {
@@ -490,11 +527,16 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 13,
           "gmpPercent": 30.23
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 13,
+          "gmpPercent": 30.23
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 30.23,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1823": {
       "name": "Steamhouse",
@@ -525,11 +567,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 22,
           "gmpPercent": 27.16
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 23,
+          "gmpPercent": 28.4
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.16,
-      "status": "Open"
+      "lastGmpPercent": 28.4,
+      "status": "Closing Today"
     },
     "1827": {
       "name": "Manipal Payment and Identity Solutions",
@@ -600,11 +647,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 5,
           "gmpPercent": 1.47
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 3,
+          "gmpPercent": 0.88
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.47,
-      "status": "Open"
+      "lastGmpPercent": 0.88,
+      "status": "Closing Today"
     },
     "1848": {
       "name": "Asset Reconstruction",
@@ -645,11 +697,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 13,
           "gmpPercent": 9.35
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 14,
+          "gmpPercent": 10.07
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.35,
-      "status": "Open"
+      "alertedAbove": true,
+      "lastGmpPercent": 10.07,
+      "status": "Closing Today"
     },
     "1879": {
       "name": "Glass Wall Systems",
@@ -745,6 +802,11 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 45,
           "gmpPercent": 24.73
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 45,
+          "gmpPercent": 24.73
         }
       ],
       "alertedAbove": true,
@@ -758,7 +820,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1899": {
       "name": "Injecto Polymers",
@@ -767,7 +829,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1969": {
       "name": "Vama Wovenfab",
@@ -822,11 +884,16 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 20,
           "gmpPercent": 21.28
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 15,
+          "gmpPercent": 15.96
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.28,
-      "status": "Open"
+      "lastGmpPercent": 15.96,
+      "status": "Closing Today"
     },
     "2016": {
       "name": "Kheria Autocomp",
@@ -894,7 +961,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.67,
+      "lastGmpPercent": null,
       "status": "Closed"
     },
     "2022": {
@@ -914,6 +981,11 @@
         },
         {
           "t": "2026-09-10T13:20:03.573Z",
+          "gmp": 28,
+          "gmpPercent": 10.26
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
           "gmp": 28,
           "gmpPercent": 10.26
         }
@@ -1014,7 +1086,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.59,
+      "lastGmpPercent": null,
       "status": "Closed"
     },
     "2057": {
@@ -1036,10 +1108,15 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 13,
           "gmpPercent": 13.98
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 19,
+          "gmpPercent": 20.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.98,
+      "lastGmpPercent": 20.43,
       "status": "Upcoming"
     },
     "2059": {
@@ -1055,9 +1132,15 @@
       "name": "SS Retail",
       "category": "Mainboard",
       "close": "2026-09-18",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 30,
+          "gmpPercent": 7.08
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.08,
       "status": "Upcoming"
     },
     "2119": {
@@ -1159,11 +1242,25 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 233,
           "gmpPercent": 36.87
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 240,
+          "gmpPercent": 37.97
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.87,
+      "lastGmpPercent": 37.97,
       "status": "Closed"
+    },
+    "2211": {
+      "name": "SpectraA Technology Solutions",
+      "category": "SME",
+      "close": "2026-09-21",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2231": {
       "name": "Rentomojo",
@@ -1264,11 +1361,16 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 141,
           "gmpPercent": 34.9
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 135,
+          "gmpPercent": 33.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.9,
-      "status": "Open"
+      "lastGmpPercent": 33.42,
+      "status": "Closing Today"
     },
     "2240": {
       "name": "Qualiance International",
@@ -1383,6 +1485,11 @@
           "t": "2026-09-10T05:04:55.853Z",
           "gmp": 30,
           "gmpPercent": 16.13
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 30,
+          "gmpPercent": 16.13
         }
       ],
       "alertedAbove": true,
@@ -1433,10 +1540,15 @@
           "t": "2026-09-10T13:20:03.573Z",
           "gmp": 214,
           "gmpPercent": 11.99
+        },
+        {
+          "t": "2026-09-11T05:01:54.161Z",
+          "gmp": 180,
+          "gmpPercent": 10.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.99,
+      "lastGmpPercent": 10.08,
       "status": "Upcoming"
     },
     "2318": {
@@ -1446,7 +1558,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     }
   }
 }
