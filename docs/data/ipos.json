@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:16:38.481Z",
+  "generatedAt": "2026-09-12T04:53:23.445Z",
   "count": 33,
   "threshold": 10,
   "ipos": [
@@ -9,18 +9,18 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 10,
-      "gmpPercent": 23.26,
+      "gmp": 7,
+      "gmpPercent": 16.28,
       "price": 43,
       "lot": 348,
       "ipoSize": "₹125.50 Cr",
       "open": "2026-09-11",
       "close": "2026-09-16",
       "listing": "2026-09-21",
-      "openDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
+      "openDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "16-Sep",
       "url": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "2277",
@@ -39,7 +39,7 @@
       "openDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/maharaja-speedex-ipo/2277/",
-      "updatedOn": "11-Sep 18:01"
+      "updatedOn": "12-Sep 9:58"
     },
     {
       "id": "1601",
@@ -58,7 +58,7 @@
       "openDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 10:00"
     },
     {
       "id": "2022",
@@ -66,8 +66,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Open",
-      "gmp": 28,
-      "gmpPercent": 10.26,
+      "gmp": 30,
+      "gmpPercent": 10.99,
       "price": 273,
       "lot": 400,
       "ipoSize": "₹150.50 Cr",
@@ -77,7 +77,7 @@
       "openDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 28</b></small>",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/raksan-transformers-ipo/2022/",
-      "updatedOn": "11-Sep 18:02"
+      "updatedOn": "12-Sep 9:53"
     },
     {
       "id": "1749",
@@ -96,7 +96,7 @@
       "openDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
-      "updatedOn": "11-Sep 17:55"
+      "updatedOn": "12-Sep 10:02"
     },
     {
       "id": "1899",
@@ -115,7 +115,7 @@
       "openDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "16-Sep",
       "url": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/",
-      "updatedOn": "11-Sep 18:01"
+      "updatedOn": "12-Sep 10:00"
     },
     {
       "id": "1887",
@@ -134,7 +134,7 @@
       "openDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "16-Sep",
       "url": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/",
-      "updatedOn": "11-Sep 17:58"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "2249",
@@ -153,7 +153,7 @@
       "openDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "15-Sep",
       "url": "https://www.investorgain.com/gmp/om-galaxy-ipo/2249/",
-      "updatedOn": "11-Sep 17:58"
+      "updatedOn": "12-Sep 9:55"
     },
     {
       "id": "2057",
@@ -172,45 +172,7 @@
       "openDisplay": "16-Sep",
       "closeDisplay": "18-Sep",
       "url": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/",
-      "updatedOn": "11-Sep 17:54"
-    },
-    {
-      "id": "2305",
-      "name": "NSE",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 220,
-      "gmpPercent": 12.32,
-      "price": 1785,
-      "lot": 8,
-      "ipoSize": "₹22561.57 Cr",
-      "open": "2026-09-17",
-      "close": "2026-09-21",
-      "listing": "2026-09-24",
-      "openDisplay": "17-Sep",
-      "closeDisplay": "21-Sep",
-      "url": "https://www.investorgain.com/gmp/nse-ipo/2305/",
-      "updatedOn": "11-Sep 17:59"
-    },
-    {
-      "id": "1688",
-      "name": "Hero Motors",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 8,
-      "gmpPercent": 9.52,
-      "price": 84,
-      "lot": 178,
-      "ipoSize": "₹1000.00 Cr",
-      "open": "2026-09-16",
-      "close": "2026-09-18",
-      "listing": "2026-09-23",
-      "openDisplay": "16-Sep",
-      "closeDisplay": "18-Sep",
-      "url": "https://www.investorgain.com/gmp/hero-motors-ipo/1688/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 9:55"
     },
     {
       "id": "2076",
@@ -218,8 +180,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 36,
-      "gmpPercent": 8.49,
+      "gmp": 80,
+      "gmpPercent": 18.87,
       "price": 424,
       "lot": 35,
       "ipoSize": "₹500.00 Cr",
@@ -229,7 +191,45 @@
       "openDisplay": "16-Sep",
       "closeDisplay": "18-Sep",
       "url": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
-      "updatedOn": "11-Sep 17:55"
+      "updatedOn": "12-Sep 9:55"
+    },
+    {
+      "id": "2305",
+      "name": "NSE",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 218,
+      "gmpPercent": 12.21,
+      "price": 1785,
+      "lot": 8,
+      "ipoSize": "₹22561.57 Cr",
+      "open": "2026-09-17",
+      "close": "2026-09-21",
+      "listing": "2026-09-24",
+      "openDisplay": "17-Sep",
+      "closeDisplay": "21-Sep",
+      "url": "https://www.investorgain.com/gmp/nse-ipo/2305/",
+      "updatedOn": "12-Sep 10:01"
+    },
+    {
+      "id": "1688",
+      "name": "Hero Motors",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 10,
+      "gmpPercent": 11.9,
+      "price": 84,
+      "lot": 178,
+      "ipoSize": "₹1000.00 Cr",
+      "open": "2026-09-16",
+      "close": "2026-09-18",
+      "listing": "2026-09-23",
+      "openDisplay": "16-Sep",
+      "closeDisplay": "18-Sep",
+      "url": "https://www.investorgain.com/gmp/hero-motors-ipo/1688/",
+      "updatedOn": "12-Sep 10:00"
     },
     {
       "id": "1682",
@@ -248,7 +248,7 @@
       "openDisplay": "18-Sep",
       "closeDisplay": "22-Sep",
       "url": "https://www.investorgain.com/gmp/axiom-gas-engineering-ipo/1682/",
-      "updatedOn": "11-Sep 17:53"
+      "updatedOn": "12-Sep 9:53"
     },
     {
       "id": "2059",
@@ -267,7 +267,7 @@
       "openDisplay": "17-Sep",
       "closeDisplay": "21-Sep",
       "url": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/",
-      "updatedOn": "11-Sep 17:54"
+      "updatedOn": "12-Sep 9:53"
     },
     {
       "id": "2211",
@@ -286,7 +286,7 @@
       "openDisplay": "17-Sep",
       "closeDisplay": "21-Sep",
       "url": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 10:01"
     },
     {
       "id": "2016",
@@ -305,7 +305,7 @@
       "openDisplay": "17-Sep",
       "closeDisplay": "21-Sep",
       "url": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
-      "updatedOn": "11-Sep 17:56"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "1969",
@@ -324,7 +324,7 @@
       "openDisplay": "15-Sep",
       "closeDisplay": "17-Sep",
       "url": "https://www.investorgain.com/gmp/vama-wovenfab-ipo/1969/",
-      "updatedOn": "11-Sep 17:57"
+      "updatedOn": "12-Sep 9:59"
     },
     {
       "id": "1782",
@@ -343,7 +343,7 @@
       "openDisplay": "15-Sep",
       "closeDisplay": "17-Sep",
       "url": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/",
-      "updatedOn": "11-Sep 17:59"
+      "updatedOn": "12-Sep 9:58"
     },
     {
       "id": "1760",
@@ -362,7 +362,7 @@
       "openDisplay": "15-Sep",
       "closeDisplay": "17-Sep",
       "url": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/",
-      "updatedOn": "11-Sep 17:53"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "1648",
@@ -370,8 +370,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 60,
-      "gmpPercent": 41.1,
+      "gmp": 75,
+      "gmpPercent": 51.37,
       "price": 146,
       "lot": 102,
       "ipoSize": "₹427.14 Cr",
@@ -379,28 +379,9 @@
       "close": "2026-09-11",
       "listing": "2026-09-17",
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
-      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 60</b></small>",
+      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 78</b></small>",
       "url": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
-      "updatedOn": "11-Sep 17:57"
-    },
-    {
-      "id": "2119",
-      "name": "Kanohar Electricals",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": 240,
-      "gmpPercent": 37.97,
-      "price": 632,
-      "lot": 23,
-      "ipoSize": "₹1055.74 Cr",
-      "open": "2026-09-08",
-      "close": "2026-09-10",
-      "listing": "2026-09-16",
-      "openDisplay": "8-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 218</b></small>",
-      "closeDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 240</b></small>",
-      "url": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
-      "updatedOn": "11-Sep 18:01"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "1662",
@@ -408,8 +389,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 44,
-      "gmpPercent": 35.48,
+      "gmp": 49,
+      "gmpPercent": 39.52,
       "price": 124,
       "lot": 120,
       "ipoSize": "₹351.03 Cr",
@@ -419,7 +400,26 @@
       "openDisplay": "7-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 42.5</b></small>",
       "closeDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
       "url": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 9:55"
+    },
+    {
+      "id": "2119",
+      "name": "Kanohar Electricals",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 235,
+      "gmpPercent": 37.18,
+      "price": 632,
+      "lot": 23,
+      "ipoSize": "₹1055.74 Cr",
+      "open": "2026-09-08",
+      "close": "2026-09-10",
+      "listing": "2026-09-16",
+      "openDisplay": "8-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 218</b></small>",
+      "closeDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 240</b></small>",
+      "url": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+      "updatedOn": "12-Sep 9:54"
     },
     {
       "id": "2231",
@@ -427,8 +427,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 141,
-      "gmpPercent": 34.9,
+      "gmp": 148,
+      "gmpPercent": 36.63,
       "price": 404,
       "lot": 37,
       "ipoSize": "₹1255.57 Cr",
@@ -436,9 +436,9 @@
       "close": "2026-09-11",
       "listing": "2026-09-17",
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 143</b></small>",
-      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 141</b></small>",
+      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 148</b></small>",
       "url": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
-      "updatedOn": "11-Sep 18:02"
+      "updatedOn": "12-Sep 10:02"
     },
     {
       "id": "1879",
@@ -446,8 +446,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 48,
-      "gmpPercent": 26.37,
+      "gmp": 50,
+      "gmpPercent": 27.47,
       "price": 182,
       "lot": 82,
       "ipoSize": "₹427.89 Cr",
@@ -457,7 +457,26 @@
       "openDisplay": "8-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 56</b></small>",
       "closeDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 45</b></small>",
       "url": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
-      "updatedOn": "11-Sep 17:53"
+      "updatedOn": "12-Sep 9:57"
+    },
+    {
+      "id": "1622",
+      "name": "Karamtara Engineering",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 67,
+      "gmpPercent": 26.38,
+      "price": 254,
+      "lot": 59,
+      "ipoSize": "₹875.00 Cr",
+      "open": "2026-09-09",
+      "close": "2026-09-11",
+      "listing": "2026-09-17",
+      "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 75</b></small>",
+      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
+      "url": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
+      "updatedOn": "12-Sep 10:02"
     },
     {
       "id": "1823",
@@ -476,26 +495,7 @@
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 20</b></small>",
       "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 21</b></small>",
       "url": "https://www.investorgain.com/gmp/steamhouse-india-ipo/1823/",
-      "updatedOn": "11-Sep 17:54"
-    },
-    {
-      "id": "1622",
-      "name": "Karamtara Engineering",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": 65,
-      "gmpPercent": 25.59,
-      "price": 254,
-      "lot": 59,
-      "ipoSize": "₹875.00 Cr",
-      "open": "2026-09-09",
-      "close": "2026-09-11",
-      "listing": "2026-09-17",
-      "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 75</b></small>",
-      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 65</b></small>",
-      "url": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
-      "updatedOn": "11-Sep 17:58"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "1848",
@@ -504,7 +504,7 @@
       "exchange": "IPO",
       "status": "Closed",
       "gmp": 14,
-      "gmpPercent": 10.07,
+      "gmpPercent": 10.43,
       "price": 139,
       "lot": 107,
       "ipoSize": "₹732.97 Cr",
@@ -512,9 +512,9 @@
       "close": "2026-09-11",
       "listing": "2026-09-17",
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 24</b></small>",
-      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
+      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14.5</b></small>",
       "url": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
-      "updatedOn": "11-Sep 17:58"
+      "updatedOn": "12-Sep 9:55"
     },
     {
       "id": "1685",
@@ -533,7 +533,7 @@
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 11</b></small>",
       "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "url": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/",
-      "updatedOn": "11-Sep 17:54"
+      "updatedOn": "12-Sep 9:59"
     },
     {
       "id": "1977",
@@ -552,7 +552,26 @@
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 20</b></small>",
       "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
-      "updatedOn": "11-Sep 18:00"
+      "updatedOn": "12-Sep 9:54"
+    },
+    {
+      "id": "1827",
+      "name": "Manipal Payment and Identity Solutions",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": 1,
+      "gmpPercent": 0.29,
+      "price": 339,
+      "lot": 44,
+      "ipoSize": "₹805.00 Cr",
+      "open": "2026-09-09",
+      "close": "2026-09-11",
+      "listing": "2026-09-17",
+      "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
+      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
+      "url": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
+      "updatedOn": "12-Sep 10:02"
     },
     {
       "id": "2318",
@@ -571,26 +590,7 @@
       "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
-      "updatedOn": "11-Sep 18:00"
-    },
-    {
-      "id": "1827",
-      "name": "Manipal Payment and Identity Solutions",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 339,
-      "lot": 44,
-      "ipoSize": "₹805.00 Cr",
-      "open": "2026-09-09",
-      "close": "2026-09-11",
-      "listing": "2026-09-17",
-      "openDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
-      "closeDisplay": "11-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
-      "url": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
-      "updatedOn": "11-Sep 17:54"
+      "updatedOn": "12-Sep 9:59"
     },
     {
       "id": "2030",
@@ -609,7 +609,7 @@
       "openDisplay": "8-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "10-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
-      "updatedOn": "11-Sep 18:01"
+      "updatedOn": "12-Sep 9:57"
     },
     {
       "id": "2018",
@@ -628,7 +628,7 @@
       "openDisplay": "7-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "9-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/",
-      "updatedOn": "11-Sep 17:56"
+      "updatedOn": "12-Sep 10:01"
     }
   ]
 }
