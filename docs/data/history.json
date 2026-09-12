@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:42:42.566Z",
+  "updatedAt": "2026-09-12T12:38:33.678Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -105,11 +105,25 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 10,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 15,
+          "gmpPercent": 10.71
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.14,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.71,
       "status": "Open"
+    },
+    "1611": {
+      "name": "A-One Steels",
+      "category": "Mainboard",
+      "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1622": {
       "name": "Karamtara Engineering",
@@ -210,10 +224,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 68,
           "gmpPercent": 26.77
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 69,
+          "gmpPercent": 27.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.77,
+      "lastGmpPercent": 27.17,
       "status": "Closed"
     },
     "1648": {
@@ -300,10 +319,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 81,
           "gmpPercent": 55.48
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 68,
+          "gmpPercent": 46.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 55.48,
+      "lastGmpPercent": 46.58,
       "status": "Closed"
     },
     "1662": {
@@ -647,10 +671,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 3,
           "gmpPercent": 6.98
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 15,
+          "gmpPercent": 34.88
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 6.98,
+      "alertedAbove": true,
+      "lastGmpPercent": 34.88,
       "status": "Open"
     },
     "1823": {
@@ -972,10 +1001,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 48,
           "gmpPercent": 26.37
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 51,
+          "gmpPercent": 28.13
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.37,
+      "lastGmpPercent": 28.13,
       "status": "Closed"
     },
     "1887": {
@@ -1347,10 +1381,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 95,
           "gmpPercent": 22.41
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 106,
+          "gmpPercent": 25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.41,
+      "lastGmpPercent": 25,
       "status": "Upcoming"
     },
     "2119": {
@@ -1467,10 +1506,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 239,
           "gmpPercent": 37.82
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 240,
+          "gmpPercent": 37.97
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.82,
+      "lastGmpPercent": 37.97,
       "status": "Closed"
     },
     "2211": {
@@ -1735,10 +1779,15 @@
           "t": "2026-09-12T07:42:42.566Z",
           "gmp": 210,
           "gmpPercent": 11.76
+        },
+        {
+          "t": "2026-09-12T12:38:33.678Z",
+          "gmp": 207,
+          "gmpPercent": 11.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.76,
+      "lastGmpPercent": 11.6,
       "status": "Upcoming"
     },
     "2318": {
