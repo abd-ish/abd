@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:01:46.466Z",
+  "updatedAt": "2026-09-13T13:40:43.647Z",
   "ipos": {
     "1601": {
       "name": "Veegaland Developers",
@@ -239,10 +239,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 69,
           "gmpPercent": 27.17
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 71,
+          "gmpPercent": 27.95
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.17,
+      "lastGmpPercent": 27.95,
       "status": "Closed"
     },
     "1648": {
@@ -339,10 +344,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 65,
           "gmpPercent": 44.52
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 64,
+          "gmpPercent": 43.84
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 44.52,
+      "lastGmpPercent": 43.84,
       "status": "Closed"
     },
     "1682": {
@@ -571,10 +581,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 15,
           "gmpPercent": 34.88
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 11,
+          "gmpPercent": 25.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.88,
+      "lastGmpPercent": 25.58,
       "status": "Open"
     },
     "1823": {
@@ -631,10 +646,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 21,
           "gmpPercent": 25.93
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 21,
+          "gmpPercent": 26.54
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.93,
+      "lastGmpPercent": 26.54,
       "status": "Closed"
     },
     "1827": {
@@ -724,7 +744,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.29,
+      "lastGmpPercent": null,
       "status": "Closed"
     },
     "1848": {
@@ -791,10 +811,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 14,
           "gmpPercent": 10.43
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 14,
+          "gmpPercent": 10.07
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10.43,
+      "lastGmpPercent": 10.07,
       "status": "Closed"
     },
     "1879": {
@@ -921,10 +946,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 51,
           "gmpPercent": 28.02
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 52,
+          "gmpPercent": 28.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.02,
+      "lastGmpPercent": 28.57,
       "status": "Closed"
     },
     "1887": {
@@ -1261,10 +1291,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 106,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 110,
+          "gmpPercent": 25.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25,
+      "lastGmpPercent": 25.94,
       "status": "Upcoming"
     },
     "2119": {
@@ -1391,19 +1426,30 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 240,
           "gmpPercent": 37.97
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 244,
+          "gmpPercent": 38.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.97,
+      "lastGmpPercent": 38.61,
       "status": "Closed"
     },
     "2211": {
       "name": "SpectraA Technology Solutions",
       "category": "SME",
       "close": "2026-09-21",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 27,
+          "gmpPercent": 22.88
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 22.88,
       "status": "Upcoming"
     },
     "2231": {
@@ -1535,10 +1581,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 160,
           "gmpPercent": 39.6
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 145,
+          "gmpPercent": 35.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.6,
+      "lastGmpPercent": 35.89,
       "status": "Closed"
     },
     "2249": {
@@ -1594,10 +1645,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 48,
           "gmpPercent": 25.81
+        },
+        {
+          "t": "2026-09-13T13:40:43.647Z",
+          "gmp": 50,
+          "gmpPercent": 26.88
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.81,
+      "lastGmpPercent": 26.88,
       "status": "Open"
     },
     "2305": {
