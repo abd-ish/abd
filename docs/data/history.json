@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:35:09.885Z",
+  "updatedAt": "2026-09-14T15:41:03.677Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -134,10 +134,15 @@
           "t": "2026-09-14T08:35:09.885Z",
           "gmp": 22,
           "gmpPercent": 15.71
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 23,
+          "gmpPercent": 16.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.71,
+      "lastGmpPercent": 16.43,
       "status": "Open"
     },
     "1611": {
@@ -378,10 +383,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 64,
           "gmpPercent": 43.84
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 63,
+          "gmpPercent": 43.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 43.84,
+      "lastGmpPercent": 43.15,
       "status": "Closed"
     },
     "1682": {
@@ -715,10 +725,15 @@
           "t": "2026-09-14T08:35:09.885Z",
           "gmp": 22,
           "gmpPercent": 27.16
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 24,
+          "gmpPercent": 29.63
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.16,
+      "lastGmpPercent": 29.63,
       "status": "Closed"
     },
     "1827": {
@@ -805,10 +820,15 @@
           "t": "2026-09-13T05:13:58.264Z",
           "gmp": 1,
           "gmpPercent": 0.29
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 1,
+          "gmpPercent": 0.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0.29,
       "status": "Closed"
     },
     "1848": {
@@ -1057,10 +1077,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 30,
           "gmpPercent": 10.99
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 55,
+          "gmpPercent": 20.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.99,
+      "lastGmpPercent": 20.15,
       "status": "Open"
     },
     "2057": {
@@ -1171,10 +1196,15 @@
           "t": "2026-09-14T08:35:09.885Z",
           "gmp": 136,
           "gmpPercent": 32.08
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 140,
+          "gmpPercent": 33.02
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.08,
+      "lastGmpPercent": 33.02,
       "status": "Upcoming"
     },
     "2211": {
@@ -1191,10 +1221,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 27,
           "gmpPercent": 22.88
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 44,
+          "gmpPercent": 37.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.88,
+      "lastGmpPercent": 37.29,
       "status": "Upcoming"
     },
     "2231": {
@@ -1410,10 +1445,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 45,
           "gmpPercent": 24.19
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 40,
+          "gmpPercent": 21.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.19,
+      "lastGmpPercent": 21.51,
       "status": "Open"
     },
     "2304": {
@@ -1509,10 +1549,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 210,
           "gmpPercent": 11.76
+        },
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 208,
+          "gmpPercent": 11.65
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.76,
+      "lastGmpPercent": 11.65,
       "status": "Upcoming"
     },
     "2318": {
@@ -1528,9 +1573,15 @@
       "name": "Robokidz Eduventures",
       "category": "SME",
       "close": "2026-09-23",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-14T15:41:03.677Z",
+          "gmp": 40,
+          "gmpPercent": 37.74
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 37.74,
       "status": "Upcoming"
     }
   }
