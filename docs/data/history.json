@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-14T05:19:51.652Z",
+  "updatedAt": "2026-09-14T08:35:09.885Z",
   "ipos": {
+    "1589": {
+      "name": "FX Multitech",
+      "category": "SME",
+      "close": "2026-09-23",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1601": {
       "name": "Veegaland Developers",
       "category": "Mainboard",
@@ -120,10 +129,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 12,
           "gmpPercent": 8.57
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 22,
+          "gmpPercent": 15.71
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.57,
+      "alertedAbove": true,
+      "lastGmpPercent": 15.71,
       "status": "Open"
     },
     "1611": {
@@ -523,10 +537,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 11,
           "gmpPercent": 7.86
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 18,
+          "gmpPercent": 12.86
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.86,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.86,
       "status": "Open"
     },
     "1760": {
@@ -691,10 +710,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 21,
           "gmpPercent": 25.93
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 22,
+          "gmpPercent": 27.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.93,
+      "lastGmpPercent": 27.16,
       "status": "Closed"
     },
     "1827": {
@@ -861,10 +885,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 15,
           "gmpPercent": 11.15
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 16,
+          "gmpPercent": 11.51
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 11.15,
+      "lastGmpPercent": 11.51,
       "status": "Closed"
     },
     "1887": {
@@ -889,9 +918,15 @@
       "name": "Vama Wovenfab",
       "category": "SME",
       "close": "2026-09-17",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 10,
+          "gmpPercent": 2.93
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 2.93,
       "status": "Upcoming"
     },
     "1977": {
@@ -1131,10 +1166,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 127,
           "gmpPercent": 29.95
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 136,
+          "gmpPercent": 32.08
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.95,
+      "lastGmpPercent": 32.08,
       "status": "Upcoming"
     },
     "2211": {
@@ -1296,10 +1336,15 @@
           "t": "2026-09-14T05:19:51.652Z",
           "gmp": 160,
           "gmpPercent": 39.6
+        },
+        {
+          "t": "2026-09-14T08:35:09.885Z",
+          "gmp": 158,
+          "gmpPercent": 39.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.6,
+      "lastGmpPercent": 39.11,
       "status": "Closed"
     },
     "2249": {
