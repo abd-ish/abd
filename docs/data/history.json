@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:24:34.313Z",
+  "updatedAt": "2026-09-15T14:10:44.873Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -144,11 +144,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 20,
           "gmpPercent": 14.29
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 7,
+          "gmpPercent": 5
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 14.29,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": 5,
+      "status": "Closed"
     },
     "1611": {
       "name": "A-One Steels",
@@ -202,10 +207,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 23,
           "gmpPercent": 27.38
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 22,
+          "gmpPercent": 26.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.38,
+      "lastGmpPercent": 26.19,
       "status": "Upcoming"
     },
     "1749": {
@@ -247,11 +257,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 21,
           "gmpPercent": 15
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 3,
+          "gmpPercent": 2.14
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 15,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": 2.14,
+      "status": "Closed"
     },
     "1760": {
       "name": "Quanto Agroworld",
@@ -350,10 +365,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 11,
           "gmpPercent": 25.58
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 3,
+          "gmpPercent": 6.98
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 25.58,
+      "alertedAbove": false,
+      "lastGmpPercent": 6.98,
       "status": "Open"
     },
     "1887": {
@@ -398,9 +418,15 @@
       "name": "Kheria Autocomp",
       "category": "SME",
       "close": "2026-09-21",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 10,
+          "gmpPercent": 9.9
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9.9,
       "status": "Upcoming"
     },
     "2022": {
@@ -452,11 +478,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 61,
           "gmpPercent": 22.34
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 50,
+          "gmpPercent": 18.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.34,
-      "status": "Closing Today"
+      "lastGmpPercent": 18.32,
+      "status": "Closed"
     },
     "2057": {
       "name": "Jindal Supreme",
@@ -517,9 +548,15 @@
       "name": "Sonaselection India",
       "category": "Mainboard",
       "close": "2026-09-21",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 8,
+          "gmpPercent": 8.08
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 8.08,
       "status": "Upcoming"
     },
     "2076": {
@@ -611,10 +648,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 44,
           "gmpPercent": 37.29
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 50,
+          "gmpPercent": 42.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.29,
+      "lastGmpPercent": 42.37,
       "status": "Upcoming"
     },
     "2249": {
@@ -624,7 +666,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2277": {
       "name": "Maharaja & Speedex India",
@@ -690,11 +732,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 40,
           "gmpPercent": 21.51
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 28,
+          "gmpPercent": 15.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.51,
-      "status": "Closing Today"
+      "lastGmpPercent": 15.05,
+      "status": "Closed"
     },
     "2304": {
       "name": "S.K.Offset",
@@ -799,10 +846,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 208,
           "gmpPercent": 11.65
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 175,
+          "gmpPercent": 9.8
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.65,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.8,
       "status": "Upcoming"
     },
     "2359": {
@@ -819,10 +871,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 45,
           "gmpPercent": 42.45
+        },
+        {
+          "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 15,
+          "gmpPercent": 14.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 42.45,
+      "lastGmpPercent": 14.15,
       "status": "Upcoming"
     }
   }
