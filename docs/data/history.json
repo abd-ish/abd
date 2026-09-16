@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:10:44.873Z",
+  "updatedAt": "2026-09-16T05:06:14.778Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -149,16 +149,30 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 7,
           "gmpPercent": 5
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 10,
+          "gmpPercent": 7.14
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5,
+      "lastGmpPercent": 7.14,
       "status": "Closed"
     },
     "1611": {
       "name": "A-One Steels",
       "category": "Mainboard",
       "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1636": {
+      "name": "Vivekanand Cotspin",
+      "category": "SME",
+      "close": "2026-09-23",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -212,11 +226,16 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 22,
           "gmpPercent": 26.19
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 19,
+          "gmpPercent": 22.62
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.19,
-      "status": "Upcoming"
+      "lastGmpPercent": 22.62,
+      "status": "Open"
     },
     "1749": {
       "name": "Panchatv Bharat",
@@ -260,6 +279,11 @@
         },
         {
           "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 3,
+          "gmpPercent": 2.14
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
           "gmp": 3,
           "gmpPercent": 2.14
         }
@@ -370,11 +394,16 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 3,
           "gmpPercent": 6.98
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 3,
+          "gmpPercent": 6.98
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.98,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1887": {
       "name": "Century Business Media",
@@ -383,7 +412,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1899": {
       "name": "Injecto Polymers",
@@ -392,7 +421,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1969": {
       "name": "Vama Wovenfab",
@@ -408,10 +437,15 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 10,
           "gmpPercent": 2.93
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 30,
+          "gmpPercent": 8.8
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.93,
+      "lastGmpPercent": 8.8,
       "status": "Open"
     },
     "2016": {
@@ -421,6 +455,11 @@
       "series": [
         {
           "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 10,
+          "gmpPercent": 9.9
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
           "gmp": 10,
           "gmpPercent": 9.9
         }
@@ -483,6 +522,11 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 50,
           "gmpPercent": 18.32
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 50,
+          "gmpPercent": 18.32
         }
       ],
       "alertedAbove": true,
@@ -538,11 +582,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 27,
           "gmpPercent": 29.03
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 27,
+          "gmpPercent": 29.03
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 29.03,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2059": {
       "name": "Sonaselection India",
@@ -551,6 +600,11 @@
       "series": [
         {
           "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 8,
+          "gmpPercent": 8.08
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
           "gmp": 8,
           "gmpPercent": 8.08
         }
@@ -618,11 +672,16 @@
           "t": "2026-09-15T05:10:24.664Z",
           "gmp": 145,
           "gmpPercent": 34.2
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 128,
+          "gmpPercent": 30.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.2,
-      "status": "Upcoming"
+      "lastGmpPercent": 30.19,
+      "status": "Open"
     },
     "2211": {
       "name": "SpectraA Technology Solutions",
@@ -653,10 +712,24 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 50,
           "gmpPercent": 42.37
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 50,
+          "gmpPercent": 42.37
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 42.37,
+      "status": "Upcoming"
+    },
+    "2230": {
+      "name": "Himalaya Nutravedics",
+      "category": "SME",
+      "close": "2026-09-24",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2249": {
@@ -735,6 +808,11 @@
         },
         {
           "t": "2026-09-15T14:10:44.873Z",
+          "gmp": 28,
+          "gmpPercent": 15.05
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
           "gmp": 28,
           "gmpPercent": 15.05
         }
@@ -851,10 +929,15 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 175,
           "gmpPercent": 9.8
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 132,
+          "gmpPercent": 7.39
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.8,
+      "lastGmpPercent": 7.39,
       "status": "Upcoming"
     },
     "2359": {
@@ -876,10 +959,15 @@
           "t": "2026-09-15T14:10:44.873Z",
           "gmp": 15,
           "gmpPercent": 14.15
+        },
+        {
+          "t": "2026-09-16T05:06:14.778Z",
+          "gmp": 45,
+          "gmpPercent": 42.45
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.15,
+      "lastGmpPercent": 42.45,
       "status": "Upcoming"
     }
   }
