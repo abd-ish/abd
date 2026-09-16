@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:18:22.358Z",
+  "updatedAt": "2026-09-16T14:02:45.426Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -154,10 +154,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 10,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 8,
+          "gmpPercent": 5.71
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.14,
+      "lastGmpPercent": 5.71,
       "status": "Closed"
     },
     "1611": {
@@ -231,10 +236,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 19,
           "gmpPercent": 22.62
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 13,
+          "gmpPercent": 15.48
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.62,
+      "lastGmpPercent": 15.48,
       "status": "Open"
     },
     "1749": {
@@ -399,11 +409,16 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 3,
           "gmpPercent": 6.98
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 2,
+          "gmpPercent": 4.65
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.98,
-      "status": "Closing Today"
+      "lastGmpPercent": 4.65,
+      "status": "Closed"
     },
     "1887": {
       "name": "Century Business Media",
@@ -412,7 +427,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1899": {
       "name": "Injecto Polymers",
@@ -421,7 +436,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1969": {
       "name": "Vama Wovenfab",
@@ -442,10 +457,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 30,
           "gmpPercent": 8.8
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 70,
+          "gmpPercent": 20.53
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.8,
+      "alertedAbove": true,
+      "lastGmpPercent": 20.53,
       "status": "Open"
     },
     "2016": {
@@ -587,10 +607,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 27,
           "gmpPercent": 29.03
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 25,
+          "gmpPercent": 26.88
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.03,
+      "lastGmpPercent": 26.88,
       "status": "Open"
     },
     "2059": {
@@ -607,10 +632,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 8,
           "gmpPercent": 8.08
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 7,
+          "gmpPercent": 7.07
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.08,
+      "lastGmpPercent": 7.07,
       "status": "Upcoming"
     },
     "2076": {
@@ -677,10 +707,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 128,
           "gmpPercent": 30.19
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 100,
+          "gmpPercent": 23.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.19,
+      "lastGmpPercent": 23.58,
       "status": "Open"
     },
     "2211": {
@@ -815,10 +850,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 28,
           "gmpPercent": 15.05
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 25,
+          "gmpPercent": 13.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.05,
+      "lastGmpPercent": 13.44,
       "status": "Closed"
     },
     "2304": {
@@ -934,10 +974,15 @@
           "t": "2026-09-16T05:06:14.778Z",
           "gmp": 132,
           "gmpPercent": 7.39
+        },
+        {
+          "t": "2026-09-16T14:02:45.426Z",
+          "gmp": 157,
+          "gmpPercent": 8.8
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.39,
+      "lastGmpPercent": 8.8,
       "status": "Upcoming"
     },
     "2359": {
