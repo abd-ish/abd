@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T05:08:49.817Z",
+  "updatedAt": "2026-09-17T08:24:56.588Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -164,19 +164,30 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 5,
           "gmpPercent": 3.57
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 6,
+          "gmpPercent": 4.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.57,
+      "lastGmpPercent": 4.29,
       "status": "Closed"
     },
     "1611": {
       "name": "A-One Steels",
       "category": "Mainboard",
       "close": "2026-09-28",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 53,
+          "gmpPercent": 13.09
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 13.09,
       "status": "Upcoming"
     },
     "1636": {
@@ -260,10 +271,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 13,
           "gmpPercent": 15.48
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 6,
+          "gmpPercent": 7.14
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 15.48,
+      "alertedAbove": false,
+      "lastGmpPercent": 7.14,
       "status": "Open"
     },
     "1749": {
@@ -514,11 +530,25 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 70,
           "gmpPercent": 20.53
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 3,
+          "gmpPercent": 0.88
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 20.53,
+      "alertedAbove": false,
+      "lastGmpPercent": 0.88,
       "status": "Closing Today"
+    },
+    "2008": {
+      "name": "Liqvd Digital",
+      "category": "SME",
+      "close": "",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2016": {
       "name": "Kheria Autocomp",
@@ -679,10 +709,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 25,
           "gmpPercent": 26.88
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 28,
+          "gmpPercent": 30.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.88,
+      "lastGmpPercent": 30.11,
       "status": "Open"
     },
     "2059": {
@@ -709,10 +744,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 7,
           "gmpPercent": 7.07
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 3,
+          "gmpPercent": 3.03
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.07,
+      "lastGmpPercent": 3.03,
       "status": "Open"
     },
     "2076": {
@@ -789,10 +829,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 80,
           "gmpPercent": 18.87
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 127,
+          "gmpPercent": 29.95
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.87,
+      "lastGmpPercent": 29.95,
       "status": "Open"
     },
     "2211": {
@@ -834,10 +879,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 50,
           "gmpPercent": 42.37
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 30,
+          "gmpPercent": 25.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 42.37,
+      "lastGmpPercent": 25.42,
       "status": "Open"
     },
     "2230": {
@@ -1080,10 +1130,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 140,
           "gmpPercent": 7.84
+        },
+        {
+          "t": "2026-09-17T08:24:56.588Z",
+          "gmp": 153,
+          "gmpPercent": 8.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.84,
+      "lastGmpPercent": 8.57,
       "status": "Open"
     },
     "2359": {
