@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:24:56.588Z",
+  "updatedAt": "2026-09-17T14:07:35.189Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -184,10 +184,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 53,
           "gmpPercent": 13.09
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 55,
+          "gmpPercent": 13.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.09,
+      "lastGmpPercent": 13.58,
       "status": "Upcoming"
     },
     "1636": {
@@ -276,10 +281,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 6,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 6,
+          "gmpPercent": 7.74
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.14,
+      "lastGmpPercent": 7.74,
       "status": "Open"
     },
     "1749": {
@@ -349,16 +359,22 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1782": {
       "name": "Shakti Polytarp",
       "category": "SME",
       "close": "2026-09-17",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 6,
+          "gmpPercent": 10.17
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 10.17,
+      "status": "Closed"
     },
     "1806": {
       "name": "Manika Plastech",
@@ -539,12 +555,12 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.88,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2008": {
       "name": "Liqvd Digital",
       "category": "SME",
-      "close": "",
+      "close": "2026-09-25",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -569,10 +585,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 10,
           "gmpPercent": 9.9
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 12,
+          "gmpPercent": 11.88
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.9,
+      "alertedAbove": true,
+      "lastGmpPercent": 11.88,
       "status": "Open"
     },
     "2022": {
@@ -639,10 +660,15 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 21,
           "gmpPercent": 7.69
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 10,
+          "gmpPercent": 3.66
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.69,
+      "lastGmpPercent": 3.66,
       "status": "Closed"
     },
     "2057": {
@@ -714,10 +740,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 28,
           "gmpPercent": 30.11
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 30,
+          "gmpPercent": 32.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.11,
+      "lastGmpPercent": 32.26,
       "status": "Open"
     },
     "2059": {
@@ -749,10 +780,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 3,
           "gmpPercent": 3.03
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 4,
+          "gmpPercent": 4.04
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.03,
+      "lastGmpPercent": 4.04,
       "status": "Open"
     },
     "2076": {
@@ -834,10 +870,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 127,
           "gmpPercent": 29.95
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 128,
+          "gmpPercent": 30.19
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.95,
+      "lastGmpPercent": 30.19,
       "status": "Open"
     },
     "2211": {
@@ -1135,10 +1176,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 153,
           "gmpPercent": 8.57
+        },
+        {
+          "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 148,
+          "gmpPercent": 8.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.57,
+      "lastGmpPercent": 8.29,
       "status": "Open"
     },
     "2359": {
