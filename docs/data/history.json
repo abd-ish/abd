@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T07:59:16.131Z",
+  "updatedAt": "2026-09-18T13:24:46.562Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -204,10 +204,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 56,
           "gmpPercent": 13.83
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 57,
+          "gmpPercent": 14.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.83,
+      "lastGmpPercent": 14.07,
       "status": "Upcoming"
     },
     "1636": {
@@ -314,7 +319,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.57,
+      "lastGmpPercent": null,
       "status": "Closing Today"
     },
     "1708": {
@@ -326,10 +331,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 3,
           "gmpPercent": 1.62
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 5,
+          "gmpPercent": 2.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.62,
+      "lastGmpPercent": 2.7,
       "status": "Upcoming"
     },
     "1749": {
@@ -530,10 +540,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 2,
           "gmpPercent": 5.23
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 2,
+          "gmpPercent": 4.65
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.23,
+      "lastGmpPercent": 4.65,
       "status": "Closed"
     },
     "1852": {
@@ -550,10 +565,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 7,
           "gmpPercent": 4.73
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 13,
+          "gmpPercent": 8.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.73,
+      "lastGmpPercent": 8.78,
       "status": "Upcoming"
     },
     "1887": {
@@ -689,10 +709,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 6,
           "gmpPercent": 5.94
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 10,
+          "gmpPercent": 9.9
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.94,
+      "lastGmpPercent": 9.9,
       "status": "Open"
     },
     "2022": {
@@ -859,10 +884,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 32,
           "gmpPercent": 34.41
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 31,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.41,
+      "lastGmpPercent": 33.33,
       "status": "Closing Today"
     },
     "2059": {
@@ -1064,10 +1094,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 30,
           "gmpPercent": 25.42
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 45,
+          "gmpPercent": 38.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.42,
+      "lastGmpPercent": 38.14,
       "status": "Open"
     },
     "2230": {
@@ -1092,9 +1127,15 @@
       "name": "Adroit Industries",
       "category": "Mainboard",
       "close": "2026-09-25",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 8,
+          "gmpPercent": 5.97
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5.97,
       "status": "Upcoming"
     },
     "2269": {
@@ -1344,10 +1385,15 @@
           "t": "2026-09-18T07:59:16.131Z",
           "gmp": 109,
           "gmpPercent": 6.11
+        },
+        {
+          "t": "2026-09-18T13:24:46.562Z",
+          "gmp": 121,
+          "gmpPercent": 6.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.11,
+      "lastGmpPercent": 6.78,
       "status": "Open"
     },
     "2326": {
