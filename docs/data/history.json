@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:01:58.833Z",
+  "updatedAt": "2026-09-18T07:59:16.131Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -169,11 +169,16 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 6,
           "gmpPercent": 4.29
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 8,
+          "gmpPercent": 5.71
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.29,
-      "status": "Closed"
+      "lastGmpPercent": 5.71,
+      "status": "Listed"
     },
     "1611": {
       "name": "A-One Steels",
@@ -194,10 +199,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 55,
           "gmpPercent": 13.58
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 56,
+          "gmpPercent": 13.83
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.58,
+      "lastGmpPercent": 13.83,
       "status": "Upcoming"
     },
     "1636": {
@@ -296,19 +306,30 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 5,
           "gmpPercent": 6.55
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 3,
+          "gmpPercent": 3.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.55,
+      "lastGmpPercent": 3.57,
       "status": "Closing Today"
     },
     "1708": {
       "name": "Swastika Infra",
       "category": "Mainboard",
       "close": "2026-09-25",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 3,
+          "gmpPercent": 1.62
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 1.62,
       "status": "Upcoming"
     },
     "1749": {
@@ -524,10 +545,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 10,
           "gmpPercent": 6.76
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 7,
+          "gmpPercent": 4.73
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.76,
+      "lastGmpPercent": 4.73,
       "status": "Upcoming"
     },
     "1887": {
@@ -658,10 +684,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 10,
           "gmpPercent": 9.9
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 6,
+          "gmpPercent": 5.94
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.9,
+      "lastGmpPercent": 5.94,
       "status": "Open"
     },
     "2022": {
@@ -823,10 +854,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 31,
           "gmpPercent": 33.33
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 32,
+          "gmpPercent": 34.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.33,
+      "lastGmpPercent": 34.41,
       "status": "Closing Today"
     },
     "2059": {
@@ -963,10 +999,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 137,
           "gmpPercent": 32.31
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 142,
+          "gmpPercent": 33.49
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.31,
+      "lastGmpPercent": 33.49,
       "status": "Closing Today"
     },
     "2211": {
@@ -1018,10 +1059,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 50,
           "gmpPercent": 42.37
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 30,
+          "gmpPercent": 25.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 42.37,
+      "lastGmpPercent": 25.42,
       "status": "Open"
     },
     "2230": {
@@ -1040,7 +1086,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2268": {
       "name": "Adroit Industries",
@@ -1293,10 +1339,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 142,
           "gmpPercent": 7.96
+        },
+        {
+          "t": "2026-09-18T07:59:16.131Z",
+          "gmp": 109,
+          "gmpPercent": 6.11
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.96,
+      "lastGmpPercent": 6.11,
       "status": "Open"
     },
     "2326": {
