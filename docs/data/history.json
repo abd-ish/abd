@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T14:07:35.189Z",
+  "updatedAt": "2026-09-18T05:01:58.833Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -189,6 +189,11 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 55,
           "gmpPercent": 13.58
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 55,
+          "gmpPercent": 13.58
         }
       ],
       "alertedAbove": true,
@@ -220,7 +225,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1688": {
       "name": "Hero Motors",
@@ -286,11 +291,25 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 6,
           "gmpPercent": 7.74
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 5,
+          "gmpPercent": 6.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.74,
-      "status": "Open"
+      "lastGmpPercent": 6.55,
+      "status": "Closing Today"
+    },
+    "1708": {
+      "name": "Swastika Infra",
+      "category": "Mainboard",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1749": {
       "name": "Panchatv Bharat",
@@ -346,11 +365,16 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 3,
           "gmpPercent": 2.14
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 3,
+          "gmpPercent": 2.14
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.14,
-      "status": "Closed"
+      "status": "Listed"
     },
     "1760": {
       "name": "Quanto Agroworld",
@@ -368,6 +392,11 @@
       "series": [
         {
           "t": "2026-09-17T14:07:35.189Z",
+          "gmp": 6,
+          "gmpPercent": 10.17
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
           "gmp": 6,
           "gmpPercent": 10.17
         }
@@ -475,19 +504,30 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 2,
           "gmpPercent": 4.65
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 2,
+          "gmpPercent": 5.23
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.65,
+      "lastGmpPercent": 5.23,
       "status": "Closed"
     },
     "1852": {
       "name": "Varmora Granito",
       "category": "Mainboard",
       "close": "2026-09-24",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 10,
+          "gmpPercent": 6.76
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 6.76,
       "status": "Upcoming"
     },
     "1887": {
@@ -507,6 +547,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Closed"
+    },
+    "1917": {
+      "name": "Elevate Campuses",
+      "category": "Mainboard",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1924": {
       "name": "Sai Urja Indo",
@@ -551,11 +600,25 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 3,
           "gmpPercent": 0.88
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 3,
+          "gmpPercent": 0.88
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.88,
       "status": "Closed"
+    },
+    "1982": {
+      "name": "Pooja Logistics",
+      "category": "SME",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2008": {
       "name": "Liqvd Digital",
@@ -590,10 +653,15 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 12,
           "gmpPercent": 11.88
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 10,
+          "gmpPercent": 9.9
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.88,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.9,
       "status": "Open"
     },
     "2022": {
@@ -665,11 +733,16 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 10,
           "gmpPercent": 3.66
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 12,
+          "gmpPercent": 4.4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.66,
-      "status": "Closed"
+      "lastGmpPercent": 4.4,
+      "status": "Listed"
     },
     "2057": {
       "name": "Jindal Supreme",
@@ -745,11 +818,16 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 30,
           "gmpPercent": 32.26
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 31,
+          "gmpPercent": 33.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.26,
-      "status": "Open"
+      "lastGmpPercent": 33.33,
+      "status": "Closing Today"
     },
     "2059": {
       "name": "Sonaselection India",
@@ -785,10 +863,15 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 4,
           "gmpPercent": 4.04
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 2,
+          "gmpPercent": 2.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.04,
+      "lastGmpPercent": 2.02,
       "status": "Open"
     },
     "2076": {
@@ -875,11 +958,16 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 128,
           "gmpPercent": 30.19
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 137,
+          "gmpPercent": 32.31
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.19,
-      "status": "Open"
+      "lastGmpPercent": 32.31,
+      "status": "Closing Today"
     },
     "2211": {
       "name": "SpectraA Technology Solutions",
@@ -925,10 +1013,15 @@
           "t": "2026-09-17T08:24:56.588Z",
           "gmp": 30,
           "gmpPercent": 25.42
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 50,
+          "gmpPercent": 42.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.42,
+      "lastGmpPercent": 42.37,
       "status": "Open"
     },
     "2230": {
@@ -948,6 +1041,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Closed"
+    },
+    "2268": {
+      "name": "Adroit Industries",
+      "category": "Mainboard",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2269": {
       "name": "Anand Seamless",
@@ -1042,11 +1144,16 @@
           "t": "2026-09-17T05:08:49.817Z",
           "gmp": 28,
           "gmpPercent": 15.05
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 28,
+          "gmpPercent": 15.05
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 15.05,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2304": {
       "name": "S.K.Offset",
@@ -1181,11 +1288,25 @@
           "t": "2026-09-17T14:07:35.189Z",
           "gmp": 148,
           "gmpPercent": 8.29
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
+          "gmp": 142,
+          "gmpPercent": 7.96
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.29,
+      "lastGmpPercent": 7.96,
       "status": "Open"
+    },
+    "2326": {
+      "name": "Unitec Fibres",
+      "category": "SME",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2359": {
       "name": "Robokidz Eduventures",
@@ -1214,6 +1335,11 @@
         },
         {
           "t": "2026-09-17T05:08:49.817Z",
+          "gmp": 51,
+          "gmpPercent": 48.11
+        },
+        {
+          "t": "2026-09-18T05:01:58.833Z",
           "gmp": 51,
           "gmpPercent": 48.11
         }
