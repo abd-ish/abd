@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:53:42.269Z",
+  "updatedAt": "2026-09-19T07:49:49.244Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -44,10 +44,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 60,
           "gmpPercent": 14.81
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 62,
+          "gmpPercent": 15.31
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.81,
+      "lastGmpPercent": 15.31,
       "status": "Upcoming"
     },
     "1636": {
@@ -176,10 +181,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 5,
           "gmpPercent": 2.7
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 3,
+          "gmpPercent": 1.62
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.7,
+      "lastGmpPercent": 1.62,
       "status": "Upcoming"
     },
     "1760": {
@@ -330,10 +340,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 1,
           "gmpPercent": 3.72
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 2,
+          "gmpPercent": 4.65
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.72,
+      "lastGmpPercent": 4.65,
       "status": "Closed"
     },
     "1852": {
@@ -375,6 +390,15 @@
       "lastGmpPercent": null,
       "status": "Closed"
     },
+    "1888": {
+      "name": "Core Integra Consulting",
+      "category": "SME",
+      "close": "2026-09-25",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1899": {
       "name": "Injecto Polymers",
       "category": "SME",
@@ -393,10 +417,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 15,
           "gmpPercent": 4.14
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 16,
+          "gmpPercent": 4.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.14,
+      "lastGmpPercent": 4.42,
       "status": "Upcoming"
     },
     "1924": {
@@ -770,10 +799,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 145,
           "gmpPercent": 34.2
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 146,
+          "gmpPercent": 34.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.2,
+      "lastGmpPercent": 34.43,
       "status": "Closed"
     },
     "2211": {
@@ -869,10 +903,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 37,
           "gmpPercent": 27.61
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 40,
+          "gmpPercent": 29.85
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.61,
+      "lastGmpPercent": 29.85,
       "status": "Upcoming"
     },
     "2269": {
@@ -1037,10 +1076,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 111,
           "gmpPercent": 6.22
+        },
+        {
+          "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 84,
+          "gmpPercent": 4.71
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.22,
+      "lastGmpPercent": 4.71,
       "status": "Open"
     },
     "2326": {
@@ -1095,6 +1139,15 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 48.11,
+      "status": "Upcoming"
+    },
+    "2366": {
+      "name": "Bench Mark Infotech Services",
+      "category": "SME",
+      "close": "2026-09-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     }
   }
