@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T07:49:49.244Z",
+  "updatedAt": "2026-09-19T12:53:32.128Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -49,10 +49,15 @@
           "t": "2026-09-19T07:49:49.244Z",
           "gmp": 62,
           "gmpPercent": 15.31
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 64,
+          "gmpPercent": 15.8
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.31,
+      "lastGmpPercent": 15.8,
       "status": "Upcoming"
     },
     "1636": {
@@ -68,9 +73,15 @@
       "name": "ArMee Infotech",
       "category": "Mainboard",
       "close": "2026-09-25",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 1,
+          "gmpPercent": 0.27
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0.27,
       "status": "Upcoming"
     },
     "1682": {
@@ -375,10 +386,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 15,
           "gmpPercent": 10.14
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 12,
+          "gmpPercent": 8.11
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.14,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.11,
       "status": "Upcoming"
     },
     "1887": {
@@ -649,10 +665,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 26,
           "gmpPercent": 28.49
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 29,
+          "gmpPercent": 31.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28.49,
+      "lastGmpPercent": 31.18,
       "status": "Closed"
     },
     "2059": {
@@ -694,10 +715,15 @@
           "t": "2026-09-18T05:01:58.833Z",
           "gmp": 2,
           "gmpPercent": 2.02
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 2,
+          "gmpPercent": 2.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 2.02,
       "status": "Open"
     },
     "2076": {
@@ -804,10 +830,15 @@
           "t": "2026-09-19T07:49:49.244Z",
           "gmp": 146,
           "gmpPercent": 34.43
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 147,
+          "gmpPercent": 34.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.43,
+      "lastGmpPercent": 34.67,
       "status": "Closed"
     },
     "2211": {
@@ -908,10 +939,15 @@
           "t": "2026-09-19T07:49:49.244Z",
           "gmp": 40,
           "gmpPercent": 29.85
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 41,
+          "gmpPercent": 30.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.85,
+      "lastGmpPercent": 30.6,
       "status": "Upcoming"
     },
     "2269": {
@@ -1081,10 +1117,15 @@
           "t": "2026-09-19T07:49:49.244Z",
           "gmp": 84,
           "gmpPercent": 4.71
+        },
+        {
+          "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 86,
+          "gmpPercent": 4.82
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.71,
+      "lastGmpPercent": 4.82,
       "status": "Open"
     },
     "2326": {
