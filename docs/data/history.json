@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:53:32.128Z",
+  "updatedAt": "2026-09-20T05:15:13.338Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -54,6 +54,11 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 64,
           "gmpPercent": 15.8
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 64,
+          "gmpPercent": 15.8
         }
       ],
       "alertedAbove": true,
@@ -76,6 +81,11 @@
       "series": [
         {
           "t": "2026-09-19T12:53:32.128Z",
+          "gmp": 1,
+          "gmpPercent": 0.27
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
           "gmp": 1,
           "gmpPercent": 0.27
         }
@@ -197,6 +207,11 @@
           "t": "2026-09-19T07:49:49.244Z",
           "gmp": 3,
           "gmpPercent": 1.62
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 3,
+          "gmpPercent": 1.62
         }
       ],
       "alertedAbove": false,
@@ -231,135 +246,15 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 5,
           "gmpPercent": 8.47
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 5,
+          "gmpPercent": 8.47
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 8.47,
-      "status": "Closed"
-    },
-    "1806": {
-      "name": "Manika Plastech",
-      "category": "Mainboard",
-      "close": "2026-09-16",
-      "series": [
-        {
-          "t": "2026-09-07T05:05:26.163Z",
-          "gmp": 7,
-          "gmpPercent": 16.28
-        },
-        {
-          "t": "2026-09-07T14:49:23.612Z",
-          "gmp": 20,
-          "gmpPercent": 46.51
-        },
-        {
-          "t": "2026-09-08T05:02:21.029Z",
-          "gmp": 20,
-          "gmpPercent": 46.51
-        },
-        {
-          "t": "2026-09-08T07:51:06.600Z",
-          "gmp": 17,
-          "gmpPercent": 39.53
-        },
-        {
-          "t": "2026-09-09T05:02:10.374Z",
-          "gmp": 17,
-          "gmpPercent": 39.53
-        },
-        {
-          "t": "2026-09-10T05:04:55.853Z",
-          "gmp": 13,
-          "gmpPercent": 30.23
-        },
-        {
-          "t": "2026-09-11T05:01:54.161Z",
-          "gmp": 13,
-          "gmpPercent": 30.23
-        },
-        {
-          "t": "2026-09-11T07:49:43.693Z",
-          "gmp": 10,
-          "gmpPercent": 23.26
-        },
-        {
-          "t": "2026-09-12T04:53:23.445Z",
-          "gmp": 7,
-          "gmpPercent": 16.28
-        },
-        {
-          "t": "2026-09-12T07:42:42.566Z",
-          "gmp": 3,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-09-12T12:38:33.678Z",
-          "gmp": 15,
-          "gmpPercent": 34.88
-        },
-        {
-          "t": "2026-09-13T05:13:58.264Z",
-          "gmp": 15,
-          "gmpPercent": 34.88
-        },
-        {
-          "t": "2026-09-13T13:40:43.647Z",
-          "gmp": 11,
-          "gmpPercent": 25.58
-        },
-        {
-          "t": "2026-09-14T05:19:51.652Z",
-          "gmp": 11,
-          "gmpPercent": 25.58
-        },
-        {
-          "t": "2026-09-15T05:10:24.664Z",
-          "gmp": 11,
-          "gmpPercent": 25.58
-        },
-        {
-          "t": "2026-09-15T14:10:44.873Z",
-          "gmp": 3,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 3,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-09-16T14:02:45.426Z",
-          "gmp": 2,
-          "gmpPercent": 4.65
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 2,
-          "gmpPercent": 4.65
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 2,
-          "gmpPercent": 5.23
-        },
-        {
-          "t": "2026-09-18T13:24:46.562Z",
-          "gmp": 2,
-          "gmpPercent": 4.65
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 1,
-          "gmpPercent": 3.72
-        },
-        {
-          "t": "2026-09-19T07:49:49.244Z",
-          "gmp": 2,
-          "gmpPercent": 4.65
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4.65,
       "status": "Closed"
     },
     "1852": {
@@ -391,20 +286,16 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 12,
           "gmpPercent": 8.11
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 12,
+          "gmpPercent": 8.11
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 8.11,
       "status": "Upcoming"
-    },
-    "1887": {
-      "name": "Century Business Media",
-      "category": "SME",
-      "close": "2026-09-16",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
     },
     "1888": {
       "name": "Core Integra Consulting",
@@ -414,15 +305,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
-    },
-    "1899": {
-      "name": "Injecto Polymers",
-      "category": "SME",
-      "close": "2026-09-16",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
     },
     "1917": {
       "name": "Elevate Campuses",
@@ -436,6 +318,11 @@
         },
         {
           "t": "2026-09-19T07:49:49.244Z",
+          "gmp": 16,
+          "gmpPercent": 4.42
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
           "gmp": 16,
           "gmpPercent": 4.42
         }
@@ -495,6 +382,11 @@
         },
         {
           "t": "2026-09-19T04:53:42.269Z",
+          "gmp": 3,
+          "gmpPercent": 0.88
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
           "gmp": 3,
           "gmpPercent": 0.88
         }
@@ -563,6 +455,11 @@
         },
         {
           "t": "2026-09-19T04:53:42.269Z",
+          "gmp": 7,
+          "gmpPercent": 6.93
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
           "gmp": 7,
           "gmpPercent": 6.93
         }
@@ -670,6 +567,11 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 29,
           "gmpPercent": 31.18
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 29,
+          "gmpPercent": 31.18
         }
       ],
       "alertedAbove": true,
@@ -720,11 +622,25 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 2,
           "gmpPercent": 2.02
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 2,
+          "gmpPercent": 2.02
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.02,
       "status": "Open"
+    },
+    "2063": {
+      "name": "Peshwa Wheat",
+      "category": "SME",
+      "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2076": {
       "name": "SS Retail",
@@ -835,6 +751,11 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 147,
           "gmpPercent": 34.67
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 147,
+          "gmpPercent": 34.67
         }
       ],
       "alertedAbove": true,
@@ -905,6 +826,11 @@
           "t": "2026-09-19T04:53:42.269Z",
           "gmp": 45,
           "gmpPercent": 38.14
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 45,
+          "gmpPercent": 38.14
         }
       ],
       "alertedAbove": true,
@@ -944,10 +870,15 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 41,
           "gmpPercent": 30.6
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 35,
+          "gmpPercent": 26.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.6,
+      "lastGmpPercent": 26.12,
       "status": "Upcoming"
     },
     "2269": {
@@ -1122,10 +1053,15 @@
           "t": "2026-09-19T12:53:32.128Z",
           "gmp": 86,
           "gmpPercent": 4.82
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 55,
+          "gmpPercent": 3.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.82,
+      "lastGmpPercent": 3.08,
       "status": "Open"
     },
     "2326": {
@@ -1174,6 +1110,11 @@
         },
         {
           "t": "2026-09-19T04:53:42.269Z",
+          "gmp": 51,
+          "gmpPercent": 48.11
+        },
+        {
+          "t": "2026-09-20T05:15:13.338Z",
           "gmp": 51,
           "gmpPercent": 48.11
         }
