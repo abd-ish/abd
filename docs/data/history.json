@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T05:15:13.338Z",
+  "updatedAt": "2026-09-20T08:18:48.516Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -1058,10 +1058,15 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 55,
           "gmpPercent": 3.08
+        },
+        {
+          "t": "2026-09-20T08:18:48.516Z",
+          "gmp": 48,
+          "gmpPercent": 2.69
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.08,
+      "lastGmpPercent": 2.69,
       "status": "Open"
     },
     "2326": {
