@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:18:20.814Z",
+  "updatedAt": "2026-09-21T08:36:50.553Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -317,10 +317,19 @@
       "lastGmpPercent": 4.42,
       "status": "Upcoming"
     },
+    "1920": {
+      "name": "Roopa Screen",
+      "category": "SME",
+      "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1924": {
       "name": "Sai Urja Indo",
       "category": "SME",
-      "close": "2026-09-25",
+      "close": "2026-09-29",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -716,10 +725,15 @@
           "t": "2026-09-21T05:18:20.814Z",
           "gmp": 155,
           "gmpPercent": 36.56
+        },
+        {
+          "t": "2026-09-21T08:36:50.553Z",
+          "gmp": 156,
+          "gmpPercent": 36.79
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.56,
+      "lastGmpPercent": 36.79,
       "status": "Closed"
     },
     "2198": {
@@ -1061,10 +1075,15 @@
           "t": "2026-09-21T05:18:20.814Z",
           "gmp": 57,
           "gmpPercent": 3.19
+        },
+        {
+          "t": "2026-09-21T08:36:50.553Z",
+          "gmp": 61,
+          "gmpPercent": 3.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.19,
+      "lastGmpPercent": 3.42,
       "status": "Closing Today"
     },
     "2326": {
@@ -1135,9 +1154,15 @@
       "name": "Bench Mark Infotech Services",
       "category": "SME",
       "close": "2026-09-29",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-21T08:36:50.553Z",
+          "gmp": 12,
+          "gmpPercent": 10.91
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 10.91,
       "status": "Upcoming"
     }
   }
