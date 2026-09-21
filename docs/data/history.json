@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:27:59.492Z",
+  "updatedAt": "2026-09-21T05:18:20.814Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -8,7 +8,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1611": {
       "name": "A-One Steels",
@@ -59,10 +59,15 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 64,
           "gmpPercent": 15.8
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 60,
+          "gmpPercent": 14.81
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.8,
+      "lastGmpPercent": 14.81,
       "status": "Upcoming"
     },
     "1636": {
@@ -72,7 +77,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1667": {
       "name": "ArMee Infotech",
@@ -86,6 +91,11 @@
         },
         {
           "t": "2026-09-20T05:15:13.338Z",
+          "gmp": 1,
+          "gmpPercent": 0.27
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
           "gmp": 1,
           "gmpPercent": 0.27
         }
@@ -212,50 +222,16 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 3,
           "gmpPercent": 1.62
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 3,
+          "gmpPercent": 1.62
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.62,
       "status": "Upcoming"
-    },
-    "1760": {
-      "name": "Quanto Agroworld",
-      "category": "SME",
-      "close": "2026-09-17",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
-    },
-    "1782": {
-      "name": "Shakti Polytarp",
-      "category": "SME",
-      "close": "2026-09-17",
-      "series": [
-        {
-          "t": "2026-09-17T14:07:35.189Z",
-          "gmp": 6,
-          "gmpPercent": 10.17
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 6,
-          "gmpPercent": 10.17
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 5,
-          "gmpPercent": 8.47
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 5,
-          "gmpPercent": 8.47
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.47,
-      "status": "Closed"
     },
     "1852": {
       "name": "Varmora Granito",
@@ -291,10 +267,15 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 12,
           "gmpPercent": 8.11
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 9,
+          "gmpPercent": 6.08
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.11,
+      "lastGmpPercent": 6.08,
       "status": "Upcoming"
     },
     "1888": {
@@ -325,6 +306,11 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 16,
           "gmpPercent": 4.42
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 16,
+          "gmpPercent": 4.42
         }
       ],
       "alertedAbove": false,
@@ -340,60 +326,14 @@
       "lastGmpPercent": null,
       "status": "Upcoming"
     },
-    "1969": {
-      "name": "Vama Wovenfab",
+    "1975": {
+      "name": "Himalayan Solar",
       "category": "SME",
-      "close": "2026-09-17",
-      "series": [
-        {
-          "t": "2026-09-14T08:35:09.885Z",
-          "gmp": 10,
-          "gmpPercent": 2.93
-        },
-        {
-          "t": "2026-09-15T05:10:24.664Z",
-          "gmp": 10,
-          "gmpPercent": 2.93
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 30,
-          "gmpPercent": 8.8
-        },
-        {
-          "t": "2026-09-16T14:02:45.426Z",
-          "gmp": 70,
-          "gmpPercent": 20.53
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 70,
-          "gmpPercent": 20.53
-        },
-        {
-          "t": "2026-09-17T08:24:56.588Z",
-          "gmp": 3,
-          "gmpPercent": 0.88
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 3,
-          "gmpPercent": 0.88
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 3,
-          "gmpPercent": 0.88
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 3,
-          "gmpPercent": 0.88
-        }
-      ],
+      "close": "2026-09-29",
+      "series": [],
       "alertedAbove": false,
-      "lastGmpPercent": 0.88,
-      "status": "Closed"
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1982": {
       "name": "Pooja Logistics",
@@ -467,11 +407,16 @@
           "t": "2026-09-20T13:27:59.492Z",
           "gmp": 5,
           "gmpPercent": 4.95
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 3,
+          "gmpPercent": 2.97
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.95,
-      "status": "Open"
+      "lastGmpPercent": 2.97,
+      "status": "Closing Today"
     },
     "2057": {
       "name": "Jindal Supreme",
@@ -577,6 +522,11 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 29,
           "gmpPercent": 31.18
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 29,
+          "gmpPercent": 31.18
         }
       ],
       "alertedAbove": true,
@@ -635,8 +585,8 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.02,
-      "status": "Open"
+      "lastGmpPercent": null,
+      "status": "Closing Today"
     },
     "2063": {
       "name": "Peshwa Wheat",
@@ -761,11 +711,25 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 147,
           "gmpPercent": 34.67
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 155,
+          "gmpPercent": 36.56
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.67,
+      "lastGmpPercent": 36.56,
       "status": "Closed"
+    },
+    "2198": {
+      "name": "Moneyview",
+      "category": "Mainboard",
+      "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2211": {
       "name": "SpectraA Technology Solutions",
@@ -836,11 +800,25 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 45,
           "gmpPercent": 38.14
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 45,
+          "gmpPercent": 38.14
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 38.14,
-      "status": "Open"
+      "status": "Closing Today"
+    },
+    "2224": {
+      "name": "Green Asia Impex",
+      "category": "SME",
+      "close": "2026-09-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2230": {
       "name": "Himalaya Nutravedics",
@@ -880,10 +858,15 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 35,
           "gmpPercent": 26.12
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 32,
+          "gmpPercent": 23.88
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.12,
+      "lastGmpPercent": 23.88,
       "status": "Upcoming"
     },
     "2269": {
@@ -1073,11 +1056,16 @@
           "t": "2026-09-20T13:27:59.492Z",
           "gmp": 45,
           "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 57,
+          "gmpPercent": 3.19
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.52,
-      "status": "Open"
+      "lastGmpPercent": 3.19,
+      "status": "Closing Today"
     },
     "2326": {
       "name": "Unitec Fibres",
@@ -1132,11 +1120,16 @@
           "t": "2026-09-20T05:15:13.338Z",
           "gmp": 51,
           "gmpPercent": 48.11
+        },
+        {
+          "t": "2026-09-21T05:18:20.814Z",
+          "gmp": 51,
+          "gmpPercent": 48.11
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 48.11,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2366": {
       "name": "Bench Mark Infotech Services",
