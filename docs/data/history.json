@@ -1,14 +1,20 @@
 {
-  "updatedAt": "2026-09-23T08:18:31.633Z",
+  "updatedAt": "2026-09-23T14:05:14.828Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
       "category": "SME",
       "close": "2026-09-23",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 4,
+          "gmpPercent": 3.45
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 3.45,
+      "status": "Closed"
     },
     "1611": {
       "name": "A-One Steels",
@@ -79,10 +85,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 50,
           "gmpPercent": 12.35
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 51,
+          "gmpPercent": 12.59
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.35,
+      "lastGmpPercent": 12.59,
       "status": "Upcoming"
     },
     "1636": {
@@ -92,7 +103,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1637": {
       "name": "EverestIMS Technologies",
@@ -132,10 +143,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 56,
           "gmpPercent": 14.93
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 51,
+          "gmpPercent": 13.6
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.93,
+      "lastGmpPercent": 13.6,
       "status": "Open"
     },
     "1682": {
@@ -210,10 +226,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 7,
           "gmpPercent": 3.78
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 9,
+          "gmpPercent": 5.14
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.78,
+      "lastGmpPercent": 5.14,
       "status": "Open"
     },
     "1711": {
@@ -255,10 +276,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 15,
           "gmpPercent": 10.79
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 20,
+          "gmpPercent": 14.39
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.79,
+      "lastGmpPercent": 14.39,
       "status": "Upcoming"
     },
     "1832": {
@@ -280,10 +306,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 40,
           "gmpPercent": 14.71
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 45,
+          "gmpPercent": 16.54
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.71,
+      "lastGmpPercent": 16.54,
       "status": "Upcoming"
     },
     "1840": {
@@ -408,10 +439,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 3,
           "gmpPercent": 0.83
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 4,
+          "gmpPercent": 1.24
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.83,
+      "lastGmpPercent": 1.24,
       "status": "Open"
     },
     "1920": {
@@ -428,10 +464,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 14,
           "gmpPercent": 21.88
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 10,
+          "gmpPercent": 15.62
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.88,
+      "lastGmpPercent": 15.62,
       "status": "Upcoming"
     },
     "1924": {
@@ -447,9 +488,15 @@
       "name": "Shah Investor's Home",
       "category": "Mainboard",
       "close": "2026-09-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 10,
+          "gmpPercent": 5.99
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 5.99,
       "status": "Upcoming"
     },
     "1956": {
@@ -640,9 +687,15 @@
       "name": "SRIT India",
       "category": "Mainboard",
       "close": "2026-09-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 12,
+          "gmpPercent": 9.23
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9.23,
       "status": "Upcoming"
     },
     "2198": {
@@ -669,10 +722,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 12,
           "gmpPercent": 36.76
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 14,
+          "gmpPercent": 41.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.76,
+      "lastGmpPercent": 41.18,
       "status": "Upcoming"
     },
     "2211": {
@@ -846,10 +904,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 33,
           "gmpPercent": 24.63
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 35,
+          "gmpPercent": 26.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.63,
+      "lastGmpPercent": 26.12,
       "status": "Open"
     },
     "2269": {
@@ -1083,10 +1146,15 @@
           "t": "2026-09-23T08:18:31.633Z",
           "gmp": 75,
           "gmpPercent": 4.2
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 81,
+          "gmpPercent": 4.54
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.2,
+      "lastGmpPercent": 4.54,
       "status": "Closed"
     },
     "2326": {
@@ -1176,11 +1244,16 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 65,
           "gmpPercent": 61.32
+        },
+        {
+          "t": "2026-09-23T14:05:14.828Z",
+          "gmp": 55,
+          "gmpPercent": 51.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 61.32,
-      "status": "Closing Today"
+      "lastGmpPercent": 51.89,
+      "status": "Closed"
     },
     "2360": {
       "name": "Acme Universal Safezone 9",
