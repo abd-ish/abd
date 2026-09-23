@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:54:55.400Z",
+  "updatedAt": "2026-09-23T05:01:56.890Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -8,7 +8,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1611": {
       "name": "A-One Steels",
@@ -74,6 +74,11 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 50,
           "gmpPercent": 12.35
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 50,
+          "gmpPercent": 12.35
         }
       ],
       "alertedAbove": true,
@@ -87,7 +92,16 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
+    },
+    "1637": {
+      "name": "EverestIMS Technologies",
+      "category": "SME",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1667": {
       "name": "ArMee Infotech",
@@ -113,11 +127,16 @@
           "t": "2026-09-22T05:16:19.045Z",
           "gmp": 12,
           "gmpPercent": 3.2
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 56,
+          "gmpPercent": 14.93
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.2,
-      "status": "Upcoming"
+      "alertedAbove": true,
+      "lastGmpPercent": 14.93,
+      "status": "Open"
     },
     "1682": {
       "name": "Axiom Gas Engineering",
@@ -181,11 +200,16 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 8,
           "gmpPercent": 4.59
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 8,
+          "gmpPercent": 4.32
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.59,
-      "status": "Upcoming"
+      "lastGmpPercent": 4.32,
+      "status": "Open"
     },
     "1711": {
       "name": "Runwal Enterprises",
@@ -196,10 +220,15 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 12,
           "gmpPercent": 3.93
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 18,
+          "gmpPercent": 5.9
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.93,
+      "lastGmpPercent": 5.9,
       "status": "Upcoming"
     },
     "1812": {
@@ -209,6 +238,11 @@
       "series": [
         {
           "t": "2026-09-22T13:54:55.400Z",
+          "gmp": 15,
+          "gmpPercent": 10.79
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
           "gmp": 15,
           "gmpPercent": 10.79
         }
@@ -224,6 +258,11 @@
       "series": [
         {
           "t": "2026-09-22T13:54:55.400Z",
+          "gmp": 34,
+          "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
           "gmp": 34,
           "gmpPercent": 12.5
         }
@@ -290,10 +329,15 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 4,
           "gmpPercent": 2.7
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 3,
+          "gmpPercent": 2.03
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.7,
+      "lastGmpPercent": 2.03,
       "status": "Open"
     },
     "1888": {
@@ -303,7 +347,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1917": {
       "name": "Elevate Campuses",
@@ -339,11 +383,16 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 5,
           "gmpPercent": 1.38
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 5,
+          "gmpPercent": 1.38
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.38,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1920": {
       "name": "Roopa Screen",
@@ -352,6 +401,11 @@
       "series": [
         {
           "t": "2026-09-22T13:54:55.400Z",
+          "gmp": 14,
+          "gmpPercent": 21.88
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
           "gmp": 14,
           "gmpPercent": 21.88
         }
@@ -364,6 +418,24 @@
       "name": "Sai Urja Indo",
       "category": "SME",
       "close": "2026-09-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1926": {
+      "name": "Shah Investor's Home",
+      "category": "Mainboard",
+      "close": "2026-09-30",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1956": {
+      "name": "Shivchem Agro",
+      "category": "SME",
+      "close": "2026-09-30",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -385,7 +457,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2008": {
       "name": "Liqvd Digital",
@@ -394,7 +466,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2016": {
       "name": "Kheria Autocomp",
@@ -458,6 +530,11 @@
         },
         {
           "t": "2026-09-22T05:16:19.045Z",
+          "gmp": 3,
+          "gmpPercent": 2.97
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
           "gmp": 3,
           "gmpPercent": 2.97
         }
@@ -544,10 +621,15 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 10,
           "gmpPercent": 29.41
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 11,
+          "gmpPercent": 32.35
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.41,
+      "lastGmpPercent": 32.35,
       "status": "Upcoming"
     },
     "2211": {
@@ -629,10 +711,15 @@
           "t": "2026-09-22T05:16:19.045Z",
           "gmp": 67,
           "gmpPercent": 56.78
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 77,
+          "gmpPercent": 65.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 56.78,
+      "lastGmpPercent": 65.25,
       "status": "Closed"
     },
     "2224": {
@@ -706,11 +793,16 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 30,
           "gmpPercent": 22.76
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 34,
+          "gmpPercent": 25.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.76,
-      "status": "Upcoming"
+      "lastGmpPercent": 25.37,
+      "status": "Open"
     },
     "2269": {
       "name": "Anand Seamless",
@@ -721,6 +813,15 @@
       "lastGmpPercent": null,
       "status": "Open"
     },
+    "2282": {
+      "name": "Shree TNB Polymers",
+      "category": "SME",
+      "close": "2026-09-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2304": {
       "name": "S.K.Offset",
       "category": "SME",
@@ -728,7 +829,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2305": {
       "name": "NSE",
@@ -924,10 +1025,15 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 45,
           "gmpPercent": 2.52
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 43,
+          "gmpPercent": 2.41
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.52,
+      "lastGmpPercent": 2.41,
       "status": "Closed"
     },
     "2326": {
@@ -937,7 +1043,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2359": {
       "name": "Robokidz Eduventures",
@@ -1003,11 +1109,25 @@
           "t": "2026-09-22T13:54:55.400Z",
           "gmp": 65,
           "gmpPercent": 61.32
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
+          "gmp": 65,
+          "gmpPercent": 61.32
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 61.32,
-      "status": "Open"
+      "status": "Closing Today"
+    },
+    "2360": {
+      "name": "Acme Universal Safezone 9",
+      "category": "SME",
+      "close": "2026-09-30",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2366": {
       "name": "Bench Mark Infotech Services",
@@ -1021,6 +1141,11 @@
         },
         {
           "t": "2026-09-22T05:16:19.045Z",
+          "gmp": 12,
+          "gmpPercent": 10.91
+        },
+        {
+          "t": "2026-09-23T05:01:56.890Z",
           "gmp": 12,
           "gmpPercent": 10.91
         }
