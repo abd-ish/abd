@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:01:56.890Z",
+  "updatedAt": "2026-09-23T08:18:31.633Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -205,10 +205,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 8,
           "gmpPercent": 4.32
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 7,
+          "gmpPercent": 3.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.32,
+      "lastGmpPercent": 3.78,
       "status": "Open"
     },
     "1711": {
@@ -225,10 +230,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 18,
           "gmpPercent": 5.9
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 17,
+          "gmpPercent": 5.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.9,
+      "lastGmpPercent": 5.57,
       "status": "Upcoming"
     },
     "1812": {
@@ -265,10 +275,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 34,
           "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 40,
+          "gmpPercent": 14.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.5,
+      "lastGmpPercent": 14.71,
       "status": "Upcoming"
     },
     "1840": {
@@ -337,7 +352,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.03,
+      "lastGmpPercent": null,
       "status": "Open"
     },
     "1888": {
@@ -388,10 +403,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 5,
           "gmpPercent": 1.38
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 3,
+          "gmpPercent": 0.83
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.38,
+      "lastGmpPercent": 0.83,
       "status": "Open"
     },
     "1920": {
@@ -543,6 +563,15 @@
       "lastGmpPercent": 2.97,
       "status": "Closed"
     },
+    "2052": {
+      "name": "Black Opal Consultants",
+      "category": "SME",
+      "close": "2026-10-01",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2059": {
       "name": "Sonaselection India",
       "category": "Mainboard",
@@ -607,6 +636,15 @@
       "lastGmpPercent": null,
       "status": "Upcoming"
     },
+    "2121": {
+      "name": "SRIT India",
+      "category": "Mainboard",
+      "close": "2026-09-30",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2198": {
       "name": "Moneyview",
       "category": "Mainboard",
@@ -626,10 +664,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 11,
           "gmpPercent": 32.35
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 12,
+          "gmpPercent": 36.76
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.35,
+      "lastGmpPercent": 36.76,
       "status": "Upcoming"
     },
     "2211": {
@@ -798,10 +841,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 34,
           "gmpPercent": 25.37
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 33,
+          "gmpPercent": 24.63
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.37,
+      "lastGmpPercent": 24.63,
       "status": "Open"
     },
     "2269": {
@@ -1030,10 +1078,15 @@
           "t": "2026-09-23T05:01:56.890Z",
           "gmp": 43,
           "gmpPercent": 2.41
+        },
+        {
+          "t": "2026-09-23T08:18:31.633Z",
+          "gmp": 75,
+          "gmpPercent": 4.2
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.41,
+      "lastGmpPercent": 4.2,
       "status": "Closed"
     },
     "2326": {
@@ -1044,6 +1097,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Open"
+    },
+    "2347": {
+      "name": "Omara Ventures India",
+      "category": "SME",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2359": {
       "name": "Robokidz Eduventures",
