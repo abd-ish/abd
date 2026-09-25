@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T14:02:28.054Z",
+  "updatedAt": "2026-09-25T05:14:27.559Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -13,6 +13,11 @@
         },
         {
           "t": "2026-09-24T05:12:39.962Z",
+          "gmp": 4,
+          "gmpPercent": 3.45
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
           "gmp": 4,
           "gmpPercent": 3.45
         }
@@ -105,10 +110,15 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 42,
           "gmpPercent": 10.37
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 49,
+          "gmpPercent": 12.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.37,
+      "lastGmpPercent": 12.1,
       "status": "Open"
     },
     "1636": {
@@ -178,11 +188,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 20,
           "gmpPercent": 5.33
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 20,
+          "gmpPercent": 5.33
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 5.33,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1682": {
       "name": "Axiom Gas Engineering",
@@ -191,7 +206,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "1683": {
       "name": "Pind Hospitality",
@@ -276,11 +291,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 9,
           "gmpPercent": 4.86
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 9,
+          "gmpPercent": 4.86
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 4.86,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1711": {
       "name": "Runwal Enterprises",
@@ -316,11 +336,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 37,
           "gmpPercent": 12.13
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 30,
+          "gmpPercent": 9.84
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 12.13,
-      "status": "Upcoming"
+      "alertedAbove": false,
+      "lastGmpPercent": 9.84,
+      "status": "Open"
     },
     "1781": {
       "name": "Dove Soft",
@@ -360,11 +385,16 @@
           "t": "2026-09-24T08:10:23.954Z",
           "gmp": 25,
           "gmpPercent": 17.99
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 29,
+          "gmpPercent": 20.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.99,
-      "status": "Upcoming"
+      "lastGmpPercent": 20.86,
+      "status": "Open"
     },
     "1832": {
       "name": "Orient Cables",
@@ -405,11 +435,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 68,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 113,
+          "gmpPercent": 41.54
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25,
-      "status": "Upcoming"
+      "lastGmpPercent": 41.54,
+      "status": "Open"
     },
     "1840": {
       "name": "Acevector",
@@ -420,11 +455,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 2,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 2,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.25,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1852": {
       "name": "Varmora Granito",
@@ -485,6 +525,11 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 0,
           "gmpPercent": 0.34
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 0,
+          "gmpPercent": 0.34
         }
       ],
       "alertedAbove": false,
@@ -498,7 +543,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1917": {
       "name": "Elevate Campuses",
@@ -564,11 +609,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 3,
           "gmpPercent": 0.83
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 2,
+          "gmpPercent": 0.69
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.83,
-      "status": "Open"
+      "lastGmpPercent": 0.69,
+      "status": "Closing Today"
     },
     "1920": {
       "name": "Roopa Screen",
@@ -606,8 +656,8 @@
           "gmpPercent": 45.31
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 45.31,
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Open"
     },
     "1924": {
@@ -617,7 +667,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1926": {
       "name": "Shah Investor's Home",
@@ -636,6 +686,11 @@
         },
         {
           "t": "2026-09-24T14:02:28.054Z",
+          "gmp": 12,
+          "gmpPercent": 7.19
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
           "gmp": 12,
           "gmpPercent": 7.19
         }
@@ -660,7 +715,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1982": {
       "name": "Pooja Logistics",
@@ -669,7 +724,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -687,87 +742,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
-    },
-    "2016": {
-      "name": "Kheria Autocomp",
-      "category": "SME",
-      "close": "2026-09-21",
-      "series": [
-        {
-          "t": "2026-09-15T14:10:44.873Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-09-17T14:07:35.189Z",
-          "gmp": 12,
-          "gmpPercent": 11.88
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-09-18T07:59:16.131Z",
-          "gmp": 6,
-          "gmpPercent": 5.94
-        },
-        {
-          "t": "2026-09-18T13:24:46.562Z",
-          "gmp": 10,
-          "gmpPercent": 9.9
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 7,
-          "gmpPercent": 6.93
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 7,
-          "gmpPercent": 6.93
-        },
-        {
-          "t": "2026-09-20T13:27:59.492Z",
-          "gmp": 5,
-          "gmpPercent": 4.95
-        },
-        {
-          "t": "2026-09-21T05:18:20.814Z",
-          "gmp": 3,
-          "gmpPercent": 2.97
-        },
-        {
-          "t": "2026-09-22T05:16:19.045Z",
-          "gmp": 3,
-          "gmpPercent": 2.97
-        },
-        {
-          "t": "2026-09-23T05:01:56.890Z",
-          "gmp": 3,
-          "gmpPercent": 2.97
-        },
-        {
-          "t": "2026-09-24T05:12:39.962Z",
-          "gmp": 3,
-          "gmpPercent": 2.97
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.97,
-      "status": "Listed"
+      "status": "Closing Today"
     },
     "2052": {
       "name": "Black Opal Consultants",
@@ -777,61 +752,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
-    },
-    "2059": {
-      "name": "Sonaselection India",
-      "category": "Mainboard",
-      "close": "2026-09-21",
-      "series": [
-        {
-          "t": "2026-09-15T14:10:44.873Z",
-          "gmp": 8,
-          "gmpPercent": 8.08
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 8,
-          "gmpPercent": 8.08
-        },
-        {
-          "t": "2026-09-16T14:02:45.426Z",
-          "gmp": 7,
-          "gmpPercent": 7.07
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 7,
-          "gmpPercent": 7.07
-        },
-        {
-          "t": "2026-09-17T08:24:56.588Z",
-          "gmp": 3,
-          "gmpPercent": 3.03
-        },
-        {
-          "t": "2026-09-17T14:07:35.189Z",
-          "gmp": 4,
-          "gmpPercent": 4.04
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 2,
-          "gmpPercent": 2.02
-        },
-        {
-          "t": "2026-09-19T12:53:32.128Z",
-          "gmp": 2,
-          "gmpPercent": 2.02
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 2,
-          "gmpPercent": 2.02
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
     },
     "2063": {
       "name": "Peshwa Wheat",
@@ -870,10 +790,15 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 13,
           "gmpPercent": 10.38
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 22,
+          "gmpPercent": 16.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.38,
+      "lastGmpPercent": 16.92,
       "status": "Upcoming"
     },
     "2198": {
@@ -920,106 +845,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 13,
           "gmpPercent": 38.97
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 15,
+          "gmpPercent": 45.59
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.97,
+      "lastGmpPercent": 45.59,
       "status": "Open"
-    },
-    "2211": {
-      "name": "SpectraA Technology Solutions",
-      "category": "SME",
-      "close": "2026-09-21",
-      "series": [
-        {
-          "t": "2026-09-13T13:40:43.647Z",
-          "gmp": 27,
-          "gmpPercent": 22.88
-        },
-        {
-          "t": "2026-09-14T05:19:51.652Z",
-          "gmp": 27,
-          "gmpPercent": 22.88
-        },
-        {
-          "t": "2026-09-14T15:41:03.677Z",
-          "gmp": 44,
-          "gmpPercent": 37.29
-        },
-        {
-          "t": "2026-09-15T05:10:24.664Z",
-          "gmp": 44,
-          "gmpPercent": 37.29
-        },
-        {
-          "t": "2026-09-15T14:10:44.873Z",
-          "gmp": 50,
-          "gmpPercent": 42.37
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 50,
-          "gmpPercent": 42.37
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 50,
-          "gmpPercent": 42.37
-        },
-        {
-          "t": "2026-09-17T08:24:56.588Z",
-          "gmp": 30,
-          "gmpPercent": 25.42
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 50,
-          "gmpPercent": 42.37
-        },
-        {
-          "t": "2026-09-18T07:59:16.131Z",
-          "gmp": 30,
-          "gmpPercent": 25.42
-        },
-        {
-          "t": "2026-09-18T13:24:46.562Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-21T05:18:20.814Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-22T05:16:19.045Z",
-          "gmp": 67,
-          "gmpPercent": 56.78
-        },
-        {
-          "t": "2026-09-23T05:01:56.890Z",
-          "gmp": 77,
-          "gmpPercent": 65.25
-        },
-        {
-          "t": "2026-09-24T05:12:39.962Z",
-          "gmp": 81,
-          "gmpPercent": 68.64
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 68.64,
-      "status": "Listed"
     },
     "2224": {
       "name": "Green Asia Impex",
@@ -1043,10 +878,16 @@
       "name": "Dudani Retail",
       "category": "SME",
       "close": "2026-09-29",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Upcoming"
+      "series": [
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 3,
+          "gmpPercent": 10.34
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 10.34,
+      "status": "Open"
     },
     "2268": {
       "name": "Adroit Industries",
@@ -1122,11 +963,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 37,
           "gmpPercent": 27.61
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 37,
+          "gmpPercent": 27.61
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 27.61,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2269": {
       "name": "Anand Seamless",
@@ -1148,9 +994,9 @@
           "gmpPercent": 15.38
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 15.38,
-      "status": "Upcoming"
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Open"
     },
     "2304": {
       "name": "S.K.Offset",
@@ -1159,227 +1005,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
-    },
-    "2305": {
-      "name": "NSE",
-      "category": "Mainboard",
-      "close": "2026-09-21",
-      "series": [
-        {
-          "t": "2026-09-04T13:10:32.247Z",
-          "gmp": 255,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-05T04:51:04.075Z",
-          "gmp": 285,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-06T04:58:16.919Z",
-          "gmp": 310,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-07T05:05:26.163Z",
-          "gmp": 275,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-08T05:02:21.029Z",
-          "gmp": 228,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-09T05:02:10.374Z",
-          "gmp": 244,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-10T05:04:55.853Z",
-          "gmp": 224,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-09-10T13:20:03.573Z",
-          "gmp": 214,
-          "gmpPercent": 11.99
-        },
-        {
-          "t": "2026-09-11T05:01:54.161Z",
-          "gmp": 180,
-          "gmpPercent": 10.08
-        },
-        {
-          "t": "2026-09-11T07:49:43.693Z",
-          "gmp": 185,
-          "gmpPercent": 10.36
-        },
-        {
-          "t": "2026-09-11T13:16:38.481Z",
-          "gmp": 220,
-          "gmpPercent": 12.32
-        },
-        {
-          "t": "2026-09-12T04:53:23.445Z",
-          "gmp": 218,
-          "gmpPercent": 12.21
-        },
-        {
-          "t": "2026-09-12T07:42:42.566Z",
-          "gmp": 210,
-          "gmpPercent": 11.76
-        },
-        {
-          "t": "2026-09-12T12:38:33.678Z",
-          "gmp": 207,
-          "gmpPercent": 11.6
-        },
-        {
-          "t": "2026-09-13T05:13:58.264Z",
-          "gmp": 208,
-          "gmpPercent": 11.65
-        },
-        {
-          "t": "2026-09-14T05:19:51.652Z",
-          "gmp": 210,
-          "gmpPercent": 11.76
-        },
-        {
-          "t": "2026-09-14T15:41:03.677Z",
-          "gmp": 208,
-          "gmpPercent": 11.65
-        },
-        {
-          "t": "2026-09-15T05:10:24.664Z",
-          "gmp": 208,
-          "gmpPercent": 11.65
-        },
-        {
-          "t": "2026-09-15T14:10:44.873Z",
-          "gmp": 175,
-          "gmpPercent": 9.8
-        },
-        {
-          "t": "2026-09-16T05:06:14.778Z",
-          "gmp": 132,
-          "gmpPercent": 7.39
-        },
-        {
-          "t": "2026-09-16T14:02:45.426Z",
-          "gmp": 157,
-          "gmpPercent": 8.8
-        },
-        {
-          "t": "2026-09-17T05:08:49.817Z",
-          "gmp": 140,
-          "gmpPercent": 7.84
-        },
-        {
-          "t": "2026-09-17T08:24:56.588Z",
-          "gmp": 153,
-          "gmpPercent": 8.57
-        },
-        {
-          "t": "2026-09-17T14:07:35.189Z",
-          "gmp": 148,
-          "gmpPercent": 8.29
-        },
-        {
-          "t": "2026-09-18T05:01:58.833Z",
-          "gmp": 142,
-          "gmpPercent": 7.96
-        },
-        {
-          "t": "2026-09-18T07:59:16.131Z",
-          "gmp": 109,
-          "gmpPercent": 6.11
-        },
-        {
-          "t": "2026-09-18T13:24:46.562Z",
-          "gmp": 121,
-          "gmpPercent": 6.78
-        },
-        {
-          "t": "2026-09-19T04:53:42.269Z",
-          "gmp": 111,
-          "gmpPercent": 6.22
-        },
-        {
-          "t": "2026-09-19T07:49:49.244Z",
-          "gmp": 84,
-          "gmpPercent": 4.71
-        },
-        {
-          "t": "2026-09-19T12:53:32.128Z",
-          "gmp": 86,
-          "gmpPercent": 4.82
-        },
-        {
-          "t": "2026-09-20T05:15:13.338Z",
-          "gmp": 55,
-          "gmpPercent": 3.08
-        },
-        {
-          "t": "2026-09-20T08:18:48.516Z",
-          "gmp": 48,
-          "gmpPercent": 2.69
-        },
-        {
-          "t": "2026-09-20T13:27:59.492Z",
-          "gmp": 45,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-09-21T05:18:20.814Z",
-          "gmp": 57,
-          "gmpPercent": 3.19
-        },
-        {
-          "t": "2026-09-21T08:36:50.553Z",
-          "gmp": 61,
-          "gmpPercent": 3.42
-        },
-        {
-          "t": "2026-09-21T15:41:08.191Z",
-          "gmp": 60,
-          "gmpPercent": 3.39
-        },
-        {
-          "t": "2026-09-22T05:16:19.045Z",
-          "gmp": 66,
-          "gmpPercent": 3.7
-        },
-        {
-          "t": "2026-09-22T13:54:55.400Z",
-          "gmp": 45,
-          "gmpPercent": 2.52
-        },
-        {
-          "t": "2026-09-23T05:01:56.890Z",
-          "gmp": 43,
-          "gmpPercent": 2.41
-        },
-        {
-          "t": "2026-09-23T08:18:31.633Z",
-          "gmp": 75,
-          "gmpPercent": 4.2
-        },
-        {
-          "t": "2026-09-23T14:05:14.828Z",
-          "gmp": 81,
-          "gmpPercent": 4.54
-        },
-        {
-          "t": "2026-09-24T05:12:39.962Z",
-          "gmp": 40,
-          "gmpPercent": 2.24
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.24,
-      "status": "Listed"
+      "status": "Closing Today"
     },
     "2326": {
       "name": "Unitec Fibres",
@@ -1388,7 +1014,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2347": {
       "name": "Omara Ventures India",
@@ -1487,10 +1113,15 @@
           "t": "2026-09-24T05:12:39.962Z",
           "gmp": 55,
           "gmpPercent": 51.89
+        },
+        {
+          "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 70,
+          "gmpPercent": 66.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 51.89,
+      "lastGmpPercent": 66.04,
       "status": "Closed"
     },
     "2360": {
@@ -1533,9 +1164,9 @@
           "gmpPercent": 13.64
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 13.64,
-      "status": "Upcoming"
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Open"
     }
   }
 }
