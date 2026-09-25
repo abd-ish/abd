@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:14:27.559Z",
+  "updatedAt": "2026-09-25T08:33:27.075Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -115,10 +115,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 49,
           "gmpPercent": 12.1
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 50,
+          "gmpPercent": 12.35
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.1,
+      "lastGmpPercent": 12.35,
       "status": "Open"
     },
     "1636": {
@@ -193,10 +198,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 20,
           "gmpPercent": 5.33
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 10,
+          "gmpPercent": 2.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.33,
+      "lastGmpPercent": 2.67,
       "status": "Closing Today"
     },
     "1682": {
@@ -296,10 +306,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 9,
           "gmpPercent": 4.86
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 7,
+          "gmpPercent": 3.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.86,
+      "lastGmpPercent": 3.78,
       "status": "Closing Today"
     },
     "1711": {
@@ -341,10 +356,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 30,
           "gmpPercent": 9.84
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 5,
+          "gmpPercent": 1.64
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.84,
+      "lastGmpPercent": 1.64,
       "status": "Open"
     },
     "1781": {
@@ -390,10 +410,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 29,
           "gmpPercent": 20.86
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 31,
+          "gmpPercent": 22.66
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.86,
+      "lastGmpPercent": 22.66,
       "status": "Open"
     },
     "1832": {
@@ -440,10 +465,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 113,
           "gmpPercent": 41.54
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 100,
+          "gmpPercent": 36.76
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.54,
+      "lastGmpPercent": 36.76,
       "status": "Open"
     },
     "1840": {
@@ -460,10 +490,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 2,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 3,
+          "gmpPercent": 9.38
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.25,
+      "lastGmpPercent": 9.38,
       "status": "Open"
     },
     "1852": {
@@ -614,10 +649,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 2,
           "gmpPercent": 0.69
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 2,
+          "gmpPercent": 0.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.69,
+      "lastGmpPercent": 0.55,
       "status": "Closing Today"
     },
     "1920": {
@@ -708,6 +748,15 @@
       "lastGmpPercent": null,
       "status": "Upcoming"
     },
+    "1964": {
+      "name": "SJP Ultrasonic",
+      "category": "SME",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1975": {
       "name": "Himalayan Solar",
       "category": "SME",
@@ -728,6 +777,15 @@
     },
     "2001": {
       "name": "Paramount Syntex",
+      "category": "SME",
+      "close": "2026-10-06",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2006": {
+      "name": "Acme India Industries",
       "category": "SME",
       "close": "2026-10-06",
       "series": [],
@@ -850,10 +908,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 15,
           "gmpPercent": 45.59
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 14,
+          "gmpPercent": 41.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 45.59,
+      "lastGmpPercent": 41.18,
       "status": "Open"
     },
     "2224": {
@@ -874,6 +937,15 @@
       "lastGmpPercent": null,
       "status": "Closed"
     },
+    "2235": {
+      "name": "Nityas Gems & Jewellery",
+      "category": "Mainboard",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2259": {
       "name": "Dudani Retail",
       "category": "SME",
@@ -888,6 +960,15 @@
       "alertedAbove": true,
       "lastGmpPercent": 10.34,
       "status": "Open"
+    },
+    "2267": {
+      "name": "Eventions",
+      "category": "SME",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2268": {
       "name": "Adroit Industries",
@@ -983,10 +1064,19 @@
       "lastGmpPercent": null,
       "status": "Closed"
     },
+    "2274": {
+      "name": "Sollfege Smart Electronics",
+      "category": "SME",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2282": {
       "name": "Shree TNB Polymers",
       "category": "SME",
-      "close": "2026-09-29",
+      "close": "2026-10-05",
       "series": [
         {
           "t": "2026-09-24T14:02:28.054Z",
@@ -996,7 +1086,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Upcoming"
     },
     "2304": {
       "name": "S.K.Offset",
@@ -1162,11 +1252,25 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 15,
           "gmpPercent": 13.64
+        },
+        {
+          "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 16,
+          "gmpPercent": 14.55
         }
       ],
+      "alertedAbove": true,
+      "lastGmpPercent": 14.55,
+      "status": "Open"
+    },
+    "2370": {
+      "name": "TNA Solutions",
+      "category": "SME",
+      "close": "2026-10-06",
+      "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Upcoming"
     }
   }
 }
