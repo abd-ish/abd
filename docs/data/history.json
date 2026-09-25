@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:33:27.075Z",
+  "updatedAt": "2026-09-25T14:26:06.151Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -120,10 +120,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 50,
           "gmpPercent": 12.35
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 51,
+          "gmpPercent": 12.59
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.35,
+      "lastGmpPercent": 12.59,
       "status": "Open"
     },
     "1636": {
@@ -203,11 +208,16 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 10,
           "gmpPercent": 2.67
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 8,
+          "gmpPercent": 2.13
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.67,
-      "status": "Closing Today"
+      "lastGmpPercent": 2.13,
+      "status": "Closed"
     },
     "1682": {
       "name": "Axiom Gas Engineering",
@@ -311,11 +321,16 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 7,
           "gmpPercent": 3.78
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 4,
+          "gmpPercent": 2.43
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.78,
-      "status": "Closing Today"
+      "lastGmpPercent": 2.43,
+      "status": "Closed"
     },
     "1711": {
       "name": "Runwal Enterprises",
@@ -361,10 +376,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 5,
           "gmpPercent": 1.64
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 25,
+          "gmpPercent": 8.2
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.64,
+      "lastGmpPercent": 8.2,
       "status": "Open"
     },
     "1781": {
@@ -415,10 +435,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 31,
           "gmpPercent": 22.66
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 28,
+          "gmpPercent": 20.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.66,
+      "lastGmpPercent": 20.14,
       "status": "Open"
     },
     "1832": {
@@ -470,10 +495,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 100,
           "gmpPercent": 36.76
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 70,
+          "gmpPercent": 25.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.76,
+      "lastGmpPercent": 25.74,
       "status": "Open"
     },
     "1840": {
@@ -495,10 +525,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 3,
           "gmpPercent": 9.38
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 2,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.38,
+      "lastGmpPercent": 6.25,
       "status": "Open"
     },
     "1852": {
@@ -578,7 +613,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1917": {
       "name": "Elevate Campuses",
@@ -657,8 +692,8 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.55,
-      "status": "Closing Today"
+      "lastGmpPercent": null,
+      "status": "Closed"
     },
     "1920": {
       "name": "Roopa Screen",
@@ -773,7 +808,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -800,7 +835,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2052": {
       "name": "Black Opal Consultants",
@@ -853,10 +888,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 22,
           "gmpPercent": 16.92
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 23,
+          "gmpPercent": 17.69
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.92,
+      "lastGmpPercent": 17.69,
       "status": "Upcoming"
     },
     "2198": {
@@ -1049,11 +1089,16 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 37,
           "gmpPercent": 27.61
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 45,
+          "gmpPercent": 33.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.61,
-      "status": "Closing Today"
+      "lastGmpPercent": 33.58,
+      "status": "Closed"
     },
     "2269": {
       "name": "Anand Seamless",
@@ -1095,7 +1140,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2326": {
       "name": "Unitec Fibres",
@@ -1104,7 +1149,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2347": {
       "name": "Omara Ventures India",
@@ -1208,10 +1253,15 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 70,
           "gmpPercent": 66.04
+        },
+        {
+          "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 77,
+          "gmpPercent": 72.64
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 66.04,
+      "lastGmpPercent": 72.64,
       "status": "Closed"
     },
     "2360": {
