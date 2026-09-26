@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:26:06.151Z",
+  "updatedAt": "2026-09-26T05:18:58.834Z",
   "ipos": {
     "1589": {
       "name": "FX Multitech",
@@ -20,11 +20,25 @@
           "t": "2026-09-25T05:14:27.559Z",
           "gmp": 4,
           "gmpPercent": 3.45
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 6,
+          "gmpPercent": 5.17
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.45,
+      "lastGmpPercent": 5.17,
       "status": "Closed"
+    },
+    "1602": {
+      "name": "Vishal Nirmiti",
+      "category": "Mainboard",
+      "close": "2026-10-05",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1611": {
       "name": "A-One Steels",
@@ -125,6 +139,11 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 51,
           "gmpPercent": 12.59
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 51,
+          "gmpPercent": 12.59
         }
       ],
       "alertedAbove": true,
@@ -213,20 +232,16 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 8,
           "gmpPercent": 2.13
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 8,
+          "gmpPercent": 2.13
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 2.13,
       "status": "Closed"
-    },
-    "1682": {
-      "name": "Axiom Gas Engineering",
-      "category": "SME",
-      "close": "2026-09-22",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
     },
     "1683": {
       "name": "Pind Hospitality",
@@ -326,6 +341,11 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 4,
           "gmpPercent": 2.43
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 4,
+          "gmpPercent": 2.43
         }
       ],
       "alertedAbove": false,
@@ -381,10 +401,15 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 25,
           "gmpPercent": 8.2
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 16,
+          "gmpPercent": 5.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.2,
+      "lastGmpPercent": 5.25,
       "status": "Open"
     },
     "1781": {
@@ -440,10 +465,15 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 28,
           "gmpPercent": 20.14
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 25,
+          "gmpPercent": 17.99
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.14,
+      "lastGmpPercent": 17.99,
       "status": "Open"
     },
     "1832": {
@@ -500,10 +530,15 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 70,
           "gmpPercent": 25.74
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 80,
+          "gmpPercent": 29.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.74,
+      "lastGmpPercent": 29.41,
       "status": "Open"
     },
     "1840": {
@@ -528,6 +563,11 @@
         },
         {
           "t": "2026-09-25T14:26:06.151Z",
+          "gmp": 2,
+          "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
           "gmp": 2,
           "gmpPercent": 6.25
         }
@@ -598,6 +638,11 @@
         },
         {
           "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 0,
+          "gmpPercent": 0.34
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
           "gmp": 0,
           "gmpPercent": 0.34
         }
@@ -689,10 +734,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 2,
           "gmpPercent": 0.55
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 4,
+          "gmpPercent": 1.1
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 1.1,
       "status": "Closed"
     },
     "1920": {
@@ -766,6 +816,11 @@
         },
         {
           "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 12,
+          "gmpPercent": 7.19
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
           "gmp": 12,
           "gmpPercent": 7.19
         }
@@ -893,10 +948,15 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 23,
           "gmpPercent": 17.69
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 32,
+          "gmpPercent": 24.62
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.69,
+      "lastGmpPercent": 24.62,
       "status": "Upcoming"
     },
     "2198": {
@@ -953,10 +1013,15 @@
           "t": "2026-09-25T08:33:27.075Z",
           "gmp": 14,
           "gmpPercent": 41.18
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 13,
+          "gmpPercent": 39.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.18,
+      "lastGmpPercent": 39.71,
       "status": "Open"
     },
     "2224": {
@@ -993,6 +1058,11 @@
       "series": [
         {
           "t": "2026-09-25T05:14:27.559Z",
+          "gmp": 3,
+          "gmpPercent": 10.34
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
           "gmp": 3,
           "gmpPercent": 10.34
         }
@@ -1094,10 +1164,15 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 45,
           "gmpPercent": 33.58
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 47,
+          "gmpPercent": 35.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.58,
+      "lastGmpPercent": 35.07,
       "status": "Closed"
     },
     "2269": {
@@ -1258,6 +1333,11 @@
           "t": "2026-09-25T14:26:06.151Z",
           "gmp": 77,
           "gmpPercent": 72.64
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
+          "gmp": 77,
+          "gmpPercent": 72.64
         }
       ],
       "alertedAbove": true,
@@ -1305,6 +1385,11 @@
         },
         {
           "t": "2026-09-25T08:33:27.075Z",
+          "gmp": 16,
+          "gmpPercent": 14.55
+        },
+        {
+          "t": "2026-09-26T05:18:58.834Z",
           "gmp": 16,
           "gmpPercent": 14.55
         }
