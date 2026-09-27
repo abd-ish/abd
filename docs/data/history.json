@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:58:02.639Z",
+  "updatedAt": "2026-09-27T14:38:56.225Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -438,10 +438,15 @@
           "t": "2026-09-27T05:36:16.273Z",
           "gmp": 14,
           "gmpPercent": 4.75
+        },
+        {
+          "t": "2026-09-27T14:38:56.225Z",
+          "gmp": 16,
+          "gmpPercent": 5.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.75,
+      "lastGmpPercent": 5.25,
       "status": "Open"
     },
     "1781": {
@@ -522,10 +527,15 @@
           "t": "2026-09-27T08:58:02.639Z",
           "gmp": 29,
           "gmpPercent": 20.86
+        },
+        {
+          "t": "2026-09-27T14:38:56.225Z",
+          "gmp": 27,
+          "gmpPercent": 19.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.86,
+      "lastGmpPercent": 19.42,
       "status": "Open"
     },
     "1832": {
@@ -935,9 +945,15 @@
       "name": "Shivchem Agro",
       "category": "SME",
       "close": "2026-09-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-27T14:38:56.225Z",
+          "gmp": 6,
+          "gmpPercent": 9.68
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9.68,
       "status": "Upcoming"
     },
     "1964": {
@@ -980,9 +996,15 @@
       "name": "Acme India Industries",
       "category": "SME",
       "close": "2026-10-06",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-27T14:38:56.225Z",
+          "gmp": 30,
+          "gmpPercent": 15.31
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 15.31,
       "status": "Upcoming"
     },
     "2008": {
@@ -1321,10 +1343,15 @@
           "t": "2026-09-27T08:58:02.639Z",
           "gmp": 55,
           "gmpPercent": 41.04
+        },
+        {
+          "t": "2026-09-27T14:38:56.225Z",
+          "gmp": 58,
+          "gmpPercent": 43.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.04,
+      "lastGmpPercent": 43.28,
       "status": "Closed"
     },
     "2269": {
