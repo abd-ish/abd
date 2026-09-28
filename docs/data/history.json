@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:43:55.618Z",
+  "updatedAt": "2026-09-28T09:24:12.920Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -139,10 +139,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 56,
           "gmpPercent": 13.83
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 42,
+          "gmpPercent": 10.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.83,
+      "lastGmpPercent": 10.37,
       "status": "Closing Today"
     },
     "1637": {
@@ -254,10 +259,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 8,
           "gmpPercent": 2.13
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 6,
+          "gmpPercent": 1.6
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.13,
+      "lastGmpPercent": 1.6,
       "status": "Closed"
     },
     "1683": {
@@ -383,10 +393,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 6,
           "gmpPercent": 3.51
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 5,
+          "gmpPercent": 2.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.51,
+      "lastGmpPercent": 2.7,
       "status": "Closed"
     },
     "1711": {
@@ -468,10 +483,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 14,
           "gmpPercent": 4.59
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 13,
+          "gmpPercent": 4.43
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.59,
+      "lastGmpPercent": 4.43,
       "status": "Open"
     },
     "1781": {
@@ -562,10 +582,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 29,
           "gmpPercent": 20.86
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 26,
+          "gmpPercent": 18.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.86,
+      "lastGmpPercent": 18.71,
       "status": "Open"
     },
     "1832": {
@@ -695,7 +720,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.12,
+      "lastGmpPercent": null,
       "status": "Open"
     },
     "1888": {
@@ -801,10 +826,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 9,
           "gmpPercent": 2.62
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 10,
+          "gmpPercent": 2.76
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.62,
+      "lastGmpPercent": 2.76,
       "status": "Closed"
     },
     "1920": {
@@ -856,10 +886,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 32,
           "gmpPercent": 50
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 34,
+          "gmpPercent": 53.12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 50,
+      "lastGmpPercent": 53.12,
       "status": "Closing Today"
     },
     "1924": {
@@ -915,10 +950,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 9,
           "gmpPercent": 5.39
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 12,
+          "gmpPercent": 7.19
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.39,
+      "lastGmpPercent": 7.19,
       "status": "Open"
     },
     "1956": {
@@ -1082,10 +1122,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 33,
           "gmpPercent": 25.38
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 25,
+          "gmpPercent": 19.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.38,
+      "lastGmpPercent": 19.23,
       "status": "Open"
     },
     "2198": {
@@ -1167,10 +1212,15 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 14,
           "gmpPercent": 41.18
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 13,
+          "gmpPercent": 38.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 41.18,
+      "lastGmpPercent": 38.24,
       "status": "Closing Today"
     },
     "2224": {
@@ -1186,9 +1236,15 @@
       "name": "Nityas Gems & Jewellery",
       "category": "Mainboard",
       "close": "2026-10-05",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 5,
+          "gmpPercent": 6.67
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 6.67,
       "status": "Upcoming"
     },
     "2259": {
@@ -1494,19 +1550,30 @@
           "t": "2026-09-28T05:43:55.618Z",
           "gmp": 18,
           "gmpPercent": 16.36
+        },
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 19,
+          "gmpPercent": 17.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.36,
+      "lastGmpPercent": 17.27,
       "status": "Open"
     },
     "2370": {
       "name": "TNA Solutions",
       "category": "SME",
       "close": "2026-10-06",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-28T09:24:12.920Z",
+          "gmp": 7,
+          "gmpPercent": 10
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 10,
       "status": "Upcoming"
     }
   }
