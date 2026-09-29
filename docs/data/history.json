@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:01:02.045Z",
+  "updatedAt": "2026-09-29T09:29:51.637Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -155,10 +155,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 28,
           "gmpPercent": 6.91
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 23,
+          "gmpPercent": 5.68
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.91,
+      "lastGmpPercent": 5.68,
       "status": "Closed"
     },
     "1637": {
@@ -297,7 +302,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.59,
+      "lastGmpPercent": null,
       "status": "Closing Today"
     },
     "1781": {
@@ -398,10 +403,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 24,
           "gmpPercent": 17.63
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 14,
+          "gmpPercent": 10.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.63,
+      "lastGmpPercent": 10.43,
       "status": "Closing Today"
     },
     "1832": {
@@ -483,10 +493,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 72,
           "gmpPercent": 26.47
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 70,
+          "gmpPercent": 25.74
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.47,
+      "lastGmpPercent": 25.74,
       "status": "Closing Today"
     },
     "1840": {
@@ -541,7 +556,7 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.25,
+      "lastGmpPercent": null,
       "status": "Closing Today"
     },
     "1920": {
@@ -672,10 +687,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 14,
           "gmpPercent": 8.38
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 13,
+          "gmpPercent": 7.78
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.38,
+      "lastGmpPercent": 7.78,
       "status": "Open"
     },
     "1956": {
@@ -697,10 +717,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 6,
           "gmpPercent": 9.68
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 13,
+          "gmpPercent": 20.97
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.68,
+      "alertedAbove": true,
+      "lastGmpPercent": 20.97,
       "status": "Open"
     },
     "1964": {
@@ -841,10 +866,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 33,
           "gmpPercent": 25.38
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 23,
+          "gmpPercent": 17.69
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.38,
+      "lastGmpPercent": 17.69,
       "status": "Open"
     },
     "2198": {
@@ -1000,10 +1030,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 3,
           "gmpPercent": 10.34
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 0,
+          "gmpPercent": 1.72
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.34,
+      "alertedAbove": false,
+      "lastGmpPercent": 1.72,
       "status": "Closing Today"
     },
     "2267": {
@@ -1151,10 +1186,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 29,
           "gmpPercent": 26.36
+        },
+        {
+          "t": "2026-09-29T09:29:51.637Z",
+          "gmp": 30,
+          "gmpPercent": 27.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.36,
+      "lastGmpPercent": 27.27,
       "status": "Closing Today"
     },
     "2370": {

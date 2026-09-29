@@ -1,35 +1,16 @@
 {
-  "generatedAt": "2026-09-29T06:01:02.045Z",
+  "generatedAt": "2026-09-29T09:29:51.637Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
-    {
-      "id": "1832",
-      "name": "Orient Cables",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 72,
-      "gmpPercent": 26.47,
-      "price": 272,
-      "lot": 55,
-      "ipoSize": "₹552.00 Cr",
-      "open": "2026-09-25",
-      "close": "2026-09-29",
-      "listing": "2026-10-05",
-      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 72</b></small>",
-      "url": "https://www.investorgain.com/gmp/orient-cables-ipo/1832/",
-      "updatedOn": "29-Sep 8:37"
-    },
     {
       "id": "2366",
       "name": "Bench Mark Infotech Services",
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closing Today",
-      "gmp": 29,
-      "gmpPercent": 26.36,
+      "gmp": 30,
+      "gmpPercent": 27.27,
       "price": 110,
       "lot": 1200,
       "ipoSize": "₹42.44 Cr",
@@ -37,9 +18,28 @@
       "close": "2026-09-29",
       "listing": "2026-10-05",
       "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 29</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "url": "https://www.investorgain.com/gmp/bench-mark-infotech-services-ipo/2366/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
+    },
+    {
+      "id": "1832",
+      "name": "Orient Cables",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closing Today",
+      "gmp": 70,
+      "gmpPercent": 25.74,
+      "price": 272,
+      "lot": 55,
+      "ipoSize": "₹552.00 Cr",
+      "open": "2026-09-25",
+      "close": "2026-09-29",
+      "listing": "2026-10-05",
+      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 70</b></small>",
+      "url": "https://www.investorgain.com/gmp/orient-cables-ipo/1832/",
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1812",
@@ -47,8 +47,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closing Today",
-      "gmp": 24,
-      "gmpPercent": 17.63,
+      "gmp": 14,
+      "gmpPercent": 10.43,
       "price": 139,
       "lot": 107,
       "ipoSize": "₹303.90 Cr",
@@ -56,9 +56,9 @@
       "close": "2026-09-29",
       "listing": "2026-10-05",
       "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 26</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 24.5</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14.5</b></small>",
       "url": "https://www.investorgain.com/gmp/german-green-steel-and-power-ipo/1812/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2259",
@@ -66,8 +66,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closing Today",
-      "gmp": 3,
-      "gmpPercent": 10.34,
+      "gmp": 0,
+      "gmpPercent": 1.72,
       "price": 29,
       "lot": 4000,
       "ipoSize": "₹10.54 Cr",
@@ -75,47 +75,9 @@
       "close": "2026-09-29",
       "listing": "2026-10-05",
       "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0.5</b></small>",
       "url": "https://www.investorgain.com/gmp/dudani-retail-ipo/2259/",
-      "updatedOn": "29-Sep 8:37"
-    },
-    {
-      "id": "1840",
-      "name": "Acevector",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 2,
-      "gmpPercent": 6.25,
-      "price": 32,
-      "lot": 468,
-      "ipoSize": "₹420.00 Cr",
-      "open": "2026-09-25",
-      "close": "2026-09-29",
-      "listing": "2026-10-05",
-      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
-      "url": "https://www.investorgain.com/gmp/snapdeal-ipo/1840/",
-      "updatedOn": "29-Sep 8:37"
-    },
-    {
-      "id": "1711",
-      "name": "Runwal Enterprises",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 14,
-      "gmpPercent": 4.59,
-      "price": 305,
-      "lot": 49,
-      "ipoSize": "₹500.00 Cr",
-      "open": "2026-09-25",
-      "close": "2026-09-29",
-      "listing": "2026-10-05",
-      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
-      "url": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1924",
@@ -134,7 +96,45 @@
       "openDisplay": "25-Sep",
       "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:28"
+    },
+    {
+      "id": "1840",
+      "name": "Acevector",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closing Today",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 32,
+      "lot": 468,
+      "ipoSize": "₹420.00 Cr",
+      "open": "2026-09-25",
+      "close": "2026-09-29",
+      "listing": "2026-10-05",
+      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "url": "https://www.investorgain.com/gmp/snapdeal-ipo/1840/",
+      "updatedOn": "29-Sep 14:37"
+    },
+    {
+      "id": "1711",
+      "name": "Runwal Enterprises",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closing Today",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 305,
+      "lot": 49,
+      "ipoSize": "₹500.00 Cr",
+      "open": "2026-09-25",
+      "close": "2026-09-29",
+      "listing": "2026-10-05",
+      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "url": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/",
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1975",
@@ -153,7 +153,7 @@
       "openDisplay": "25-Sep",
       "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/himalayan-solar-ipo/1975/",
-      "updatedOn": "29-Sep 8:33"
+      "updatedOn": "29-Sep 14:29"
     },
     {
       "id": "2351",
@@ -172,26 +172,26 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 45</b></small>",
       "closeDisplay": "1-Oct",
       "url": "https://www.investorgain.com/gmp/vans-electroengineerings-ipo/2351/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
-      "id": "2121",
-      "name": "SRIT India",
-      "category": "Mainboard",
-      "exchange": "IPO",
+      "id": "1956",
+      "name": "Shivchem Agro",
+      "category": "SME",
+      "exchange": "BSE SME",
       "status": "Open",
-      "gmp": 33,
-      "gmpPercent": 25.38,
-      "price": 130,
-      "lot": 115,
-      "ipoSize": "₹218.40 Cr",
+      "gmp": 13,
+      "gmpPercent": 20.97,
+      "price": 62,
+      "lot": 2000,
+      "ipoSize": "₹14.01 Cr",
       "open": "2026-09-28",
       "close": "2026-09-30",
       "listing": "2026-10-06",
-      "openDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 33</b></small>",
+      "openDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 6</b></small>",
       "closeDisplay": "30-Sep",
-      "url": "https://www.investorgain.com/gmp/srit-india-ipo/2121/",
-      "updatedOn": "29-Sep 8:37"
+      "url": "https://www.investorgain.com/gmp/shivchem-agro-ipo/1956/",
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1637",
@@ -210,26 +210,26 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 17</b></small>",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/everestims-technologies-ipo/1637/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
-      "id": "1956",
-      "name": "Shivchem Agro",
-      "category": "SME",
-      "exchange": "BSE SME",
+      "id": "2121",
+      "name": "SRIT India",
+      "category": "Mainboard",
+      "exchange": "IPO",
       "status": "Open",
-      "gmp": 6,
-      "gmpPercent": 9.68,
-      "price": 62,
-      "lot": 2000,
-      "ipoSize": "₹14.01 Cr",
+      "gmp": 23,
+      "gmpPercent": 17.69,
+      "price": 130,
+      "lot": 115,
+      "ipoSize": "₹218.40 Cr",
       "open": "2026-09-28",
       "close": "2026-09-30",
       "listing": "2026-10-06",
-      "openDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 6</b></small>",
+      "openDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 33</b></small>",
       "closeDisplay": "30-Sep",
-      "url": "https://www.investorgain.com/gmp/shivchem-agro-ipo/1956/",
-      "updatedOn": "29-Sep 8:37"
+      "url": "https://www.investorgain.com/gmp/srit-india-ipo/2121/",
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1926",
@@ -237,8 +237,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 14,
-      "gmpPercent": 8.38,
+      "gmp": 13,
+      "gmpPercent": 7.78,
       "price": 167,
       "lot": 85,
       "ipoSize": "₹90.17 Cr",
@@ -248,7 +248,7 @@
       "openDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
       "closeDisplay": "30-Sep",
       "url": "https://www.investorgain.com/gmp/shah-investors-home-ipo/1926/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2282",
@@ -267,7 +267,7 @@
       "openDisplay": "28-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/",
-      "updatedOn": "29-Sep 8:28"
+      "updatedOn": "29-Sep 14:35"
     },
     {
       "id": "2224",
@@ -286,7 +286,7 @@
       "openDisplay": "24-Sep",
       "closeDisplay": "1-Oct",
       "url": "https://www.investorgain.com/gmp/green-asia-impex-ipo/2224/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2052",
@@ -305,7 +305,7 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "1-Oct",
       "url": "https://www.investorgain.com/gmp/black-opal-consultants-ipo/2052/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2077",
@@ -324,7 +324,7 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "1-Oct",
       "url": "https://www.investorgain.com/gmp/papadmalji-agro-foods-ipo/2077/",
-      "updatedOn": "29-Sep 8:31"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1683",
@@ -343,7 +343,7 @@
       "openDisplay": "28-Sep",
       "closeDisplay": "30-Sep",
       "url": "https://www.investorgain.com/gmp/pind-hospitality-ipo/1683/",
-      "updatedOn": "29-Sep 8:29"
+      "updatedOn": "29-Sep 14:29"
     },
     {
       "id": "2360",
@@ -362,7 +362,7 @@
       "openDisplay": "28-Sep",
       "closeDisplay": "30-Sep",
       "url": "https://www.investorgain.com/gmp/acme-universal-safezone-9-ipo/2360/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2006",
@@ -381,7 +381,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "6-Oct",
       "url": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2235",
@@ -400,7 +400,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/nityas-gems-jewellery-ipo/2235/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2370",
@@ -419,7 +419,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "6-Oct",
       "url": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1602",
@@ -438,7 +438,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/vishal-nirmiti-ipo/1602/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2001",
@@ -457,7 +457,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "6-Oct",
       "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
-      "updatedOn": "29-Sep 8:35"
+      "updatedOn": "29-Sep 14:31"
     },
     {
       "id": "2267",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/eventions-ipo/2267/",
-      "updatedOn": "29-Sep 8:32"
+      "updatedOn": "29-Sep 14:31"
     },
     {
       "id": "2274",
@@ -495,7 +495,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:32"
     },
     {
       "id": "1964",
@@ -514,7 +514,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/",
-      "updatedOn": "29-Sep 8:32"
+      "updatedOn": "29-Sep 14:31"
     },
     {
       "id": "1781",
@@ -533,7 +533,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/",
-      "updatedOn": "29-Sep 8:29"
+      "updatedOn": "29-Sep 14:35"
     },
     {
       "id": "2347",
@@ -552,7 +552,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
-      "updatedOn": "29-Sep 8:36"
+      "updatedOn": "29-Sep 14:36"
     },
     {
       "id": "2359",
@@ -628,7 +628,7 @@
       "openDisplay": "22-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
       "closeDisplay": "24-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0.5</b></small>",
       "url": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 9:37"
     },
     {
       "id": "2230",
@@ -647,7 +647,7 @@
       "openDisplay": "22-Sep",
       "closeDisplay": "24-Sep",
       "url": "https://www.investorgain.com/gmp/himalaya-nutravedics-ipo/2230/",
-      "updatedOn": "29-Sep 8:32"
+      "updatedOn": "29-Sep 9:33"
     },
     {
       "id": "2269",
@@ -666,7 +666,7 @@
       "openDisplay": "22-Sep",
       "closeDisplay": "24-Sep",
       "url": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/",
-      "updatedOn": "29-Sep 8:28"
+      "updatedOn": "29-Sep 9:31"
     },
     {
       "id": "1636",
@@ -723,7 +723,7 @@
       "openDisplay": "24-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
       "url": "https://www.investorgain.com/gmp/roopa-screen-ipo/1920/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2268",
@@ -731,8 +731,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 58,
-      "gmpPercent": 43.28,
+      "gmp": 54,
+      "gmpPercent": 40.3,
       "price": 134,
       "lot": 111,
       "ipoSize": "₹150.71 Cr",
@@ -742,7 +742,7 @@
       "openDisplay": "23-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 34</b></small>",
       "closeDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 47</b></small>",
       "url": "https://www.investorgain.com/gmp/adroit-industries-ipo/2268/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2198",
@@ -761,7 +761,7 @@
       "openDisplay": "24-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15.5</b></small>",
       "closeDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 12.75</b></small>",
       "url": "https://www.investorgain.com/gmp/moneyview-ipo/2198/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1611",
@@ -769,8 +769,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 28,
-      "gmpPercent": 6.91,
+      "gmp": 23,
+      "gmpPercent": 5.68,
       "price": 405,
       "lot": 37,
       "ipoSize": "₹405.00 Cr",
@@ -780,7 +780,7 @@
       "openDisplay": "24-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 49</b></small>",
       "closeDisplay": "28-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 28</b></small>",
       "url": "https://www.investorgain.com/gmp/a-one-steels-ipo/1611/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1708",
@@ -799,7 +799,7 @@
       "openDisplay": "23-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9.5</b></small>",
       "closeDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4.5</b></small>",
       "url": "https://www.investorgain.com/gmp/swastika-infra-ipo/1708/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1917",
@@ -818,7 +818,7 @@
       "openDisplay": "23-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4.5</b></small>",
       "closeDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 4</b></small>",
       "url": "https://www.investorgain.com/gmp/elevate-campuses-ipo/1917/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "1667",
@@ -837,7 +837,7 @@
       "openDisplay": "23-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 51</b></small>",
       "closeDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/",
-      "updatedOn": "29-Sep 8:37"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2063",
@@ -856,7 +856,7 @@
       "openDisplay": "24-Sep",
       "closeDisplay": "28-Sep",
       "url": "https://www.investorgain.com/gmp/peshwa-wheat-ipo/2063/",
-      "updatedOn": "29-Sep 8:34"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2304",
@@ -875,7 +875,7 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/skoffset-ipo/2304/",
-      "updatedOn": "29-Sep 8:31"
+      "updatedOn": "29-Sep 14:30"
     },
     {
       "id": "1982",
@@ -894,7 +894,7 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
-      "updatedOn": "29-Sep 8:30"
+      "updatedOn": "29-Sep 14:37"
     },
     {
       "id": "2008",
@@ -913,7 +913,7 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/",
-      "updatedOn": "29-Sep 8:35"
+      "updatedOn": "29-Sep 14:33"
     },
     {
       "id": "1888",
@@ -932,7 +932,7 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/",
-      "updatedOn": "29-Sep 8:36"
+      "updatedOn": "29-Sep 14:33"
     },
     {
       "id": "2326",
@@ -951,7 +951,7 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/unitec-fibres-ipo/2326/",
-      "updatedOn": "29-Sep 8:33"
+      "updatedOn": "29-Sep 14:29"
     }
   ]
 }
