@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:29:51.637Z",
+  "updatedAt": "2026-09-30T05:50:28.285Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -10,11 +10,16 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 2,
           "gmpPercent": 0.91
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 6,
+          "gmpPercent": 2.73
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.91,
-      "status": "Upcoming"
+      "lastGmpPercent": 2.73,
+      "status": "Open"
     },
     "1611": {
       "name": "A-One Steels",
@@ -160,10 +165,15 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 23,
           "gmpPercent": 5.68
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 38,
+          "gmpPercent": 9.38
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.68,
+      "lastGmpPercent": 9.38,
       "status": "Closed"
     },
     "1637": {
@@ -195,20 +205,31 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 17,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 16,
+          "gmpPercent": 18.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20,
+      "lastGmpPercent": 18.82,
       "status": "Open"
     },
     "1683": {
       "name": "Pind Hospitality",
       "category": "SME",
       "close": "2026-09-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 7,
+          "gmpPercent": 7.07
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Open"
+      "lastGmpPercent": 7.07,
+      "status": "Closing Today"
     },
     "1711": {
       "name": "Runwal Enterprises",
@@ -299,11 +320,16 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 14,
           "gmpPercent": 4.59
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 2,
+          "gmpPercent": 0.66
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 0.66,
+      "status": "Closed"
     },
     "1781": {
       "name": "Dove Soft",
@@ -312,7 +338,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1812": {
       "name": "German Green Steel",
@@ -408,11 +434,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 14,
           "gmpPercent": 10.43
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 13,
+          "gmpPercent": 9.35
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.43,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": 9.35,
+      "status": "Closed"
     },
     "1832": {
       "name": "Orient Cables",
@@ -498,11 +529,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 70,
           "gmpPercent": 25.74
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 85,
+          "gmpPercent": 31.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.74,
-      "status": "Closing Today"
+      "lastGmpPercent": 31.25,
+      "status": "Closed"
     },
     "1840": {
       "name": "Acevector",
@@ -553,11 +589,16 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 2,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 0,
+          "gmpPercent": 1.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.56,
+      "status": "Closed"
     },
     "1920": {
       "name": "Roopa Screen",
@@ -618,6 +659,11 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 38,
           "gmpPercent": 59.38
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 38,
+          "gmpPercent": 59.38
         }
       ],
       "alertedAbove": true,
@@ -631,7 +677,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "1926": {
       "name": "Shah Investor's Home",
@@ -692,11 +738,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 13,
           "gmpPercent": 7.78
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 15,
+          "gmpPercent": 8.98
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.78,
-      "status": "Open"
+      "lastGmpPercent": 8.98,
+      "status": "Closing Today"
     },
     "1956": {
       "name": "Shivchem Agro",
@@ -722,11 +773,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 13,
           "gmpPercent": 20.97
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 3,
+          "gmpPercent": 4.84
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 20.97,
-      "status": "Open"
+      "alertedAbove": false,
+      "lastGmpPercent": 4.84,
+      "status": "Closing Today"
     },
     "1964": {
       "name": "SJP Ultrasonic",
@@ -735,7 +791,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1975": {
       "name": "Himalayan Solar",
@@ -744,7 +800,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -753,7 +809,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2006": {
       "name": "Acme India Industries",
@@ -774,19 +830,30 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 30,
           "gmpPercent": 15.31
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 30,
+          "gmpPercent": 15.31
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 15.31,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2052": {
       "name": "Black Opal Consultants",
       "category": "SME",
       "close": "2026-10-01",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 38,
+          "gmpPercent": 19.29
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 19.29,
       "status": "Open"
     },
     "2063": {
@@ -871,11 +938,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 23,
           "gmpPercent": 17.69
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 33,
+          "gmpPercent": 25.38
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.69,
-      "status": "Open"
+      "lastGmpPercent": 25.38,
+      "status": "Closing Today"
     },
     "2198": {
       "name": "Moneyview",
@@ -966,10 +1038,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 12,
           "gmpPercent": 37.5
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 13,
+          "gmpPercent": 38.97
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 37.5,
+      "lastGmpPercent": 38.97,
       "status": "Closed"
     },
     "2224": {
@@ -995,11 +1072,16 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 9,
           "gmpPercent": 12
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 3,
+          "gmpPercent": 4
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 12,
-      "status": "Upcoming"
+      "alertedAbove": false,
+      "lastGmpPercent": 4,
+      "status": "Open"
     },
     "2259": {
       "name": "Dudani Retail",
@@ -1035,11 +1117,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 0,
           "gmpPercent": 1.72
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 0,
+          "gmpPercent": 1.72
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.72,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2267": {
       "name": "Eventions",
@@ -1048,7 +1135,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2274": {
       "name": "Sollfege Smart Electronics",
@@ -1057,7 +1144,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2282": {
       "name": "Shree TNB Polymers",
@@ -1074,6 +1161,15 @@
       "lastGmpPercent": null,
       "status": "Open"
     },
+    "2292": {
+      "name": "R.K.Fashion Accessories",
+      "category": "SME",
+      "close": "2026-10-07",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2347": {
       "name": "Omara Ventures India",
       "category": "SME",
@@ -1081,7 +1177,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2351": {
       "name": "Vans Electroengineerings",
@@ -1112,10 +1208,15 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 45,
           "gmpPercent": 38.14
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 90,
+          "gmpPercent": 76.27
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 38.14,
+      "lastGmpPercent": 76.27,
       "status": "Open"
     },
     "2360": {
@@ -1125,7 +1226,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2366": {
       "name": "Bench Mark Infotech Services",
@@ -1191,11 +1292,16 @@
           "t": "2026-09-29T09:29:51.637Z",
           "gmp": 30,
           "gmpPercent": 27.27
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 28,
+          "gmpPercent": 25.45
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.27,
-      "status": "Closing Today"
+      "lastGmpPercent": 25.45,
+      "status": "Closed"
     },
     "2370": {
       "name": "TNA Solutions",
@@ -1211,11 +1317,16 @@
           "t": "2026-09-29T06:01:02.045Z",
           "gmp": 7,
           "gmpPercent": 10
+        },
+        {
+          "t": "2026-09-30T05:50:28.285Z",
+          "gmp": 7,
+          "gmpPercent": 10
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 10,
-      "status": "Upcoming"
+      "status": "Open"
     }
   }
 }
