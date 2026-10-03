@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:53:26.366Z",
+  "updatedAt": "2026-10-03T14:09:06.449Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -244,10 +244,15 @@
           "t": "2026-10-03T08:53:26.366Z",
           "gmp": 15,
           "gmpPercent": 8.98
+        },
+        {
+          "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 15,
+          "gmpPercent": 9.28
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 8.98,
+      "lastGmpPercent": 9.28,
       "status": "Closed"
     },
     "1956": {
@@ -299,10 +304,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 1,
           "gmpPercent": 1.61
+        },
+        {
+          "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 1,
+          "gmpPercent": 2.42
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.61,
+      "lastGmpPercent": 2.42,
       "status": "Closed"
     },
     "1964": {
@@ -412,10 +422,15 @@
           "t": "2026-10-03T08:53:26.366Z",
           "gmp": 80,
           "gmpPercent": 40.61
+        },
+        {
+          "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 85,
+          "gmpPercent": 43.15
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40.61,
+      "lastGmpPercent": 43.15,
       "status": "Closed"
     },
     "2077": {
@@ -726,10 +741,15 @@
           "t": "2026-10-03T08:53:26.366Z",
           "gmp": 11,
           "gmpPercent": 16.2
+        },
+        {
+          "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 13,
+          "gmpPercent": 18.31
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 16.2,
+      "lastGmpPercent": 18.31,
       "status": "Closed"
     },
     "2370": {
@@ -771,10 +791,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 6,
           "gmpPercent": 8.57
+        },
+        {
+          "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 10,
+          "gmpPercent": 14.29
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.57,
+      "alertedAbove": true,
+      "lastGmpPercent": 14.29,
       "status": "Open"
     }
   }
