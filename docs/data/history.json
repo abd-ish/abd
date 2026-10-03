@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:36:32.816Z",
+  "updatedAt": "2026-10-03T08:53:26.366Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -239,10 +239,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 15,
           "gmpPercent": 9.13
+        },
+        {
+          "t": "2026-10-03T08:53:26.366Z",
+          "gmp": 15,
+          "gmpPercent": 8.98
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.13,
+      "lastGmpPercent": 8.98,
       "status": "Closed"
     },
     "1956": {
@@ -402,10 +407,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 78,
           "gmpPercent": 39.59
+        },
+        {
+          "t": "2026-10-03T08:53:26.366Z",
+          "gmp": 80,
+          "gmpPercent": 40.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 39.59,
+      "lastGmpPercent": 40.61,
       "status": "Closed"
     },
     "2077": {
@@ -711,10 +721,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 11,
           "gmpPercent": 15.49
+        },
+        {
+          "t": "2026-10-03T08:53:26.366Z",
+          "gmp": 11,
+          "gmpPercent": 16.2
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 15.49,
+      "lastGmpPercent": 16.2,
       "status": "Closed"
     },
     "2370": {
