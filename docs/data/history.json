@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:09:06.449Z",
+  "updatedAt": "2026-10-04T06:12:17.121Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -33,6 +33,11 @@
         },
         {
           "t": "2026-10-03T05:36:32.816Z",
+          "gmp": 20,
+          "gmpPercent": 9.09
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
           "gmp": 20,
           "gmpPercent": 9.09
         }
@@ -100,46 +105,16 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 40,
           "gmpPercent": 47.06
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
+          "gmp": 40,
+          "gmpPercent": 47.06
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 47.06,
       "status": "Open"
-    },
-    "1683": {
-      "name": "Pind Hospitality",
-      "category": "SME",
-      "close": "2026-09-30",
-      "series": [
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 7,
-          "gmpPercent": 7.07
-        },
-        {
-          "t": "2026-09-30T09:21:50.996Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 1,
-          "gmpPercent": 1.01
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.01,
-      "status": "Closed"
     },
     "1781": {
       "name": "Dove Soft",
@@ -149,171 +124,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Open"
-    },
-    "1926": {
-      "name": "Shah Investor's Home",
-      "category": "Mainboard",
-      "close": "2026-09-30",
-      "series": [
-        {
-          "t": "2026-09-23T14:05:14.828Z",
-          "gmp": 10,
-          "gmpPercent": 5.99
-        },
-        {
-          "t": "2026-09-24T05:12:39.962Z",
-          "gmp": 10,
-          "gmpPercent": 5.99
-        },
-        {
-          "t": "2026-09-24T14:02:28.054Z",
-          "gmp": 12,
-          "gmpPercent": 7.19
-        },
-        {
-          "t": "2026-09-25T05:14:27.559Z",
-          "gmp": 12,
-          "gmpPercent": 7.19
-        },
-        {
-          "t": "2026-09-26T05:18:58.834Z",
-          "gmp": 12,
-          "gmpPercent": 7.19
-        },
-        {
-          "t": "2026-09-26T13:37:55.171Z",
-          "gmp": 9,
-          "gmpPercent": 5.39
-        },
-        {
-          "t": "2026-09-27T05:36:16.273Z",
-          "gmp": 9,
-          "gmpPercent": 5.39
-        },
-        {
-          "t": "2026-09-28T05:43:55.618Z",
-          "gmp": 9,
-          "gmpPercent": 5.39
-        },
-        {
-          "t": "2026-09-28T09:24:12.920Z",
-          "gmp": 12,
-          "gmpPercent": 7.19
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 14,
-          "gmpPercent": 8.38
-        },
-        {
-          "t": "2026-09-29T09:29:51.637Z",
-          "gmp": 13,
-          "gmpPercent": 7.78
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 15,
-          "gmpPercent": 8.98
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 12,
-          "gmpPercent": 7.49
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 12,
-          "gmpPercent": 7.19
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 12,
-          "gmpPercent": 7.49
-        },
-        {
-          "t": "2026-10-02T09:24:17.501Z",
-          "gmp": 14,
-          "gmpPercent": 8.68
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 15,
-          "gmpPercent": 9.13
-        },
-        {
-          "t": "2026-10-03T08:53:26.366Z",
-          "gmp": 15,
-          "gmpPercent": 8.98
-        },
-        {
-          "t": "2026-10-03T14:09:06.449Z",
-          "gmp": 15,
-          "gmpPercent": 9.28
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.28,
-      "status": "Closed"
-    },
-    "1956": {
-      "name": "Shivchem Agro",
-      "category": "SME",
-      "close": "2026-09-30",
-      "series": [
-        {
-          "t": "2026-09-27T14:38:56.225Z",
-          "gmp": 6,
-          "gmpPercent": 9.68
-        },
-        {
-          "t": "2026-09-28T05:43:55.618Z",
-          "gmp": 6,
-          "gmpPercent": 9.68
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 6,
-          "gmpPercent": 9.68
-        },
-        {
-          "t": "2026-09-29T09:29:51.637Z",
-          "gmp": 13,
-          "gmpPercent": 20.97
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 3,
-          "gmpPercent": 4.84
-        },
-        {
-          "t": "2026-09-30T09:21:50.996Z",
-          "gmp": 1,
-          "gmpPercent": 1.61
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 1,
-          "gmpPercent": 1.61
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 1,
-          "gmpPercent": 1.61
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 1,
-          "gmpPercent": 1.61
-        },
-        {
-          "t": "2026-10-03T14:09:06.449Z",
-          "gmp": 1,
-          "gmpPercent": 2.42
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 2.42,
-      "status": "Closed"
     },
     "1964": {
       "name": "SJP Ultrasonic",
@@ -377,6 +187,11 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 30,
           "gmpPercent": 15.31
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
+          "gmp": 30,
+          "gmpPercent": 15.31
         }
       ],
       "alertedAbove": true,
@@ -427,10 +242,15 @@
           "t": "2026-10-03T14:09:06.449Z",
           "gmp": 85,
           "gmpPercent": 43.15
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
+          "gmp": 95,
+          "gmpPercent": 48.22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 43.15,
+      "lastGmpPercent": 48.22,
       "status": "Closed"
     },
     "2077": {
@@ -440,111 +260,6 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
-    },
-    "2121": {
-      "name": "SRIT India",
-      "category": "Mainboard",
-      "close": "2026-09-30",
-      "series": [
-        {
-          "t": "2026-09-23T14:05:14.828Z",
-          "gmp": 12,
-          "gmpPercent": 9.23
-        },
-        {
-          "t": "2026-09-24T05:12:39.962Z",
-          "gmp": 12,
-          "gmpPercent": 9.23
-        },
-        {
-          "t": "2026-09-24T14:02:28.054Z",
-          "gmp": 13,
-          "gmpPercent": 10.38
-        },
-        {
-          "t": "2026-09-25T05:14:27.559Z",
-          "gmp": 22,
-          "gmpPercent": 16.92
-        },
-        {
-          "t": "2026-09-25T14:26:06.151Z",
-          "gmp": 23,
-          "gmpPercent": 17.69
-        },
-        {
-          "t": "2026-09-26T05:18:58.834Z",
-          "gmp": 32,
-          "gmpPercent": 24.62
-        },
-        {
-          "t": "2026-09-27T05:36:16.273Z",
-          "gmp": 32,
-          "gmpPercent": 24.62
-        },
-        {
-          "t": "2026-09-27T08:58:02.639Z",
-          "gmp": 33,
-          "gmpPercent": 25.38
-        },
-        {
-          "t": "2026-09-28T05:43:55.618Z",
-          "gmp": 33,
-          "gmpPercent": 25.38
-        },
-        {
-          "t": "2026-09-28T09:24:12.920Z",
-          "gmp": 25,
-          "gmpPercent": 19.23
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 33,
-          "gmpPercent": 25.38
-        },
-        {
-          "t": "2026-09-29T09:29:51.637Z",
-          "gmp": 23,
-          "gmpPercent": 17.69
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 33,
-          "gmpPercent": 25.38
-        },
-        {
-          "t": "2026-09-30T09:21:50.996Z",
-          "gmp": 35,
-          "gmpPercent": 26.92
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 48,
-          "gmpPercent": 36.92
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 47,
-          "gmpPercent": 36.15
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 48,
-          "gmpPercent": 36.92
-        },
-        {
-          "t": "2026-10-02T09:24:17.501Z",
-          "gmp": 52,
-          "gmpPercent": 40
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 52,
-          "gmpPercent": 40
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 40,
       "status": "Closed"
     },
     "2224": {
@@ -593,6 +308,11 @@
         },
         {
           "t": "2026-10-03T05:36:32.816Z",
+          "gmp": 3,
+          "gmpPercent": 4
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
           "gmp": 3,
           "gmpPercent": 4
         }
@@ -706,50 +426,15 @@
           "t": "2026-10-03T05:36:32.816Z",
           "gmp": 70,
           "gmpPercent": 59.32
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
+          "gmp": 70,
+          "gmpPercent": 59.32
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 59.32,
-      "status": "Closed"
-    },
-    "2360": {
-      "name": "Acme Universal Safezone 9",
-      "category": "SME",
-      "close": "2026-09-30",
-      "series": [
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 10,
-          "gmpPercent": 14.08
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 7,
-          "gmpPercent": 9.86
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 11,
-          "gmpPercent": 15.49
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 11,
-          "gmpPercent": 15.49
-        },
-        {
-          "t": "2026-10-03T08:53:26.366Z",
-          "gmp": 11,
-          "gmpPercent": 16.2
-        },
-        {
-          "t": "2026-10-03T14:09:06.449Z",
-          "gmp": 13,
-          "gmpPercent": 18.31
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 18.31,
       "status": "Closed"
     },
     "2370": {
@@ -794,6 +479,11 @@
         },
         {
           "t": "2026-10-03T14:09:06.449Z",
+          "gmp": 10,
+          "gmpPercent": 14.29
+        },
+        {
+          "t": "2026-10-04T06:12:17.121Z",
           "gmp": 10,
           "gmpPercent": 14.29
         }
