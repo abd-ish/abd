@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:12:17.121Z",
+  "updatedAt": "2026-10-04T09:22:46.081Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -247,10 +247,15 @@
           "t": "2026-10-04T06:12:17.121Z",
           "gmp": 95,
           "gmpPercent": 48.22
+        },
+        {
+          "t": "2026-10-04T09:22:46.081Z",
+          "gmp": 100,
+          "gmpPercent": 50.76
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 48.22,
+      "lastGmpPercent": 50.76,
       "status": "Closed"
     },
     "2077": {
