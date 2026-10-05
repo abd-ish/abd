@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:22:46.081Z",
+  "updatedAt": "2026-10-05T06:04:32.418Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -40,11 +40,16 @@
           "t": "2026-10-04T06:12:17.121Z",
           "gmp": 20,
           "gmpPercent": 9.09
+        },
+        {
+          "t": "2026-10-05T06:04:32.418Z",
+          "gmp": 20,
+          "gmpPercent": 9.09
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 9.09,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1637": {
       "name": "EverestIMS Technologies",
@@ -110,11 +115,16 @@
           "t": "2026-10-04T06:12:17.121Z",
           "gmp": 40,
           "gmpPercent": 47.06
+        },
+        {
+          "t": "2026-10-05T06:04:32.418Z",
+          "gmp": 40,
+          "gmpPercent": 47.06
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 47.06,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1781": {
       "name": "Dove Soft",
@@ -123,7 +133,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "1964": {
       "name": "SJP Ultrasonic",
@@ -132,7 +142,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -192,89 +202,16 @@
           "t": "2026-10-04T06:12:17.121Z",
           "gmp": 30,
           "gmpPercent": 15.31
+        },
+        {
+          "t": "2026-10-05T06:04:32.418Z",
+          "gmp": 30,
+          "gmpPercent": 15.31
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 15.31,
       "status": "Open"
-    },
-    "2052": {
-      "name": "Black Opal Consultants",
-      "category": "SME",
-      "close": "2026-10-01",
-      "series": [
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 38,
-          "gmpPercent": 19.29
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 48,
-          "gmpPercent": 24.37
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 30,
-          "gmpPercent": 15.23
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 66,
-          "gmpPercent": 33.5
-        },
-        {
-          "t": "2026-10-02T09:24:17.501Z",
-          "gmp": 75,
-          "gmpPercent": 38.07
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 78,
-          "gmpPercent": 39.59
-        },
-        {
-          "t": "2026-10-03T08:53:26.366Z",
-          "gmp": 80,
-          "gmpPercent": 40.61
-        },
-        {
-          "t": "2026-10-03T14:09:06.449Z",
-          "gmp": 85,
-          "gmpPercent": 43.15
-        },
-        {
-          "t": "2026-10-04T06:12:17.121Z",
-          "gmp": 95,
-          "gmpPercent": 48.22
-        },
-        {
-          "t": "2026-10-04T09:22:46.081Z",
-          "gmp": 100,
-          "gmpPercent": 50.76
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 50.76,
-      "status": "Closed"
-    },
-    "2077": {
-      "name": "Papadmalji Agro Foods",
-      "category": "SME",
-      "close": "2026-10-01",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
-    },
-    "2224": {
-      "name": "Green Asia Impex",
-      "category": "SME",
-      "close": "2026-10-01",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
     },
     "2235": {
       "name": "Nityas Gems & Jewellery",
@@ -320,11 +257,16 @@
           "t": "2026-10-04T06:12:17.121Z",
           "gmp": 3,
           "gmpPercent": 4
+        },
+        {
+          "t": "2026-10-05T06:04:32.418Z",
+          "gmp": 2,
+          "gmpPercent": 2.67
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4,
-      "status": "Open"
+      "lastGmpPercent": 2.67,
+      "status": "Closing Today"
     },
     "2267": {
       "name": "Eventions",
@@ -333,7 +275,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2274": {
       "name": "Sollfege Smart Electronics",
@@ -342,7 +284,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2282": {
       "name": "Shree TNB Polymers",
@@ -357,7 +299,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2292": {
       "name": "R.K.Fashion Accessories",
@@ -366,6 +308,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
+      "status": "Open"
+    },
+    "2306": {
+      "name": "Jio Platforms",
+      "category": "Mainboard",
+      "close": "",
+      "series": [
+        {
+          "t": "2026-10-05T06:04:32.418Z",
+          "gmp": 145,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "2347": {
@@ -375,72 +332,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
-    },
-    "2351": {
-      "name": "Vans Electroengineerings",
-      "category": "SME",
-      "close": "2026-10-01",
-      "series": [
-        {
-          "t": "2026-09-26T08:20:29.925Z",
-          "gmp": 18,
-          "gmpPercent": 15.25
-        },
-        {
-          "t": "2026-09-26T13:37:55.171Z",
-          "gmp": 28,
-          "gmpPercent": 23.73
-        },
-        {
-          "t": "2026-09-27T05:36:16.273Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-28T05:43:55.618Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 45,
-          "gmpPercent": 38.14
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 90,
-          "gmpPercent": 76.27
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 85,
-          "gmpPercent": 72.03
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 70,
-          "gmpPercent": 59.32
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 70,
-          "gmpPercent": 59.32
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 70,
-          "gmpPercent": 59.32
-        },
-        {
-          "t": "2026-10-04T06:12:17.121Z",
-          "gmp": 70,
-          "gmpPercent": 59.32
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 59.32,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "2370": {
       "name": "TNA Solutions",
@@ -489,6 +381,11 @@
         },
         {
           "t": "2026-10-04T06:12:17.121Z",
+          "gmp": 10,
+          "gmpPercent": 14.29
+        },
+        {
+          "t": "2026-10-05T06:04:32.418Z",
           "gmp": 10,
           "gmpPercent": 14.29
         }
