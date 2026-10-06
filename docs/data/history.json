@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:44:00.364Z",
+  "updatedAt": "2026-10-06T09:48:21.061Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -140,10 +140,15 @@
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 42,
           "gmpPercent": 49.41
+        },
+        {
+          "t": "2026-10-06T09:48:21.061Z",
+          "gmp": 50,
+          "gmpPercent": 58.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 49.41,
+      "lastGmpPercent": 58.82,
       "status": "Closed"
     },
     "1781": {
@@ -154,6 +159,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Closed"
+    },
+    "1902": {
+      "name": "HD Fire Protect",
+      "category": "Mainboard",
+      "close": "2026-10-15",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "1964": {
       "name": "SJP Ultrasonic",
@@ -232,10 +246,15 @@
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 40,
           "gmpPercent": 20.41
+        },
+        {
+          "t": "2026-10-06T09:48:21.061Z",
+          "gmp": 50,
+          "gmpPercent": 25.51
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.41,
+      "lastGmpPercent": 25.51,
       "status": "Closing Today"
     },
     "2235": {
@@ -439,10 +458,15 @@
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 10,
           "gmpPercent": 14.29
+        },
+        {
+          "t": "2026-10-06T09:48:21.061Z",
+          "gmp": 6,
+          "gmpPercent": 9.29
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 14.29,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.29,
       "status": "Closing Today"
     }
   }
