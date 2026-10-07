@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:19:45.278Z",
+  "generatedAt": "2026-10-07T09:52:58.223Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closing Today",
-      "gmp": 15,
-      "gmpPercent": 18.29,
+      "gmp": 3,
+      "gmpPercent": 3.66,
       "price": 82,
       "lot": 1600,
       "ipoSize": "₹34.99 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-10-07",
       "listing": "2026-10-12",
       "openDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
-      "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
+      "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
       "url": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "2306",
@@ -39,7 +39,7 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "1902",
@@ -58,7 +58,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "7-Oct 9:31"
+      "updatedOn": "7-Oct 11:56"
     },
     {
       "id": "2351",
@@ -731,8 +731,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closed",
-      "gmp": 55,
-      "gmpPercent": 64.71,
+      "gmp": 62,
+      "gmpPercent": 73.53,
       "price": 85,
       "lot": 1600,
       "ipoSize": "₹48.46 Cr",
@@ -742,7 +742,7 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 42</b></small>",
       "url": "https://www.investorgain.com/gmp/everestims-technologies-ipo/1637/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "2006",
@@ -750,8 +750,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closed",
-      "gmp": 65,
-      "gmpPercent": 33.16,
+      "gmp": 68,
+      "gmpPercent": 34.69,
       "price": 196,
       "lot": 600,
       "ipoSize": "₹121.69 Cr",
@@ -761,7 +761,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "6-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 65</b></small>",
       "url": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "2370",
@@ -780,7 +780,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "6-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
       "url": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "2235",
@@ -799,7 +799,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 5</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/nityas-gems-jewellery-ipo/2235/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "1602",
@@ -818,7 +818,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "url": "https://www.investorgain.com/gmp/vishal-nirmiti-ipo/1602/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "2001",
@@ -837,7 +837,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "6-Oct",
       "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
-      "updatedOn": "7-Oct 9:33"
+      "updatedOn": "7-Oct 11:57"
     },
     {
       "id": "2267",
@@ -856,7 +856,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/eventions-ipo/2267/",
-      "updatedOn": "7-Oct 9:29"
+      "updatedOn": "7-Oct 12:02"
     },
     {
       "id": "1964",
@@ -875,7 +875,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/",
-      "updatedOn": "7-Oct 9:37"
+      "updatedOn": "7-Oct 11:59"
     },
     {
       "id": "2274",
@@ -894,7 +894,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/",
-      "updatedOn": "7-Oct 9:35"
+      "updatedOn": "7-Oct 12:01"
     },
     {
       "id": "2347",
@@ -913,7 +913,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
-      "updatedOn": "7-Oct 9:29"
+      "updatedOn": "7-Oct 11:56"
     },
     {
       "id": "1781",
@@ -932,7 +932,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/",
-      "updatedOn": "7-Oct 9:33"
+      "updatedOn": "7-Oct 11:55"
     },
     {
       "id": "2282",
@@ -951,7 +951,7 @@
       "openDisplay": "28-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/",
-      "updatedOn": "7-Oct 9:31"
+      "updatedOn": "7-Oct 11:58"
     }
   ]
 }
