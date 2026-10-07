@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T09:48:21.061Z",
+  "updatedAt": "2026-10-07T06:19:45.278Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -53,6 +53,11 @@
         },
         {
           "t": "2026-10-06T06:44:00.364Z",
+          "gmp": 2,
+          "gmpPercent": 0.91
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
           "gmp": 2,
           "gmpPercent": 0.91
         }
@@ -145,10 +150,15 @@
           "t": "2026-10-06T09:48:21.061Z",
           "gmp": 50,
           "gmpPercent": 58.82
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 55,
+          "gmpPercent": 64.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 58.82,
+      "lastGmpPercent": 64.71,
       "status": "Closed"
     },
     "1781": {
@@ -185,7 +195,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2006": {
       "name": "Acme India Industries",
@@ -251,11 +261,16 @@
           "t": "2026-10-06T09:48:21.061Z",
           "gmp": 50,
           "gmpPercent": 25.51
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 65,
+          "gmpPercent": 33.16
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.51,
-      "status": "Closing Today"
+      "lastGmpPercent": 33.16,
+      "status": "Closed"
     },
     "2235": {
       "name": "Nityas Gems & Jewellery",
@@ -316,6 +331,11 @@
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 1,
           "gmpPercent": 1.33
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 1,
+          "gmpPercent": 1.33
         }
       ],
       "alertedAbove": false,
@@ -364,11 +384,16 @@
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 7,
           "gmpPercent": 8.54
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 15,
+          "gmpPercent": 18.29
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.54,
-      "status": "Open"
+      "alertedAbove": true,
+      "lastGmpPercent": 18.29,
+      "status": "Closing Today"
     },
     "2306": {
       "name": "Jio Platforms",
@@ -383,6 +408,11 @@
         {
           "t": "2026-10-06T06:44:00.364Z",
           "gmp": 150,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 167,
           "gmpPercent": 0
         }
       ],
@@ -463,11 +493,16 @@
           "t": "2026-10-06T09:48:21.061Z",
           "gmp": 6,
           "gmpPercent": 9.29
+        },
+        {
+          "t": "2026-10-07T06:19:45.278Z",
+          "gmp": 3,
+          "gmpPercent": 4.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.29,
-      "status": "Closing Today"
+      "lastGmpPercent": 4.29,
+      "status": "Closed"
     }
   }
 }
