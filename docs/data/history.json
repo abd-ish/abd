@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:31:05.569Z",
+  "updatedAt": "2026-10-08T10:04:24.884Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -194,10 +194,15 @@
           "t": "2026-10-08T06:31:05.569Z",
           "gmp": 80,
           "gmpPercent": 29.52
+        },
+        {
+          "t": "2026-10-08T10:04:24.884Z",
+          "gmp": 85,
+          "gmpPercent": 31.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.52,
+      "lastGmpPercent": 31.37,
       "status": "Upcoming"
     },
     "1964": {
@@ -297,10 +302,15 @@
           "t": "2026-10-08T06:31:05.569Z",
           "gmp": 59,
           "gmpPercent": 30.1
+        },
+        {
+          "t": "2026-10-08T10:04:24.884Z",
+          "gmp": 49,
+          "gmpPercent": 25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.1,
+      "lastGmpPercent": 25,
       "status": "Closed"
     },
     "2220": {
@@ -489,6 +499,15 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0,
+      "status": "Upcoming"
+    },
+    "2335": {
+      "name": "Vaibhav Vyapaar",
+      "category": "SME",
+      "close": "2026-10-15",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2347": {

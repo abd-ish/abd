@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:31:05.569Z",
+  "generatedAt": "2026-10-08T10:04:24.884Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 80,
-      "gmpPercent": 29.52,
+      "gmp": 85,
+      "gmpPercent": 31.37,
       "price": 271,
       "lot": 55,
       "ipoSize": "₹712.31 Cr",
@@ -20,7 +20,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 12:37"
     },
     {
       "id": "2306",
@@ -28,7 +28,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 182,
+      "gmp": 170,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -39,7 +39,26 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 12:37"
+    },
+    {
+      "id": "2335",
+      "name": "Vaibhav Vyapaar",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 52,
+      "lot": 2000,
+      "ipoSize": "₹40.54 Cr",
+      "open": "2026-10-13",
+      "close": "2026-10-15",
+      "listing": "2026-10-21",
+      "openDisplay": "13-Oct",
+      "closeDisplay": "15-Oct",
+      "url": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/",
+      "updatedOn": "8-Oct 12:33"
     },
     {
       "id": "2220",
@@ -80,25 +99,6 @@
       "updatedOn": "7-Oct 9:37"
     },
     {
-      "id": "2359",
-      "name": "Robokidz Eduventures",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 86,
-      "gmpPercent": 81.13,
-      "price": 106,
-      "lot": 1200,
-      "ipoSize": "₹31.09 Cr",
-      "open": "2026-09-21",
-      "close": "2026-09-23",
-      "listing": "2026-09-28",
-      "openDisplay": "21-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 55</b></small>",
-      "closeDisplay": "23-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 55</b></small>",
-      "url": "https://www.investorgain.com/gmp/robokidz-eduventures-ipo/2359/",
-      "updatedOn": "28-Sep 9:37"
-    },
-    {
       "id": "1920",
       "name": "Roopa Screen",
       "category": "SME",
@@ -134,7 +134,7 @@
       "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 42</b></small>",
       "url": "https://www.investorgain.com/gmp/everestims-technologies-ipo/1637/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "2121",
@@ -248,7 +248,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "2366",
@@ -343,7 +343,7 @@
       "openDisplay": "28-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "1812",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 5</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/nityas-gems-jewellery-ipo/2235/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "1683",
@@ -514,7 +514,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "url": "https://www.investorgain.com/gmp/vishal-nirmiti-ipo/1602/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "1852",
@@ -536,25 +536,6 @@
       "updatedOn": "29-Sep 9:37"
     },
     {
-      "id": "1781",
-      "name": "Dove Soft",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 111,
-      "lot": 1200,
-      "ipoSize": "₹73.26 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/",
-      "updatedOn": "8-Oct 8:35"
-    },
-    {
       "id": "1964",
       "name": "SJP Ultrasonic",
       "category": "SME",
@@ -571,26 +552,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/",
-      "updatedOn": "8-Oct 8:33"
-    },
-    {
-      "id": "2267",
-      "name": "Eventions",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 118,
-      "lot": 1200,
-      "ipoSize": "₹38.12 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/eventions-ipo/2267/",
-      "updatedOn": "8-Oct 8:34"
+      "updatedOn": "8-Oct 9:36"
     },
     {
       "id": "2347",
@@ -609,7 +571,45 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
       "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
-      "updatedOn": "8-Oct 8:35"
+      "updatedOn": "8-Oct 9:28"
+    },
+    {
+      "id": "2267",
+      "name": "Eventions",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 118,
+      "lot": 1200,
+      "ipoSize": "₹38.12 Cr",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "listing": "2026-10-08",
+      "openDisplay": "30-Sep",
+      "closeDisplay": "5-Oct",
+      "url": "https://www.investorgain.com/gmp/eventions-ipo/2267/",
+      "updatedOn": "8-Oct 9:35"
+    },
+    {
+      "id": "1781",
+      "name": "Dove Soft",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 111,
+      "lot": 1200,
+      "ipoSize": "₹73.26 Cr",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "listing": "2026-10-08",
+      "openDisplay": "30-Sep",
+      "closeDisplay": "5-Oct",
+      "url": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/",
+      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "2077",
@@ -745,22 +745,22 @@
       "updatedOn": "1-Oct 9:33"
     },
     {
-      "id": "2304",
-      "name": "S.K.Offset",
+      "id": "1982",
+      "name": "Pooja Logistics",
       "category": "SME",
-      "exchange": "BSE SME",
+      "exchange": "NSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 125,
-      "lot": 1000,
-      "ipoSize": "₹29.06 Cr",
+      "price": 115,
+      "lot": 1200,
+      "ipoSize": "₹44.23 Cr",
       "open": "2026-09-23",
       "close": "2026-09-25",
       "listing": "2026-09-30",
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/skoffset-ipo/2304/",
+      "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
       "updatedOn": "30-Sep 9:32"
     },
     {
@@ -821,22 +821,22 @@
       "updatedOn": "30-Sep 9:31"
     },
     {
-      "id": "1982",
-      "name": "Pooja Logistics",
+      "id": "2304",
+      "name": "S.K.Offset",
       "category": "SME",
-      "exchange": "NSE SME",
+      "exchange": "BSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 115,
-      "lot": 1200,
-      "ipoSize": "₹44.23 Cr",
+      "price": 125,
+      "lot": 1000,
+      "ipoSize": "₹29.06 Cr",
       "open": "2026-09-23",
       "close": "2026-09-25",
       "listing": "2026-09-30",
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
+      "url": "https://www.investorgain.com/gmp/skoffset-ipo/2304/",
       "updatedOn": "30-Sep 9:32"
     },
     {
@@ -883,8 +883,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closed",
-      "gmp": 59,
-      "gmpPercent": 30.1,
+      "gmp": 49,
+      "gmpPercent": 25,
       "price": 196,
       "lot": 600,
       "ipoSize": "₹121.69 Cr",
@@ -894,7 +894,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "6-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 65</b></small>",
       "url": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 12:37"
     },
     {
       "id": "2370",
@@ -913,7 +913,7 @@
       "openDisplay": "30-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "6-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
       "url": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 12:37"
     },
     {
       "id": "2292",
@@ -932,7 +932,7 @@
       "openDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/",
-      "updatedOn": "8-Oct 8:37"
+      "updatedOn": "8-Oct 12:37"
     },
     {
       "id": "2001",
@@ -951,7 +951,7 @@
       "openDisplay": "30-Sep",
       "closeDisplay": "6-Oct",
       "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
-      "updatedOn": "8-Oct 8:30"
+      "updatedOn": "8-Oct 12:29"
     }
   ]
 }
