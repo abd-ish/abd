@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:52:58.223Z",
+  "updatedAt": "2026-10-08T06:31:05.569Z",
   "ipos": {
     "1602": {
       "name": "Vishal Nirmiti",
@@ -60,11 +60,16 @@
           "t": "2026-10-07T06:19:45.278Z",
           "gmp": 2,
           "gmpPercent": 0.91
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 2,
+          "gmpPercent": 0.91
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.91,
-      "status": "Closed"
+      "status": "Listed"
     },
     "1637": {
       "name": "EverestIMS Technologies",
@@ -160,11 +165,16 @@
           "t": "2026-10-07T09:52:58.223Z",
           "gmp": 62,
           "gmpPercent": 73.53
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 50,
+          "gmpPercent": 58.82
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.53,
-      "status": "Closed"
+      "lastGmpPercent": 58.82,
+      "status": "Listed"
     },
     "1781": {
       "name": "Dove Soft",
@@ -173,15 +183,21 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "1902": {
       "name": "HD Fire Protect",
       "category": "Mainboard",
       "close": "2026-10-15",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 80,
+          "gmpPercent": 29.52
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 29.52,
       "status": "Upcoming"
     },
     "1964": {
@@ -191,7 +207,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -276,11 +292,25 @@
           "t": "2026-10-07T09:52:58.223Z",
           "gmp": 68,
           "gmpPercent": 34.69
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 59,
+          "gmpPercent": 30.1
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 34.69,
+      "lastGmpPercent": 30.1,
       "status": "Closed"
+    },
+    "2220": {
+      "name": "Ravita Engineering Services",
+      "category": "SME",
+      "close": "2026-10-15",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2235": {
       "name": "Nityas Gems & Jewellery",
@@ -346,11 +376,16 @@
           "t": "2026-10-07T06:19:45.278Z",
           "gmp": 1,
           "gmpPercent": 1.33
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 1,
+          "gmpPercent": 1.33
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.33,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2267": {
       "name": "Eventions",
@@ -359,16 +394,22 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2274": {
       "name": "Sollfege Smart Electronics",
       "category": "SME",
       "close": "2026-10-05",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 10,
+          "gmpPercent": 18.18
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
+      "lastGmpPercent": 18.18,
+      "status": "Listed"
     },
     "2282": {
       "name": "Shree TNB Polymers",
@@ -379,11 +420,16 @@
           "t": "2026-09-24T14:02:28.054Z",
           "gmp": 8,
           "gmpPercent": 15.38
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 4,
+          "gmpPercent": 7.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
+      "lastGmpPercent": 7.55,
+      "status": "Listed"
     },
     "2292": {
       "name": "R.K.Fashion Accessories",
@@ -404,11 +450,16 @@
           "t": "2026-10-07T09:52:58.223Z",
           "gmp": 3,
           "gmpPercent": 3.66
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 1,
+          "gmpPercent": 1.83
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.66,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.83,
+      "status": "Closed"
     },
     "2306": {
       "name": "Jio Platforms",
@@ -429,6 +480,11 @@
           "t": "2026-10-07T06:19:45.278Z",
           "gmp": 167,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 182,
+          "gmpPercent": 0
         }
       ],
       "alertedAbove": false,
@@ -442,7 +498,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2370": {
       "name": "TNA Solutions",
@@ -513,10 +569,15 @@
           "t": "2026-10-07T06:19:45.278Z",
           "gmp": 3,
           "gmpPercent": 4.29
+        },
+        {
+          "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 2,
+          "gmpPercent": 2.86
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.29,
+      "lastGmpPercent": 2.86,
       "status": "Closed"
     }
   }
