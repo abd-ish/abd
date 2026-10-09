@@ -1,189 +1,20 @@
 {
-  "updatedAt": "2026-10-08T10:04:24.884Z",
+  "updatedAt": "2026-10-09T06:32:15.944Z",
   "ipos": {
-    "1602": {
-      "name": "Vishal Nirmiti",
+    "1792": {
+      "name": "Fusion CX",
       "category": "Mainboard",
-      "close": "2026-10-05",
+      "close": "2026-10-16",
       "series": [
         {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 2,
-          "gmpPercent": 0.91
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 6,
-          "gmpPercent": 2.73
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 35,
-          "gmpPercent": 15.91
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 27,
-          "gmpPercent": 12.27
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 20,
-          "gmpPercent": 9.09
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 20,
-          "gmpPercent": 9.09
-        },
-        {
-          "t": "2026-10-04T06:12:17.121Z",
-          "gmp": 20,
-          "gmpPercent": 9.09
-        },
-        {
-          "t": "2026-10-05T06:04:32.418Z",
-          "gmp": 20,
-          "gmpPercent": 9.09
-        },
-        {
-          "t": "2026-10-05T10:02:51.905Z",
-          "gmp": 4,
-          "gmpPercent": 1.82
-        },
-        {
-          "t": "2026-10-06T06:44:00.364Z",
-          "gmp": 2,
-          "gmpPercent": 0.91
-        },
-        {
-          "t": "2026-10-07T06:19:45.278Z",
-          "gmp": 2,
-          "gmpPercent": 0.91
-        },
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 2,
-          "gmpPercent": 0.91
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0.91,
-      "status": "Listed"
-    },
-    "1637": {
-      "name": "EverestIMS Technologies",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [
-        {
-          "t": "2026-09-26T08:20:29.925Z",
-          "gmp": 8,
-          "gmpPercent": 9.41
-        },
-        {
-          "t": "2026-09-26T13:37:55.171Z",
-          "gmp": 13,
-          "gmpPercent": 15.29
-        },
-        {
-          "t": "2026-09-27T05:36:16.273Z",
-          "gmp": 13,
-          "gmpPercent": 15.29
-        },
-        {
-          "t": "2026-09-28T05:43:55.618Z",
-          "gmp": 13,
-          "gmpPercent": 15.29
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 17,
-          "gmpPercent": 20
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 16,
-          "gmpPercent": 18.82
-        },
-        {
-          "t": "2026-09-30T09:21:50.996Z",
-          "gmp": 20,
-          "gmpPercent": 23.53
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 20,
-          "gmpPercent": 23.53
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 5,
-          "gmpPercent": 5.88
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 28,
-          "gmpPercent": 32.94
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
+          "t": "2026-10-09T06:32:15.944Z",
           "gmp": 40,
-          "gmpPercent": 47.06
-        },
-        {
-          "t": "2026-10-04T06:12:17.121Z",
-          "gmp": 40,
-          "gmpPercent": 47.06
-        },
-        {
-          "t": "2026-10-05T06:04:32.418Z",
-          "gmp": 40,
-          "gmpPercent": 47.06
-        },
-        {
-          "t": "2026-10-05T10:02:51.905Z",
-          "gmp": 42,
-          "gmpPercent": 49.41
-        },
-        {
-          "t": "2026-10-06T06:44:00.364Z",
-          "gmp": 42,
-          "gmpPercent": 49.41
-        },
-        {
-          "t": "2026-10-06T09:48:21.061Z",
-          "gmp": 50,
-          "gmpPercent": 58.82
-        },
-        {
-          "t": "2026-10-07T06:19:45.278Z",
-          "gmp": 55,
-          "gmpPercent": 64.71
-        },
-        {
-          "t": "2026-10-07T09:52:58.223Z",
-          "gmp": 62,
-          "gmpPercent": 73.53
-        },
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 50,
-          "gmpPercent": 58.82
+          "gmpPercent": 13.84
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 58.82,
-      "status": "Listed"
-    },
-    "1781": {
-      "name": "Dove Soft",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
+      "lastGmpPercent": 13.84,
+      "status": "Upcoming"
     },
     "1902": {
       "name": "HD Fire Protect",
@@ -199,20 +30,16 @@
           "t": "2026-10-08T10:04:24.884Z",
           "gmp": 85,
           "gmpPercent": 31.37
+        },
+        {
+          "t": "2026-10-09T06:32:15.944Z",
+          "gmp": 67,
+          "gmpPercent": 24.72
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.37,
+      "lastGmpPercent": 24.72,
       "status": "Upcoming"
-    },
-    "1964": {
-      "name": "SJP Ultrasonic",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
     },
     "2001": {
       "name": "Paramount Syntex",
@@ -221,7 +48,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2006": {
       "name": "Acme India Industries",
@@ -307,11 +134,16 @@
           "t": "2026-10-08T10:04:24.884Z",
           "gmp": 49,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-10-09T06:32:15.944Z",
+          "gmp": 43,
+          "gmpPercent": 21.94
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25,
-      "status": "Closed"
+      "lastGmpPercent": 21.94,
+      "status": "Listed"
     },
     "2220": {
       "name": "Ravita Engineering Services",
@@ -321,125 +153,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
-    },
-    "2235": {
-      "name": "Nityas Gems & Jewellery",
-      "category": "Mainboard",
-      "close": "2026-10-05",
-      "series": [
-        {
-          "t": "2026-09-28T09:24:12.920Z",
-          "gmp": 5,
-          "gmpPercent": 6.67
-        },
-        {
-          "t": "2026-09-29T06:01:02.045Z",
-          "gmp": 9,
-          "gmpPercent": 12
-        },
-        {
-          "t": "2026-09-30T05:50:28.285Z",
-          "gmp": 3,
-          "gmpPercent": 4
-        },
-        {
-          "t": "2026-10-01T06:23:48.987Z",
-          "gmp": 5,
-          "gmpPercent": 6.67
-        },
-        {
-          "t": "2026-10-01T09:47:58.687Z",
-          "gmp": 3,
-          "gmpPercent": 4
-        },
-        {
-          "t": "2026-10-02T06:01:19.439Z",
-          "gmp": 3,
-          "gmpPercent": 4
-        },
-        {
-          "t": "2026-10-03T05:36:32.816Z",
-          "gmp": 3,
-          "gmpPercent": 4
-        },
-        {
-          "t": "2026-10-04T06:12:17.121Z",
-          "gmp": 3,
-          "gmpPercent": 4
-        },
-        {
-          "t": "2026-10-05T06:04:32.418Z",
-          "gmp": 2,
-          "gmpPercent": 2.67
-        },
-        {
-          "t": "2026-10-05T10:02:51.905Z",
-          "gmp": 1,
-          "gmpPercent": 1.33
-        },
-        {
-          "t": "2026-10-06T06:44:00.364Z",
-          "gmp": 1,
-          "gmpPercent": 1.33
-        },
-        {
-          "t": "2026-10-07T06:19:45.278Z",
-          "gmp": 1,
-          "gmpPercent": 1.33
-        },
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 1,
-          "gmpPercent": 1.33
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.33,
-      "status": "Listed"
-    },
-    "2267": {
-      "name": "Eventions",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
-    },
-    "2274": {
-      "name": "Sollfege Smart Electronics",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 10,
-          "gmpPercent": 18.18
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 18.18,
-      "status": "Listed"
-    },
-    "2282": {
-      "name": "Shree TNB Polymers",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [
-        {
-          "t": "2026-09-24T14:02:28.054Z",
-          "gmp": 8,
-          "gmpPercent": 15.38
-        },
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 4,
-          "gmpPercent": 7.55
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.55,
-      "status": "Listed"
     },
     "2292": {
       "name": "R.K.Fashion Accessories",
@@ -463,6 +176,11 @@
         },
         {
           "t": "2026-10-08T06:31:05.569Z",
+          "gmp": 1,
+          "gmpPercent": 1.83
+        },
+        {
+          "t": "2026-10-09T06:32:15.944Z",
           "gmp": 1,
           "gmpPercent": 1.83
         }
@@ -495,6 +213,11 @@
           "t": "2026-10-08T06:31:05.569Z",
           "gmp": 182,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-09T06:32:15.944Z",
+          "gmp": 177,
+          "gmpPercent": 0
         }
       ],
       "alertedAbove": false,
@@ -509,15 +232,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
-    },
-    "2347": {
-      "name": "Omara Ventures India",
-      "category": "SME",
-      "close": "2026-10-05",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
     },
     "2370": {
       "name": "TNA Solutions",
@@ -596,8 +310,8 @@
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.86,
-      "status": "Closed"
+      "lastGmpPercent": null,
+      "status": "Listed"
     }
   }
 }
