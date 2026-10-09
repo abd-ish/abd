@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:32:15.944Z",
+  "updatedAt": "2026-10-09T10:06:49.618Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -10,10 +10,15 @@
           "t": "2026-10-09T06:32:15.944Z",
           "gmp": 40,
           "gmpPercent": 13.84
+        },
+        {
+          "t": "2026-10-09T10:06:49.618Z",
+          "gmp": 55,
+          "gmpPercent": 19.03
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.84,
+      "lastGmpPercent": 19.03,
       "status": "Upcoming"
     },
     "1902": {
