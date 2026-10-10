@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T10:06:49.618Z",
+  "generatedAt": "2026-10-10T06:14:30.990Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 67,
-      "gmpPercent": 24.72,
+      "gmp": 73,
+      "gmpPercent": 26.94,
       "price": 271,
       "lot": 55,
       "ipoSize": "₹712.31 Cr",
@@ -20,7 +20,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "9-Oct 15:02"
+      "updatedOn": "10-Oct 11:02"
     },
     {
       "id": "1792",
@@ -39,7 +39,7 @@
       "openDisplay": "14-Oct",
       "closeDisplay": "16-Oct",
       "url": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
-      "updatedOn": "9-Oct 15:02"
+      "updatedOn": "10-Oct 11:02"
     },
     {
       "id": "2306",
@@ -47,7 +47,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 173,
+      "gmp": 170,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -58,7 +58,26 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "9-Oct 15:02"
+      "updatedOn": "10-Oct 11:02"
+    },
+    {
+      "id": "2124",
+      "name": "Bonfigloli Transmissions",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": null,
+      "lot": null,
+      "ipoSize": "-",
+      "open": "",
+      "close": "",
+      "listing": "",
+      "openDisplay": "",
+      "closeDisplay": "",
+      "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
+      "updatedOn": "10-Oct 5:55"
     },
     {
       "id": "2220",
@@ -77,7 +96,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
-      "updatedOn": "9-Oct 15:02"
+      "updatedOn": "10-Oct 11:00"
     },
     {
       "id": "2335",
@@ -96,7 +115,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/",
-      "updatedOn": "9-Oct 14:54"
+      "updatedOn": "10-Oct 10:58"
     },
     {
       "id": "2351",
@@ -574,25 +593,6 @@
       "updatedOn": "29-Sep 9:37"
     },
     {
-      "id": "2001",
-      "name": "Paramount Syntex",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 127,
-      "lot": 1000,
-      "ipoSize": "₹81.79 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-06",
-      "listing": "2026-10-09",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "6-Oct",
-      "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
-      "updatedOn": "9-Oct 9:31"
-    },
-    {
       "id": "2370",
       "name": "TNA Solutions",
       "category": "SME",
@@ -612,42 +612,23 @@
       "updatedOn": "9-Oct 9:37"
     },
     {
-      "id": "1964",
-      "name": "SJP Ultrasonic",
+      "id": "2001",
+      "name": "Paramount Syntex",
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 67,
-      "lot": 2000,
-      "ipoSize": "₹23.45 Cr",
+      "price": 127,
+      "lot": 1000,
+      "ipoSize": "₹81.79 Cr",
       "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
+      "close": "2026-10-06",
+      "listing": "2026-10-09",
       "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/",
-      "updatedOn": "8-Oct 9:36"
-    },
-    {
-      "id": "2347",
-      "name": "Omara Ventures India",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 311,
-      "lot": 400,
-      "ipoSize": "₹41.99 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
-      "updatedOn": "8-Oct 9:28"
+      "closeDisplay": "6-Oct",
+      "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
+      "updatedOn": "9-Oct 9:31"
     },
     {
       "id": "1781",
@@ -669,6 +650,25 @@
       "updatedOn": "8-Oct 9:37"
     },
     {
+      "id": "1964",
+      "name": "SJP Ultrasonic",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 67,
+      "lot": 2000,
+      "ipoSize": "₹23.45 Cr",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "listing": "2026-10-08",
+      "openDisplay": "30-Sep",
+      "closeDisplay": "5-Oct",
+      "url": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/",
+      "updatedOn": "8-Oct 9:36"
+    },
+    {
       "id": "2267",
       "name": "Eventions",
       "category": "SME",
@@ -688,42 +688,23 @@
       "updatedOn": "8-Oct 9:35"
     },
     {
-      "id": "2052",
-      "name": "Black Opal Consultants",
+      "id": "2347",
+      "name": "Omara Ventures India",
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 197,
-      "lot": 600,
-      "ipoSize": "₹55.08 Cr",
-      "open": "2026-09-29",
-      "close": "2026-10-01",
-      "listing": "2026-10-07",
-      "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
-      "closeDisplay": "1-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 66</b></small>",
-      "url": "https://www.investorgain.com/gmp/black-opal-consultants-ipo/2052/",
-      "updatedOn": "7-Oct 9:37"
-    },
-    {
-      "id": "2077",
-      "name": "Papadmalji Agro Foods",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 72,
-      "lot": 1600,
-      "ipoSize": "₹20.18 Cr",
-      "open": "2026-09-29",
-      "close": "2026-10-01",
-      "listing": "2026-10-07",
-      "openDisplay": "29-Sep",
-      "closeDisplay": "1-Oct",
-      "url": "https://www.investorgain.com/gmp/papadmalji-agro-foods-ipo/2077/",
-      "updatedOn": "7-Oct 9:35"
+      "price": 311,
+      "lot": 400,
+      "ipoSize": "₹41.99 Cr",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "listing": "2026-10-08",
+      "openDisplay": "30-Sep",
+      "closeDisplay": "5-Oct",
+      "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
+      "updatedOn": "8-Oct 9:28"
     },
     {
       "id": "2224",
@@ -745,23 +726,42 @@
       "updatedOn": "7-Oct 9:31"
     },
     {
-      "id": "1711",
-      "name": "Runwal Enterprises",
-      "category": "Mainboard",
-      "exchange": "IPO",
+      "id": "2077",
+      "name": "Papadmalji Agro Foods",
+      "category": "SME",
+      "exchange": "NSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 305,
-      "lot": 49,
-      "ipoSize": "₹500.00 Cr",
-      "open": "2026-09-25",
-      "close": "2026-09-29",
-      "listing": "2026-10-05",
-      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
-      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
-      "url": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/",
-      "updatedOn": "5-Oct 9:37"
+      "price": 72,
+      "lot": 1600,
+      "ipoSize": "₹20.18 Cr",
+      "open": "2026-09-29",
+      "close": "2026-10-01",
+      "listing": "2026-10-07",
+      "openDisplay": "29-Sep",
+      "closeDisplay": "1-Oct",
+      "url": "https://www.investorgain.com/gmp/papadmalji-agro-foods-ipo/2077/",
+      "updatedOn": "7-Oct 9:35"
+    },
+    {
+      "id": "2052",
+      "name": "Black Opal Consultants",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 197,
+      "lot": 600,
+      "ipoSize": "₹55.08 Cr",
+      "open": "2026-09-29",
+      "close": "2026-10-01",
+      "listing": "2026-10-07",
+      "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 38</b></small>",
+      "closeDisplay": "1-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 66</b></small>",
+      "url": "https://www.investorgain.com/gmp/black-opal-consultants-ipo/2052/",
+      "updatedOn": "7-Oct 9:37"
     },
     {
       "id": "1840",
@@ -802,6 +802,25 @@
       "updatedOn": "5-Oct 9:35"
     },
     {
+      "id": "1711",
+      "name": "Runwal Enterprises",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 305,
+      "lot": 49,
+      "ipoSize": "₹500.00 Cr",
+      "open": "2026-09-25",
+      "close": "2026-09-29",
+      "listing": "2026-10-05",
+      "openDisplay": "25-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
+      "closeDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
+      "url": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/",
+      "updatedOn": "5-Oct 9:37"
+    },
+    {
       "id": "2063",
       "name": "Peshwa Wheat",
       "category": "SME",
@@ -819,6 +838,25 @@
       "closeDisplay": "28-Sep",
       "url": "https://www.investorgain.com/gmp/peshwa-wheat-ipo/2063/",
       "updatedOn": "1-Oct 9:33"
+    },
+    {
+      "id": "1982",
+      "name": "Pooja Logistics",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 115,
+      "lot": 1200,
+      "ipoSize": "₹44.23 Cr",
+      "open": "2026-09-23",
+      "close": "2026-09-25",
+      "listing": "2026-09-30",
+      "openDisplay": "23-Sep",
+      "closeDisplay": "25-Sep",
+      "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
+      "updatedOn": "30-Sep 9:32"
     },
     {
       "id": "2326",
@@ -840,6 +878,25 @@
       "updatedOn": "30-Sep 9:28"
     },
     {
+      "id": "2008",
+      "name": "Liqvd Digital",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 54,
+      "lot": 2000,
+      "ipoSize": "₹39.01 Cr",
+      "open": "2026-09-23",
+      "close": "2026-09-25",
+      "listing": "2026-09-30",
+      "openDisplay": "23-Sep",
+      "closeDisplay": "25-Sep",
+      "url": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/",
+      "updatedOn": "30-Sep 9:34"
+    },
+    {
       "id": "2304",
       "name": "S.K.Offset",
       "category": "SME",
@@ -856,25 +913,6 @@
       "openDisplay": "23-Sep",
       "closeDisplay": "25-Sep",
       "url": "https://www.investorgain.com/gmp/skoffset-ipo/2304/",
-      "updatedOn": "30-Sep 9:32"
-    },
-    {
-      "id": "1982",
-      "name": "Pooja Logistics",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 115,
-      "lot": 1200,
-      "ipoSize": "₹44.23 Cr",
-      "open": "2026-09-23",
-      "close": "2026-09-25",
-      "listing": "2026-09-30",
-      "openDisplay": "23-Sep",
-      "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
       "updatedOn": "30-Sep 9:32"
     },
     {
@@ -897,44 +935,6 @@
       "updatedOn": "30-Sep 9:31"
     },
     {
-      "id": "2008",
-      "name": "Liqvd Digital",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 54,
-      "lot": 2000,
-      "ipoSize": "₹39.01 Cr",
-      "open": "2026-09-23",
-      "close": "2026-09-25",
-      "listing": "2026-09-30",
-      "openDisplay": "23-Sep",
-      "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/",
-      "updatedOn": "30-Sep 9:34"
-    },
-    {
-      "id": "2230",
-      "name": "Himalaya Nutravedics",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 106,
-      "lot": 1200,
-      "ipoSize": "₹26.50 Cr",
-      "open": "2026-09-22",
-      "close": "2026-09-24",
-      "listing": "2026-09-29",
-      "openDisplay": "22-Sep",
-      "closeDisplay": "24-Sep",
-      "url": "https://www.investorgain.com/gmp/himalaya-nutravedics-ipo/2230/",
-      "updatedOn": "29-Sep 9:33"
-    },
-    {
       "id": "2292",
       "name": "R.K.Fashion Accessories",
       "category": "SME",
@@ -951,7 +951,7 @@
       "openDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/",
-      "updatedOn": "9-Oct 15:02"
+      "updatedOn": "10-Oct 11:02"
     }
   ]
 }
