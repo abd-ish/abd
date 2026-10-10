@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T06:14:30.990Z",
+  "generatedAt": "2026-10-10T09:28:03.368Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "10-Oct 11:02"
+      "updatedOn": "10-Oct 14:37"
     },
     {
       "id": "1792",
@@ -39,7 +39,26 @@
       "openDisplay": "14-Oct",
       "closeDisplay": "16-Oct",
       "url": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
-      "updatedOn": "10-Oct 11:02"
+      "updatedOn": "10-Oct 14:37"
+    },
+    {
+      "id": "2220",
+      "name": "Ravita Engineering Services",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": 12,
+      "gmpPercent": 10.71,
+      "price": 112,
+      "lot": 1200,
+      "ipoSize": "₹116.05 Cr",
+      "open": "2026-10-13",
+      "close": "2026-10-15",
+      "listing": "2026-10-21",
+      "openDisplay": "13-Oct",
+      "closeDisplay": "15-Oct",
+      "url": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
+      "updatedOn": "10-Oct 14:37"
     },
     {
       "id": "2306",
@@ -47,7 +66,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 170,
+      "gmp": 167,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -58,11 +77,11 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "10-Oct 11:02"
+      "updatedOn": "10-Oct 14:37"
     },
     {
       "id": "2124",
-      "name": "Bonfigloli Transmissions",
+      "name": "Bonfiglioli Transmissions",
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
@@ -78,25 +97,6 @@
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
       "updatedOn": "10-Oct 5:55"
-    },
-    {
-      "id": "2220",
-      "name": "Ravita Engineering Services",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 112,
-      "lot": 1200,
-      "ipoSize": "₹116.05 Cr",
-      "open": "2026-10-13",
-      "close": "2026-10-15",
-      "listing": "2026-10-21",
-      "openDisplay": "13-Oct",
-      "closeDisplay": "15-Oct",
-      "url": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
-      "updatedOn": "10-Oct 11:00"
     },
     {
       "id": "2335",
@@ -115,7 +115,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/",
-      "updatedOn": "10-Oct 10:58"
+      "updatedOn": "10-Oct 14:36"
     },
     {
       "id": "2351",
@@ -951,7 +951,7 @@
       "openDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/",
-      "updatedOn": "10-Oct 11:02"
+      "updatedOn": "10-Oct 14:37"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:14:30.990Z",
+  "updatedAt": "2026-10-10T09:28:03.368Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -57,7 +57,7 @@
       "status": "Upcoming"
     },
     "2124": {
-      "name": "Bonfigloli Transmissions",
+      "name": "Bonfiglioli Transmissions",
       "category": "Mainboard",
       "close": "",
       "series": [],
@@ -69,9 +69,15 @@
       "name": "Ravita Engineering Services",
       "category": "SME",
       "close": "2026-10-15",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-10-10T09:28:03.368Z",
+          "gmp": 12,
+          "gmpPercent": 10.71
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 10.71,
       "status": "Upcoming"
     },
     "2292": {
