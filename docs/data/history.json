@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:28:03.368Z",
+  "updatedAt": "2026-10-11T06:13:50.790Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -20,10 +20,24 @@
           "t": "2026-10-10T06:14:30.990Z",
           "gmp": 55,
           "gmpPercent": 19.03
+        },
+        {
+          "t": "2026-10-11T06:13:50.790Z",
+          "gmp": 53,
+          "gmpPercent": 18.34
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.03,
+      "lastGmpPercent": 18.34,
+      "status": "Upcoming"
+    },
+    "1842": {
+      "name": "Sahajanand Medical Technologies",
+      "category": "Mainboard",
+      "close": "2026-10-19",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "1902": {
@@ -50,19 +64,30 @@
           "t": "2026-10-10T06:14:30.990Z",
           "gmp": 73,
           "gmpPercent": 26.94
+        },
+        {
+          "t": "2026-10-11T06:13:50.790Z",
+          "gmp": 75,
+          "gmpPercent": 27.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.94,
+      "lastGmpPercent": 27.68,
       "status": "Upcoming"
     },
     "2124": {
       "name": "Bonfiglioli Transmissions",
       "category": "Mainboard",
       "close": "",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-11T06:13:50.790Z",
+          "gmp": 137,
+          "gmpPercent": 0
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "2220": {
@@ -74,51 +99,16 @@
           "t": "2026-10-10T09:28:03.368Z",
           "gmp": 12,
           "gmpPercent": 10.71
+        },
+        {
+          "t": "2026-10-11T06:13:50.790Z",
+          "gmp": 12,
+          "gmpPercent": 10.71
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 10.71,
       "status": "Upcoming"
-    },
-    "2292": {
-      "name": "R.K.Fashion Accessories",
-      "category": "SME",
-      "close": "2026-10-07",
-      "series": [
-        {
-          "t": "2026-10-06T06:44:00.364Z",
-          "gmp": 7,
-          "gmpPercent": 8.54
-        },
-        {
-          "t": "2026-10-07T06:19:45.278Z",
-          "gmp": 15,
-          "gmpPercent": 18.29
-        },
-        {
-          "t": "2026-10-07T09:52:58.223Z",
-          "gmp": 3,
-          "gmpPercent": 3.66
-        },
-        {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 1,
-          "gmpPercent": 1.83
-        },
-        {
-          "t": "2026-10-09T06:32:15.944Z",
-          "gmp": 1,
-          "gmpPercent": 1.83
-        },
-        {
-          "t": "2026-10-10T06:14:30.990Z",
-          "gmp": 1,
-          "gmpPercent": 1.83
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.83,
-      "status": "Closed"
     },
     "2306": {
       "name": "Jio Platforms",
@@ -153,6 +143,11 @@
         {
           "t": "2026-10-10T06:14:30.990Z",
           "gmp": 170,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-11T06:13:50.790Z",
+          "gmp": 173,
           "gmpPercent": 0
         }
       ],
