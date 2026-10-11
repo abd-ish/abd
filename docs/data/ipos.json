@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:13:50.790Z",
+  "generatedAt": "2026-10-11T09:42:07.097Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 75,
-      "gmpPercent": 27.68,
+      "gmp": 77,
+      "gmpPercent": 28.41,
       "price": 271,
       "lot": 55,
       "ipoSize": "₹712.31 Cr",
@@ -20,26 +20,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "11-Oct 11:02"
-    },
-    {
-      "id": "1792",
-      "name": "Fusion CX",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 53,
-      "gmpPercent": 18.34,
-      "price": 289,
-      "lot": 51,
-      "ipoSize": "₹702.00 Cr",
-      "open": "2026-10-14",
-      "close": "2026-10-16",
-      "listing": "2026-10-22",
-      "openDisplay": "14-Oct",
-      "closeDisplay": "16-Oct",
-      "url": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
-      "updatedOn": "11-Oct 11:02"
+      "updatedOn": "11-Oct 14:37"
     },
     {
       "id": "2220",
@@ -58,7 +39,26 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
-      "updatedOn": "11-Oct 11:02"
+      "updatedOn": "11-Oct 14:37"
+    },
+    {
+      "id": "1792",
+      "name": "Fusion CX",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 25,
+      "gmpPercent": 8.65,
+      "price": 289,
+      "lot": 51,
+      "ipoSize": "₹702.00 Cr",
+      "open": "2026-10-14",
+      "close": "2026-10-16",
+      "listing": "2026-10-22",
+      "openDisplay": "14-Oct",
+      "closeDisplay": "16-Oct",
+      "url": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
+      "updatedOn": "11-Oct 14:37"
     },
     {
       "id": "2124",
@@ -66,7 +66,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 137,
+      "gmp": 155,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -77,7 +77,7 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
-      "updatedOn": "11-Oct 11:02"
+      "updatedOn": "11-Oct 14:37"
     },
     {
       "id": "2306",
@@ -85,7 +85,7 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 173,
+      "gmp": 170,
       "gmpPercent": 0,
       "price": 0,
       "lot": null,
@@ -96,11 +96,49 @@
       "openDisplay": "",
       "closeDisplay": "",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "11-Oct 11:02"
+      "updatedOn": "11-Oct 14:37"
+    },
+    {
+      "id": "2279",
+      "name": "Zetwerk",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 30,
+      "gmpPercent": 0,
+      "price": 0,
+      "lot": null,
+      "ipoSize": "",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct",
+      "closeDisplay": "19-Oct",
+      "url": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
+      "updatedOn": "11-Oct 14:37"
     },
     {
       "id": "1842",
       "name": "Sahajanand Medical Technologies",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 35,
+      "gmpPercent": 0,
+      "price": 0,
+      "lot": null,
+      "ipoSize": "-",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct",
+      "closeDisplay": "19-Oct",
+      "url": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
+      "updatedOn": "11-Oct 14:37"
+    },
+    {
+      "id": "2369",
+      "name": "Tonbo Imaging India",
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
@@ -114,8 +152,8 @@
       "listing": "2026-10-23",
       "openDisplay": "15-Oct",
       "closeDisplay": "19-Oct",
-      "url": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
-      "updatedOn": "11-Oct 5:55"
+      "url": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/",
+      "updatedOn": "11-Oct 12:10"
     },
     {
       "id": "2335",
@@ -134,7 +172,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct",
       "url": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/",
-      "updatedOn": "11-Oct 10:57"
+      "updatedOn": "11-Oct 14:29"
     },
     {
       "id": "2351",
@@ -897,44 +935,6 @@
       "updatedOn": "30-Sep 9:34"
     },
     {
-      "id": "1888",
-      "name": "Core Integra Consulting",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 78,
-      "lot": 1600,
-      "ipoSize": "₹21.99 Cr",
-      "open": "2026-09-23",
-      "close": "2026-09-25",
-      "listing": "2026-09-30",
-      "openDisplay": "23-Sep",
-      "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/",
-      "updatedOn": "30-Sep 9:31"
-    },
-    {
-      "id": "1982",
-      "name": "Pooja Logistics",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 115,
-      "lot": 1200,
-      "ipoSize": "₹44.23 Cr",
-      "open": "2026-09-23",
-      "close": "2026-09-25",
-      "listing": "2026-09-30",
-      "openDisplay": "23-Sep",
-      "closeDisplay": "25-Sep",
-      "url": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
-      "updatedOn": "30-Sep 9:32"
-    },
-    {
       "id": "2292",
       "name": "R.K.Fashion Accessories",
       "category": "SME",
@@ -951,7 +951,7 @@
       "openDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "7-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
       "url": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/",
-      "updatedOn": "11-Oct 11:02"
+      "updatedOn": "11-Oct 14:37"
     }
   ]
 }

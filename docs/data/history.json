@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:13:50.790Z",
+  "updatedAt": "2026-10-11T09:42:07.097Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -25,19 +25,30 @@
           "t": "2026-10-11T06:13:50.790Z",
           "gmp": 53,
           "gmpPercent": 18.34
+        },
+        {
+          "t": "2026-10-11T09:42:07.097Z",
+          "gmp": 25,
+          "gmpPercent": 8.65
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 18.34,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.65,
       "status": "Upcoming"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
       "category": "Mainboard",
       "close": "2026-10-19",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-11T09:42:07.097Z",
+          "gmp": 35,
+          "gmpPercent": 0
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "1902": {
@@ -69,10 +80,15 @@
           "t": "2026-10-11T06:13:50.790Z",
           "gmp": 75,
           "gmpPercent": 27.68
+        },
+        {
+          "t": "2026-10-11T09:42:07.097Z",
+          "gmp": 77,
+          "gmpPercent": 28.41
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.68,
+      "lastGmpPercent": 28.41,
       "status": "Upcoming"
     },
     "2124": {
@@ -108,6 +124,21 @@
       ],
       "alertedAbove": true,
       "lastGmpPercent": 10.71,
+      "status": "Upcoming"
+    },
+    "2279": {
+      "name": "Zetwerk",
+      "category": "Mainboard",
+      "close": "2026-10-19",
+      "series": [
+        {
+          "t": "2026-10-11T09:42:07.097Z",
+          "gmp": 30,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     },
     "2306": {
@@ -159,6 +190,15 @@
       "name": "Vaibhav Vyapaar",
       "category": "SME",
       "close": "2026-10-15",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2369": {
+      "name": "Tonbo Imaging India",
+      "category": "Mainboard",
+      "close": "2026-10-19",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
