@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:17:24.473Z",
+  "updatedAt": "2026-10-13T07:00:02.877Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -40,10 +40,15 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 10,
           "gmpPercent": 3.46
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 19,
+          "gmpPercent": 6.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.46,
+      "lastGmpPercent": 6.57,
       "status": "Upcoming"
     },
     "1842": {
@@ -65,10 +70,15 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 43,
           "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 35,
+          "gmpPercent": 10.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.5,
+      "lastGmpPercent": 10.17,
       "status": "Upcoming"
     },
     "1902": {
@@ -115,11 +125,16 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 81,
           "gmpPercent": 29.89
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 86,
+          "gmpPercent": 31.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.89,
-      "status": "Upcoming"
+      "lastGmpPercent": 31.73,
+      "status": "Open"
     },
     "2124": {
       "name": "Bonfiglioli Transmissions",
@@ -140,16 +155,21 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 153,
           "gmpPercent": 26.11
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 155,
+          "gmpPercent": 26.45
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.11,
+      "lastGmpPercent": 26.45,
       "status": "Upcoming"
     },
     "2220": {
       "name": "Ravita Engineering Services",
       "category": "SME",
-      "close": "2026-10-15",
+      "close": "2026-10-16",
       "series": [
         {
           "t": "2026-10-10T09:28:03.368Z",
@@ -165,10 +185,15 @@
           "t": "2026-10-12T06:21:37.350Z",
           "gmp": 8,
           "gmpPercent": 7.14
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 4,
+          "gmpPercent": 3.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.14,
+      "lastGmpPercent": 3.57,
       "status": "Upcoming"
     },
     "2228": {
@@ -199,10 +224,15 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 15,
           "gmpPercent": 9.93
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 16,
+          "gmpPercent": 10.6
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.93,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.6,
       "status": "Upcoming"
     },
     "2306": {
@@ -249,6 +279,11 @@
           "t": "2026-10-12T06:21:37.350Z",
           "gmp": 180,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 181,
+          "gmpPercent": 0
         }
       ],
       "alertedAbove": false,
@@ -262,7 +297,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -278,10 +313,15 @@
           "t": "2026-10-12T10:17:24.473Z",
           "gmp": 345,
           "gmpPercent": 49.29
+        },
+        {
+          "t": "2026-10-13T07:00:02.877Z",
+          "gmp": 425,
+          "gmpPercent": 60.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 49.29,
+      "lastGmpPercent": 60.71,
       "status": "Upcoming"
     }
   }
