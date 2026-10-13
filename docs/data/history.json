@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:00:02.877Z",
+  "updatedAt": "2026-10-13T10:08:05.710Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -45,10 +45,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 19,
           "gmpPercent": 6.57
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 28,
+          "gmpPercent": 9.69
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.57,
+      "lastGmpPercent": 9.69,
       "status": "Upcoming"
     },
     "1842": {
@@ -75,10 +80,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 35,
           "gmpPercent": 10.17
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 42,
+          "gmpPercent": 12.21
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.17,
+      "lastGmpPercent": 12.21,
       "status": "Upcoming"
     },
     "1902": {
@@ -130,10 +140,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 86,
           "gmpPercent": 31.73
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 89,
+          "gmpPercent": 32.84
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.73,
+      "lastGmpPercent": 32.84,
       "status": "Open"
     },
     "2124": {
@@ -190,10 +205,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 4,
           "gmpPercent": 3.57
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 2,
+          "gmpPercent": 1.79
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.57,
+      "lastGmpPercent": 1.79,
       "status": "Upcoming"
     },
     "2228": {
@@ -229,10 +249,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 16,
           "gmpPercent": 10.6
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 21,
+          "gmpPercent": 13.91
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.6,
+      "lastGmpPercent": 13.91,
       "status": "Upcoming"
     },
     "2306": {
@@ -318,10 +343,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 425,
           "gmpPercent": 60.71
+        },
+        {
+          "t": "2026-10-13T10:08:05.710Z",
+          "gmp": 470,
+          "gmpPercent": 67.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 60.71,
+      "lastGmpPercent": 67.14,
       "status": "Upcoming"
     }
   }
