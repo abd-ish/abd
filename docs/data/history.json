@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:08:05.710Z",
+  "updatedAt": "2026-10-14T05:14:32.335Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -50,11 +50,16 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 28,
           "gmpPercent": 9.69
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 33,
+          "gmpPercent": 11.59
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.69,
-      "status": "Upcoming"
+      "alertedAbove": true,
+      "lastGmpPercent": 11.59,
+      "status": "Open"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
@@ -85,10 +90,15 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 42,
           "gmpPercent": 12.21
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 41,
+          "gmpPercent": 11.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.21,
+      "lastGmpPercent": 11.92,
       "status": "Upcoming"
     },
     "1902": {
@@ -145,10 +155,15 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 89,
           "gmpPercent": 32.84
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 91,
+          "gmpPercent": 33.58
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.84,
+      "lastGmpPercent": 33.58,
       "status": "Open"
     },
     "2124": {
@@ -175,10 +190,15 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 155,
           "gmpPercent": 26.45
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 175,
+          "gmpPercent": 29.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.45,
+      "lastGmpPercent": 29.86,
       "status": "Upcoming"
     },
     "2220": {
@@ -210,11 +230,16 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 2,
           "gmpPercent": 1.79
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 2,
+          "gmpPercent": 1.79
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.79,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2228": {
       "name": "Shellz India",
@@ -254,10 +279,15 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 21,
           "gmpPercent": 13.91
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 23,
+          "gmpPercent": 15.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.91,
+      "lastGmpPercent": 15.23,
       "status": "Upcoming"
     },
     "2306": {
@@ -309,6 +339,11 @@
           "t": "2026-10-13T07:00:02.877Z",
           "gmp": 181,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 218,
+          "gmpPercent": 0
         }
       ],
       "alertedAbove": false,
@@ -348,10 +383,15 @@
           "t": "2026-10-13T10:08:05.710Z",
           "gmp": 470,
           "gmpPercent": 67.14
+        },
+        {
+          "t": "2026-10-14T05:14:32.335Z",
+          "gmp": 490,
+          "gmpPercent": 70
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 67.14,
+      "lastGmpPercent": 70,
       "status": "Upcoming"
     }
   }
