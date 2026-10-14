@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:14:32.335Z",
+  "updatedAt": "2026-10-14T08:25:14.160Z",
   "ipos": {
     "1792": {
       "name": "Fusion CX",
@@ -55,10 +55,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 33,
           "gmpPercent": 11.59
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 36,
+          "gmpPercent": 12.63
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.59,
+      "lastGmpPercent": 12.63,
       "status": "Open"
     },
     "1842": {
@@ -95,10 +100,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 41,
           "gmpPercent": 11.92
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 43,
+          "gmpPercent": 12.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.92,
+      "lastGmpPercent": 12.5,
       "status": "Upcoming"
     },
     "1902": {
@@ -160,10 +170,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 91,
           "gmpPercent": 33.58
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 93,
+          "gmpPercent": 34.32
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 33.58,
+      "lastGmpPercent": 34.32,
       "status": "Open"
     },
     "2124": {
@@ -195,10 +210,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 175,
           "gmpPercent": 29.86
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 183,
+          "gmpPercent": 31.23
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.86,
+      "lastGmpPercent": 31.23,
       "status": "Upcoming"
     },
     "2220": {
@@ -235,10 +255,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 2,
           "gmpPercent": 1.79
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 7,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.79,
+      "lastGmpPercent": 6.25,
       "status": "Open"
     },
     "2228": {
@@ -284,10 +309,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 23,
           "gmpPercent": 15.23
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 21,
+          "gmpPercent": 14.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.23,
+      "lastGmpPercent": 14.24,
       "status": "Upcoming"
     },
     "2306": {
@@ -388,10 +418,15 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 490,
           "gmpPercent": 70
+        },
+        {
+          "t": "2026-10-14T08:25:14.160Z",
+          "gmp": 500,
+          "gmpPercent": 71.43
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 70,
+      "lastGmpPercent": 71.43,
       "status": "Upcoming"
     }
   }
