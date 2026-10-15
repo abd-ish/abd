@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-14T14:20:58.865Z",
+  "updatedAt": "2026-10-15T05:01:30.869Z",
   "ipos": {
+    "1728": {
+      "name": "Paras Healthcare",
+      "category": "Mainboard",
+      "close": "2026-10-23",
+      "series": [
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 83,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
+      "status": "Upcoming"
+    },
     "1792": {
       "name": "Fusion CX",
       "category": "Mainboard",
@@ -65,10 +80,15 @@
           "t": "2026-10-14T14:20:58.865Z",
           "gmp": 37,
           "gmpPercent": 12.8
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 33,
+          "gmpPercent": 11.42
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.8,
+      "lastGmpPercent": 11.42,
       "status": "Open"
     },
     "1842": {
@@ -115,11 +135,16 @@
           "t": "2026-10-14T14:20:58.865Z",
           "gmp": 38,
           "gmpPercent": 11.05
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 41,
+          "gmpPercent": 11.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 11.05,
-      "status": "Upcoming"
+      "lastGmpPercent": 11.92,
+      "status": "Open"
     },
     "1902": {
       "name": "HD Fire Protect",
@@ -190,11 +215,16 @@
           "t": "2026-10-14T14:20:58.865Z",
           "gmp": 89,
           "gmpPercent": 32.84
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 89,
+          "gmpPercent": 32.84
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 32.84,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2124": {
       "name": "Bonfiglioli Transmissions",
@@ -235,11 +265,16 @@
           "t": "2026-10-14T14:20:58.865Z",
           "gmp": 180,
           "gmpPercent": 30.72
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 178,
+          "gmpPercent": 30.38
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.72,
-      "status": "Upcoming"
+      "lastGmpPercent": 30.38,
+      "status": "Open"
     },
     "2220": {
       "name": "Ravita Engineering Services",
@@ -280,6 +315,11 @@
           "t": "2026-10-14T08:25:14.160Z",
           "gmp": 7,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 7,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
@@ -293,7 +333,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2279": {
       "name": "Zetwerk",
@@ -339,16 +379,21 @@
           "t": "2026-10-14T14:20:58.865Z",
           "gmp": 19,
           "gmpPercent": 12.58
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 22,
+          "gmpPercent": 14.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.58,
-      "status": "Upcoming"
+      "lastGmpPercent": 14.57,
+      "status": "Open"
     },
     "2306": {
       "name": "Jio Platforms",
       "category": "Mainboard",
-      "close": "",
+      "close": "2026-10-23",
       "series": [
         {
           "t": "2026-10-05T06:04:32.418Z",
@@ -399,6 +444,11 @@
           "t": "2026-10-14T05:14:32.335Z",
           "gmp": 218,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 206,
+          "gmpPercent": 0
         }
       ],
       "alertedAbove": false,
@@ -412,7 +462,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -448,11 +498,16 @@
           "t": "2026-10-14T08:25:14.160Z",
           "gmp": 500,
           "gmpPercent": 71.43
+        },
+        {
+          "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 500,
+          "gmpPercent": 71.43
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 71.43,
-      "status": "Upcoming"
+      "status": "Open"
     }
   }
 }
