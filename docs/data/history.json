@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:51:17.312Z",
+  "updatedAt": "2026-10-16T07:54:57.347Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -25,10 +25,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 95,
           "gmpPercent": 13.71
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 94,
+          "gmpPercent": 13.56
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.71,
+      "lastGmpPercent": 13.56,
       "status": "Upcoming"
     },
     "1792": {
@@ -115,10 +120,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 22,
           "gmpPercent": 7.61
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 11,
+          "gmpPercent": 3.81
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.61,
+      "lastGmpPercent": 3.81,
       "status": "Closing Today"
     },
     "1842": {
@@ -185,10 +195,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 43,
           "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 35,
+          "gmpPercent": 10.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.5,
+      "lastGmpPercent": 10.17,
       "status": "Open"
     },
     "1902": {
@@ -345,10 +360,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 140,
           "gmpPercent": 23.89
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 135,
+          "gmpPercent": 23.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.89,
+      "lastGmpPercent": 23.04,
       "status": "Open"
     },
     "2220": {
@@ -489,10 +509,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 12,
           "gmpPercent": 7.95
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 11,
+          "gmpPercent": 7.45
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.95,
+      "lastGmpPercent": 7.45,
       "status": "Open"
     },
     "2306": {
@@ -569,10 +594,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 220,
           "gmpPercent": 19.66
+        },
+        {
+          "t": "2026-10-16T07:54:57.347Z",
+          "gmp": 225,
+          "gmpPercent": 20.11
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.66,
+      "lastGmpPercent": 20.11,
       "status": "Upcoming"
     },
     "2335": {
