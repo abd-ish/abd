@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:54:57.347Z",
+  "updatedAt": "2026-10-16T13:45:32.075Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -30,10 +30,15 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 94,
           "gmpPercent": 13.56
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 97,
+          "gmpPercent": 14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.56,
+      "lastGmpPercent": 14,
       "status": "Upcoming"
     },
     "1792": {
@@ -125,11 +130,16 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 11,
           "gmpPercent": 3.81
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 8,
+          "gmpPercent": 2.77
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.81,
-      "status": "Closing Today"
+      "lastGmpPercent": 2.77,
+      "status": "Closed"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
@@ -200,10 +210,15 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 35,
           "gmpPercent": 10.17
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 38,
+          "gmpPercent": 11.05
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.17,
+      "lastGmpPercent": 11.05,
       "status": "Open"
     },
     "1902": {
@@ -295,10 +310,15 @@
           "t": "2026-10-16T04:51:17.312Z",
           "gmp": 82,
           "gmpPercent": 30.26
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 81,
+          "gmpPercent": 29.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 30.26,
+      "lastGmpPercent": 29.89,
       "status": "Closed"
     },
     "2124": {
@@ -365,10 +385,15 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 135,
           "gmpPercent": 23.04
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 127,
+          "gmpPercent": 21.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 23.04,
+      "lastGmpPercent": 21.67,
       "status": "Open"
     },
     "2220": {
@@ -434,7 +459,7 @@
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.79,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2228": {
       "name": "Shellz India",
@@ -514,10 +539,15 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 11,
           "gmpPercent": 7.45
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 5,
+          "gmpPercent": 3.31
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.45,
+      "lastGmpPercent": 3.31,
       "status": "Open"
     },
     "2306": {
@@ -599,10 +629,15 @@
           "t": "2026-10-16T07:54:57.347Z",
           "gmp": 225,
           "gmpPercent": 20.11
+        },
+        {
+          "t": "2026-10-16T13:45:32.075Z",
+          "gmp": 218,
+          "gmpPercent": 19.48
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.11,
+      "lastGmpPercent": 19.48,
       "status": "Upcoming"
     },
     "2335": {
