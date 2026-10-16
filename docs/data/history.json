@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T13:58:55.947Z",
+  "updatedAt": "2026-10-16T04:51:17.312Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -20,10 +20,15 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 115,
           "gmpPercent": 16.59
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 95,
+          "gmpPercent": 13.71
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.59,
+      "lastGmpPercent": 13.71,
       "status": "Upcoming"
     },
     "1792": {
@@ -105,11 +110,16 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 19,
           "gmpPercent": 6.75
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 22,
+          "gmpPercent": 7.61
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.75,
-      "status": "Open"
+      "lastGmpPercent": 7.61,
+      "status": "Closing Today"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
@@ -170,10 +180,15 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 46,
           "gmpPercent": 13.37
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 43,
+          "gmpPercent": 12.5
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.37,
+      "lastGmpPercent": 12.5,
       "status": "Open"
     },
     "1902": {
@@ -260,11 +275,16 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 82,
           "gmpPercent": 30.26
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 82,
+          "gmpPercent": 30.26
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 30.26,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2124": {
       "name": "Bonfiglioli Transmissions",
@@ -320,10 +340,15 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 159,
           "gmpPercent": 27.13
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 140,
+          "gmpPercent": 23.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.13,
+      "lastGmpPercent": 23.89,
       "status": "Open"
     },
     "2220": {
@@ -380,11 +405,16 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 2,
           "gmpPercent": 1.79
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 2,
+          "gmpPercent": 1.79
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.79,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2228": {
       "name": "Shellz India",
@@ -454,10 +484,15 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 15,
           "gmpPercent": 10.26
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 12,
+          "gmpPercent": 7.95
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.26,
+      "alertedAbove": false,
+      "lastGmpPercent": 7.95,
       "status": "Open"
     },
     "2306": {
@@ -529,20 +564,31 @@
           "t": "2026-10-15T13:58:55.947Z",
           "gmp": 222,
           "gmpPercent": 19.84
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 220,
+          "gmpPercent": 19.66
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.84,
+      "lastGmpPercent": 19.66,
       "status": "Upcoming"
     },
     "2335": {
       "name": "Vaibhav Vyapaar",
       "category": "SME",
       "close": "2026-10-15",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-16T04:51:17.312Z",
+          "gmp": 2,
+          "gmpPercent": 3.7
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closing Today"
+      "lastGmpPercent": 3.7,
+      "status": "Closed"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -581,6 +627,11 @@
         },
         {
           "t": "2026-10-15T05:01:30.869Z",
+          "gmp": 500,
+          "gmpPercent": 71.43
+        },
+        {
+          "t": "2026-10-16T04:51:17.312Z",
           "gmp": 500,
           "gmpPercent": 71.43
         }
