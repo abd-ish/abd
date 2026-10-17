@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:51:43.697Z",
+  "updatedAt": "2026-10-17T07:32:53.472Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -335,10 +335,15 @@
           "t": "2026-10-17T04:51:43.697Z",
           "gmp": 74,
           "gmpPercent": 27.31
+        },
+        {
+          "t": "2026-10-17T07:32:53.472Z",
+          "gmp": 72,
+          "gmpPercent": 26.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.31,
+      "lastGmpPercent": 26.57,
       "status": "Closed"
     },
     "2124": {
