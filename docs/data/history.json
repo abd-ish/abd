@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T07:48:02.299Z",
+  "updatedAt": "2026-10-18T12:59:22.459Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -45,10 +45,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 96,
           "gmpPercent": 13.85
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 92,
+          "gmpPercent": 13.28
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.85,
+      "lastGmpPercent": 13.28,
       "status": "Upcoming"
     },
     "1792": {
@@ -160,10 +165,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 15,
           "gmpPercent": 5.19
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 17,
+          "gmpPercent": 5.88
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.19,
+      "lastGmpPercent": 5.88,
       "status": "Closed"
     },
     "1842": {
@@ -255,10 +265,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 15,
           "gmpPercent": 4.36
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 24,
+          "gmpPercent": 6.98
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.36,
+      "lastGmpPercent": 6.98,
       "status": "Open"
     },
     "1902": {
@@ -370,10 +385,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 69,
           "gmpPercent": 25.46
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 68,
+          "gmpPercent": 25.09
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.46,
+      "lastGmpPercent": 25.09,
       "status": "Closed"
     },
     "2124": {
@@ -460,10 +480,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 132,
           "gmpPercent": 22.53
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 130,
+          "gmpPercent": 22.18
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.53,
+      "lastGmpPercent": 22.18,
       "status": "Open"
     },
     "2220": {
@@ -550,10 +575,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 25,
           "gmpPercent": 13.97
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 35,
+          "gmpPercent": 19.55
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 13.97,
+      "lastGmpPercent": 19.55,
       "status": "Open"
     },
     "2279": {
@@ -645,10 +675,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 7,
           "gmpPercent": 4.77
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 7,
+          "gmpPercent": 4.64
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.77,
+      "lastGmpPercent": 4.64,
       "status": "Open"
     },
     "2306": {
@@ -750,10 +785,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 235,
           "gmpPercent": 21
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 249,
+          "gmpPercent": 22.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21,
+      "lastGmpPercent": 22.25,
       "status": "Upcoming"
     },
     "2335": {
@@ -845,10 +885,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 505,
           "gmpPercent": 72.14
+        },
+        {
+          "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 515,
+          "gmpPercent": 73.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 72.14,
+      "lastGmpPercent": 73.57,
       "status": "Open"
     }
   }
