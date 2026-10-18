@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:42:32.900Z",
+  "generatedAt": "2026-10-18T04:58:50.007Z",
   "count": 50,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 525,
-      "gmpPercent": 75,
+      "gmp": 505,
+      "gmpPercent": 72.14,
       "price": 700,
       "lot": 21,
       "ipoSize": "₹852.18 Cr",
@@ -20,7 +20,7 @@
       "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 500</b></small>",
       "closeDisplay": "19-Oct",
       "url": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2124",
@@ -39,45 +39,7 @@
       "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 140</b></small>",
       "closeDisplay": "19-Oct",
       "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
-      "updatedOn": "17-Oct 15:37"
-    },
-    {
-      "id": "1842",
-      "name": "Sahajanand Medical Technologies",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Open",
-      "gmp": 20,
-      "gmpPercent": 5.81,
-      "price": 344,
-      "lot": 43,
-      "ipoSize": "₹475.48 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 43</b></small>",
-      "closeDisplay": "19-Oct",
-      "url": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
-      "updatedOn": "17-Oct 15:37"
-    },
-    {
-      "id": "2279",
-      "name": "Zetwerk",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Open",
-      "gmp": 6,
-      "gmpPercent": 4.47,
-      "price": 151,
-      "lot": 99,
-      "ipoSize": "₹5012.33 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
-      "closeDisplay": "19-Oct",
-      "url": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2228",
@@ -85,8 +47,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Open",
-      "gmp": null,
-      "gmpPercent": null,
+      "gmp": 25,
+      "gmpPercent": 13.97,
       "price": 179,
       "lot": 800,
       "ipoSize": "₹59.97 Cr",
@@ -96,7 +58,45 @@
       "openDisplay": "15-Oct",
       "closeDisplay": "19-Oct",
       "url": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/",
-      "updatedOn": "17-Oct 15:35"
+      "updatedOn": "18-Oct 10:02"
+    },
+    {
+      "id": "2279",
+      "name": "Zetwerk",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 7,
+      "gmpPercent": 4.77,
+      "price": 151,
+      "lot": 99,
+      "ipoSize": "₹5012.33 Cr",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
+      "closeDisplay": "19-Oct",
+      "url": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
+      "updatedOn": "18-Oct 10:02"
+    },
+    {
+      "id": "1842",
+      "name": "Sahajanand Medical Technologies",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 15,
+      "gmpPercent": 4.36,
+      "price": 344,
+      "lot": 43,
+      "ipoSize": "₹475.48 Cr",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 43</b></small>",
+      "closeDisplay": "19-Oct",
+      "url": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2306",
@@ -104,8 +104,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 221,
-      "gmpPercent": 19.79,
+      "gmp": 235,
+      "gmpPercent": 21,
       "price": 1119,
       "lot": 12,
       "ipoSize": "₹30213.00 Cr",
@@ -115,7 +115,7 @@
       "openDisplay": "21-Oct",
       "closeDisplay": "23-Oct",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "1728",
@@ -123,8 +123,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 95,
-      "gmpPercent": 13.71,
+      "gmp": 96,
+      "gmpPercent": 13.85,
       "price": 693,
       "lot": 21,
       "ipoSize": "₹1450.00 Cr",
@@ -134,7 +134,7 @@
       "openDisplay": "21-Oct",
       "closeDisplay": "23-Oct",
       "url": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2351",
@@ -883,8 +883,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 72,
-      "gmpPercent": 26.57,
+      "gmp": 69,
+      "gmpPercent": 25.46,
       "price": 271,
       "lot": 55,
       "ipoSize": "₹712.13 Cr",
@@ -894,7 +894,7 @@
       "openDisplay": "13-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 91</b></small>",
       "closeDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 82</b></small>",
       "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2335",
@@ -902,8 +902,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 3,
-      "gmpPercent": 5.56,
+      "gmp": 5,
+      "gmpPercent": 9.26,
       "price": 54,
       "lot": 2000,
       "ipoSize": "₹42.10 Cr",
@@ -913,7 +913,7 @@
       "openDisplay": "13-Oct",
       "closeDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "url": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "1792",
@@ -921,8 +921,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 11,
-      "gmpPercent": 3.81,
+      "gmp": 15,
+      "gmpPercent": 5.19,
       "price": 289,
       "lot": 51,
       "ipoSize": "₹702.00 Cr",
@@ -932,7 +932,7 @@
       "openDisplay": "14-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 33</b></small>",
       "closeDisplay": "16-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "url": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     },
     {
       "id": "2220",
@@ -940,8 +940,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 2,
-      "gmpPercent": 1.79,
+      "gmp": 3,
+      "gmpPercent": 2.68,
       "price": 112,
       "lot": 1200,
       "ipoSize": "₹116.05 Cr",
@@ -951,7 +951,7 @@
       "openDisplay": "14-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "16-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
       "url": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
-      "updatedOn": "17-Oct 15:37"
+      "updatedOn": "18-Oct 10:02"
     }
   ]
 }
