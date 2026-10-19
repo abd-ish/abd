@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:59:22.459Z",
+  "updatedAt": "2026-10-19T05:06:42.807Z",
   "ipos": {
     "1728": {
       "name": "Paras Healthcare",
@@ -48,6 +48,11 @@
         },
         {
           "t": "2026-10-18T12:59:22.459Z",
+          "gmp": 92,
+          "gmpPercent": 13.28
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
           "gmp": 92,
           "gmpPercent": 13.28
         }
@@ -170,10 +175,15 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 17,
           "gmpPercent": 5.88
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 19,
+          "gmpPercent": 6.57
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.88,
+      "lastGmpPercent": 6.57,
       "status": "Closed"
     },
     "1842": {
@@ -270,131 +280,31 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 24,
           "gmpPercent": 6.98
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 26,
+          "gmpPercent": 7.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.98,
-      "status": "Open"
+      "lastGmpPercent": 7.56,
+      "status": "Closing Today"
     },
-    "1902": {
-      "name": "HD Fire Protect",
+    "1849": {
+      "name": "BLS Polymers",
       "category": "Mainboard",
-      "close": "2026-10-15",
+      "close": "2026-10-29",
       "series": [
         {
-          "t": "2026-10-08T06:31:05.569Z",
-          "gmp": 80,
-          "gmpPercent": 29.52
-        },
-        {
-          "t": "2026-10-08T10:04:24.884Z",
-          "gmp": 85,
-          "gmpPercent": 31.37
-        },
-        {
-          "t": "2026-10-09T06:32:15.944Z",
-          "gmp": 67,
-          "gmpPercent": 24.72
-        },
-        {
-          "t": "2026-10-10T06:14:30.990Z",
-          "gmp": 73,
-          "gmpPercent": 26.94
-        },
-        {
-          "t": "2026-10-11T06:13:50.790Z",
-          "gmp": 75,
-          "gmpPercent": 27.68
-        },
-        {
-          "t": "2026-10-11T09:42:07.097Z",
-          "gmp": 77,
-          "gmpPercent": 28.41
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 73,
-          "gmpPercent": 26.94
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 81,
-          "gmpPercent": 29.89
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 86,
-          "gmpPercent": 31.73
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 89,
-          "gmpPercent": 32.84
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 91,
-          "gmpPercent": 33.58
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 93,
-          "gmpPercent": 34.32
-        },
-        {
-          "t": "2026-10-14T14:20:58.865Z",
-          "gmp": 89,
-          "gmpPercent": 32.84
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 89,
-          "gmpPercent": 32.84
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 86,
-          "gmpPercent": 31.73
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 82,
-          "gmpPercent": 30.26
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 82,
-          "gmpPercent": 30.26
-        },
-        {
-          "t": "2026-10-16T13:45:32.075Z",
-          "gmp": 81,
-          "gmpPercent": 29.89
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 74,
-          "gmpPercent": 27.31
-        },
-        {
-          "t": "2026-10-17T07:32:53.472Z",
-          "gmp": 72,
-          "gmpPercent": 26.57
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 69,
-          "gmpPercent": 25.46
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 68,
-          "gmpPercent": 25.09
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 25,
+          "gmpPercent": 16.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.09,
-      "status": "Closed"
+      "lastGmpPercent": 16.67,
+      "status": "Upcoming"
     },
     "2124": {
       "name": "Bonfiglioli Transmissions",
@@ -485,11 +395,16 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 130,
           "gmpPercent": 22.18
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 125,
+          "gmpPercent": 21.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.18,
-      "status": "Open"
+      "lastGmpPercent": 21.33,
+      "status": "Closing Today"
     },
     "2220": {
       "name": "Ravita Engineering Services",
@@ -560,10 +475,15 @@
           "t": "2026-10-18T04:58:50.007Z",
           "gmp": 3,
           "gmpPercent": 2.68
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 4,
+          "gmpPercent": 4.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.68,
+      "lastGmpPercent": 4.02,
       "status": "Closed"
     },
     "2228": {
@@ -580,11 +500,25 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 35,
           "gmpPercent": 19.55
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 37,
+          "gmpPercent": 20.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.55,
-      "status": "Open"
+      "lastGmpPercent": 20.67,
+      "status": "Closing Today"
+    },
+    "2229": {
+      "name": "Core4 Engineers",
+      "category": "SME",
+      "close": "2026-10-27",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2279": {
       "name": "Zetwerk",
@@ -680,11 +614,16 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 7,
           "gmpPercent": 4.64
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 4,
+          "gmpPercent": 2.81
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.64,
-      "status": "Open"
+      "lastGmpPercent": 2.81,
+      "status": "Closing Today"
     },
     "2306": {
       "name": "Jio Platforms",
@@ -790,41 +729,16 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 249,
           "gmpPercent": 22.25
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 252,
+          "gmpPercent": 22.52
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.25,
+      "lastGmpPercent": 22.52,
       "status": "Upcoming"
-    },
-    "2335": {
-      "name": "Vaibhav Vyapaar",
-      "category": "SME",
-      "close": "2026-10-15",
-      "series": [
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 2,
-          "gmpPercent": 3.7
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 2,
-          "gmpPercent": 3.7
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 3,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 5,
-          "gmpPercent": 9.26
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 9.26,
-      "status": "Closed"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -890,11 +804,16 @@
           "t": "2026-10-18T12:59:22.459Z",
           "gmp": 515,
           "gmpPercent": 73.57
+        },
+        {
+          "t": "2026-10-19T05:06:42.807Z",
+          "gmp": 520,
+          "gmpPercent": 74.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.57,
-      "status": "Open"
+      "lastGmpPercent": 74.29,
+      "status": "Closing Today"
     }
   }
 }
