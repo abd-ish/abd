@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-19T16:13:15.585Z",
+  "updatedAt": "2026-10-20T05:08:39.932Z",
   "ipos": {
+    "1635": {
+      "name": "EAAA India Alternatives",
+      "category": "Mainboard",
+      "close": "2026-10-28",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "1728": {
       "name": "Paras Healthcare",
       "category": "Mainboard",
@@ -60,146 +69,16 @@
           "t": "2026-10-19T08:31:07.115Z",
           "gmp": 84,
           "gmpPercent": 12.12
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 78,
+          "gmpPercent": 11.26
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.12,
+      "lastGmpPercent": 11.26,
       "status": "Upcoming"
-    },
-    "1792": {
-      "name": "Fusion CX",
-      "category": "Mainboard",
-      "close": "2026-10-16",
-      "series": [
-        {
-          "t": "2026-10-09T06:32:15.944Z",
-          "gmp": 40,
-          "gmpPercent": 13.84
-        },
-        {
-          "t": "2026-10-09T10:06:49.618Z",
-          "gmp": 55,
-          "gmpPercent": 19.03
-        },
-        {
-          "t": "2026-10-10T06:14:30.990Z",
-          "gmp": 55,
-          "gmpPercent": 19.03
-        },
-        {
-          "t": "2026-10-11T06:13:50.790Z",
-          "gmp": 53,
-          "gmpPercent": 18.34
-        },
-        {
-          "t": "2026-10-11T09:42:07.097Z",
-          "gmp": 25,
-          "gmpPercent": 8.65
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 22,
-          "gmpPercent": 7.61
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 10,
-          "gmpPercent": 3.46
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 19,
-          "gmpPercent": 6.57
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 28,
-          "gmpPercent": 9.69
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 33,
-          "gmpPercent": 11.59
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 36,
-          "gmpPercent": 12.63
-        },
-        {
-          "t": "2026-10-14T14:20:58.865Z",
-          "gmp": 37,
-          "gmpPercent": 12.8
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 33,
-          "gmpPercent": 11.42
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 31,
-          "gmpPercent": 10.73
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 19,
-          "gmpPercent": 6.75
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 22,
-          "gmpPercent": 7.61
-        },
-        {
-          "t": "2026-10-16T07:54:57.347Z",
-          "gmp": 11,
-          "gmpPercent": 3.81
-        },
-        {
-          "t": "2026-10-16T13:45:32.075Z",
-          "gmp": 8,
-          "gmpPercent": 2.77
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 10,
-          "gmpPercent": 3.46
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 11,
-          "gmpPercent": 3.81
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 15,
-          "gmpPercent": 5.19
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 17,
-          "gmpPercent": 5.88
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 19,
-          "gmpPercent": 6.57
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 18,
-          "gmpPercent": 6.23
-        },
-        {
-          "t": "2026-10-19T16:13:15.585Z",
-          "gmp": 16,
-          "gmpPercent": 5.54
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 5.54,
-      "status": "Closed"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
@@ -310,6 +189,11 @@
           "t": "2026-10-19T16:13:15.585Z",
           "gmp": 24,
           "gmpPercent": 6.98
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 24,
+          "gmpPercent": 6.98
         }
       ],
       "alertedAbove": false,
@@ -335,10 +219,15 @@
           "t": "2026-10-19T16:13:15.585Z",
           "gmp": 28,
           "gmpPercent": 18.67
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 18,
+          "gmpPercent": 12
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.67,
+      "lastGmpPercent": 12,
       "status": "Upcoming"
     },
     "2124": {
@@ -445,95 +334,15 @@
           "t": "2026-10-19T16:13:15.585Z",
           "gmp": 127,
           "gmpPercent": 21.67
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 127,
+          "gmpPercent": 21.67
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 21.67,
-      "status": "Closed"
-    },
-    "2220": {
-      "name": "Ravita Engineering Services",
-      "category": "SME",
-      "close": "2026-10-16",
-      "series": [
-        {
-          "t": "2026-10-10T09:28:03.368Z",
-          "gmp": 12,
-          "gmpPercent": 10.71
-        },
-        {
-          "t": "2026-10-11T06:13:50.790Z",
-          "gmp": 12,
-          "gmpPercent": 10.71
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 8,
-          "gmpPercent": 7.14
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 4,
-          "gmpPercent": 3.57
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 2,
-          "gmpPercent": 1.79
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 2,
-          "gmpPercent": 1.79
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 7,
-          "gmpPercent": 6.25
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 7,
-          "gmpPercent": 6.25
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 3,
-          "gmpPercent": 2.68
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 2,
-          "gmpPercent": 1.79
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 2,
-          "gmpPercent": 1.79
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 2,
-          "gmpPercent": 1.79
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 3,
-          "gmpPercent": 2.68
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 4,
-          "gmpPercent": 4.02
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 7,
-          "gmpPercent": 6.25
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 6.25,
       "status": "Closed"
     },
     "2228": {
@@ -558,6 +367,11 @@
         },
         {
           "t": "2026-10-19T08:31:07.115Z",
+          "gmp": 46,
+          "gmpPercent": 25.7
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
           "gmp": 46,
           "gmpPercent": 25.7
         }
@@ -684,6 +498,11 @@
           "t": "2026-10-19T16:13:15.585Z",
           "gmp": 3,
           "gmpPercent": 2.32
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 3,
+          "gmpPercent": 2.32
         }
       ],
       "alertedAbove": false,
@@ -804,10 +623,15 @@
           "t": "2026-10-19T16:13:15.585Z",
           "gmp": 253,
           "gmpPercent": 22.61
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 245,
+          "gmpPercent": 21.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.61,
+      "lastGmpPercent": 21.89,
       "status": "Upcoming"
     },
     "2369": {
@@ -884,10 +708,15 @@
           "t": "2026-10-19T08:31:07.115Z",
           "gmp": 515,
           "gmpPercent": 73.57
+        },
+        {
+          "t": "2026-10-20T05:08:39.932Z",
+          "gmp": 510,
+          "gmpPercent": 72.86
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.57,
+      "lastGmpPercent": 72.86,
       "status": "Closed"
     }
   }
