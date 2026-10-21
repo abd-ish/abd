@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:07:37.500Z",
+  "updatedAt": "2026-10-21T05:10:01.153Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -88,11 +88,16 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 43,
           "gmpPercent": 6.2
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 52,
+          "gmpPercent": 7.5
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.2,
-      "status": "Upcoming"
+      "lastGmpPercent": 7.5,
+      "status": "Open"
     },
     "1842": {
       "name": "Sahajanand Medical Technologies",
@@ -213,10 +218,15 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 25,
           "gmpPercent": 7.27
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 24,
+          "gmpPercent": 6.98
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.27,
+      "lastGmpPercent": 6.98,
       "status": "Closed"
     },
     "1849": {
@@ -248,10 +258,15 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 37,
           "gmpPercent": 24.67
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 30,
+          "gmpPercent": 20
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 24.67,
+      "lastGmpPercent": 20,
       "status": "Upcoming"
     },
     "2124": {
@@ -368,10 +383,15 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 130,
           "gmpPercent": 22.18
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 135,
+          "gmpPercent": 23.04
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.18,
+      "lastGmpPercent": 23.04,
       "status": "Closed"
     },
     "2228": {
@@ -406,6 +426,11 @@
         },
         {
           "t": "2026-10-20T14:07:37.500Z",
+          "gmp": 35,
+          "gmpPercent": 19.55
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
           "gmp": 35,
           "gmpPercent": 19.55
         }
@@ -542,10 +567,15 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 2,
           "gmpPercent": 1.66
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 2,
+          "gmpPercent": 1.32
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.66,
+      "lastGmpPercent": 1.32,
       "status": "Closed"
     },
     "2306": {
@@ -672,11 +702,16 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 257,
           "gmpPercent": 22.97
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 273,
+          "gmpPercent": 24.4
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.97,
-      "status": "Upcoming"
+      "lastGmpPercent": 24.4,
+      "status": "Open"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -762,10 +797,15 @@
           "t": "2026-10-20T14:07:37.500Z",
           "gmp": 515,
           "gmpPercent": 73.57
+        },
+        {
+          "t": "2026-10-21T05:10:01.153Z",
+          "gmp": 513,
+          "gmpPercent": 73.29
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.57,
+      "lastGmpPercent": 73.29,
       "status": "Closed"
     }
   }
