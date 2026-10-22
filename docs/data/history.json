@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:14:00.469Z",
+  "updatedAt": "2026-10-22T08:19:54.626Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -24,10 +24,15 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 31,
           "gmpPercent": 9.39
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 21,
+          "gmpPercent": 6.36
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.39,
+      "lastGmpPercent": 6.36,
       "status": "Upcoming"
     },
     "1728": {
@@ -119,10 +124,15 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 25,
           "gmpPercent": 3.61
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 15,
+          "gmpPercent": 2.16
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.61,
+      "lastGmpPercent": 2.16,
       "status": "Open"
     },
     "1842": {
@@ -254,10 +264,15 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 19,
           "gmpPercent": 5.52
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 17,
+          "gmpPercent": 4.94
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.52,
+      "lastGmpPercent": 4.94,
       "status": "Closed"
     },
     "1849": {
@@ -299,10 +314,24 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 30,
           "gmpPercent": 20
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 29,
+          "gmpPercent": 19.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20,
+      "lastGmpPercent": 19.33,
+      "status": "Upcoming"
+    },
+    "1936": {
+      "name": "Bombay Coated and Special Steels",
+      "category": "Mainboard",
+      "close": "2026-11-02",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2124": {
@@ -434,10 +463,15 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 121,
           "gmpPercent": 20.65
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 77,
+          "gmpPercent": 13.14
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 20.65,
+      "lastGmpPercent": 13.14,
       "status": "Closed"
     },
     "2228": {
@@ -489,10 +523,15 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 25,
           "gmpPercent": 13.97
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 5,
+          "gmpPercent": 2.79
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 13.97,
+      "alertedAbove": false,
+      "lastGmpPercent": 2.79,
       "status": "Closed"
     },
     "2229": {
@@ -783,11 +822,25 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 246,
           "gmpPercent": 21.98
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 241,
+          "gmpPercent": 21.54
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.98,
+      "lastGmpPercent": 21.54,
       "status": "Open"
+    },
+    "2356": {
+      "name": "Wiscon Industries",
+      "category": "SME",
+      "close": "2026-10-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2369": {
       "name": "Tonbo Imaging India",
@@ -888,11 +941,25 @@
           "t": "2026-10-22T05:14:00.469Z",
           "gmp": 512,
           "gmpPercent": 73.14
+        },
+        {
+          "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 445,
+          "gmpPercent": 63.57
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 73.14,
+      "lastGmpPercent": 63.57,
       "status": "Closed"
+    },
+    "2393": {
+      "name": "Carver Roboweld",
+      "category": "SME",
+      "close": "2026-10-30",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     }
   }
 }
