@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:21:50.402Z",
+  "updatedAt": "2026-10-23T05:12:45.676Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -27,6 +27,11 @@
         },
         {
           "t": "2026-10-22T08:19:54.626Z",
+          "gmp": 21,
+          "gmpPercent": 6.36
+        },
+        {
+          "t": "2026-10-23T05:12:45.676Z",
           "gmp": 21,
           "gmpPercent": 6.36
         }
@@ -134,151 +139,16 @@
           "t": "2026-10-22T14:21:50.402Z",
           "gmp": 13,
           "gmpPercent": 1.88
+        },
+        {
+          "t": "2026-10-23T05:12:45.676Z",
+          "gmp": 13,
+          "gmpPercent": 1.88
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.88,
-      "status": "Open"
-    },
-    "1842": {
-      "name": "Sahajanand Medical Technologies",
-      "category": "Mainboard",
-      "close": "2026-10-19",
-      "series": [
-        {
-          "t": "2026-10-11T09:42:07.097Z",
-          "gmp": 35,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 40,
-          "gmpPercent": 11.63
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 43,
-          "gmpPercent": 12.5
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 35,
-          "gmpPercent": 10.17
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 42,
-          "gmpPercent": 12.21
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 41,
-          "gmpPercent": 11.92
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 43,
-          "gmpPercent": 12.5
-        },
-        {
-          "t": "2026-10-14T14:20:58.865Z",
-          "gmp": 38,
-          "gmpPercent": 11.05
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 41,
-          "gmpPercent": 11.92
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 45,
-          "gmpPercent": 13.08
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 46,
-          "gmpPercent": 13.37
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 43,
-          "gmpPercent": 12.5
-        },
-        {
-          "t": "2026-10-16T07:54:57.347Z",
-          "gmp": 35,
-          "gmpPercent": 10.17
-        },
-        {
-          "t": "2026-10-16T13:45:32.075Z",
-          "gmp": 38,
-          "gmpPercent": 11.05
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 35,
-          "gmpPercent": 10.17
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 20,
-          "gmpPercent": 5.81
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 15,
-          "gmpPercent": 4.36
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 24,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 26,
-          "gmpPercent": 7.56
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 15,
-          "gmpPercent": 4.36
-        },
-        {
-          "t": "2026-10-19T16:13:15.585Z",
-          "gmp": 24,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-10-20T05:08:39.932Z",
-          "gmp": 24,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-10-20T14:07:37.500Z",
-          "gmp": 25,
-          "gmpPercent": 7.27
-        },
-        {
-          "t": "2026-10-21T05:10:01.153Z",
-          "gmp": 24,
-          "gmpPercent": 6.98
-        },
-        {
-          "t": "2026-10-22T05:14:00.469Z",
-          "gmp": 19,
-          "gmpPercent": 5.52
-        },
-        {
-          "t": "2026-10-22T08:19:54.626Z",
-          "gmp": 17,
-          "gmpPercent": 4.94
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4.94,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "1849": {
       "name": "BLS Polymers",
@@ -329,10 +199,15 @@
           "t": "2026-10-22T14:21:50.402Z",
           "gmp": 42,
           "gmpPercent": 28
+        },
+        {
+          "t": "2026-10-23T05:12:45.676Z",
+          "gmp": 38,
+          "gmpPercent": 25.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 28,
+      "lastGmpPercent": 25.33,
       "status": "Upcoming"
     },
     "1936": {
@@ -344,216 +219,6 @@
       "lastGmpPercent": null,
       "status": "Upcoming"
     },
-    "2124": {
-      "name": "Bonfiglioli Transmissions",
-      "category": "Mainboard",
-      "close": "2026-10-19",
-      "series": [
-        {
-          "t": "2026-10-11T06:13:50.790Z",
-          "gmp": 137,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 176,
-          "gmpPercent": 30.03
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 153,
-          "gmpPercent": 26.11
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 155,
-          "gmpPercent": 26.45
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 175,
-          "gmpPercent": 29.86
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 183,
-          "gmpPercent": 31.23
-        },
-        {
-          "t": "2026-10-14T14:20:58.865Z",
-          "gmp": 180,
-          "gmpPercent": 30.72
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 178,
-          "gmpPercent": 30.38
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 176,
-          "gmpPercent": 30.03
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 159,
-          "gmpPercent": 27.13
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 140,
-          "gmpPercent": 23.89
-        },
-        {
-          "t": "2026-10-16T07:54:57.347Z",
-          "gmp": 135,
-          "gmpPercent": 23.04
-        },
-        {
-          "t": "2026-10-16T13:45:32.075Z",
-          "gmp": 127,
-          "gmpPercent": 21.67
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 129,
-          "gmpPercent": 22.01
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 132,
-          "gmpPercent": 22.53
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 132,
-          "gmpPercent": 22.53
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 130,
-          "gmpPercent": 22.18
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 125,
-          "gmpPercent": 21.33
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 100,
-          "gmpPercent": 17.06
-        },
-        {
-          "t": "2026-10-19T16:13:15.585Z",
-          "gmp": 127,
-          "gmpPercent": 21.67
-        },
-        {
-          "t": "2026-10-20T05:08:39.932Z",
-          "gmp": 127,
-          "gmpPercent": 21.67
-        },
-        {
-          "t": "2026-10-20T14:07:37.500Z",
-          "gmp": 130,
-          "gmpPercent": 22.18
-        },
-        {
-          "t": "2026-10-21T05:10:01.153Z",
-          "gmp": 135,
-          "gmpPercent": 23.04
-        },
-        {
-          "t": "2026-10-21T14:21:12.398Z",
-          "gmp": 132,
-          "gmpPercent": 22.53
-        },
-        {
-          "t": "2026-10-22T05:14:00.469Z",
-          "gmp": 121,
-          "gmpPercent": 20.65
-        },
-        {
-          "t": "2026-10-22T08:19:54.626Z",
-          "gmp": 77,
-          "gmpPercent": 13.14
-        },
-        {
-          "t": "2026-10-22T14:21:50.402Z",
-          "gmp": 65,
-          "gmpPercent": 11.09
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.09,
-      "status": "Closed"
-    },
-    "2228": {
-      "name": "Shellz India",
-      "category": "SME",
-      "close": "2026-10-19",
-      "series": [
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 25,
-          "gmpPercent": 13.97
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 35,
-          "gmpPercent": 19.55
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 37,
-          "gmpPercent": 20.67
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 46,
-          "gmpPercent": 25.7
-        },
-        {
-          "t": "2026-10-20T05:08:39.932Z",
-          "gmp": 46,
-          "gmpPercent": 25.7
-        },
-        {
-          "t": "2026-10-20T14:07:37.500Z",
-          "gmp": 35,
-          "gmpPercent": 19.55
-        },
-        {
-          "t": "2026-10-21T05:10:01.153Z",
-          "gmp": 35,
-          "gmpPercent": 19.55
-        },
-        {
-          "t": "2026-10-21T14:21:12.398Z",
-          "gmp": 25,
-          "gmpPercent": 13.97
-        },
-        {
-          "t": "2026-10-22T05:14:00.469Z",
-          "gmp": 25,
-          "gmpPercent": 13.97
-        },
-        {
-          "t": "2026-10-22T08:19:54.626Z",
-          "gmp": 5,
-          "gmpPercent": 2.79
-        },
-        {
-          "t": "2026-10-22T14:21:50.402Z",
-          "gmp": 7,
-          "gmpPercent": 3.91
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.91,
-      "status": "Closed"
-    },
     "2229": {
       "name": "Core4 Engineers",
       "category": "SME",
@@ -561,142 +226,16 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
-    "2279": {
-      "name": "Zetwerk",
+    "2288": {
+      "name": "M.K.Sons Fine Jewels",
       "category": "Mainboard",
-      "close": "2026-10-19",
-      "series": [
-        {
-          "t": "2026-10-11T09:42:07.097Z",
-          "gmp": 30,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 21,
-          "gmpPercent": 14.24
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 15,
-          "gmpPercent": 9.93
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 16,
-          "gmpPercent": 10.6
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 21,
-          "gmpPercent": 13.91
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 23,
-          "gmpPercent": 15.23
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 21,
-          "gmpPercent": 14.24
-        },
-        {
-          "t": "2026-10-14T14:20:58.865Z",
-          "gmp": 19,
-          "gmpPercent": 12.58
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 22,
-          "gmpPercent": 14.57
-        },
-        {
-          "t": "2026-10-15T08:00:31.236Z",
-          "gmp": 21,
-          "gmpPercent": 14.24
-        },
-        {
-          "t": "2026-10-15T13:58:55.947Z",
-          "gmp": 15,
-          "gmpPercent": 10.26
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 12,
-          "gmpPercent": 7.95
-        },
-        {
-          "t": "2026-10-16T07:54:57.347Z",
-          "gmp": 11,
-          "gmpPercent": 7.45
-        },
-        {
-          "t": "2026-10-16T13:45:32.075Z",
-          "gmp": 5,
-          "gmpPercent": 3.31
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 7,
-          "gmpPercent": 4.97
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 6,
-          "gmpPercent": 4.47
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 7,
-          "gmpPercent": 4.77
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 7,
-          "gmpPercent": 4.64
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 4,
-          "gmpPercent": 2.81
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 3,
-          "gmpPercent": 2.48
-        },
-        {
-          "t": "2026-10-19T16:13:15.585Z",
-          "gmp": 3,
-          "gmpPercent": 2.32
-        },
-        {
-          "t": "2026-10-20T05:08:39.932Z",
-          "gmp": 3,
-          "gmpPercent": 2.32
-        },
-        {
-          "t": "2026-10-20T14:07:37.500Z",
-          "gmp": 2,
-          "gmpPercent": 1.66
-        },
-        {
-          "t": "2026-10-21T05:10:01.153Z",
-          "gmp": 2,
-          "gmpPercent": 1.32
-        },
-        {
-          "t": "2026-10-21T08:17:53.990Z",
-          "gmp": 1,
-          "gmpPercent": 1.26
-        }
-      ],
+      "close": "2026-10-30",
+      "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Upcoming"
     },
     "2306": {
       "name": "Jio Platforms",
@@ -852,11 +391,16 @@
           "t": "2026-10-22T14:21:50.402Z",
           "gmp": 242,
           "gmpPercent": 21.63
+        },
+        {
+          "t": "2026-10-23T05:12:45.676Z",
+          "gmp": 245,
+          "gmpPercent": 21.89
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.63,
-      "status": "Open"
+      "lastGmpPercent": 21.89,
+      "status": "Closing Today"
     },
     "2356": {
       "name": "Wiscon Industries",
@@ -866,121 +410,6 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Upcoming"
-    },
-    "2369": {
-      "name": "Tonbo Imaging India",
-      "category": "Mainboard",
-      "close": "2026-10-19",
-      "series": [
-        {
-          "t": "2026-10-12T06:21:37.350Z",
-          "gmp": 285,
-          "gmpPercent": 40.71
-        },
-        {
-          "t": "2026-10-12T10:17:24.473Z",
-          "gmp": 345,
-          "gmpPercent": 49.29
-        },
-        {
-          "t": "2026-10-13T07:00:02.877Z",
-          "gmp": 425,
-          "gmpPercent": 60.71
-        },
-        {
-          "t": "2026-10-13T10:08:05.710Z",
-          "gmp": 470,
-          "gmpPercent": 67.14
-        },
-        {
-          "t": "2026-10-14T05:14:32.335Z",
-          "gmp": 490,
-          "gmpPercent": 70
-        },
-        {
-          "t": "2026-10-14T08:25:14.160Z",
-          "gmp": 500,
-          "gmpPercent": 71.43
-        },
-        {
-          "t": "2026-10-15T05:01:30.869Z",
-          "gmp": 500,
-          "gmpPercent": 71.43
-        },
-        {
-          "t": "2026-10-16T04:51:17.312Z",
-          "gmp": 500,
-          "gmpPercent": 71.43
-        },
-        {
-          "t": "2026-10-17T04:51:43.697Z",
-          "gmp": 516,
-          "gmpPercent": 73.71
-        },
-        {
-          "t": "2026-10-17T12:42:32.900Z",
-          "gmp": 525,
-          "gmpPercent": 75
-        },
-        {
-          "t": "2026-10-18T04:58:50.007Z",
-          "gmp": 505,
-          "gmpPercent": 72.14
-        },
-        {
-          "t": "2026-10-18T12:59:22.459Z",
-          "gmp": 515,
-          "gmpPercent": 73.57
-        },
-        {
-          "t": "2026-10-19T05:06:42.807Z",
-          "gmp": 520,
-          "gmpPercent": 74.29
-        },
-        {
-          "t": "2026-10-19T08:31:07.115Z",
-          "gmp": 515,
-          "gmpPercent": 73.57
-        },
-        {
-          "t": "2026-10-20T05:08:39.932Z",
-          "gmp": 510,
-          "gmpPercent": 72.86
-        },
-        {
-          "t": "2026-10-20T14:07:37.500Z",
-          "gmp": 515,
-          "gmpPercent": 73.57
-        },
-        {
-          "t": "2026-10-21T05:10:01.153Z",
-          "gmp": 513,
-          "gmpPercent": 73.29
-        },
-        {
-          "t": "2026-10-21T14:21:12.398Z",
-          "gmp": 512,
-          "gmpPercent": 73.14
-        },
-        {
-          "t": "2026-10-22T05:14:00.469Z",
-          "gmp": 512,
-          "gmpPercent": 73.14
-        },
-        {
-          "t": "2026-10-22T08:19:54.626Z",
-          "gmp": 445,
-          "gmpPercent": 63.57
-        },
-        {
-          "t": "2026-10-22T14:21:50.402Z",
-          "gmp": 441,
-          "gmpPercent": 63
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 63,
-      "status": "Closed"
     },
     "2393": {
       "name": "Carver Roboweld",
