@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:16:23.903Z",
+  "updatedAt": "2026-10-23T14:04:35.135Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -149,11 +149,16 @@
           "t": "2026-10-23T08:16:23.903Z",
           "gmp": 8,
           "gmpPercent": 1.15
+        },
+        {
+          "t": "2026-10-23T14:04:35.135Z",
+          "gmp": 11,
+          "gmpPercent": 1.59
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.15,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.59,
+      "status": "Closed"
     },
     "1849": {
       "name": "BLS Polymers",
@@ -219,9 +224,15 @@
       "name": "Bombay Coated and Special Steels",
       "category": "Mainboard",
       "close": "2026-11-02",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-23T14:04:35.135Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 9.76,
       "status": "Upcoming"
     },
     "2229": {
@@ -401,11 +412,16 @@
           "t": "2026-10-23T05:12:45.676Z",
           "gmp": 245,
           "gmpPercent": 21.89
+        },
+        {
+          "t": "2026-10-23T14:04:35.135Z",
+          "gmp": 253,
+          "gmpPercent": 22.61
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 21.89,
-      "status": "Closing Today"
+      "lastGmpPercent": 22.61,
+      "status": "Closed"
     },
     "2356": {
       "name": "Wiscon Industries",
