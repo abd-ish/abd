@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:55:08.895Z",
+  "updatedAt": "2026-10-24T07:54:35.680Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -10,10 +10,15 @@
           "t": "2026-10-24T04:55:08.895Z",
           "gmp": 121,
           "gmpPercent": 7.27
+        },
+        {
+          "t": "2026-10-24T07:54:35.680Z",
+          "gmp": 115,
+          "gmpPercent": 6.91
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.27,
+      "lastGmpPercent": 6.91,
       "status": "Upcoming"
     },
     "1642": {
@@ -170,10 +175,15 @@
           "t": "2026-10-24T04:55:08.895Z",
           "gmp": 11,
           "gmpPercent": 1.59
+        },
+        {
+          "t": "2026-10-24T07:54:35.680Z",
+          "gmp": 12,
+          "gmpPercent": 1.73
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.59,
+      "lastGmpPercent": 1.73,
       "status": "Closed"
     },
     "1849": {
@@ -235,10 +245,15 @@
           "t": "2026-10-24T04:55:08.895Z",
           "gmp": 38,
           "gmpPercent": 25.33
+        },
+        {
+          "t": "2026-10-24T07:54:35.680Z",
+          "gmp": 33,
+          "gmpPercent": 22
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25.33,
+      "lastGmpPercent": 22,
       "status": "Upcoming"
     },
     "1936": {
@@ -283,9 +298,15 @@
       "name": "M.K.Sons Fine Jewels",
       "category": "Mainboard",
       "close": "2026-10-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-24T07:54:35.680Z",
+          "gmp": 8,
+          "gmpPercent": 4.94
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.94,
       "status": "Upcoming"
     },
     "2306": {
@@ -457,10 +478,15 @@
           "t": "2026-10-24T04:55:08.895Z",
           "gmp": 250,
           "gmpPercent": 22.34
+        },
+        {
+          "t": "2026-10-24T07:54:35.680Z",
+          "gmp": 249,
+          "gmpPercent": 22.25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.34,
+      "lastGmpPercent": 22.25,
       "status": "Closed"
     },
     "2356": {
