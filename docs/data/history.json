@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-23T14:04:35.135Z",
+  "updatedAt": "2026-10-24T04:55:08.895Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
       "category": "Mainboard",
       "close": "2026-10-28",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 121,
+          "gmpPercent": 7.27
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.27,
       "status": "Upcoming"
     },
     "1642": {
@@ -32,6 +38,11 @@
         },
         {
           "t": "2026-10-23T05:12:45.676Z",
+          "gmp": 21,
+          "gmpPercent": 6.36
+        },
+        {
+          "t": "2026-10-24T04:55:08.895Z",
           "gmp": 21,
           "gmpPercent": 6.36
         }
@@ -154,6 +165,11 @@
           "t": "2026-10-23T14:04:35.135Z",
           "gmp": 11,
           "gmpPercent": 1.59
+        },
+        {
+          "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 11,
+          "gmpPercent": 1.59
         }
       ],
       "alertedAbove": false,
@@ -214,6 +230,11 @@
           "t": "2026-10-23T05:12:45.676Z",
           "gmp": 38,
           "gmpPercent": 25.33
+        },
+        {
+          "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 38,
+          "gmpPercent": 25.33
         }
       ],
       "alertedAbove": true,
@@ -229,10 +250,24 @@
           "t": "2026-10-23T14:04:35.135Z",
           "gmp": 8,
           "gmpPercent": 9.76
+        },
+        {
+          "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 9.76,
+      "status": "Upcoming"
+    },
+    "2017": {
+      "name": "Ajwa Projects",
+      "category": "SME",
+      "close": "2026-10-30",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
       "status": "Upcoming"
     },
     "2229": {
@@ -417,16 +452,30 @@
           "t": "2026-10-23T14:04:35.135Z",
           "gmp": 253,
           "gmpPercent": 22.61
+        },
+        {
+          "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 250,
+          "gmpPercent": 22.34
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.61,
+      "lastGmpPercent": 22.34,
       "status": "Closed"
     },
     "2356": {
       "name": "Wiscon Industries",
       "category": "SME",
       "close": "2026-10-29",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2375": {
+      "name": "Antala Industries",
+      "category": "SME",
+      "close": "2026-11-02",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
