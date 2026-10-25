@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:07:30.432Z",
+  "updatedAt": "2026-10-25T05:07:42.682Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -20,10 +20,15 @@
           "t": "2026-10-24T13:07:30.432Z",
           "gmp": 107,
           "gmpPercent": 6.43
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 45,
+          "gmpPercent": 2.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.43,
+      "lastGmpPercent": 2.7,
       "status": "Upcoming"
     },
     "1642": {
@@ -55,10 +60,15 @@
           "t": "2026-10-24T04:55:08.895Z",
           "gmp": 21,
           "gmpPercent": 6.36
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 32,
+          "gmpPercent": 9.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.36,
+      "lastGmpPercent": 9.7,
       "status": "Upcoming"
     },
     "1728": {
@@ -185,6 +195,11 @@
           "t": "2026-10-24T07:54:35.680Z",
           "gmp": 12,
           "gmpPercent": 1.73
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 12,
+          "gmpPercent": 1.73
         }
       ],
       "alertedAbove": false,
@@ -255,10 +270,15 @@
           "t": "2026-10-24T07:54:35.680Z",
           "gmp": 33,
           "gmpPercent": 22
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 38,
+          "gmpPercent": 25.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22,
+      "lastGmpPercent": 25.33,
       "status": "Upcoming"
     },
     "1936": {
@@ -273,6 +293,11 @@
         },
         {
           "t": "2026-10-24T04:55:08.895Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
           "gmp": 8,
           "gmpPercent": 9.76
         }
@@ -308,10 +333,15 @@
           "t": "2026-10-24T07:54:35.680Z",
           "gmp": 8,
           "gmpPercent": 4.94
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 7,
+          "gmpPercent": 4.32
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.94,
+      "lastGmpPercent": 4.32,
       "status": "Upcoming"
     },
     "2306": {
@@ -493,10 +523,15 @@
           "t": "2026-10-24T13:07:30.432Z",
           "gmp": 248,
           "gmpPercent": 22.16
+        },
+        {
+          "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 247,
+          "gmpPercent": 22.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.16,
+      "lastGmpPercent": 22.07,
       "status": "Closed"
     },
     "2356": {
