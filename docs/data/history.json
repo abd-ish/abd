@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:09:50.966Z",
+  "updatedAt": "2026-10-26T08:33:28.833Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -35,10 +35,15 @@
           "t": "2026-10-26T05:09:50.966Z",
           "gmp": 36,
           "gmpPercent": 2.16
+        },
+        {
+          "t": "2026-10-26T08:33:28.833Z",
+          "gmp": 35,
+          "gmpPercent": 2.1
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.16,
+      "lastGmpPercent": 2.1,
       "status": "Open"
     },
     "1642": {
@@ -80,10 +85,15 @@
           "t": "2026-10-26T05:09:50.966Z",
           "gmp": 32,
           "gmpPercent": 9.7
+        },
+        {
+          "t": "2026-10-26T08:33:28.833Z",
+          "gmp": 28,
+          "gmpPercent": 8.48
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.7,
+      "lastGmpPercent": 8.48,
       "status": "Upcoming"
     },
     "1728": {
