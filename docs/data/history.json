@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T13:34:23.273Z",
+  "updatedAt": "2026-10-26T05:09:50.966Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -30,11 +30,16 @@
           "t": "2026-10-25T13:34:23.273Z",
           "gmp": 40,
           "gmpPercent": 2.4
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
+          "gmp": 36,
+          "gmpPercent": 2.16
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.4,
-      "status": "Upcoming"
+      "lastGmpPercent": 2.16,
+      "status": "Open"
     },
     "1642": {
       "name": "SFC Environmental Technologies",
@@ -68,6 +73,11 @@
         },
         {
           "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 32,
+          "gmpPercent": 9.7
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
           "gmp": 32,
           "gmpPercent": 9.7
         }
@@ -210,6 +220,11 @@
           "t": "2026-10-25T13:34:23.273Z",
           "gmp": 9,
           "gmpPercent": 1.3
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
+          "gmp": 9,
+          "gmpPercent": 1.3
         }
       ],
       "alertedAbove": false,
@@ -285,6 +300,11 @@
           "t": "2026-10-25T05:07:42.682Z",
           "gmp": 38,
           "gmpPercent": 25.33
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
+          "gmp": 38,
+          "gmpPercent": 25.33
         }
       ],
       "alertedAbove": true,
@@ -308,6 +328,11 @@
         },
         {
           "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
           "gmp": 8,
           "gmpPercent": 9.76
         }
@@ -346,6 +371,11 @@
         },
         {
           "t": "2026-10-25T05:07:42.682Z",
+          "gmp": 7,
+          "gmpPercent": 4.32
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
           "gmp": 7,
           "gmpPercent": 4.32
         }
@@ -543,10 +573,15 @@
           "t": "2026-10-25T13:34:23.273Z",
           "gmp": 248,
           "gmpPercent": 22.16
+        },
+        {
+          "t": "2026-10-26T05:09:50.966Z",
+          "gmp": 247,
+          "gmpPercent": 22.07
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 22.16,
+      "lastGmpPercent": 22.07,
       "status": "Closed"
     },
     "2356": {
