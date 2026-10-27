@@ -1,33 +1,14 @@
 {
-  "generatedAt": "2026-10-26T15:52:43.120Z",
+  "generatedAt": "2026-10-27T05:24:59.220Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
-    {
-      "id": "1635",
-      "name": "EAAA India Alternatives",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Open",
-      "gmp": 23,
-      "gmpPercent": 1.38,
-      "price": 1665,
-      "lot": 9,
-      "ipoSize": "₹1200.00 Cr",
-      "open": "2026-10-26",
-      "close": "2026-10-28",
-      "listing": "2026-11-02",
-      "openDisplay": "26-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 23</b></small>",
-      "closeDisplay": "28-Oct",
-      "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
-      "updatedOn": "26-Oct 20:02"
-    },
     {
       "id": "2229",
       "name": "Core4 Engineers",
       "category": "SME",
       "exchange": "BSE SME",
-      "status": "Open",
+      "status": "Closing Today",
       "gmp": null,
       "gmpPercent": null,
       "price": 93,
@@ -37,28 +18,85 @@
       "close": "2026-10-27",
       "listing": "2026-10-30",
       "openDisplay": "23-Oct",
-      "closeDisplay": "27-Oct",
+      "closeDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/",
-      "updatedOn": "26-Oct 19:56"
+      "updatedOn": "27-Oct 6:29"
     },
     {
       "id": "1849",
       "name": "BLS Polymers",
       "category": "Mainboard",
       "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 39,
-      "gmpPercent": 26,
+      "status": "Open",
+      "gmp": 40,
+      "gmpPercent": 26.67,
       "price": 150,
       "lot": 100,
       "ipoSize": "₹255.00 Cr",
       "open": "2026-10-27",
       "close": "2026-10-29",
       "listing": "2026-11-03",
-      "openDisplay": "27-Oct",
+      "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
       "closeDisplay": "29-Oct",
       "url": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:37"
+    },
+    {
+      "id": "1642",
+      "name": "SFC Environmental Technologies",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 20,
+      "gmpPercent": 6.06,
+      "price": 330,
+      "lot": 45,
+      "ipoSize": "₹667.53 Cr",
+      "open": "2026-10-27",
+      "close": "2026-10-29",
+      "listing": "2026-11-03",
+      "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 20</b></small>",
+      "closeDisplay": "29-Oct",
+      "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
+      "updatedOn": "27-Oct 6:37"
+    },
+    {
+      "id": "1635",
+      "name": "EAAA India Alternatives",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 15,
+      "gmpPercent": 0.9,
+      "price": 1665,
+      "lot": 9,
+      "ipoSize": "₹1200.00 Cr",
+      "open": "2026-10-26",
+      "close": "2026-10-28",
+      "listing": "2026-11-02",
+      "openDisplay": "26-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
+      "closeDisplay": "28-Oct",
+      "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
+      "updatedOn": "27-Oct 6:37"
+    },
+    {
+      "id": "2356",
+      "name": "Wiscon Industries",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Open",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 204,
+      "lot": 600,
+      "ipoSize": "₹110.00 Cr",
+      "open": "2026-10-27",
+      "close": "2026-10-29",
+      "listing": "2026-11-03",
+      "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "closeDisplay": "29-Oct",
+      "url": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/",
+      "updatedOn": "27-Oct 6:33"
     },
     {
       "id": "1936",
@@ -77,26 +115,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "2-Nov",
       "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
-      "updatedOn": "26-Oct 20:02"
-    },
-    {
-      "id": "1642",
-      "name": "SFC Environmental Technologies",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 22,
-      "gmpPercent": 6.67,
-      "price": 330,
-      "lot": 45,
-      "ipoSize": "₹667.53 Cr",
-      "open": "2026-10-27",
-      "close": "2026-10-29",
-      "listing": "2026-11-03",
-      "openDisplay": "27-Oct",
-      "closeDisplay": "29-Oct",
-      "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:37"
     },
     {
       "id": "2288",
@@ -105,7 +124,7 @@
       "exchange": "IPO",
       "status": "Upcoming",
       "gmp": 8,
-      "gmpPercent": 5.25,
+      "gmpPercent": 4.94,
       "price": 162,
       "lot": 91,
       "ipoSize": "₹275.40 Cr",
@@ -115,7 +134,26 @@
       "openDisplay": "28-Oct",
       "closeDisplay": "30-Oct",
       "url": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:37"
+    },
+    {
+      "id": "2017",
+      "name": "Ajwa Projects",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Upcoming",
+      "gmp": 10,
+      "gmpPercent": 4.93,
+      "price": 203,
+      "lot": 600,
+      "ipoSize": "₹38.05 Cr",
+      "open": "2026-10-28",
+      "close": "2026-10-30",
+      "listing": "2026-11-04",
+      "openDisplay": "28-Oct",
+      "closeDisplay": "30-Oct",
+      "url": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/",
+      "updatedOn": "27-Oct 6:37"
     },
     {
       "id": "2375",
@@ -134,7 +172,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "2-Nov",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "26-Oct 20:01"
+      "updatedOn": "27-Oct 6:33"
     },
     {
       "id": "2393",
@@ -153,45 +191,7 @@
       "openDisplay": "28-Oct",
       "closeDisplay": "30-Oct",
       "url": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/",
-      "updatedOn": "26-Oct 19:55"
-    },
-    {
-      "id": "2017",
-      "name": "Ajwa Projects",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 203,
-      "lot": 600,
-      "ipoSize": "₹38.05 Cr",
-      "open": "2026-10-28",
-      "close": "2026-10-30",
-      "listing": "2026-11-04",
-      "openDisplay": "28-Oct",
-      "closeDisplay": "30-Oct",
-      "url": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/",
-      "updatedOn": "26-Oct 20:01"
-    },
-    {
-      "id": "2356",
-      "name": "Wiscon Industries",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 204,
-      "lot": 600,
-      "ipoSize": "₹110.00 Cr",
-      "open": "2026-10-27",
-      "close": "2026-10-29",
-      "listing": "2026-11-03",
-      "openDisplay": "27-Oct",
-      "closeDisplay": "29-Oct",
-      "url": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:30"
     },
     {
       "id": "2369",
@@ -541,8 +541,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 248,
-      "gmpPercent": 22.16,
+      "gmp": 244,
+      "gmpPercent": 21.81,
       "price": 1119,
       "lot": 12,
       "ipoSize": "₹30187.65 Cr",
@@ -552,7 +552,7 @@
       "openDisplay": "21-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 246</b></small>",
       "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 250</b></small>",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:37"
     },
     {
       "id": "1728",
@@ -571,7 +571,7 @@
       "openDisplay": "21-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 11</b></small>",
       "url": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/",
-      "updatedOn": "26-Oct 20:02"
+      "updatedOn": "27-Oct 6:37"
     }
   ]
 }
