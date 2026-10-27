@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:24:59.220Z",
+  "updatedAt": "2026-10-27T08:40:45.272Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -50,10 +50,15 @@
           "t": "2026-10-27T05:24:59.220Z",
           "gmp": 15,
           "gmpPercent": 0.9
+        },
+        {
+          "t": "2026-10-27T08:40:45.272Z",
+          "gmp": 12,
+          "gmpPercent": 0.72
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.9,
+      "lastGmpPercent": 0.72,
       "status": "Open"
     },
     "1642": {
@@ -246,6 +251,24 @@
       "lastGmpPercent": 10.98,
       "status": "Upcoming"
     },
+    "1965": {
+      "name": "Maxwell Engineering Solutions",
+      "category": "SME",
+      "close": "2026-11-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "1998": {
+      "name": "Vectras Enprocon",
+      "category": "SME",
+      "close": "2026-11-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2017": {
       "name": "Ajwa Projects",
       "category": "SME",
@@ -269,6 +292,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Closing Today"
+    },
+    "2241": {
+      "name": "HGS (India)",
+      "category": "SME",
+      "close": "2026-11-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2288": {
       "name": "M.K.Sons Fine Jewels",
@@ -299,10 +331,15 @@
           "t": "2026-10-27T05:24:59.220Z",
           "gmp": 8,
           "gmpPercent": 4.94
+        },
+        {
+          "t": "2026-10-27T08:40:45.272Z",
+          "gmp": 7,
+          "gmpPercent": 4.32
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.94,
+      "lastGmpPercent": 4.32,
       "status": "Upcoming"
     },
     "2356": {
@@ -313,6 +350,15 @@
       "alertedAbove": false,
       "lastGmpPercent": null,
       "status": "Open"
+    },
+    "2371": {
+      "name": "Johnsoncab Electricals",
+      "category": "SME",
+      "close": "2026-11-03",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2375": {
       "name": "Antala Industries",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:24:59.220Z",
+  "generatedAt": "2026-10-27T08:40:45.272Z",
   "count": 30,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "23-Oct",
       "closeDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/",
-      "updatedOn": "27-Oct 6:29"
+      "updatedOn": "27-Oct 11:32"
     },
     {
       "id": "1849",
@@ -39,7 +39,7 @@
       "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
       "closeDisplay": "29-Oct",
       "url": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     },
     {
       "id": "1642",
@@ -58,7 +58,7 @@
       "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 20</b></small>",
       "closeDisplay": "29-Oct",
       "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     },
     {
       "id": "1635",
@@ -66,8 +66,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 15,
-      "gmpPercent": 0.9,
+      "gmp": 12,
+      "gmpPercent": 0.72,
       "price": 1665,
       "lot": 9,
       "ipoSize": "₹1200.00 Cr",
@@ -77,7 +77,7 @@
       "openDisplay": "26-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
       "closeDisplay": "28-Oct",
       "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     },
     {
       "id": "2356",
@@ -96,7 +96,7 @@
       "openDisplay": "27-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "closeDisplay": "29-Oct",
       "url": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/",
-      "updatedOn": "27-Oct 6:33"
+      "updatedOn": "27-Oct 11:28"
     },
     {
       "id": "1936",
@@ -115,26 +115,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "2-Nov",
       "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
-      "updatedOn": "27-Oct 6:37"
-    },
-    {
-      "id": "2288",
-      "name": "M.K.Sons Fine Jewels",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 8,
-      "gmpPercent": 4.94,
-      "price": 162,
-      "lot": 91,
-      "ipoSize": "₹275.40 Cr",
-      "open": "2026-10-28",
-      "close": "2026-10-30",
-      "listing": "2026-11-04",
-      "openDisplay": "28-Oct",
-      "closeDisplay": "30-Oct",
-      "url": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     },
     {
       "id": "2017",
@@ -153,7 +134,102 @@
       "openDisplay": "28-Oct",
       "closeDisplay": "30-Oct",
       "url": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
+    },
+    {
+      "id": "2288",
+      "name": "M.K.Sons Fine Jewels",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 7,
+      "gmpPercent": 4.32,
+      "price": 162,
+      "lot": 91,
+      "ipoSize": "₹275.40 Cr",
+      "open": "2026-10-28",
+      "close": "2026-10-30",
+      "listing": "2026-11-04",
+      "openDisplay": "28-Oct",
+      "closeDisplay": "30-Oct",
+      "url": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
+      "updatedOn": "27-Oct 11:37"
+    },
+    {
+      "id": "2371",
+      "name": "Johnsoncab Electricals",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 200,
+      "lot": 600,
+      "ipoSize": "₹56.02 Cr",
+      "open": "2026-10-30",
+      "close": "2026-11-03",
+      "listing": "2026-11-06",
+      "openDisplay": "30-Oct",
+      "closeDisplay": "3-Nov",
+      "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
+      "updatedOn": ""
+    },
+    {
+      "id": "2241",
+      "name": "HGS (India)",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 120,
+      "lot": 1200,
+      "ipoSize": "₹34.56 Cr",
+      "open": "2026-10-30",
+      "close": "2026-11-03",
+      "listing": "2026-11-06",
+      "openDisplay": "30-Oct",
+      "closeDisplay": "3-Nov",
+      "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
+      "updatedOn": ""
+    },
+    {
+      "id": "1998",
+      "name": "Vectras Enprocon",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 105,
+      "lot": 1200,
+      "ipoSize": "₹53.05 Cr",
+      "open": "2026-10-30",
+      "close": "2026-11-03",
+      "listing": "2026-11-06",
+      "openDisplay": "30-Oct",
+      "closeDisplay": "3-Nov",
+      "url": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
+      "updatedOn": ""
+    },
+    {
+      "id": "1965",
+      "name": "Maxwell Engineering Solutions",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 158,
+      "lot": 800,
+      "ipoSize": "₹57.64 Cr",
+      "open": "2026-10-30",
+      "close": "2026-11-03",
+      "listing": "2026-11-06",
+      "openDisplay": "30-Oct",
+      "closeDisplay": "3-Nov",
+      "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
+      "updatedOn": ""
     },
     {
       "id": "2375",
@@ -172,7 +248,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "2-Nov",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "27-Oct 6:33"
+      "updatedOn": "27-Oct 11:33"
     },
     {
       "id": "2393",
@@ -191,7 +267,7 @@
       "openDisplay": "28-Oct",
       "closeDisplay": "30-Oct",
       "url": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/",
-      "updatedOn": "27-Oct 6:30"
+      "updatedOn": "27-Oct 11:32"
     },
     {
       "id": "2369",
@@ -211,25 +287,6 @@
       "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 510</b></small>",
       "url": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/",
       "updatedOn": "23-Oct 9:37"
-    },
-    {
-      "id": "1637",
-      "name": "EverestIMS Technologies",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 50,
-      "gmpPercent": 58.82,
-      "price": 85,
-      "lot": 1600,
-      "ipoSize": "₹48.46 Cr",
-      "open": "2026-09-29",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "29-Sep<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 16</b></small>",
-      "closeDisplay": "5-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 42</b></small>",
-      "url": "https://www.investorgain.com/gmp/everestims-technologies-ipo/1637/",
-      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "1902",
@@ -270,25 +327,6 @@
       "updatedOn": "9-Oct 9:37"
     },
     {
-      "id": "2274",
-      "name": "Sollfege Smart Electronics",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 10,
-      "gmpPercent": 18.18,
-      "price": 55,
-      "lot": 2000,
-      "ipoSize": "₹21.78 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/",
-      "updatedOn": "8-Oct 9:37"
-    },
-    {
       "id": "2124",
       "name": "Bonfiglioli Transmissions",
       "category": "Mainboard",
@@ -306,25 +344,6 @@
       "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 127</b></small>",
       "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
       "updatedOn": "23-Oct 9:37"
-    },
-    {
-      "id": "2282",
-      "name": "Shree TNB Polymers",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 4,
-      "gmpPercent": 7.55,
-      "price": 53,
-      "lot": 2000,
-      "ipoSize": "₹31.80 Cr",
-      "open": "2026-09-28",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
-      "openDisplay": "28-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/",
-      "updatedOn": "8-Oct 9:37"
     },
     {
       "id": "2335",
@@ -460,25 +479,6 @@
       "updatedOn": "23-Oct 9:37"
     },
     {
-      "id": "2001",
-      "name": "Paramount Syntex",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 127,
-      "lot": 1000,
-      "ipoSize": "₹81.79 Cr",
-      "open": "2026-09-30",
-      "close": "2026-10-06",
-      "listing": "2026-10-09",
-      "openDisplay": "30-Sep",
-      "closeDisplay": "6-Oct",
-      "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
-      "updatedOn": "9-Oct 9:31"
-    },
-    {
       "id": "2370",
       "name": "TNA Solutions",
       "category": "SME",
@@ -498,42 +498,42 @@
       "updatedOn": "9-Oct 9:37"
     },
     {
-      "id": "1781",
-      "name": "Dove Soft",
+      "id": "2001",
+      "name": "Paramount Syntex",
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 111,
-      "lot": 1200,
-      "ipoSize": "₹73.26 Cr",
+      "price": 127,
+      "lot": 1000,
+      "ipoSize": "₹81.79 Cr",
       "open": "2026-09-30",
-      "close": "2026-10-05",
-      "listing": "2026-10-08",
+      "close": "2026-10-06",
+      "listing": "2026-10-09",
       "openDisplay": "30-Sep",
-      "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/",
-      "updatedOn": "8-Oct 9:37"
+      "closeDisplay": "6-Oct",
+      "url": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/",
+      "updatedOn": "9-Oct 9:31"
     },
     {
-      "id": "2267",
-      "name": "Eventions",
+      "id": "2347",
+      "name": "Omara Ventures India",
       "category": "SME",
-      "exchange": "NSE SME",
+      "exchange": "BSE SME",
       "status": "Listed",
       "gmp": null,
       "gmpPercent": null,
-      "price": 118,
-      "lot": 1200,
-      "ipoSize": "₹38.12 Cr",
+      "price": 311,
+      "lot": 400,
+      "ipoSize": "₹41.99 Cr",
       "open": "2026-09-30",
       "close": "2026-10-05",
       "listing": "2026-10-08",
       "openDisplay": "30-Sep",
       "closeDisplay": "5-Oct",
-      "url": "https://www.investorgain.com/gmp/eventions-ipo/2267/",
-      "updatedOn": "8-Oct 9:35"
+      "url": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/",
+      "updatedOn": "8-Oct 9:28"
     },
     {
       "id": "2306",
@@ -541,8 +541,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 244,
-      "gmpPercent": 21.81,
+      "gmp": 260,
+      "gmpPercent": 23.24,
       "price": 1119,
       "lot": 12,
       "ipoSize": "₹30187.65 Cr",
@@ -552,7 +552,7 @@
       "openDisplay": "21-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 246</b></small>",
       "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 250</b></small>",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     },
     {
       "id": "1728",
@@ -560,8 +560,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 11,
-      "gmpPercent": 1.59,
+      "gmp": 12,
+      "gmpPercent": 1.73,
       "price": 693,
       "lot": 21,
       "ipoSize": "₹1450.00 Cr",
@@ -571,7 +571,7 @@
       "openDisplay": "21-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 11</b></small>",
       "url": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/",
-      "updatedOn": "27-Oct 6:37"
+      "updatedOn": "27-Oct 11:37"
     }
   ]
 }
