@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:40:45.272Z",
+  "updatedAt": "2026-10-27T15:08:34.352Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -55,10 +55,15 @@
           "t": "2026-10-27T08:40:45.272Z",
           "gmp": 12,
           "gmpPercent": 0.72
+        },
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 10,
+          "gmpPercent": 0.6
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.72,
+      "lastGmpPercent": 0.6,
       "status": "Open"
     },
     "1642": {
@@ -115,10 +120,15 @@
           "t": "2026-10-27T05:24:59.220Z",
           "gmp": 20,
           "gmpPercent": 6.06
+        },
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 15,
+          "gmpPercent": 4.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.06,
+      "lastGmpPercent": 4.55,
       "status": "Open"
     },
     "1849": {
@@ -205,10 +215,15 @@
           "t": "2026-10-27T05:24:59.220Z",
           "gmp": 40,
           "gmpPercent": 26.67
+        },
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 44,
+          "gmpPercent": 29.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.67,
+      "lastGmpPercent": 29.33,
       "status": "Open"
     },
     "1936": {
@@ -255,9 +270,15 @@
       "name": "Maxwell Engineering Solutions",
       "category": "SME",
       "close": "2026-11-03",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 25,
+          "gmpPercent": 15.82
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 15.82,
       "status": "Upcoming"
     },
     "1998": {
@@ -278,10 +299,15 @@
           "t": "2026-10-27T05:24:59.220Z",
           "gmp": 10,
           "gmpPercent": 4.93
+        },
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 25,
+          "gmpPercent": 12.32
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 4.93,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.32,
       "status": "Upcoming"
     },
     "2229": {
@@ -291,7 +317,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2241": {
       "name": "HGS (India)",
@@ -336,10 +362,15 @@
           "t": "2026-10-27T08:40:45.272Z",
           "gmp": 7,
           "gmpPercent": 4.32
+        },
+        {
+          "t": "2026-10-27T15:08:34.352Z",
+          "gmp": 9,
+          "gmpPercent": 5.56
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.32,
+      "lastGmpPercent": 5.56,
       "status": "Upcoming"
     },
     "2356": {
