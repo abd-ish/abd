@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:05:29.609Z",
+  "updatedAt": "2026-10-28T09:20:41.796Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -65,10 +65,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 11,
           "gmpPercent": 0.66
+        },
+        {
+          "t": "2026-10-28T09:20:41.796Z",
+          "gmp": 12,
+          "gmpPercent": 0.72
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.66,
+      "lastGmpPercent": 0.72,
       "status": "Closing Today"
     },
     "1642": {
@@ -135,10 +140,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 17,
           "gmpPercent": 5.15
+        },
+        {
+          "t": "2026-10-28T09:20:41.796Z",
+          "gmp": 15,
+          "gmpPercent": 4.55
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.15,
+      "lastGmpPercent": 4.55,
       "status": "Open"
     },
     "1849": {
@@ -235,10 +245,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 44,
           "gmpPercent": 29.33
+        },
+        {
+          "t": "2026-10-28T09:20:41.796Z",
+          "gmp": 47,
+          "gmpPercent": 31.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 29.33,
+      "lastGmpPercent": 31.33,
       "status": "Open"
     },
     "1936": {
@@ -402,10 +417,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 10,
           "gmpPercent": 6.17
+        },
+        {
+          "t": "2026-10-28T09:20:41.796Z",
+          "gmp": 12,
+          "gmpPercent": 7.41
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.17,
+      "lastGmpPercent": 7.41,
       "status": "Open"
     },
     "2297": {
@@ -430,9 +450,15 @@
       "name": "Johnsoncab Electricals",
       "category": "SME",
       "close": "2026-11-03",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-28T09:20:41.796Z",
+          "gmp": 9,
+          "gmpPercent": 4.5
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.5,
       "status": "Upcoming"
     },
     "2375": {
