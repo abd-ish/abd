@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:20:41.796Z",
+  "updatedAt": "2026-10-29T06:16:18.049Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -70,11 +70,16 @@
           "t": "2026-10-28T09:20:41.796Z",
           "gmp": 12,
           "gmpPercent": 0.72
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 28,
+          "gmpPercent": 1.68
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.72,
-      "status": "Closing Today"
+      "lastGmpPercent": 1.68,
+      "status": "Closed"
     },
     "1642": {
       "name": "SFC Environmental Technologies",
@@ -145,11 +150,16 @@
           "t": "2026-10-28T09:20:41.796Z",
           "gmp": 15,
           "gmpPercent": 4.55
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 10,
+          "gmpPercent": 3.03
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.55,
-      "status": "Open"
+      "lastGmpPercent": 3.03,
+      "status": "Closing Today"
     },
     "1849": {
       "name": "BLS Polymers",
@@ -250,11 +260,16 @@
           "t": "2026-10-28T09:20:41.796Z",
           "gmp": 47,
           "gmpPercent": 31.33
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 51,
+          "gmpPercent": 34
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 31.33,
-      "status": "Open"
+      "lastGmpPercent": 34,
+      "status": "Closing Today"
     },
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -295,11 +310,16 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 9,
           "gmpPercent": 10.98
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 9,
+          "gmpPercent": 10.98
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 10.98,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "1965": {
       "name": "Maxwell Engineering Solutions",
@@ -315,10 +335,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 27,
           "gmpPercent": 17.09
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 52,
+          "gmpPercent": 32.91
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 17.09,
+      "lastGmpPercent": 32.91,
       "status": "Upcoming"
     },
     "1998": {
@@ -349,10 +374,15 @@
           "t": "2026-10-28T06:05:29.609Z",
           "gmp": 38,
           "gmpPercent": 18.72
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 35,
+          "gmpPercent": 17.24
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.72,
+      "lastGmpPercent": 17.24,
       "status": "Open"
     },
     "2229": {
@@ -422,10 +452,15 @@
           "t": "2026-10-28T09:20:41.796Z",
           "gmp": 12,
           "gmpPercent": 7.41
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 15,
+          "gmpPercent": 9.26
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.41,
+      "lastGmpPercent": 9.26,
       "status": "Open"
     },
     "2297": {
@@ -444,7 +479,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2371": {
       "name": "Johnsoncab Electricals",
@@ -455,10 +490,15 @@
           "t": "2026-10-28T09:20:41.796Z",
           "gmp": 9,
           "gmpPercent": 4.5
+        },
+        {
+          "t": "2026-10-29T06:16:18.049Z",
+          "gmp": 10,
+          "gmpPercent": 5
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.5,
+      "lastGmpPercent": 5,
       "status": "Upcoming"
     },
     "2375": {
@@ -468,7 +508,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2393": {
       "name": "Carver Roboweld",
