@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:25:19.670Z",
+  "updatedAt": "2026-10-30T06:16:55.032Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -80,10 +80,15 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 27,
           "gmpPercent": 1.62
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 38,
+          "gmpPercent": 2.28
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.62,
+      "lastGmpPercent": 2.28,
       "status": "Closed"
     },
     "1642": {
@@ -165,11 +170,16 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 7,
           "gmpPercent": 2.12
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 19,
+          "gmpPercent": 5.76
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.12,
-      "status": "Closing Today"
+      "lastGmpPercent": 5.76,
+      "status": "Closed"
     },
     "1849": {
       "name": "BLS Polymers",
@@ -280,11 +290,16 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 60,
           "gmpPercent": 40
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 68,
+          "gmpPercent": 45.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 40,
-      "status": "Closing Today"
+      "lastGmpPercent": 45.33,
+      "status": "Closed"
     },
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -330,6 +345,11 @@
           "t": "2026-10-29T06:16:18.049Z",
           "gmp": 9,
           "gmpPercent": 10.98
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 9,
+          "gmpPercent": 10.98
         }
       ],
       "alertedAbove": true,
@@ -355,11 +375,16 @@
           "t": "2026-10-29T06:16:18.049Z",
           "gmp": 52,
           "gmpPercent": 32.91
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 70,
+          "gmpPercent": 44.3
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.91,
-      "status": "Upcoming"
+      "lastGmpPercent": 44.3,
+      "status": "Open"
     },
     "1998": {
       "name": "Vectras Enprocon",
@@ -368,7 +393,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2017": {
       "name": "Ajwa Projects",
@@ -399,11 +424,16 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 15,
           "gmpPercent": 7.39
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 5,
+          "gmpPercent": 2.46
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.39,
-      "status": "Open"
+      "lastGmpPercent": 2.46,
+      "status": "Closing Today"
     },
     "2229": {
       "name": "Core4 Engineers",
@@ -412,7 +442,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closed"
+      "status": "Listed"
     },
     "2241": {
       "name": "HGS (India)",
@@ -421,7 +451,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2288": {
       "name": "M.K.Sons Fine Jewels",
@@ -482,11 +512,16 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 11,
           "gmpPercent": 6.79
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 12,
+          "gmpPercent": 7.72
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.79,
-      "status": "Open"
+      "lastGmpPercent": 7.72,
+      "status": "Closing Today"
     },
     "2297": {
       "name": "Vedant Poly Fabs",
@@ -504,7 +539,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2371": {
       "name": "Johnsoncab Electricals",
@@ -525,11 +560,16 @@
           "t": "2026-10-29T09:25:19.670Z",
           "gmp": 13,
           "gmpPercent": 6.5
+        },
+        {
+          "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 13,
+          "gmpPercent": 6.5
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.5,
-      "status": "Upcoming"
+      "status": "Open"
     },
     "2375": {
       "name": "Antala Industries",
@@ -547,7 +587,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     }
   }
 }
