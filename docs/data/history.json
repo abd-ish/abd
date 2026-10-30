@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:16:55.032Z",
+  "updatedAt": "2026-10-30T09:39:06.411Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -85,10 +85,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 38,
           "gmpPercent": 2.28
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 58,
+          "gmpPercent": 3.48
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.28,
+      "lastGmpPercent": 3.48,
       "status": "Closed"
     },
     "1642": {
@@ -175,10 +180,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 19,
           "gmpPercent": 5.76
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 21,
+          "gmpPercent": 6.36
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.76,
+      "lastGmpPercent": 6.36,
       "status": "Closed"
     },
     "1849": {
@@ -295,10 +305,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 68,
           "gmpPercent": 45.33
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 72,
+          "gmpPercent": 48
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 45.33,
+      "lastGmpPercent": 48,
       "status": "Closed"
     },
     "1936": {
@@ -350,10 +365,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 9,
           "gmpPercent": 10.98
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 8,
+          "gmpPercent": 10.37
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.98,
+      "lastGmpPercent": 10.37,
       "status": "Open"
     },
     "1965": {
@@ -429,10 +449,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 5,
           "gmpPercent": 2.46
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 2,
+          "gmpPercent": 0.99
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.46,
+      "lastGmpPercent": 0.99,
       "status": "Closing Today"
     },
     "2229": {
@@ -448,9 +473,15 @@
       "name": "HGS (India)",
       "category": "SME",
       "close": "2026-11-03",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 19,
+          "gmpPercent": 15.83
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 15.83,
       "status": "Open"
     },
     "2288": {
@@ -517,10 +548,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 12,
           "gmpPercent": 7.72
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 8,
+          "gmpPercent": 4.94
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.72,
+      "lastGmpPercent": 4.94,
       "status": "Closing Today"
     },
     "2297": {
@@ -565,10 +601,15 @@
           "t": "2026-10-30T06:16:55.032Z",
           "gmp": 13,
           "gmpPercent": 6.5
+        },
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 10,
+          "gmpPercent": 5
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.5,
+      "lastGmpPercent": 5,
       "status": "Open"
     },
     "2375": {
@@ -584,9 +625,15 @@
       "name": "Carver Roboweld",
       "category": "SME",
       "close": "2026-10-30",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-30T09:39:06.411Z",
+          "gmp": 3,
+          "gmpPercent": 3.75
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 3.75,
       "status": "Closing Today"
     }
   }
