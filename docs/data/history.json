@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:39:06.411Z",
+  "updatedAt": "2026-10-31T06:08:14.294Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -90,10 +90,15 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 58,
           "gmpPercent": 3.48
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 52,
+          "gmpPercent": 3.12
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.48,
+      "lastGmpPercent": 3.12,
       "status": "Closed"
     },
     "1642": {
@@ -185,10 +190,15 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 21,
           "gmpPercent": 6.36
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 20,
+          "gmpPercent": 6.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.36,
+      "lastGmpPercent": 6.06,
       "status": "Closed"
     },
     "1849": {
@@ -310,10 +320,15 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 72,
           "gmpPercent": 48
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 70,
+          "gmpPercent": 46.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 48,
+      "lastGmpPercent": 46.67,
       "status": "Closed"
     },
     "1936": {
@@ -370,10 +385,15 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 8,
           "gmpPercent": 10.37
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 7,
+          "gmpPercent": 8.54
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.37,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.54,
       "status": "Open"
     },
     "1965": {
@@ -398,6 +418,11 @@
         },
         {
           "t": "2026-10-30T06:16:55.032Z",
+          "gmp": 70,
+          "gmpPercent": 44.3
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
           "gmp": 70,
           "gmpPercent": 44.3
         }
@@ -454,20 +479,16 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 2,
           "gmpPercent": 0.99
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 2,
+          "gmpPercent": 0.99
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.99,
-      "status": "Closing Today"
-    },
-    "2229": {
-      "name": "Core4 Engineers",
-      "category": "SME",
-      "close": "2026-10-27",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Listed"
+      "status": "Closed"
     },
     "2241": {
       "name": "HGS (India)",
@@ -478,10 +499,15 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 19,
           "gmpPercent": 15.83
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 30,
+          "gmpPercent": 25
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.83,
+      "lastGmpPercent": 25,
       "status": "Open"
     },
     "2288": {
@@ -553,11 +579,16 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 8,
           "gmpPercent": 4.94
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 6,
+          "gmpPercent": 3.7
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.94,
-      "status": "Closing Today"
+      "lastGmpPercent": 3.7,
+      "status": "Closed"
     },
     "2297": {
       "name": "Vedant Poly Fabs",
@@ -606,6 +637,11 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 10,
           "gmpPercent": 5
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 10,
+          "gmpPercent": 5
         }
       ],
       "alertedAbove": false,
@@ -630,11 +666,16 @@
           "t": "2026-10-30T09:39:06.411Z",
           "gmp": 3,
           "gmpPercent": 3.75
+        },
+        {
+          "t": "2026-10-31T06:08:14.294Z",
+          "gmp": 5,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.75,
-      "status": "Closing Today"
+      "lastGmpPercent": 6.25,
+      "status": "Closed"
     }
   }
 }
