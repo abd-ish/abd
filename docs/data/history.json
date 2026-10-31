@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:08:14.294Z",
+  "updatedAt": "2026-10-31T09:18:38.262Z",
   "ipos": {
     "1635": {
       "name": "EAAA India Alternatives",
@@ -95,10 +95,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 52,
           "gmpPercent": 3.12
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 53,
+          "gmpPercent": 3.18
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.12,
+      "lastGmpPercent": 3.18,
       "status": "Closed"
     },
     "1642": {
@@ -195,10 +200,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 20,
           "gmpPercent": 6.06
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 25,
+          "gmpPercent": 7.73
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.06,
+      "lastGmpPercent": 7.73,
       "status": "Closed"
     },
     "1849": {
@@ -325,10 +335,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 70,
           "gmpPercent": 46.67
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 67,
+          "gmpPercent": 44.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 46.67,
+      "lastGmpPercent": 44.67,
       "status": "Closed"
     },
     "1936": {
@@ -390,10 +405,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 7,
           "gmpPercent": 8.54
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 10,
+          "gmpPercent": 12.2
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.54,
+      "alertedAbove": true,
+      "lastGmpPercent": 12.2,
       "status": "Open"
     },
     "1965": {
@@ -484,10 +504,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 2,
           "gmpPercent": 0.99
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 1,
+          "gmpPercent": 0.49
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.99,
+      "lastGmpPercent": 0.49,
       "status": "Closed"
     },
     "2241": {
@@ -584,19 +609,30 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 6,
           "gmpPercent": 3.7
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 5,
+          "gmpPercent": 3.09
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.7,
+      "lastGmpPercent": 3.09,
       "status": "Closed"
     },
     "2297": {
       "name": "Vedant Poly Fabs",
       "category": "SME",
       "close": "2026-11-04",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 4,
+          "gmpPercent": 4.52
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.52,
       "status": "Upcoming"
     },
     "2356": {
@@ -642,10 +678,15 @@
           "t": "2026-10-31T06:08:14.294Z",
           "gmp": 10,
           "gmpPercent": 5
+        },
+        {
+          "t": "2026-10-31T09:18:38.262Z",
+          "gmp": 5,
+          "gmpPercent": 2.5
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5,
+      "lastGmpPercent": 2.5,
       "status": "Open"
     },
     "2375": {
