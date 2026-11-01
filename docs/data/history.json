@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:38:54.869Z",
+  "updatedAt": "2026-11-01T10:07:20.268Z",
   "ipos": {
     "1642": {
       "name": "SFC Environmental Technologies",
@@ -105,10 +105,15 @@
           "t": "2026-11-01T06:38:54.869Z",
           "gmp": 23,
           "gmpPercent": 7.12
+        },
+        {
+          "t": "2026-11-01T10:07:20.268Z",
+          "gmp": 26,
+          "gmpPercent": 8.03
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.12,
+      "lastGmpPercent": 8.03,
       "status": "Closed"
     },
     "1849": {
@@ -320,10 +325,15 @@
           "t": "2026-11-01T06:38:54.869Z",
           "gmp": 8,
           "gmpPercent": 10.37
+        },
+        {
+          "t": "2026-11-01T10:07:20.268Z",
+          "gmp": 9,
+          "gmpPercent": 10.98
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 10.37,
+      "lastGmpPercent": 10.98,
       "status": "Open"
     },
     "1965": {
