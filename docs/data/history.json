@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:07:44.851Z",
+  "updatedAt": "2026-11-03T10:28:54.647Z",
   "ipos": {
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -90,10 +90,15 @@
           "t": "2026-11-03T07:07:44.851Z",
           "gmp": 8,
           "gmpPercent": 9.76
+        },
+        {
+          "t": "2026-11-03T10:28:54.647Z",
+          "gmp": 9,
+          "gmpPercent": 10.98
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 9.76,
+      "lastGmpPercent": 10.98,
       "status": "Closed"
     },
     "1965": {
@@ -184,10 +189,15 @@
           "t": "2026-11-03T07:07:44.851Z",
           "gmp": 30,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-11-03T10:28:54.647Z",
+          "gmp": 20,
+          "gmpPercent": 16.67
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 25,
+      "lastGmpPercent": 16.67,
       "status": "Closing Today"
     },
     "2297": {
@@ -274,10 +284,15 @@
           "t": "2026-11-03T07:07:44.851Z",
           "gmp": 10,
           "gmpPercent": 5
+        },
+        {
+          "t": "2026-11-03T10:28:54.647Z",
+          "gmp": 8,
+          "gmpPercent": 4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5,
+      "lastGmpPercent": 4,
       "status": "Closing Today"
     },
     "2375": {
