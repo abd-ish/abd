@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:35:36.470Z",
+  "updatedAt": "2026-11-03T07:07:44.851Z",
   "ipos": {
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -85,11 +85,16 @@
           "t": "2026-11-02T10:35:36.470Z",
           "gmp": 8,
           "gmpPercent": 10.37
+        },
+        {
+          "t": "2026-11-03T07:07:44.851Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 10.37,
-      "status": "Closing Today"
+      "alertedAbove": false,
+      "lastGmpPercent": 9.76,
+      "status": "Closed"
     },
     "1965": {
       "name": "Maxwell Engineering Solutions",
@@ -130,11 +135,16 @@
           "t": "2026-11-02T06:38:19.876Z",
           "gmp": 70,
           "gmpPercent": 44.3
+        },
+        {
+          "t": "2026-11-03T07:07:44.851Z",
+          "gmp": 80,
+          "gmpPercent": 50.63
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 44.3,
-      "status": "Open"
+      "lastGmpPercent": 50.63,
+      "status": "Closing Today"
     },
     "1998": {
       "name": "Vectras Enprocon",
@@ -143,72 +153,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
-    },
-    "2017": {
-      "name": "Ajwa Projects",
-      "category": "SME",
-      "close": "2026-10-30",
-      "series": [
-        {
-          "t": "2026-10-27T05:24:59.220Z",
-          "gmp": 10,
-          "gmpPercent": 4.93
-        },
-        {
-          "t": "2026-10-27T15:08:34.352Z",
-          "gmp": 25,
-          "gmpPercent": 12.32
-        },
-        {
-          "t": "2026-10-28T06:05:29.609Z",
-          "gmp": 38,
-          "gmpPercent": 18.72
-        },
-        {
-          "t": "2026-10-29T06:16:18.049Z",
-          "gmp": 35,
-          "gmpPercent": 17.24
-        },
-        {
-          "t": "2026-10-29T09:25:19.670Z",
-          "gmp": 15,
-          "gmpPercent": 7.39
-        },
-        {
-          "t": "2026-10-30T06:16:55.032Z",
-          "gmp": 5,
-          "gmpPercent": 2.46
-        },
-        {
-          "t": "2026-10-30T09:39:06.411Z",
-          "gmp": 2,
-          "gmpPercent": 0.99
-        },
-        {
-          "t": "2026-10-31T06:08:14.294Z",
-          "gmp": 2,
-          "gmpPercent": 0.99
-        },
-        {
-          "t": "2026-10-31T09:18:38.262Z",
-          "gmp": 1,
-          "gmpPercent": 0.49
-        },
-        {
-          "t": "2026-11-01T06:38:54.869Z",
-          "gmp": 1,
-          "gmpPercent": 0.49
-        },
-        {
-          "t": "2026-11-02T06:38:19.876Z",
-          "gmp": 1,
-          "gmpPercent": 0.49
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0.49,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "2241": {
       "name": "HGS (India)",
@@ -234,106 +179,16 @@
           "t": "2026-11-02T06:38:19.876Z",
           "gmp": 30,
           "gmpPercent": 25
+        },
+        {
+          "t": "2026-11-03T07:07:44.851Z",
+          "gmp": 30,
+          "gmpPercent": 25
         }
       ],
       "alertedAbove": true,
       "lastGmpPercent": 25,
-      "status": "Open"
-    },
-    "2288": {
-      "name": "M.K.Sons Fine Jewels",
-      "category": "Mainboard",
-      "close": "2026-10-30",
-      "series": [
-        {
-          "t": "2026-10-24T07:54:35.680Z",
-          "gmp": 8,
-          "gmpPercent": 4.94
-        },
-        {
-          "t": "2026-10-25T05:07:42.682Z",
-          "gmp": 7,
-          "gmpPercent": 4.32
-        },
-        {
-          "t": "2026-10-26T05:09:50.966Z",
-          "gmp": 7,
-          "gmpPercent": 4.32
-        },
-        {
-          "t": "2026-10-26T15:52:43.120Z",
-          "gmp": 8,
-          "gmpPercent": 5.25
-        },
-        {
-          "t": "2026-10-27T05:24:59.220Z",
-          "gmp": 8,
-          "gmpPercent": 4.94
-        },
-        {
-          "t": "2026-10-27T08:40:45.272Z",
-          "gmp": 7,
-          "gmpPercent": 4.32
-        },
-        {
-          "t": "2026-10-27T15:08:34.352Z",
-          "gmp": 9,
-          "gmpPercent": 5.56
-        },
-        {
-          "t": "2026-10-28T06:05:29.609Z",
-          "gmp": 10,
-          "gmpPercent": 6.17
-        },
-        {
-          "t": "2026-10-28T09:20:41.796Z",
-          "gmp": 12,
-          "gmpPercent": 7.41
-        },
-        {
-          "t": "2026-10-29T06:16:18.049Z",
-          "gmp": 15,
-          "gmpPercent": 9.26
-        },
-        {
-          "t": "2026-10-29T09:25:19.670Z",
-          "gmp": 11,
-          "gmpPercent": 6.79
-        },
-        {
-          "t": "2026-10-30T06:16:55.032Z",
-          "gmp": 12,
-          "gmpPercent": 7.72
-        },
-        {
-          "t": "2026-10-30T09:39:06.411Z",
-          "gmp": 8,
-          "gmpPercent": 4.94
-        },
-        {
-          "t": "2026-10-31T06:08:14.294Z",
-          "gmp": 6,
-          "gmpPercent": 3.7
-        },
-        {
-          "t": "2026-10-31T09:18:38.262Z",
-          "gmp": 5,
-          "gmpPercent": 3.09
-        },
-        {
-          "t": "2026-11-01T06:38:54.869Z",
-          "gmp": 5,
-          "gmpPercent": 3.4
-        },
-        {
-          "t": "2026-11-02T06:38:19.876Z",
-          "gmp": 5,
-          "gmpPercent": 3.4
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 3.4,
-      "status": "Closed"
+      "status": "Closing Today"
     },
     "2297": {
       "name": "Vedant Poly Fabs",
@@ -352,6 +207,11 @@
         },
         {
           "t": "2026-11-02T06:38:19.876Z",
+          "gmp": 15,
+          "gmpPercent": 15.96
+        },
+        {
+          "t": "2026-11-03T07:07:44.851Z",
           "gmp": 15,
           "gmpPercent": 15.96
         }
@@ -409,50 +269,25 @@
           "t": "2026-11-02T06:38:19.876Z",
           "gmp": 10,
           "gmpPercent": 5
+        },
+        {
+          "t": "2026-11-03T07:07:44.851Z",
+          "gmp": 10,
+          "gmpPercent": 5
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 5,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2375": {
       "name": "Antala Industries",
       "category": "SME",
-      "close": "2026-11-02",
+      "close": "2026-11-05",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
-    },
-    "2393": {
-      "name": "Carver Roboweld",
-      "category": "SME",
-      "close": "2026-10-30",
-      "series": [
-        {
-          "t": "2026-10-30T09:39:06.411Z",
-          "gmp": 3,
-          "gmpPercent": 3.75
-        },
-        {
-          "t": "2026-10-31T06:08:14.294Z",
-          "gmp": 5,
-          "gmpPercent": 6.25
-        },
-        {
-          "t": "2026-11-01T06:38:54.869Z",
-          "gmp": 5,
-          "gmpPercent": 6.25
-        },
-        {
-          "t": "2026-11-02T06:38:19.876Z",
-          "gmp": 5,
-          "gmpPercent": 6.25
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 6.25,
-      "status": "Closed"
+      "status": "Open"
     }
   }
 }
