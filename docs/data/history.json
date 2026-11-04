@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:28:54.647Z",
+  "updatedAt": "2026-11-04T06:53:44.378Z",
   "ipos": {
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -95,10 +95,15 @@
           "t": "2026-11-03T10:28:54.647Z",
           "gmp": 9,
           "gmpPercent": 10.98
+        },
+        {
+          "t": "2026-11-04T06:53:44.378Z",
+          "gmp": 8,
+          "gmpPercent": 10.37
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10.98,
+      "lastGmpPercent": 10.37,
       "status": "Closed"
     },
     "1965": {
@@ -145,11 +150,16 @@
           "t": "2026-11-03T07:07:44.851Z",
           "gmp": 80,
           "gmpPercent": 50.63
+        },
+        {
+          "t": "2026-11-04T06:53:44.378Z",
+          "gmp": 75,
+          "gmpPercent": 47.47
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 50.63,
-      "status": "Closing Today"
+      "lastGmpPercent": 47.47,
+      "status": "Closed"
     },
     "1998": {
       "name": "Vectras Enprocon",
@@ -158,7 +168,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2241": {
       "name": "HGS (India)",
@@ -194,11 +204,16 @@
           "t": "2026-11-03T10:28:54.647Z",
           "gmp": 20,
           "gmpPercent": 16.67
+        },
+        {
+          "t": "2026-11-04T06:53:44.378Z",
+          "gmp": 23,
+          "gmpPercent": 19.17
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.67,
-      "status": "Closing Today"
+      "lastGmpPercent": 19.17,
+      "status": "Closed"
     },
     "2297": {
       "name": "Vedant Poly Fabs",
@@ -224,11 +239,16 @@
           "t": "2026-11-03T07:07:44.851Z",
           "gmp": 15,
           "gmpPercent": 15.96
+        },
+        {
+          "t": "2026-11-04T06:53:44.378Z",
+          "gmp": 2,
+          "gmpPercent": 2.13
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 15.96,
-      "status": "Open"
+      "alertedAbove": false,
+      "lastGmpPercent": 2.13,
+      "status": "Closing Today"
     },
     "2371": {
       "name": "Johnsoncab Electricals",
@@ -289,11 +309,16 @@
           "t": "2026-11-03T10:28:54.647Z",
           "gmp": 8,
           "gmpPercent": 4
+        },
+        {
+          "t": "2026-11-04T06:53:44.378Z",
+          "gmp": 6,
+          "gmpPercent": 3
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4,
-      "status": "Closing Today"
+      "lastGmpPercent": 3,
+      "status": "Closed"
     },
     "2375": {
       "name": "Antala Industries",
