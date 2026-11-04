@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:53:44.378Z",
+  "updatedAt": "2026-11-04T10:30:28.334Z",
   "ipos": {
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -244,10 +244,15 @@
           "t": "2026-11-04T06:53:44.378Z",
           "gmp": 2,
           "gmpPercent": 2.13
+        },
+        {
+          "t": "2026-11-04T10:30:28.334Z",
+          "gmp": 1,
+          "gmpPercent": 1.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.13,
+      "lastGmpPercent": 1.06,
       "status": "Closing Today"
     },
     "2371": {

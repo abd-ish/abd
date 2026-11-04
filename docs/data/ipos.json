@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:53:44.378Z",
+  "generatedAt": "2026-11-04T10:30:28.334Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closing Today",
-      "gmp": 2,
-      "gmpPercent": 2.13,
+      "gmp": 1,
+      "gmpPercent": 1.06,
       "price": 94,
       "lot": 1200,
       "ipoSize": "₹56.68 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-11-04",
       "listing": "2026-11-09",
       "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
-      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 2</b></small>",
+      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
-      "updatedOn": "4-Nov 11:02"
+      "updatedOn": "4-Nov 15:37"
     },
     {
       "id": "2375",
@@ -39,7 +39,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "5-Nov",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "4-Nov 10:59"
+      "updatedOn": "4-Nov 15:31"
     },
     {
       "id": "2369",
@@ -400,7 +400,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 70</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
-      "updatedOn": "4-Nov 11:02"
+      "updatedOn": "4-Nov 15:37"
     },
     {
       "id": "2241",
@@ -419,7 +419,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
-      "updatedOn": "4-Nov 11:02"
+      "updatedOn": "4-Nov 15:37"
     },
     {
       "id": "1936",
@@ -438,7 +438,7 @@
       "openDisplay": "29-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
       "closeDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
-      "updatedOn": "4-Nov 11:02"
+      "updatedOn": "4-Nov 15:37"
     },
     {
       "id": "2371",
@@ -457,7 +457,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
-      "updatedOn": "4-Nov 11:02"
+      "updatedOn": "4-Nov 15:37"
     },
     {
       "id": "1998",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Oct",
       "closeDisplay": "3-Nov",
       "url": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
-      "updatedOn": "4-Nov 11:01"
+      "updatedOn": "4-Nov 15:30"
     }
   ]
 }
