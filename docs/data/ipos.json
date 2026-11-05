@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:12:19.566Z",
+  "generatedAt": "2026-11-05T10:24:11.064Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "5-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "5-Nov 11:02"
+      "updatedOn": "5-Nov 13:58"
     },
     {
       "id": "2369",
@@ -389,8 +389,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 115,
-      "gmpPercent": 72.78,
+      "gmp": 111,
+      "gmpPercent": 70.25,
       "price": 158,
       "lot": 800,
       "ipoSize": "₹57.64 Cr",
@@ -400,7 +400,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 70</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
-      "updatedOn": "5-Nov 11:02"
+      "updatedOn": "5-Nov 14:02"
     },
     {
       "id": "2241",
@@ -408,8 +408,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 34,
-      "gmpPercent": 28.33,
+      "gmp": 40,
+      "gmpPercent": 33.33,
       "price": 120,
       "lot": 1200,
       "ipoSize": "₹34.56 Cr",
@@ -419,7 +419,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
-      "updatedOn": "5-Nov 11:02"
+      "updatedOn": "5-Nov 14:02"
     },
     {
       "id": "2371",
@@ -438,7 +438,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
-      "updatedOn": "5-Nov 11:02"
+      "updatedOn": "5-Nov 14:02"
     },
     {
       "id": "2297",
@@ -457,7 +457,7 @@
       "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
       "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
-      "updatedOn": "5-Nov 11:02"
+      "updatedOn": "5-Nov 14:02"
     },
     {
       "id": "1998",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Oct",
       "closeDisplay": "3-Nov",
       "url": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
-      "updatedOn": "5-Nov 10:58"
+      "updatedOn": "5-Nov 14:02"
     }
   ]
 }
