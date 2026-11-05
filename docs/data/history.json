@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:30:28.334Z",
+  "updatedAt": "2026-11-05T07:12:19.566Z",
   "ipos": {
     "1936": {
       "name": "Bombay Coated and Special Steels",
@@ -100,11 +100,16 @@
           "t": "2026-11-04T06:53:44.378Z",
           "gmp": 8,
           "gmpPercent": 10.37
+        },
+        {
+          "t": "2026-11-05T07:12:19.566Z",
+          "gmp": 8,
+          "gmpPercent": 9.76
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 10.37,
-      "status": "Closed"
+      "lastGmpPercent": 9.76,
+      "status": "Listed"
     },
     "1965": {
       "name": "Maxwell Engineering Solutions",
@@ -155,10 +160,15 @@
           "t": "2026-11-04T06:53:44.378Z",
           "gmp": 75,
           "gmpPercent": 47.47
+        },
+        {
+          "t": "2026-11-05T07:12:19.566Z",
+          "gmp": 115,
+          "gmpPercent": 72.78
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 47.47,
+      "lastGmpPercent": 72.78,
       "status": "Closed"
     },
     "1998": {
@@ -209,10 +219,15 @@
           "t": "2026-11-04T06:53:44.378Z",
           "gmp": 23,
           "gmpPercent": 19.17
+        },
+        {
+          "t": "2026-11-05T07:12:19.566Z",
+          "gmp": 34,
+          "gmpPercent": 28.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 19.17,
+      "lastGmpPercent": 28.33,
       "status": "Closed"
     },
     "2297": {
@@ -249,11 +264,16 @@
           "t": "2026-11-04T10:30:28.334Z",
           "gmp": 1,
           "gmpPercent": 1.06
+        },
+        {
+          "t": "2026-11-05T07:12:19.566Z",
+          "gmp": 1,
+          "gmpPercent": 1.06
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 1.06,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2371": {
       "name": "Johnsoncab Electricals",
@@ -319,10 +339,15 @@
           "t": "2026-11-04T06:53:44.378Z",
           "gmp": 6,
           "gmpPercent": 3
+        },
+        {
+          "t": "2026-11-05T07:12:19.566Z",
+          "gmp": 8,
+          "gmpPercent": 4
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3,
+      "lastGmpPercent": 4,
       "status": "Closed"
     },
     "2375": {
@@ -332,7 +357,7 @@
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
-      "status": "Open"
+      "status": "Closing Today"
     }
   }
 }

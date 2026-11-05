@@ -1,33 +1,14 @@
 {
-  "generatedAt": "2026-11-04T10:30:28.334Z",
+  "generatedAt": "2026-11-05T07:12:19.566Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
-    {
-      "id": "2297",
-      "name": "Vedant Poly Fabs",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Closing Today",
-      "gmp": 1,
-      "gmpPercent": 1.06,
-      "price": 94,
-      "lot": 1200,
-      "ipoSize": "₹56.68 Cr",
-      "open": "2026-11-02",
-      "close": "2026-11-04",
-      "listing": "2026-11-09",
-      "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
-      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
-      "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
-      "updatedOn": "4-Nov 15:37"
-    },
     {
       "id": "2375",
       "name": "Antala Industries",
       "category": "SME",
       "exchange": "BSE SME",
-      "status": "Open",
+      "status": "Closing Today",
       "gmp": null,
       "gmpPercent": null,
       "price": 66,
@@ -37,9 +18,9 @@
       "close": "2026-11-05",
       "listing": "2026-11-11",
       "openDisplay": "29-Oct",
-      "closeDisplay": "5-Nov",
+      "closeDisplay": "5-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "4-Nov 15:31"
+      "updatedOn": "5-Nov 11:02"
     },
     {
       "id": "2369",
@@ -135,6 +116,25 @@
       "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 127</b></small>",
       "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
       "updatedOn": "23-Oct 9:37"
+    },
+    {
+      "id": "1936",
+      "name": "Bombay Coated and Special Steels",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": 8,
+      "gmpPercent": 9.76,
+      "price": 82,
+      "lot": 182,
+      "ipoSize": "₹183.06 Cr",
+      "open": "2026-10-29",
+      "close": "2026-11-02",
+      "listing": "2026-11-05",
+      "openDisplay": "29-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
+      "closeDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
+      "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
+      "updatedOn": "5-Nov 9:37"
     },
     {
       "id": "2288",
@@ -389,8 +389,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 75,
-      "gmpPercent": 47.47,
+      "gmp": 115,
+      "gmpPercent": 72.78,
       "price": 158,
       "lot": 800,
       "ipoSize": "₹57.64 Cr",
@@ -400,7 +400,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 70</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
-      "updatedOn": "4-Nov 15:37"
+      "updatedOn": "5-Nov 11:02"
     },
     {
       "id": "2241",
@@ -408,8 +408,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Closed",
-      "gmp": 23,
-      "gmpPercent": 19.17,
+      "gmp": 34,
+      "gmpPercent": 28.33,
       "price": 120,
       "lot": 1200,
       "ipoSize": "₹34.56 Cr",
@@ -419,26 +419,7 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 30</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
-      "updatedOn": "4-Nov 15:37"
-    },
-    {
-      "id": "1936",
-      "name": "Bombay Coated and Special Steels",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closed",
-      "gmp": 8,
-      "gmpPercent": 10.37,
-      "price": 82,
-      "lot": 182,
-      "ipoSize": "₹183.06 Cr",
-      "open": "2026-10-29",
-      "close": "2026-11-02",
-      "listing": "2026-11-05",
-      "openDisplay": "29-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 9</b></small>",
-      "closeDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
-      "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
-      "updatedOn": "4-Nov 15:37"
+      "updatedOn": "5-Nov 11:02"
     },
     {
       "id": "2371",
@@ -446,8 +427,8 @@
       "category": "SME",
       "exchange": "BSE SME",
       "status": "Closed",
-      "gmp": 6,
-      "gmpPercent": 3,
+      "gmp": 8,
+      "gmpPercent": 4,
       "price": 200,
       "lot": 600,
       "ipoSize": "₹56.02 Cr",
@@ -457,7 +438,26 @@
       "openDisplay": "30-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 10</b></small>",
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
-      "updatedOn": "4-Nov 15:37"
+      "updatedOn": "5-Nov 11:02"
+    },
+    {
+      "id": "2297",
+      "name": "Vedant Poly Fabs",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Closed",
+      "gmp": 1,
+      "gmpPercent": 1.06,
+      "price": 94,
+      "lot": 1200,
+      "ipoSize": "₹56.68 Cr",
+      "open": "2026-11-02",
+      "close": "2026-11-04",
+      "listing": "2026-11-09",
+      "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
+      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
+      "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
+      "updatedOn": "5-Nov 11:02"
     },
     {
       "id": "1998",
@@ -476,7 +476,7 @@
       "openDisplay": "30-Oct",
       "closeDisplay": "3-Nov",
       "url": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
-      "updatedOn": "4-Nov 15:30"
+      "updatedOn": "5-Nov 10:58"
     }
   ]
 }
