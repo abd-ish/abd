@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-07T09:38:58.124Z",
+  "updatedAt": "2026-11-08T06:32:20.380Z",
   "ipos": {
-    "2297": {
-      "name": "Vedant Poly Fabs",
-      "category": "SME",
-      "close": "2026-11-04",
-      "series": [
-        {
-          "t": "2026-10-31T09:18:38.262Z",
-          "gmp": 4,
-          "gmpPercent": 4.52
-        },
-        {
-          "t": "2026-11-01T06:38:54.869Z",
-          "gmp": 5,
-          "gmpPercent": 5.32
-        },
-        {
-          "t": "2026-11-02T06:38:19.876Z",
-          "gmp": 15,
-          "gmpPercent": 15.96
-        },
-        {
-          "t": "2026-11-03T07:07:44.851Z",
-          "gmp": 15,
-          "gmpPercent": 15.96
-        },
-        {
-          "t": "2026-11-04T06:53:44.378Z",
-          "gmp": 2,
-          "gmpPercent": 2.13
-        },
-        {
-          "t": "2026-11-04T10:30:28.334Z",
-          "gmp": 1,
-          "gmpPercent": 1.06
-        },
-        {
-          "t": "2026-11-05T07:12:19.566Z",
-          "gmp": 1,
-          "gmpPercent": 1.06
-        },
-        {
-          "t": "2026-11-06T07:12:15.373Z",
-          "gmp": 1,
-          "gmpPercent": 1.06
-        },
-        {
-          "t": "2026-11-07T06:26:17.788Z",
-          "gmp": 1,
-          "gmpPercent": 1.06
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 1.06,
-      "status": "Closed"
-    },
     "2375": {
       "name": "Antala Industries",
       "category": "SME",
