@@ -1,14 +1,4 @@
 {
-  "updatedAt": "2026-11-08T09:53:37.982Z",
-  "ipos": {
-    "2375": {
-      "name": "Antala Industries",
-      "category": "SME",
-      "close": "2026-11-05",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
-      "status": "Closed"
-    }
-  }
+  "updatedAt": "2026-11-09T07:01:46.633Z",
+  "ipos": {}
 }

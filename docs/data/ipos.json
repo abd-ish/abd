@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:53:37.982Z",
+  "generatedAt": "2026-11-09T07:01:46.633Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -327,6 +327,25 @@
       "updatedOn": "28-Oct 9:37"
     },
     {
+      "id": "2297",
+      "name": "Vedant Poly Fabs",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Listed",
+      "gmp": 1,
+      "gmpPercent": 1.06,
+      "price": 94,
+      "lot": 1200,
+      "ipoSize": "₹56.68 Cr",
+      "open": "2026-11-02",
+      "close": "2026-11-04",
+      "listing": "2026-11-09",
+      "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
+      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
+      "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
+      "updatedOn": "9-Nov 9:37"
+    },
+    {
       "id": "2220",
       "name": "Ravita Engineering Services",
       "category": "SME",
@@ -441,25 +460,6 @@
       "updatedOn": "30-Oct 9:28"
     },
     {
-      "id": "2297",
-      "name": "Vedant Poly Fabs",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Closed",
-      "gmp": 1,
-      "gmpPercent": 1.06,
-      "price": 94,
-      "lot": 1200,
-      "ipoSize": "₹56.68 Cr",
-      "open": "2026-11-02",
-      "close": "2026-11-04",
-      "listing": "2026-11-09",
-      "openDisplay": "2-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 15</b></small>",
-      "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
-      "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
-      "updatedOn": "8-Nov 11:37"
-    },
-    {
       "id": "2375",
       "name": "Antala Industries",
       "category": "SME",
@@ -476,7 +476,7 @@
       "openDisplay": "29-Oct",
       "closeDisplay": "5-Nov",
       "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "8-Nov 11:37"
+      "updatedOn": "9-Nov 11:57"
     }
   ]
 }
