@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:47:47.010Z",
+  "generatedAt": "2026-11-11T06:57:24.444Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -403,6 +403,25 @@
       "updatedOn": "4-Nov 9:37"
     },
     {
+      "id": "2375",
+      "name": "Antala Industries",
+      "category": "SME",
+      "exchange": "BSE SME",
+      "status": "Listed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 66,
+      "lot": 2000,
+      "ipoSize": "₹22.98 Cr",
+      "open": "2026-10-29",
+      "close": "2026-11-05",
+      "listing": "2026-11-11",
+      "openDisplay": "29-Oct",
+      "closeDisplay": "5-Nov",
+      "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
+      "updatedOn": "11-Nov 9:37"
+    },
+    {
       "id": "1998",
       "name": "Vectras Enprocon",
       "category": "SME",
@@ -458,25 +477,6 @@
       "closeDisplay": "27-Oct",
       "url": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/",
       "updatedOn": "30-Oct 9:28"
-    },
-    {
-      "id": "2375",
-      "name": "Antala Industries",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Closed",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 66,
-      "lot": 2000,
-      "ipoSize": "₹22.98 Cr",
-      "open": "2026-10-29",
-      "close": "2026-11-05",
-      "listing": "2026-11-11",
-      "openDisplay": "29-Oct",
-      "closeDisplay": "5-Nov",
-      "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
-      "updatedOn": "10-Nov 14:33"
     }
   ]
 }
