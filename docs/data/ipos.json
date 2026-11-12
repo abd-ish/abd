@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-11T06:57:24.444Z",
+  "generatedAt": "2026-11-12T07:33:37.950Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
+    {
+      "id": "2067",
+      "name": "Crystal Crop Protection",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": null,
+      "lot": null,
+      "ipoSize": "",
+      "open": "",
+      "close": "",
+      "listing": "",
+      "openDisplay": "",
+      "closeDisplay": "",
+      "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
+      "updatedOn": "12-Nov 10:00"
+    },
     {
       "id": "1965",
       "name": "Maxwell Engineering Solutions",
@@ -59,25 +78,6 @@
       "closeDisplay": "29-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 68</b></small>",
       "url": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
       "updatedOn": "3-Nov 9:37"
-    },
-    {
-      "id": "1902",
-      "name": "HD Fire Protect",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 70,
-      "gmpPercent": 25.83,
-      "price": 271,
-      "lot": 55,
-      "ipoSize": "₹712.13 Cr",
-      "open": "2026-10-13",
-      "close": "2026-10-15",
-      "listing": "2026-10-21",
-      "openDisplay": "13-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 91</b></small>",
-      "closeDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 82</b></small>",
-      "url": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
-      "updatedOn": "21-Oct 9:37"
     },
     {
       "id": "2241",

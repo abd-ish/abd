@@ -1,4 +1,14 @@
 {
-  "updatedAt": "2026-11-11T06:57:24.444Z",
-  "ipos": {}
+  "updatedAt": "2026-11-12T07:33:37.950Z",
+  "ipos": {
+    "2067": {
+      "name": "Crystal Crop Protection",
+      "category": "Mainboard",
+      "close": "",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    }
+  }
 }
