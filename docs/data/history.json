@@ -1,13 +1,28 @@
 {
-  "updatedAt": "2026-11-12T10:40:49.956Z",
+  "updatedAt": "2026-11-13T07:05:03.604Z",
   "ipos": {
-    "2067": {
-      "name": "Crystal Crop Protection",
-      "category": "Mainboard",
-      "close": "",
+    "1818": {
+      "name": "Watrana Rentals",
+      "category": "SME",
+      "close": "2026-11-23",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
+    "2067": {
+      "name": "Crystal Crop Protection",
+      "category": "Mainboard",
+      "close": "2026-11-20",
+      "series": [
+        {
+          "t": "2026-11-13T07:05:03.604Z",
+          "gmp": 45,
+          "gmpPercent": 16.54
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 16.54,
       "status": "Upcoming"
     }
   }
