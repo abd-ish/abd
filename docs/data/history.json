@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-11-13T10:35:10.385Z",
+  "updatedAt": "2026-11-14T06:54:04.642Z",
   "ipos": {
     "1818": {
       "name": "Watrana Rentals",
       "category": "SME",
       "close": "2026-11-23",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-11-14T06:54:04.642Z",
+          "gmp": 18,
+          "gmpPercent": 7.35
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 7.35,
       "status": "Upcoming"
     },
     "2067": {
@@ -19,10 +25,30 @@
           "t": "2026-11-13T07:05:03.604Z",
           "gmp": 45,
           "gmpPercent": 16.54
+        },
+        {
+          "t": "2026-11-14T06:54:04.642Z",
+          "gmp": 27,
+          "gmpPercent": 9.93
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 16.54,
+      "alertedAbove": false,
+      "lastGmpPercent": 9.93,
+      "status": "Upcoming"
+    },
+    "2401": {
+      "name": "Mahanadi Coalfields",
+      "category": "Mainboard",
+      "close": "2026-11-23",
+      "series": [
+        {
+          "t": "2026-11-14T06:54:04.642Z",
+          "gmp": 12,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
       "status": "Upcoming"
     }
   }
