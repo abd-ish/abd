@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:19:59.388Z",
+  "updatedAt": "2026-11-17T11:30:01.203Z",
   "ipos": {
     "1818": {
       "name": "Watrana Rentals",
@@ -105,10 +105,15 @@
           "t": "2026-11-17T08:19:59.388Z",
           "gmp": 4,
           "gmpPercent": 3.16
+        },
+        {
+          "t": "2026-11-17T11:30:01.203Z",
+          "gmp": 4,
+          "gmpPercent": 2.94
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.16,
+      "lastGmpPercent": 2.94,
       "status": "Upcoming"
     }
   }
