@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:41:10.892Z",
+  "generatedAt": "2026-11-17T08:19:59.388Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Upcoming",
-      "gmp": 22,
-      "gmpPercent": 8.98,
+      "gmp": 25,
+      "gmpPercent": 10.2,
       "price": 245,
       "lot": 600,
       "ipoSize": "₹120.10 Cr",
@@ -20,7 +20,7 @@
       "openDisplay": "19-Nov",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "16-Nov 15:37"
+      "updatedOn": "17-Nov 13:37"
     },
     {
       "id": "2067",
@@ -39,7 +39,7 @@
       "openDisplay": "18-Nov",
       "closeDisplay": "20-Nov",
       "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "16-Nov 15:37"
+      "updatedOn": "17-Nov 13:37"
     },
     {
       "id": "2401",
@@ -48,7 +48,7 @@
       "exchange": "IPO",
       "status": "Upcoming",
       "gmp": 4,
-      "gmpPercent": 3.31,
+      "gmpPercent": 3.16,
       "price": 136,
       "lot": 110,
       "ipoSize": "₹8981.12 Cr",
@@ -58,7 +58,7 @@
       "openDisplay": "19-Nov",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "16-Nov 15:37"
+      "updatedOn": "17-Nov 13:37"
     },
     {
       "id": "1965",

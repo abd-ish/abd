@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:41:10.892Z",
+  "updatedAt": "2026-11-17T08:19:59.388Z",
   "ipos": {
     "1818": {
       "name": "Watrana Rentals",
@@ -20,10 +20,15 @@
           "t": "2026-11-16T07:07:21.774Z",
           "gmp": 22,
           "gmpPercent": 8.98
+        },
+        {
+          "t": "2026-11-17T08:19:59.388Z",
+          "gmp": 25,
+          "gmpPercent": 10.2
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.98,
+      "alertedAbove": true,
+      "lastGmpPercent": 10.2,
       "status": "Upcoming"
     },
     "2067": {
@@ -60,6 +65,11 @@
           "t": "2026-11-16T10:41:10.892Z",
           "gmp": 13,
           "gmpPercent": 4.78
+        },
+        {
+          "t": "2026-11-17T08:19:59.388Z",
+          "gmp": 13,
+          "gmpPercent": 4.78
         }
       ],
       "alertedAbove": false,
@@ -90,10 +100,15 @@
           "t": "2026-11-16T10:41:10.892Z",
           "gmp": 4,
           "gmpPercent": 3.31
+        },
+        {
+          "t": "2026-11-17T08:19:59.388Z",
+          "gmp": 4,
+          "gmpPercent": 3.16
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 3.31,
+      "lastGmpPercent": 3.16,
       "status": "Upcoming"
     }
   }
