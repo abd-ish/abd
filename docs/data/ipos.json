@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-17T11:30:01.203Z",
+  "generatedAt": "2026-11-18T07:50:54.519Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
+    {
+      "id": "2067",
+      "name": "Crystal Crop Protection",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Open",
+      "gmp": 19,
+      "gmpPercent": 6.99,
+      "price": 272,
+      "lot": 55,
+      "ipoSize": "₹455.49 Cr",
+      "open": "2026-11-18",
+      "close": "2026-11-20",
+      "listing": "2026-11-26",
+      "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 19</b></small>",
+      "closeDisplay": "20-Nov",
+      "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
+      "updatedOn": "18-Nov 9:37"
+    },
     {
       "id": "1818",
       "name": "Watrana Rentals",
@@ -20,26 +39,7 @@
       "openDisplay": "19-Nov",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "17-Nov 16:37"
-    },
-    {
-      "id": "2067",
-      "name": "Crystal Crop Protection",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": 13,
-      "gmpPercent": 4.78,
-      "price": 272,
-      "lot": 55,
-      "ipoSize": "₹455.49 Cr",
-      "open": "2026-11-18",
-      "close": "2026-11-20",
-      "listing": "2026-11-26",
-      "openDisplay": "18-Nov",
-      "closeDisplay": "20-Nov",
-      "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "17-Nov 16:37"
+      "updatedOn": "18-Nov 9:37"
     },
     {
       "id": "2401",
@@ -47,8 +47,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 4,
-      "gmpPercent": 2.94,
+      "gmp": 3,
+      "gmpPercent": 2.5,
       "price": 136,
       "lot": 110,
       "ipoSize": "₹8981.12 Cr",
@@ -58,7 +58,7 @@
       "openDisplay": "19-Nov",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "17-Nov 16:37"
+      "updatedOn": "18-Nov 9:37"
     },
     {
       "id": "1965",
