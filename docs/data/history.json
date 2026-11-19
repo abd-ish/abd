@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:11:47.466Z",
+  "updatedAt": "2026-11-19T07:46:55.384Z",
   "ipos": {
     "1818": {
       "name": "Watrana Rentals",
@@ -35,11 +35,16 @@
           "t": "2026-11-18T11:11:47.466Z",
           "gmp": 37,
           "gmpPercent": 15.1
+        },
+        {
+          "t": "2026-11-19T07:46:55.384Z",
+          "gmp": 67,
+          "gmpPercent": 27.35
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.1,
-      "status": "Upcoming"
+      "lastGmpPercent": 27.35,
+      "status": "Open"
     },
     "2067": {
       "name": "Crystal Crop Protection",
@@ -85,11 +90,25 @@
           "t": "2026-11-18T07:50:54.519Z",
           "gmp": 19,
           "gmpPercent": 6.99
+        },
+        {
+          "t": "2026-11-19T07:46:55.384Z",
+          "gmp": 17,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.99,
+      "lastGmpPercent": 6.25,
       "status": "Open"
+    },
+    "2349": {
+      "name": "Shree Siddhivinayak Greentech Industries",
+      "category": "SME",
+      "close": "2026-11-27",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2401": {
       "name": "Mahanadi Coalfields",
@@ -130,11 +149,16 @@
           "t": "2026-11-18T07:50:54.519Z",
           "gmp": 3,
           "gmpPercent": 2.5
+        },
+        {
+          "t": "2026-11-19T07:46:55.384Z",
+          "gmp": 1,
+          "gmpPercent": 1.1
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.5,
-      "status": "Upcoming"
+      "lastGmpPercent": 1.1,
+      "status": "Open"
     }
   }
 }
