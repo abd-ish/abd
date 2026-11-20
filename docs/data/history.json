@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:39:09.439Z",
+  "updatedAt": "2026-11-20T10:56:53.150Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -66,6 +66,15 @@
       "lastGmpPercent": 27.35,
       "status": "Open"
     },
+    "2029": {
+      "name": "Integris Medtech",
+      "category": "Mainboard",
+      "close": "2026-12-01",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
+    },
     "2067": {
       "name": "Crystal Crop Protection",
       "category": "Mainboard",
@@ -120,11 +129,25 @@
           "t": "2026-11-20T07:39:09.439Z",
           "gmp": 17,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-11-20T10:56:53.150Z",
+          "gmp": 14,
+          "gmpPercent": 5.33
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 6.25,
+      "lastGmpPercent": 5.33,
       "status": "Closing Today"
+    },
+    "2232": {
+      "name": "Monomark Engineering",
+      "category": "Mainboard",
+      "close": "",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     },
     "2349": {
       "name": "Shree Siddhivinayak Greentech Industries",
@@ -184,10 +207,15 @@
           "t": "2026-11-20T07:39:09.439Z",
           "gmp": 1,
           "gmpPercent": 1.32
+        },
+        {
+          "t": "2026-11-20T10:56:53.150Z",
+          "gmp": 1,
+          "gmpPercent": 0.96
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.32,
+      "lastGmpPercent": 0.96,
       "status": "Open"
     }
   }

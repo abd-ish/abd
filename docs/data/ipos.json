@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:39:09.439Z",
+  "generatedAt": "2026-11-20T10:56:53.150Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -9,8 +9,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closing Today",
-      "gmp": 17,
-      "gmpPercent": 6.25,
+      "gmp": 14,
+      "gmpPercent": 5.33,
       "price": 272,
       "lot": 55,
       "ipoSize": "₹455.49 Cr",
@@ -18,9 +18,9 @@
       "close": "2026-11-20",
       "listing": "2026-11-26",
       "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
-      "closeDisplay": "20-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 17</b></small>",
+      "closeDisplay": "20-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14.5</b></small>",
       "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "20-Nov 9:02"
+      "updatedOn": "20-Nov 16:02"
     },
     {
       "id": "1818",
@@ -39,7 +39,7 @@
       "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "20-Nov 9:02"
+      "updatedOn": "20-Nov 16:02"
     },
     {
       "id": "2401",
@@ -48,7 +48,7 @@
       "exchange": "IPO",
       "status": "Open",
       "gmp": 1,
-      "gmpPercent": 1.32,
+      "gmpPercent": 0.96,
       "price": 136,
       "lot": 110,
       "ipoSize": "₹8981.12 Cr",
@@ -58,7 +58,7 @@
       "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.8</b></small>",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "20-Nov 9:02"
+      "updatedOn": "20-Nov 16:02"
     },
     {
       "id": "1810",
@@ -77,7 +77,45 @@
       "openDisplay": "26-Nov",
       "closeDisplay": "30-Nov",
       "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-      "updatedOn": "20-Nov 9:02"
+      "updatedOn": "20-Nov 16:02"
+    },
+    {
+      "id": "2232",
+      "name": "Monomark Engineering",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": null,
+      "lot": null,
+      "ipoSize": "-",
+      "open": "",
+      "close": "",
+      "listing": "",
+      "openDisplay": "",
+      "closeDisplay": "",
+      "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
+      "updatedOn": "20-Nov 12:10"
+    },
+    {
+      "id": "2029",
+      "name": "Integris Medtech",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": null,
+      "lot": null,
+      "ipoSize": "",
+      "open": "2026-11-27",
+      "close": "2026-12-01",
+      "listing": "2026-12-04",
+      "openDisplay": "27-Nov",
+      "closeDisplay": "1-Dec",
+      "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
+      "updatedOn": "20-Nov 14:10"
     },
     {
       "id": "2349",
@@ -96,7 +134,7 @@
       "openDisplay": "25-Nov",
       "closeDisplay": "27-Nov",
       "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-      "updatedOn": "20-Nov 9:01"
+      "updatedOn": "20-Nov 15:54"
     },
     {
       "id": "1965",
@@ -175,6 +213,25 @@
       "updatedOn": "28-Oct 9:37"
     },
     {
+      "id": "2124",
+      "name": "Bonfiglioli Transmissions",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": 66,
+      "gmpPercent": 11.26,
+      "price": 586,
+      "lot": 25,
+      "ipoSize": "₹2533.66 Cr",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 140</b></small>",
+      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 127</b></small>",
+      "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
+      "updatedOn": "23-Oct 9:37"
+    },
+    {
       "id": "1936",
       "name": "Bombay Coated and Special Steels",
       "category": "Mainboard",
@@ -232,25 +289,6 @@
       "updatedOn": "4-Nov 9:37"
     },
     {
-      "id": "1842",
-      "name": "Sahajanand Medical Technologies",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 17,
-      "gmpPercent": 4.94,
-      "price": 344,
-      "lot": 43,
-      "ipoSize": "₹475.48 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 43</b></small>",
-      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 24</b></small>",
-      "url": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
-      "updatedOn": "23-Oct 9:37"
-    },
-    {
       "id": "1642",
       "name": "SFC Environmental Technologies",
       "category": "Mainboard",
@@ -287,25 +325,6 @@
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 8</b></small>",
       "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
       "updatedOn": "6-Nov 9:37"
-    },
-    {
-      "id": "2228",
-      "name": "Shellz India",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "Listed",
-      "gmp": 7,
-      "gmpPercent": 3.91,
-      "price": 179,
-      "lot": 800,
-      "ipoSize": "₹59.97 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct",
-      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 46</b></small>",
-      "url": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/",
-      "updatedOn": "23-Oct 9:37"
     },
     {
       "id": "1635",
@@ -363,25 +382,6 @@
       "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
       "updatedOn": "9-Nov 9:37"
-    },
-    {
-      "id": "2279",
-      "name": "Zetwerk",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 1,
-      "gmpPercent": 0.79,
-      "price": 151,
-      "lot": 99,
-      "ipoSize": "₹5012.33 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
-      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3.5</b></small>",
-      "url": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
-      "updatedOn": "23-Oct 9:37"
     },
     {
       "id": "2017",
