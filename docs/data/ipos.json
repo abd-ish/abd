@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-19T11:09:53.137Z",
+  "generatedAt": "2026-11-20T07:39:09.439Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
+    {
+      "id": "2067",
+      "name": "Crystal Crop Protection",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closing Today",
+      "gmp": 17,
+      "gmpPercent": 6.25,
+      "price": 272,
+      "lot": 55,
+      "ipoSize": "₹455.49 Cr",
+      "open": "2026-11-18",
+      "close": "2026-11-20",
+      "listing": "2026-11-26",
+      "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
+      "closeDisplay": "20-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 17</b></small>",
+      "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
+      "updatedOn": "20-Nov 9:02"
+    },
     {
       "id": "1818",
       "name": "Watrana Rentals",
@@ -20,26 +39,7 @@
       "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "19-Nov 13:02"
-    },
-    {
-      "id": "2067",
-      "name": "Crystal Crop Protection",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Open",
-      "gmp": 17,
-      "gmpPercent": 6.25,
-      "price": 272,
-      "lot": 55,
-      "ipoSize": "₹455.49 Cr",
-      "open": "2026-11-18",
-      "close": "2026-11-20",
-      "listing": "2026-11-26",
-      "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
-      "closeDisplay": "20-Nov",
-      "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "19-Nov 13:02"
+      "updatedOn": "20-Nov 9:02"
     },
     {
       "id": "2401",
@@ -48,17 +48,36 @@
       "exchange": "IPO",
       "status": "Open",
       "gmp": 1,
-      "gmpPercent": 1.1,
+      "gmpPercent": 1.32,
       "price": 136,
       "lot": 110,
       "ipoSize": "₹8981.12 Cr",
       "open": "2026-11-19",
       "close": "2026-11-23",
       "listing": "2026-11-27",
-      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.5</b></small>",
+      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.8</b></small>",
       "closeDisplay": "23-Nov",
       "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "19-Nov 13:02"
+      "updatedOn": "20-Nov 9:02"
+    },
+    {
+      "id": "1810",
+      "name": "Foodlink F&B Holdings",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 12,
+      "gmpPercent": 0,
+      "price": 0,
+      "lot": null,
+      "ipoSize": "",
+      "open": "2026-11-26",
+      "close": "2026-11-30",
+      "listing": "2026-12-03",
+      "openDisplay": "26-Nov",
+      "closeDisplay": "30-Nov",
+      "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
+      "updatedOn": "20-Nov 9:02"
     },
     {
       "id": "2349",
@@ -77,7 +96,7 @@
       "openDisplay": "25-Nov",
       "closeDisplay": "27-Nov",
       "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-      "updatedOn": "19-Nov 12:53"
+      "updatedOn": "20-Nov 9:01"
     },
     {
       "id": "1965",
@@ -97,25 +116,6 @@
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 80</b></small>",
       "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
       "updatedOn": "6-Nov 9:37"
-    },
-    {
-      "id": "2369",
-      "name": "Tonbo Imaging India",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 452,
-      "gmpPercent": 64.57,
-      "price": 700,
-      "lot": 21,
-      "ipoSize": "₹852.18 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 500</b></small>",
-      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 510</b></small>",
-      "url": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/",
-      "updatedOn": "23-Oct 9:37"
     },
     {
       "id": "1849",
@@ -173,25 +173,6 @@
       "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 250</b></small>",
       "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
       "updatedOn": "28-Oct 9:37"
-    },
-    {
-      "id": "2124",
-      "name": "Bonfiglioli Transmissions",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 66,
-      "gmpPercent": 11.26,
-      "price": 586,
-      "lot": 25,
-      "ipoSize": "₹2533.66 Cr",
-      "open": "2026-10-15",
-      "close": "2026-10-19",
-      "listing": "2026-10-23",
-      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 140</b></small>",
-      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 127</b></small>",
-      "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
-      "updatedOn": "23-Oct 9:37"
     },
     {
       "id": "1936",
@@ -382,6 +363,25 @@
       "closeDisplay": "4-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
       "updatedOn": "9-Nov 9:37"
+    },
+    {
+      "id": "2279",
+      "name": "Zetwerk",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Listed",
+      "gmp": 1,
+      "gmpPercent": 0.79,
+      "price": 151,
+      "lot": 99,
+      "ipoSize": "₹5012.33 Cr",
+      "open": "2026-10-15",
+      "close": "2026-10-19",
+      "listing": "2026-10-23",
+      "openDisplay": "15-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14</b></small>",
+      "closeDisplay": "19-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3.5</b></small>",
+      "url": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
+      "updatedOn": "23-Oct 9:37"
     },
     {
       "id": "2017",

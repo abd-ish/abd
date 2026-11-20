@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-19T11:09:53.137Z",
+  "updatedAt": "2026-11-20T07:39:09.439Z",
   "ipos": {
+    "1810": {
+      "name": "Foodlink F&B Holdings",
+      "category": "Mainboard",
+      "close": "2026-11-30",
+      "series": [
+        {
+          "t": "2026-11-20T07:39:09.439Z",
+          "gmp": 12,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
+      "status": "Upcoming"
+    },
     "1818": {
       "name": "Watrana Rentals",
       "category": "SME",
@@ -38,6 +53,11 @@
         },
         {
           "t": "2026-11-19T07:46:55.384Z",
+          "gmp": 67,
+          "gmpPercent": 27.35
+        },
+        {
+          "t": "2026-11-20T07:39:09.439Z",
           "gmp": 67,
           "gmpPercent": 27.35
         }
@@ -95,11 +115,16 @@
           "t": "2026-11-19T07:46:55.384Z",
           "gmp": 17,
           "gmpPercent": 6.25
+        },
+        {
+          "t": "2026-11-20T07:39:09.439Z",
+          "gmp": 17,
+          "gmpPercent": 6.25
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 6.25,
-      "status": "Open"
+      "status": "Closing Today"
     },
     "2349": {
       "name": "Shree Siddhivinayak Greentech Industries",
@@ -154,10 +179,15 @@
           "t": "2026-11-19T07:46:55.384Z",
           "gmp": 1,
           "gmpPercent": 1.1
+        },
+        {
+          "t": "2026-11-20T07:39:09.439Z",
+          "gmp": 1,
+          "gmpPercent": 1.32
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 1.1,
+      "lastGmpPercent": 1.32,
       "status": "Open"
     }
   }
