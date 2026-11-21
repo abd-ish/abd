@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:56:53.150Z",
+  "updatedAt": "2026-11-21T07:36:06.473Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -8,6 +8,11 @@
       "series": [
         {
           "t": "2026-11-20T07:39:09.439Z",
+          "gmp": 12,
+          "gmpPercent": 0
+        },
+        {
+          "t": "2026-11-21T07:36:06.473Z",
           "gmp": 12,
           "gmpPercent": 0
         }
@@ -58,6 +63,11 @@
         },
         {
           "t": "2026-11-20T07:39:09.439Z",
+          "gmp": 67,
+          "gmpPercent": 27.35
+        },
+        {
+          "t": "2026-11-21T07:36:06.473Z",
           "gmp": 67,
           "gmpPercent": 27.35
         }
@@ -134,11 +144,16 @@
           "t": "2026-11-20T10:56:53.150Z",
           "gmp": 14,
           "gmpPercent": 5.33
+        },
+        {
+          "t": "2026-11-21T07:36:06.473Z",
+          "gmp": 14,
+          "gmpPercent": 5.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.33,
-      "status": "Closing Today"
+      "lastGmpPercent": 5.15,
+      "status": "Closed"
     },
     "2232": {
       "name": "Monomark Engineering",
@@ -212,10 +227,15 @@
           "t": "2026-11-20T10:56:53.150Z",
           "gmp": 1,
           "gmpPercent": 0.96
+        },
+        {
+          "t": "2026-11-21T07:36:06.473Z",
+          "gmp": 0,
+          "gmpPercent": 0.51
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.96,
+      "lastGmpPercent": 0.51,
       "status": "Open"
     }
   }
