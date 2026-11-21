@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:36:06.473Z",
+  "updatedAt": "2026-11-21T10:40:16.982Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -70,10 +70,15 @@
           "t": "2026-11-21T07:36:06.473Z",
           "gmp": 67,
           "gmpPercent": 27.35
+        },
+        {
+          "t": "2026-11-21T10:40:16.982Z",
+          "gmp": 65,
+          "gmpPercent": 26.53
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 27.35,
+      "lastGmpPercent": 26.53,
       "status": "Open"
     },
     "2029": {
