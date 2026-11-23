@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:01:23.927Z",
+  "updatedAt": "2026-11-23T11:51:19.479Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -184,10 +184,15 @@
           "t": "2026-11-23T08:01:23.927Z",
           "gmp": 14,
           "gmpPercent": 5.33
+        },
+        {
+          "t": "2026-11-23T11:51:19.479Z",
+          "gmp": 14,
+          "gmpPercent": 5.15
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 5.33,
+      "lastGmpPercent": 5.15,
       "status": "Closed"
     },
     "2232": {
@@ -224,9 +229,15 @@
       "name": "Matangi Rubber",
       "category": "Mainboard",
       "close": "2026-12-03",
-      "series": [],
-      "alertedAbove": false,
-      "lastGmpPercent": null,
+      "series": [
+        {
+          "t": "2026-11-23T11:51:19.479Z",
+          "gmp": 21,
+          "gmpPercent": 12.21
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 12.21,
       "status": "Upcoming"
     },
     "2349": {

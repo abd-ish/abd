@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:01:23.927Z",
+  "generatedAt": "2026-11-23T11:51:19.479Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
       "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
       "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "2401",
@@ -39,7 +39,26 @@
       "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.8</b></small>",
       "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0.4</b></small>",
       "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
+    },
+    {
+      "id": "2290",
+      "name": "Matangi Rubber",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Upcoming",
+      "gmp": 21,
+      "gmpPercent": 12.21,
+      "price": 172,
+      "lot": 87,
+      "ipoSize": "₹125.16 Cr",
+      "open": "2026-12-01",
+      "close": "2026-12-03",
+      "listing": "2026-12-08",
+      "openDisplay": "1-Dec",
+      "closeDisplay": "3-Dec",
+      "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "2247",
@@ -58,7 +77,7 @@
       "openDisplay": "1-Dec",
       "closeDisplay": "3-Dec",
       "url": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "1810",
@@ -77,7 +96,7 @@
       "openDisplay": "26-Nov",
       "closeDisplay": "30-Nov",
       "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "2349",
@@ -96,7 +115,7 @@
       "openDisplay": "25-Nov",
       "closeDisplay": "27-Nov",
       "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "2232",
@@ -115,26 +134,7 @@
       "openDisplay": "2-Dec",
       "closeDisplay": "4-Dec",
       "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-      "updatedOn": "23-Nov 13:02"
-    },
-    {
-      "id": "2290",
-      "name": "Matangi Rubber",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Upcoming",
-      "gmp": null,
-      "gmpPercent": null,
-      "price": 172,
-      "lot": 87,
-      "ipoSize": "₹125.16 Cr",
-      "open": "2026-12-01",
-      "close": "2026-12-03",
-      "listing": "2026-12-08",
-      "openDisplay": "1-Dec",
-      "closeDisplay": "3-Dec",
-      "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
-      "updatedOn": "23-Nov 13:00"
+      "updatedOn": "23-Nov 17:02"
     },
     {
       "id": "2029",
@@ -466,7 +466,7 @@
       "exchange": "IPO",
       "status": "Closed",
       "gmp": 14,
-      "gmpPercent": 5.33,
+      "gmpPercent": 5.15,
       "price": 272,
       "lot": 55,
       "ipoSize": "₹455.49 Cr",
@@ -476,7 +476,7 @@
       "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
       "closeDisplay": "20-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14.5</b></small>",
       "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "23-Nov 13:02"
+      "updatedOn": "23-Nov 17:02"
     }
   ]
 }
