@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:45:19.123Z",
+  "updatedAt": "2026-11-23T08:01:23.927Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -20,10 +20,15 @@
           "t": "2026-11-22T07:18:07.482Z",
           "gmp": 12,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 12,
+          "gmpPercent": 6.28
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "lastGmpPercent": 6.28,
       "status": "Upcoming"
     },
     "1818": {
@@ -85,11 +90,16 @@
           "t": "2026-11-22T07:18:07.482Z",
           "gmp": 65,
           "gmpPercent": 26.53
+        },
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 40,
+          "gmpPercent": 16.33
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 26.53,
-      "status": "Open"
+      "lastGmpPercent": 16.33,
+      "status": "Closing Today"
     },
     "2029": {
       "name": "Integris Medtech",
@@ -169,6 +179,11 @@
           "t": "2026-11-22T07:18:07.482Z",
           "gmp": 14,
           "gmpPercent": 5.33
+        },
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 14,
+          "gmpPercent": 5.33
         }
       ],
       "alertedAbove": false,
@@ -178,7 +193,37 @@
     "2232": {
       "name": "Monomark Engineering",
       "category": "Mainboard",
-      "close": "",
+      "close": "2026-12-04",
+      "series": [
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 23,
+          "gmpPercent": 0
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 0,
+      "status": "Upcoming"
+    },
+    "2247": {
+      "name": "A J Packaging",
+      "category": "SME",
+      "close": "2026-12-03",
+      "series": [
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 20,
+          "gmpPercent": 11.11
+        }
+      ],
+      "alertedAbove": true,
+      "lastGmpPercent": 11.11,
+      "status": "Upcoming"
+    },
+    "2290": {
+      "name": "Matangi Rubber",
+      "category": "Mainboard",
+      "close": "2026-12-03",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -188,9 +233,15 @@
       "name": "Shree Siddhivinayak Greentech Industries",
       "category": "SME",
       "close": "2026-11-27",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 5,
+          "gmpPercent": 3.52
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 3.52,
       "status": "Upcoming"
     },
     "2401": {
@@ -257,11 +308,16 @@
           "t": "2026-11-22T07:18:07.482Z",
           "gmp": 0,
           "gmpPercent": 0.55
+        },
+        {
+          "t": "2026-11-23T08:01:23.927Z",
+          "gmp": 0,
+          "gmpPercent": 0.29
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.55,
-      "status": "Open"
+      "lastGmpPercent": 0.29,
+      "status": "Closing Today"
     }
   }
 }
