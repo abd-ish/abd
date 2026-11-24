@@ -1,46 +1,8 @@
 {
-  "generatedAt": "2026-11-23T11:51:19.479Z",
+  "generatedAt": "2026-11-24T10:17:09.550Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
-    {
-      "id": "1818",
-      "name": "Watrana Rentals",
-      "category": "SME",
-      "exchange": "NSE SME",
-      "status": "Closing Today",
-      "gmp": 40,
-      "gmpPercent": 16.33,
-      "price": 245,
-      "lot": 600,
-      "ipoSize": "₹120.10 Cr",
-      "open": "2026-11-19",
-      "close": "2026-11-23",
-      "listing": "2026-11-27",
-      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
-      "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
-      "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-      "updatedOn": "23-Nov 17:02"
-    },
-    {
-      "id": "2401",
-      "name": "Mahanadi Coalfields",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Closing Today",
-      "gmp": 0,
-      "gmpPercent": 0.29,
-      "price": 136,
-      "lot": 110,
-      "ipoSize": "₹8981.12 Cr",
-      "open": "2026-11-19",
-      "close": "2026-11-23",
-      "listing": "2026-11-27",
-      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.8</b></small>",
-      "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0.4</b></small>",
-      "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-      "updatedOn": "23-Nov 17:02"
-    },
     {
       "id": "2290",
       "name": "Matangi Rubber",
@@ -48,7 +10,7 @@
       "exchange": "IPO",
       "status": "Upcoming",
       "gmp": 21,
-      "gmpPercent": 12.21,
+      "gmpPercent": 12.5,
       "price": 172,
       "lot": 87,
       "ipoSize": "₹125.16 Cr",
@@ -58,7 +20,7 @@
       "openDisplay": "1-Dec",
       "closeDisplay": "3-Dec",
       "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
     },
     {
       "id": "2247",
@@ -77,7 +39,7 @@
       "openDisplay": "1-Dec",
       "closeDisplay": "3-Dec",
       "url": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
     },
     {
       "id": "1810",
@@ -85,8 +47,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 12,
-      "gmpPercent": 6.28,
+      "gmp": 16,
+      "gmpPercent": 8.38,
       "price": 191,
       "lot": 78,
       "ipoSize": "₹360.76 Cr",
@@ -96,7 +58,7 @@
       "openDisplay": "26-Nov",
       "closeDisplay": "30-Nov",
       "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
     },
     {
       "id": "2349",
@@ -104,8 +66,8 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "Upcoming",
-      "gmp": 5,
-      "gmpPercent": 3.52,
+      "gmp": 10,
+      "gmpPercent": 7.04,
       "price": 142,
       "lot": 1000,
       "ipoSize": "₹93.66 Cr",
@@ -115,7 +77,7 @@
       "openDisplay": "25-Nov",
       "closeDisplay": "27-Nov",
       "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
     },
     {
       "id": "2232",
@@ -134,7 +96,7 @@
       "openDisplay": "2-Dec",
       "closeDisplay": "4-Dec",
       "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
     },
     {
       "id": "2029",
@@ -153,7 +115,26 @@
       "openDisplay": "27-Nov",
       "closeDisplay": "1-Dec",
       "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
-      "updatedOn": "23-Nov 5:55"
+      "updatedOn": "24-Nov 5:55"
+    },
+    {
+      "id": "2316",
+      "name": "Airpro Technology",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Upcoming",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 99,
+      "lot": 1200,
+      "ipoSize": "₹35.64 Cr",
+      "open": "2026-11-27",
+      "close": "2026-12-01",
+      "listing": "2026-12-04",
+      "openDisplay": "27-Nov",
+      "closeDisplay": "1-Dec",
+      "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
+      "updatedOn": "24-Nov 14:54"
     },
     {
       "id": "1965",
@@ -211,25 +192,6 @@
       "closeDisplay": "3-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
       "updatedOn": "6-Nov 9:37"
-    },
-    {
-      "id": "2306",
-      "name": "Jio Platforms",
-      "category": "Mainboard",
-      "exchange": "IPO",
-      "status": "Listed",
-      "gmp": 250,
-      "gmpPercent": 22.34,
-      "price": 1119,
-      "lot": 12,
-      "ipoSize": "₹30187.65 Cr",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "listing": "2026-10-28",
-      "openDisplay": "21-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 246</b></small>",
-      "closeDisplay": "23-Oct<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 250</b></small>",
-      "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
-      "updatedOn": "28-Oct 9:37"
     },
     {
       "id": "1936",
@@ -460,13 +422,32 @@
       "updatedOn": "30-Oct 9:28"
     },
     {
+      "id": "1818",
+      "name": "Watrana Rentals",
+      "category": "SME",
+      "exchange": "NSE SME",
+      "status": "Closed",
+      "gmp": 40,
+      "gmpPercent": 16.33,
+      "price": 245,
+      "lot": 600,
+      "ipoSize": "₹120.10 Cr",
+      "open": "2026-11-19",
+      "close": "2026-11-23",
+      "listing": "2026-11-27",
+      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 67</b></small>",
+      "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 40</b></small>",
+      "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
+      "updatedOn": "24-Nov 15:02"
+    },
+    {
       "id": "2067",
       "name": "Crystal Crop Protection",
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Closed",
-      "gmp": 14,
-      "gmpPercent": 5.15,
+      "gmp": 17,
+      "gmpPercent": 6.25,
       "price": 272,
       "lot": 55,
       "ipoSize": "₹455.49 Cr",
@@ -476,7 +457,26 @@
       "openDisplay": "18-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 18</b></small>",
       "closeDisplay": "20-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 14.5</b></small>",
       "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-      "updatedOn": "23-Nov 17:02"
+      "updatedOn": "24-Nov 15:02"
+    },
+    {
+      "id": "2401",
+      "name": "Mahanadi Coalfields",
+      "category": "Mainboard",
+      "exchange": "IPO",
+      "status": "Closed",
+      "gmp": null,
+      "gmpPercent": null,
+      "price": 136,
+      "lot": 110,
+      "ipoSize": "₹8981.12 Cr",
+      "open": "2026-11-19",
+      "close": "2026-11-23",
+      "listing": "2026-11-27",
+      "openDisplay": "19-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1.8</b></small>",
+      "closeDisplay": "23-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 0</b></small>",
+      "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
+      "updatedOn": "24-Nov 15:02"
     }
   ]
 }
