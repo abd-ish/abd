@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:59:23.191Z",
+  "updatedAt": "2026-11-25T12:10:22.025Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -120,16 +120,21 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 40,
           "gmpPercent": 16.33
+        },
+        {
+          "t": "2026-11-25T12:10:22.025Z",
+          "gmp": 41,
+          "gmpPercent": 16.73
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 16.33,
+      "lastGmpPercent": 16.73,
       "status": "Closed"
     },
     "2029": {
       "name": "Integris Medtech",
       "category": "Mainboard",
-      "close": "2026-12-01",
+      "close": "",
       "series": [],
       "alertedAbove": false,
       "lastGmpPercent": null,
@@ -179,10 +184,15 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 18,
           "gmpPercent": 10
+        },
+        {
+          "t": "2026-11-25T12:10:22.025Z",
+          "gmp": 24,
+          "gmpPercent": 13.33
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 10,
+      "alertedAbove": true,
+      "lastGmpPercent": 13.33,
       "status": "Upcoming"
     },
     "2290": {
@@ -214,9 +224,15 @@
       "name": "Airpro Technology",
       "category": "SME",
       "close": "2026-12-01",
-      "series": [],
+      "series": [
+        {
+          "t": "2026-11-25T12:10:22.025Z",
+          "gmp": 4,
+          "gmpPercent": 4.04
+        }
+      ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 4.04,
       "status": "Upcoming"
     },
     "2349": {
