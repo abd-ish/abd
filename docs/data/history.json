@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:18:28.593Z",
+  "updatedAt": "2026-11-25T08:59:23.191Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -35,10 +35,15 @@
           "t": "2026-11-24T13:18:28.593Z",
           "gmp": 17,
           "gmpPercent": 8.9
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
+          "gmp": 27,
+          "gmpPercent": 14.14
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.9,
+      "alertedAbove": true,
+      "lastGmpPercent": 14.14,
       "status": "Upcoming"
     },
     "1818": {
@@ -110,6 +115,11 @@
           "t": "2026-11-24T10:17:09.550Z",
           "gmp": 40,
           "gmpPercent": 16.33
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
+          "gmp": 40,
+          "gmpPercent": 16.33
         }
       ],
       "alertedAbove": true,
@@ -139,10 +149,15 @@
           "t": "2026-11-24T10:17:09.550Z",
           "gmp": 23,
           "gmpPercent": 0
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
+          "gmp": 21,
+          "gmpPercent": 32.31
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 0,
+      "alertedAbove": true,
+      "lastGmpPercent": 32.31,
       "status": "Upcoming"
     },
     "2247": {
@@ -159,10 +174,15 @@
           "t": "2026-11-24T10:17:09.550Z",
           "gmp": 20,
           "gmpPercent": 11.11
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
+          "gmp": 18,
+          "gmpPercent": 10
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 11.11,
+      "alertedAbove": false,
+      "lastGmpPercent": 10,
       "status": "Upcoming"
     },
     "2290": {
@@ -177,6 +197,11 @@
         },
         {
           "t": "2026-11-24T10:17:09.550Z",
+          "gmp": 21,
+          "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
           "gmp": 21,
           "gmpPercent": 12.5
         }
@@ -208,11 +233,16 @@
           "t": "2026-11-24T10:17:09.550Z",
           "gmp": 10,
           "gmpPercent": 7.04
+        },
+        {
+          "t": "2026-11-25T08:59:23.191Z",
+          "gmp": 20,
+          "gmpPercent": 14.08
         }
       ],
-      "alertedAbove": false,
-      "lastGmpPercent": 7.04,
-      "status": "Upcoming"
+      "alertedAbove": true,
+      "lastGmpPercent": 14.08,
+      "status": "Open"
     },
     "2401": {
       "name": "Mahanadi Coalfields",
