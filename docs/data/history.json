@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:10:22.025Z",
+  "updatedAt": "2026-11-26T08:46:20.158Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -40,11 +40,16 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 27,
           "gmpPercent": 14.14
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 14,
+          "gmpPercent": 7.33
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 14.14,
-      "status": "Upcoming"
+      "alertedAbove": false,
+      "lastGmpPercent": 7.33,
+      "status": "Open"
     },
     "1818": {
       "name": "Watrana Rentals",
@@ -125,10 +130,15 @@
           "t": "2026-11-25T12:10:22.025Z",
           "gmp": 41,
           "gmpPercent": 16.73
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 22,
+          "gmpPercent": 8.98
         }
       ],
-      "alertedAbove": true,
-      "lastGmpPercent": 16.73,
+      "alertedAbove": false,
+      "lastGmpPercent": 8.98,
       "status": "Closed"
     },
     "2029": {
@@ -159,10 +169,15 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 21,
           "gmpPercent": 32.31
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 24,
+          "gmpPercent": 36.92
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 32.31,
+      "lastGmpPercent": 36.92,
       "status": "Upcoming"
     },
     "2247": {
@@ -187,6 +202,11 @@
         },
         {
           "t": "2026-11-25T12:10:22.025Z",
+          "gmp": 24,
+          "gmpPercent": 13.33
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
           "gmp": 24,
           "gmpPercent": 13.33
         }
@@ -214,10 +234,15 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 21,
           "gmpPercent": 12.5
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 27,
+          "gmpPercent": 15.7
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 12.5,
+      "lastGmpPercent": 15.7,
       "status": "Upcoming"
     },
     "2316": {
@@ -229,10 +254,15 @@
           "t": "2026-11-25T12:10:22.025Z",
           "gmp": 4,
           "gmpPercent": 4.04
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 2,
+          "gmpPercent": 2.02
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 4.04,
+      "lastGmpPercent": 2.02,
       "status": "Upcoming"
     },
     "2349": {
@@ -254,10 +284,15 @@
           "t": "2026-11-25T08:59:23.191Z",
           "gmp": 20,
           "gmpPercent": 14.08
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 18,
+          "gmpPercent": 12.68
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 14.08,
+      "lastGmpPercent": 12.68,
       "status": "Open"
     },
     "2401": {
@@ -329,10 +364,15 @@
           "t": "2026-11-23T08:01:23.927Z",
           "gmp": 0,
           "gmpPercent": 0.29
+        },
+        {
+          "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 1,
+          "gmpPercent": 0.74
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": null,
+      "lastGmpPercent": 0.74,
       "status": "Closed"
     }
   }
