@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T11:55:50.596Z",
+  "updatedAt": "2026-11-27T08:57:07.430Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -45,101 +45,16 @@
           "t": "2026-11-26T08:46:20.158Z",
           "gmp": 14,
           "gmpPercent": 7.33
+        },
+        {
+          "t": "2026-11-27T08:57:07.430Z",
+          "gmp": 4,
+          "gmpPercent": 2.09
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 7.33,
+      "lastGmpPercent": 2.09,
       "status": "Open"
-    },
-    "1818": {
-      "name": "Watrana Rentals",
-      "category": "SME",
-      "close": "2026-11-23",
-      "series": [
-        {
-          "t": "2026-11-14T06:54:04.642Z",
-          "gmp": 18,
-          "gmpPercent": 7.35
-        },
-        {
-          "t": "2026-11-15T06:59:37.643Z",
-          "gmp": 22,
-          "gmpPercent": 8.98
-        },
-        {
-          "t": "2026-11-16T07:07:21.774Z",
-          "gmp": 22,
-          "gmpPercent": 8.98
-        },
-        {
-          "t": "2026-11-17T08:19:59.388Z",
-          "gmp": 25,
-          "gmpPercent": 10.2
-        },
-        {
-          "t": "2026-11-18T07:50:54.519Z",
-          "gmp": 25,
-          "gmpPercent": 10.2
-        },
-        {
-          "t": "2026-11-18T11:11:47.466Z",
-          "gmp": 37,
-          "gmpPercent": 15.1
-        },
-        {
-          "t": "2026-11-19T07:46:55.384Z",
-          "gmp": 67,
-          "gmpPercent": 27.35
-        },
-        {
-          "t": "2026-11-20T07:39:09.439Z",
-          "gmp": 67,
-          "gmpPercent": 27.35
-        },
-        {
-          "t": "2026-11-21T07:36:06.473Z",
-          "gmp": 67,
-          "gmpPercent": 27.35
-        },
-        {
-          "t": "2026-11-21T10:40:16.982Z",
-          "gmp": 65,
-          "gmpPercent": 26.53
-        },
-        {
-          "t": "2026-11-22T07:18:07.482Z",
-          "gmp": 65,
-          "gmpPercent": 26.53
-        },
-        {
-          "t": "2026-11-23T08:01:23.927Z",
-          "gmp": 40,
-          "gmpPercent": 16.33
-        },
-        {
-          "t": "2026-11-24T10:17:09.550Z",
-          "gmp": 40,
-          "gmpPercent": 16.33
-        },
-        {
-          "t": "2026-11-25T08:59:23.191Z",
-          "gmp": 40,
-          "gmpPercent": 16.33
-        },
-        {
-          "t": "2026-11-25T12:10:22.025Z",
-          "gmp": 41,
-          "gmpPercent": 16.73
-        },
-        {
-          "t": "2026-11-26T08:46:20.158Z",
-          "gmp": 22,
-          "gmpPercent": 8.98
-        }
-      ],
-      "alertedAbove": false,
-      "lastGmpPercent": 8.98,
-      "status": "Closed"
     },
     "2029": {
       "name": "Integris Medtech",
@@ -174,10 +89,15 @@
           "t": "2026-11-26T08:46:20.158Z",
           "gmp": 24,
           "gmpPercent": 36.92
+        },
+        {
+          "t": "2026-11-27T08:57:07.430Z",
+          "gmp": 20,
+          "gmpPercent": 30.77
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 36.92,
+      "lastGmpPercent": 30.77,
       "status": "Upcoming"
     },
     "2247": {
@@ -207,6 +127,11 @@
         },
         {
           "t": "2026-11-26T08:46:20.158Z",
+          "gmp": 24,
+          "gmpPercent": 13.33
+        },
+        {
+          "t": "2026-11-27T08:57:07.430Z",
           "gmp": 24,
           "gmpPercent": 13.33
         }
@@ -239,10 +164,15 @@
           "t": "2026-11-26T08:46:20.158Z",
           "gmp": 27,
           "gmpPercent": 15.7
+        },
+        {
+          "t": "2026-11-27T08:57:07.430Z",
+          "gmp": 31,
+          "gmpPercent": 18.02
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 15.7,
+      "lastGmpPercent": 18.02,
       "status": "Upcoming"
     },
     "2316": {
@@ -259,10 +189,30 @@
           "t": "2026-11-26T08:46:20.158Z",
           "gmp": 2,
           "gmpPercent": 2.02
+        },
+        {
+          "t": "2026-11-27T08:57:07.430Z",
+          "gmp": 3,
+          "gmpPercent": 3.03
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 2.02,
+      "lastGmpPercent": 3.03,
+      "status": "Open"
+    },
+    "2340": {
+      "name": "Swara Baby Products",
+      "category": "Mainboard",
+      "close": "2026-12-04",
+      "series": [
+        {
+          "t": "2026-11-27T08:57:07.430Z",
+          "gmp": 7,
+          "gmpPercent": 6.31
+        }
+      ],
+      "alertedAbove": false,
+      "lastGmpPercent": 6.31,
       "status": "Upcoming"
     },
     "2349": {
@@ -289,91 +239,25 @@
           "t": "2026-11-26T08:46:20.158Z",
           "gmp": 18,
           "gmpPercent": 12.68
-        }
-      ],
-      "alertedAbove": true,
-      "lastGmpPercent": 12.68,
-      "status": "Open"
-    },
-    "2401": {
-      "name": "Mahanadi Coalfields",
-      "category": "Mainboard",
-      "close": "2026-11-23",
-      "series": [
-        {
-          "t": "2026-11-14T06:54:04.642Z",
-          "gmp": 12,
-          "gmpPercent": 0
         },
         {
-          "t": "2026-11-15T06:59:37.643Z",
-          "gmp": 9,
-          "gmpPercent": 0
-        },
-        {
-          "t": "2026-11-16T07:07:21.774Z",
-          "gmp": 7,
-          "gmpPercent": 5.15
-        },
-        {
-          "t": "2026-11-16T10:41:10.892Z",
-          "gmp": 4,
-          "gmpPercent": 3.31
-        },
-        {
-          "t": "2026-11-17T08:19:59.388Z",
-          "gmp": 4,
-          "gmpPercent": 3.16
-        },
-        {
-          "t": "2026-11-17T11:30:01.203Z",
-          "gmp": 4,
-          "gmpPercent": 2.94
-        },
-        {
-          "t": "2026-11-18T07:50:54.519Z",
-          "gmp": 3,
-          "gmpPercent": 2.5
-        },
-        {
-          "t": "2026-11-19T07:46:55.384Z",
+          "t": "2026-11-27T08:57:07.430Z",
           "gmp": 1,
-          "gmpPercent": 1.1
-        },
-        {
-          "t": "2026-11-20T07:39:09.439Z",
-          "gmp": 1,
-          "gmpPercent": 1.32
-        },
-        {
-          "t": "2026-11-20T10:56:53.150Z",
-          "gmp": 1,
-          "gmpPercent": 0.96
-        },
-        {
-          "t": "2026-11-21T07:36:06.473Z",
-          "gmp": 0,
-          "gmpPercent": 0.51
-        },
-        {
-          "t": "2026-11-22T07:18:07.482Z",
-          "gmp": 0,
-          "gmpPercent": 0.55
-        },
-        {
-          "t": "2026-11-23T08:01:23.927Z",
-          "gmp": 0,
-          "gmpPercent": 0.29
-        },
-        {
-          "t": "2026-11-26T08:46:20.158Z",
-          "gmp": 1,
-          "gmpPercent": 0.74
+          "gmpPercent": 1.06
         }
       ],
       "alertedAbove": false,
-      "lastGmpPercent": 0.74,
-      "status": "Closed"
+      "lastGmpPercent": 1.06,
+      "status": "Closing Today"
+    },
+    "2384": {
+      "name": "Vishwas Refoils & Consumer",
+      "category": "SME",
+      "close": "2026-12-07",
+      "series": [],
+      "alertedAbove": false,
+      "lastGmpPercent": null,
+      "status": "Upcoming"
     }
   }
 }
