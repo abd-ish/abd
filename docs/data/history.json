@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:47:33.002Z",
+  "updatedAt": "2026-11-28T08:17:43.132Z",
   "ipos": {
     "1810": {
       "name": "Foodlink F&B Holdings",
@@ -50,6 +50,11 @@
           "t": "2026-11-27T08:57:07.430Z",
           "gmp": 4,
           "gmpPercent": 2.09
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 4,
+          "gmpPercent": 2.09
         }
       ],
       "alertedAbove": false,
@@ -94,6 +99,11 @@
           "t": "2026-11-27T08:57:07.430Z",
           "gmp": 20,
           "gmpPercent": 30.77
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 20,
+          "gmpPercent": 30.77
         }
       ],
       "alertedAbove": true,
@@ -134,6 +144,11 @@
           "t": "2026-11-27T08:57:07.430Z",
           "gmp": 24,
           "gmpPercent": 13.33
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 24,
+          "gmpPercent": 13.33
         }
       ],
       "alertedAbove": true,
@@ -169,10 +184,15 @@
           "t": "2026-11-27T08:57:07.430Z",
           "gmp": 31,
           "gmpPercent": 18.02
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 30,
+          "gmpPercent": 17.44
         }
       ],
       "alertedAbove": true,
-      "lastGmpPercent": 18.02,
+      "lastGmpPercent": 17.44,
       "status": "Upcoming"
     },
     "2316": {
@@ -194,6 +214,11 @@
           "t": "2026-11-27T08:57:07.430Z",
           "gmp": 3,
           "gmpPercent": 3.03
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 3,
+          "gmpPercent": 3.03
         }
       ],
       "alertedAbove": false,
@@ -212,6 +237,11 @@
         },
         {
           "t": "2026-11-27T11:47:33.002Z",
+          "gmp": 3,
+          "gmpPercent": 2.7
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
           "gmp": 3,
           "gmpPercent": 2.7
         }
@@ -254,11 +284,16 @@
           "t": "2026-11-27T11:47:33.002Z",
           "gmp": 1,
           "gmpPercent": 0.7
+        },
+        {
+          "t": "2026-11-28T08:17:43.132Z",
+          "gmp": 1,
+          "gmpPercent": 0.7
         }
       ],
       "alertedAbove": false,
       "lastGmpPercent": 0.7,
-      "status": "Closing Today"
+      "status": "Closed"
     },
     "2384": {
       "name": "Vishwas Refoils & Consumer",
