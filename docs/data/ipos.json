@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:17:43.132Z",
+  "generatedAt": "2026-11-28T11:23:51.980Z",
   "count": 25,
   "threshold": 10,
   "ipos": [
@@ -20,7 +20,7 @@
       "openDisplay": "27-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 3</b></small>",
       "closeDisplay": "1-Dec",
       "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "1810",
@@ -28,8 +28,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Open",
-      "gmp": 4,
-      "gmpPercent": 2.09,
+      "gmp": 3,
+      "gmpPercent": 1.83,
       "price": 191,
       "lot": 78,
       "ipoSize": "₹360.76 Cr",
@@ -39,7 +39,7 @@
       "openDisplay": "26-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 7</b></small>",
       "closeDisplay": "30-Nov",
       "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "2232",
@@ -58,7 +58,7 @@
       "openDisplay": "2-Dec",
       "closeDisplay": "4-Dec",
       "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "2290",
@@ -77,7 +77,7 @@
       "openDisplay": "1-Dec",
       "closeDisplay": "3-Dec",
       "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "2247",
@@ -96,7 +96,7 @@
       "openDisplay": "1-Dec",
       "closeDisplay": "3-Dec",
       "url": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "2340",
@@ -104,8 +104,8 @@
       "category": "Mainboard",
       "exchange": "IPO",
       "status": "Upcoming",
-      "gmp": 3,
-      "gmpPercent": 2.7,
+      "gmp": 1,
+      "gmpPercent": 1.35,
       "price": 111,
       "lot": 135,
       "ipoSize": "₹799.88 Cr",
@@ -115,7 +115,7 @@
       "openDisplay": "2-Dec",
       "closeDisplay": "4-Dec",
       "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     },
     {
       "id": "2029",
@@ -153,7 +153,7 @@
       "openDisplay": "3-Dec",
       "closeDisplay": "7-Dec",
       "url": "https://www.investorgain.com/gmp/vishwas-refoils-consumer-ipo/2384/",
-      "updatedOn": "28-Nov 12:53"
+      "updatedOn": "28-Nov 16:34"
     },
     {
       "id": "1965",
@@ -476,7 +476,7 @@
       "openDisplay": "25-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 25</b></small>",
       "closeDisplay": "27-Nov<br><small style=\"font-size: 12px; color: #007BFF;\"\"><b>GMP: 1</b></small>",
       "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-      "updatedOn": "28-Nov 13:02"
+      "updatedOn": "28-Nov 16:37"
     }
   ]
 }
